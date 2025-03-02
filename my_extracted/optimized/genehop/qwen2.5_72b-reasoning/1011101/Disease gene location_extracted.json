@@ -1,0 +1,113 @@
+[ // correct:+6 half:0 error:0
+    {
+        "ground_truth": [
+            "Xq22.2"
+        ],
+        "answer": "Answer: \n- A2M (alpha-2-macroglobulin) is located on chromosome 12p13.31.\n- FBXO47 (F-box protein 47) is located on chromosome 19 in Bos taurus (domestic cattle).\n- LOC608016 (similar to Makorin-1) is located on chromosome 28 in Canis lupus familiaris (dog).\n\nNote: The gene FBXO47 and LOC608016 are not human genes, but they were found in the search results. If you need only human genes, please let me know."
+    },
+    {
+        "ground_truth": [
+            "22q11.21",
+            "2p21"
+        ],
+        "answer": "Answer: 1p36.13, 11p13"
+    },
+    {
+        "ground_truth": [
+            "Xq21.1"
+        ],// 1
+        "answer": "Answer: Xq21.1\n\nThe chromosome location of the gene TBX22, which is related to Cleft palate with ankyloglossia, is Xq21.1."
+    },
+    {
+        "ground_truth": [
+            "6q27"
+        ],// 1
+        "answer": "It seems that the response was cut off, but we have enough information to proceed with the chromosome locations of the genes related to \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures.\"\n\nHere are the relevant gene IDs and their chromosome locations:\n\n1. **DLL1 (28514)**\n   - Chromosome: 6\n   - Location: 6q27\n\n2. **SCN1A (6323)**\n   - Chromosome: 2\n   - Location: 2q24.3\n\n3. **SCN2A (6326)**\n   - Chromosome: 2\n   - Location: 2q24.3\n\n4. **TCF4 (6925)**\n   - Chromosome: 18\n   - Location: 18q21.2\n\nAnswer: The chromosome locations of the genes related to \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures\" are:\n- DLL1: 6q27\n- SCN1A: 2q24.3\n- SCN2A: 2q24.3\n- TCF4: 18q21.2"
+    },
+    {
+        "ground_truth": [
+            "6p21.33"
+        ],
+        "answer": "The data provided includes detailed information about the gene `NEU1` (Neuraminidase 1) and its ortholog in mice, `Neu1`. Here's a summary of the key points:\n\n### Human Gene: NEU1 (Gene ID: 4768)\n- **Chromosome:** 6\n- **Location:** 6p21.3\n- **Genomic Coordinates:**\n  - NC_000006.12: 31,862,820 to 31,857,658 (5,163 bp)\n- **Other Assembly Versions:**\n  - NT_113891.3: 3,402,382 to 3,397,218\n  - NT_167244.2: 1,954,362 to 1,949,198\n  - NT_167245.2: 1,105,982 to 1,099,818\n  - NT_167246.2: 1,680,362 to 1,675,198\n  - NT_167247.2: 2,048,902 to 2,043,738\n  - NT_167248.2: 1,187,922 to 1,182,758\n  - NT_167249.2: 1,640,472 to 1,635,308\n\n### Mouse Gene: Neu1 (Gene ID: 18098)\n- **Chromosome:** 17\n- **Location:** 17C3\n- **Genomic Coordinates:**\n  - NC_000083.7: 34,526,575 to 34,531,575 (5,001 bp)\n- **Other Assembly Versions:**\n  - NT_161911.1: 11,526,575 to 11,531,575\n  - NT_161912.1: 11,526,575 to 11,531,575\n\n### Summary of Key Information:\n- **Function:** NEU1 is a lysosomal sialidase that plays a crucial role in the degradation of sialoglycoconjugates. Deficiencies in NEU1 can lead to various lysosomal storage disorders.\n- **Orthologs:**\n  - Human: `NEU1`\n  - Mouse: `Neu1`\n\n### Annotation Releases:\nThe data includes multiple annotation releases, indicating that the gene has been consistently annotated across different versions of the human and mouse genomes. The coordinates provided are for various assembly versions, which helps in tracking changes and updates to the genomic annotations over time.\n\n### Clinical Significance:\n- **Human:** Mutations in `NEU1` can lead to sialidosis, a rare lysosomal storage disorder characterized by neurological symptoms and skeletal abnormalities.\n- **Mouse:** The mouse ortholog `Neu1` is used as a model to study the function and pathology of NEU1 in humans.\n\n### References:\n- NCBI Gene: [NEU1](https://www.ncbi.nlm.nih.gov/gene/4768)\n- NCBI Gene: [Neu1 (mouse)](https://www.ncbi.nlm.nih.gov/gene/18098)\n\nThis summary provides a concise overview of the gene `NEU1` and its mouse ortholog, including their genomic locations, function, and clinical significance."
+    },
+    {
+        "ground_truth": [
+            "20q13.12"
+        ],// 1
+        "answer": "Based on the information retrieved, the gene related to Siddiqi syndrome is **FITM2** (fat storage inducing transmembrane protein 2). Here are the chromosome locations for the genes found:\n\n- **Human FITM2**: Chromosome 20, Location: 20q13.12\n- **Mouse Fitm2**: Chromosome 2, Location: 2 84.29 cM\n\nAnswer: \n- Human FITM2: 20q13.12\n- Mouse Fitm2: 2 84.29 cM"
+    },
+    {
+        "ground_truth": [
+            "2q34"
+        ],
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "22q13.31"
+        ],
+        "answer": "It seems there was a mix-up in the gene symbols and their corresponding chromosome locations for some of the OMIM entries. Let's correct this by focusing on the specific genes associated with each condition:\n\n### Corrected Gene Information\n\n1. **ILFS3 (618641)**\n   - **Gene Symbol:** SLC25A13\n   - **Chromosome Location:** 7q21.3\n\n2. **ILFS1 (615438)**\n   - **Gene Symbol:** SLC25A10\n   - **Chromosome Location:** 18q23\n\n3. **ILFS2 (616483)**\n   - **Gene Symbol:** SLC25A19\n   - **Chromosome Location:** 17q25.3\n\n4. **LFIT (613070)**\n   - **Gene Symbol:** SLC25A12\n   - **Chromosome Location:** 2q31.1\n\n5. **MUL (253250)**\n   - **Gene Symbol:** TRIM37\n   - **Chromosome Location:** 17q25.1\n\n### Summary of Chromosome Locations\n\n- **SLC25A13 (ILFS3):** 7q21.3\n- **SLC25A10 (ILFS1):** 18q23\n- **SLC25A19 (ILFS2):** 17q25.3\n- **SLC25A12 (LFIT):** 2q31.1\n- **TRIM37 (MUL):** 17q25.1\n\nThese are the correct chromosome locations for the genes associated with the specified OMIM entries related to liver failure syndromes and other conditions."
+    },
+    {
+        "ground_truth": [
+            "17q12",
+            "7p15.3",
+            "2q24.1",
+            "6p21.31",
+            "2q36.3",
+            "2q31.3",
+            "7p15.3"
+        ],
+        "answer": "Based on the provided data, here are some of the genes related to Type 1 diabetes mellitus and their chromosome locations:\n\n1. **HNF1A (HNF1 homeobox A)**\n   - Chromosome: 12\n   - Location: 12q24.31\n\n2. **PTPN22 (protein tyrosine phosphatase non-receptor type 22)**\n   - Chromosome: 1\n   - Location: 1p13.2\n\n3. **HNF4A (hepatocyte nuclear factor 4 alpha)**\n   - Chromosome: 20\n   - Location: 20q13.12\n\n4. **GCK (glucokinase)**\n   - Chromosome: 7\n   - Location: 7p13\n\n5. **CTLA4 (cytotoxic T-lymphocyte associated protein 4)**\n   - Chromosome: 2\n   - Location: 2q33.2\n\nThese genes are known to be associated with Type 1 diabetes mellitus and play various roles in the development and regulation of glucose metabolism and immune responses."
+    },
+    {
+        "ground_truth": [
+            "20q13.12"
+        ],
+        "answer": "Based on the provided data, here are the chromosome locations for some of the genes related to vascular malformation:\n\n1. **CDH1 (Cadherin 1)**\n   - Chromosome: 16\n   - Map Location: 16q22.1\n\n2. **NQO1 (NAD(P)H quinone dehydrogenase 1)**\n   - Chromosome: 16\n   - Map Location: 16q22.1\n\n3. **CTCF (CCCTC-binding factor)**\n   - Chromosome: 16\n   - Map Location: 16q22.1\n\n4. **MIR140 (microRNA 140)**\n   - Chromosome: 16\n   - Map Location: 16q22.1\n\n5. **TERF2 (Telomeric repeat binding factor 2)**\n   - Chromosome: 16\n   - Map Location: 16q22.1\n\nThese genes are located on chromosome 16 at the q22.1 region, which is associated with vascular malformation conditions."
+    },
+    {
+        "ground_truth": [
+            "15q22.31",
+            "10q22.1"
+        ],
+        "answer": "Answer: The chromosome location of the gene NCOA4, which is associated with Spinal Muscular Atrophy with Congenital Bone Fractures (SMABF2), is 10q11.22 in humans."
+    },
+    {
+        "ground_truth": [
+            "3p24.2"
+        ],
+        "answer": "Answer:\n- ALAS2: Xp11.21\n- RAG1: 11p13\n- PIK3CD: 1p36.22\n- CD40LG: Xq26.3"
+    },
+    {
+        "ground_truth": [
+            "4p15.2"
+        ], // 1
+        "answer": "Based on the provided data, here are the chromosome locations for the superoxide dismutase (SOD) genes in different species:\n\n### Human:\n- **SOD1 (Superoxide Dismutase 1, Soluble)**: Chromosome 21q22.11\n- **SOD2 (Superoxide Dismutase 2, Mitochondrial)**: Chromosome 6q25.3\n- **SOD3 (Superoxide Dismutase 3, Extracellular)**: Chromosome 4p15.3-p15.2\n\n### Mouse (Mus musculus):\n- **Sod1 (Superoxide Dismutase 1, Soluble)**: Chromosome 16\n- **Sod2 (Superoxide Dismutase 2, Mitochondrial)**: Chromosome 17\n\n### Rat (Rattus norvegicus):\n- **Sod1 (Superoxide Dismutase 1, Soluble)**: Chromosome 11\n- **Sod2 (Superoxide Dismutase 2, Mitochondrial)**: Chromosome 1\n\n### Fruit Fly (Drosophila melanogaster):\n- **Sod1 (Superoxide Dismutase 1, Soluble)**: Chromosome 3L\n- **Sod2 (Superoxide Dismutase 2, Mitochondrial)**: Chromosome 2R\n\n### Yeast (Saccharomyces cerevisiae):\n- **SOD1 (Superoxide Dismutase SOD1)**: Chromosome X\n- **SOD2 (Superoxide Dismutase SOD2)**: Chromosome VIII\n\nThese locations are based on the genomic information provided in the data."
+    },
+    {
+        "ground_truth": [
+            "1p32.3"
+        ],
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "7p15.3"
+        ], // 1
+        "answer": "Answer: The chromosome locations of the genes related to Intracranial hemorrhage in brain cerebrovascular malformations are as follows:\n\n- **PDCD10 (Programmed Cell Death 10)**: 11q13.4\n- **IL6 (Interleukin 6)**: 7p15.3\n- **COL4A1 (Collagen, Type IV, Alpha 1)**: 13q34\n- **ENG (Endoglin)**: 9q34.11"
+    },
+    {
+        "ground_truth": [
+            "4q21.23"
+        ], // 1
+        "answer": "Based on the information retrieved, here are the chromosome locations of the genes related to Multiple System Atrophy (MSA):\n\n- **COQ2** (Coenzyme Q2, polyprenyltransferase): Chromosome 4q21.23\n- **SNCA** (Synuclein alpha): Chromosome 4q22.1\n- **LRRK2** (Leucine-rich repeat kinase 2): Chromosome 12q12\n- **C9orf72** (C9orf72-SMCR8 complex subunit): Chromosome 9p21.2\n\nAnswer: \n- COQ2: 4q21.23\n- SNCA: 4q22.1\n- LRRK2: 12q12\n- C9orf72: 9p21.2"
+    },
+    {
+        "ground_truth": [
+            "10q23.33",
+            "6p21.1"
+        ],
+        "answer": "To find the chromosome locations of genes related to Cone dystrophy from the provided OMIM entries, we need to extract the \"locus\" information for each entry. Here are the relevant chromosome locations:\n\n1. **CONE-ROD DYSTROPHY, X-LINKED, 2; CORDX2 (OMIM ID: 300085)**\n   - Locus: Xq13.1\n\n2. **RETINAL CONE DYSTROPHY 1; RCD1 (OMIM ID: 180020)**\n   - Locus: 11583655 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n3. **CONE-ROD DYSTROPHY 13; CORD13 (OMIM ID: 608194)**\n   - Locus: 13q21.33\n\n4. **CONE-ROD DYSTROPHY 2; CORD2 (OMIM ID: 120970)**\n   - Locus: 19q13.12\n\n5. **CONE-ROD DYSTROPHY 8; CORD8 (OMIM ID: 605549)**\n   - Locus: 11053266 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n6. **CONE-ROD DYSTROPHY 7; CORD7 (OMIM ID: 603649)**\n   - Locus: 601690 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n7. **CONE-ROD DYSTROPHY 19; CORD19 (OMIM ID: 615860)**\n   - Locus: 24791901 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n8. **RETINAL CONE DYSTROPHY 3A; RCD3A (OMIM ID: 610024)**\n   - Locus: 16909397 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n9. **CONE DYSTROPHY 3; COD3 (OMIM ID: 602093)**\n   - Locus: 15790869 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n10. **RETINAL CONE DYSTROPHY 4; RCD4 (OMIM ID: 610478)**\n    - Locus: 17033974 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n11. **CONE-ROD DYSTROPHY, X-LINKED, 1; CORDX1 (OMIM ID: 304020)**\n    - Locus: 11875055 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n12. **MICROCORNEA, ROD-CONE DYSTROPHY, CATARACT, AND POSTERIOR STAPHYLOMA 1; MRCS1 (OMIM ID: 619082)**\n    - Locus: 16458719 (This appears to be an error in the provided data, as it should be a chromosome location. Further verification is needed.)\n\n### Summary of Correct Chromosome Locations:\n- **CORDX2**: Xq13.1\n- **CORD13**: 13q21.33\n- **CORD2**: 19q13.12\n\nFor the entries with incorrect or missing chromosome locations, further verification is required to obtain accurate information."
+    }
+]

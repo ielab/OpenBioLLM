@@ -1,0 +1,42 @@
+[ // correct:10 half:0 error:0
+    {
+        "ground_truth": "chr13",
+        "answer": "Answer: Chromosome 13"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: Chromosome 16"
+    },
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: chromosome 19"
+    },
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: Chromosome 11"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: Chromosome 16"
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: Chromosome 15"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: Chromosome 4"
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: Chromosome 14"
+    },
+    {
+        "ground_truth": "chr1",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: Chromosome 15"
+    }
+]

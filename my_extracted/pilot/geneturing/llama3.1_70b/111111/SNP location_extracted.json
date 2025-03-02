@@ -1,0 +1,42 @@
+[ // correct:0 half:0 error:10
+    {
+        "ground_truth": "chr13",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=rs1430464868\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=545148486\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr19",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=895485955\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr11",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=1376217783\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=1420724913\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "To answer this question, we need to call the esummary API with the SNP database and the id of the SNP.\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=992486373"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=975300764\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=993131098\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr1",
+        "answer": "To answer this question, we need to use the NCBI Web API for SNPs.\n\nFirst, let's call esummary with the SNP id:\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=899883800\n\nThis will return a JSON response containing information about the SNP."
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "To answer this question, we need to call the esummary API with the db=snp and id=rs547832386.\n\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=rs547832386"
+    }
+]

@@ -1,0 +1,42 @@
+[ // correct:1 half:0 error:9
+    {
+        "ground_truth": "chr13",
+        "answer": "Answer: chr2:179500000"
+    }, //0
+    {
+        "ground_truth": "chr16",
+        "answer": "numError"
+    }, //0
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: 17"
+    }, //0
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: X"
+    },//0
+    {
+        "ground_truth": "chr16",
+        "answer": "numError"
+    },//0
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: chr15:89444074"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: chr12:82374774"
+    },//0
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: chr2:174657744"
+    },//0
+    {
+        "ground_truth": "chr1",
+        "answer": "Answer: chr17:42564444"
+    },//0
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: chr1:127967737"
+    }//0
+]

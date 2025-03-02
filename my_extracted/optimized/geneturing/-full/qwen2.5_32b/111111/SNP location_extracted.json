@@ -1,0 +1,202 @@
+[ // correct:47 half:0 error:3
+    {
+        "ground_truth": "chr13",
+        "answer": "Answer: 13"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: 16"
+    },
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: 19"
+    },
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: 11"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: 16"
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: 15"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: 4"
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: 14"
+    },
+    {
+        "ground_truth": "chr1",
+        "answer": "Answer: Chromosome 1"
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: Chromosome 15"
+    },
+    {
+        "ground_truth": "chr22",
+        "answer": "Answer: 22"
+    },
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: 19"
+    },
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: The provided SNP identifier (rs427884) does not return valid results, indicating that either the ID is incorrect or it doesn't exist in the database. Please verify the SNP ID and try again."
+    }, // 0
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: 4"
+    },
+    {
+        "ground_truth": "chr18",
+        "answer": "Answer: 18"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: 4"
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: 14"
+    },
+    {
+        "ground_truth": "chr17",
+        "answer": "Answer: 17"
+    },
+    {
+        "ground_truth": "chr18",
+        "answer": "Answer: 18"
+    },
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: 8"
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: 14"
+    },
+    {
+        "ground_truth": "chr22",
+        "answer": "Answer: 22"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: 4"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: 16"
+    },
+    {
+        "ground_truth": "chr17",
+        "answer": "Answer: 17"
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: 14"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: 4"
+    },
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: 8"
+    },
+    {
+        "ground_truth": "chr22",
+        "answer": "Answer: 22"
+    },
+    {
+        "ground_truth": "chr1",
+        "answer": "Answer: Chromosome 1"
+    },
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: 11"
+    },
+    {
+        "ground_truth": "chr21",
+        "answer": "Answer: 21"
+    },
+    {
+        "ground_truth": "chr10",
+        "answer": "Answer: 10"
+    },
+    {
+        "ground_truth": "chr21",
+        "answer": "Answer: Chromosome 21"
+    },
+    {
+        "ground_truth": "chr3",
+        "answer": "Answer: The provided SNP identifier (rs141272872) is invalid or does not exist in the database, hence no chromosome location can be determined."
+    }, // 0
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: 4"
+    },
+    {
+        "ground_truth": "chr20",
+        "answer": "Answer: 20"
+    },
+    {
+        "ground_truth": "chr21",
+        "answer": "Answer: Chromosome 21"
+    },
+    {
+        "ground_truth": "chr17",
+        "answer": "Answer: 17"
+    },
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: Chromosome 2"
+    },
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: 19"
+    },
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: 15"
+    },
+    {
+        "ground_truth": "chr22",
+        "answer": "Answer: 22"
+    },
+    {
+        "ground_truth": "chr3",
+        "answer": "Answer: 3"
+    },
+    {
+        "ground_truth": "chr5",
+        "answer": "Answer: 5"
+    },
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: The provided SNP identifier (rs139642661) does not exist in the database, so there is no chromosome location information available for this SNP."
+    }, // 0
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: 14"
+    },
+    {
+        "ground_truth": "chr12",
+        "answer": "Answer: 12"
+    },
+    {
+        "ground_truth": "chr9",
+        "answer": "Answer: 9"
+    },
+    {
+        "ground_truth": "chr5",
+        "answer": "Answer: 5"
+    }
+]

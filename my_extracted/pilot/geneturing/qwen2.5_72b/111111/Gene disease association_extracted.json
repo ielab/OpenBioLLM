@@ -1,0 +1,42 @@
+[ // correct:10 half:0 error:0
+    {
+        "ground_truth": "PFKL",
+        "answer": "Answer: PFKL, AK1"
+    },
+    {
+        "ground_truth": "SLC4A1, ATP6V0A4",
+        "answer": "Answer: KCNJ1, ATP6V0A4, ATP6V1B1, SLC4A1, CA2"
+    },
+    {
+        "ground_truth": "GNAS",
+        "answer": "Answer: GNAS, PHP1A, PHP1B, PHP1C"
+    },
+    {
+        "ground_truth": "GNMT",
+        "answer": "Answer: GNMT, GAMT, NMT1"
+    },
+    {
+        "ground_truth": "KRT12, KRT3",
+        "answer": "Answer: KRT12, KRT3"
+    },
+    {
+        "ground_truth": "SGO1",
+        "answer": "Answer: SGOL1, CAID"
+    },
+    {
+        "ground_truth": "BSND",
+        "answer": "Answer: BSND (BARTTIN CLCNK-TYPE ACCESSORY SUBUNIT BETA) is associated with Sensorineural deafness with mild renal dysfunction. However, it's important to note that the condition \"Sensorineural deafness with mild renal dysfunction\" is a broader term and may be associated with multiple genes. The gene BSND is specifically linked to Bartter syndrome type 4A, which includes sensorineural deafness and mild renal dysfunction."
+    },
+    {
+        "ground_truth": "SLC10A2, SLC51B",
+        "answer": "Answer: SLC10A2, SLC51B, CYP7A1, CCK"
+    },
+    {
+        "ground_truth": "LAMTOR2",
+        "answer": "Answer: Clk2, LAMTOR2"
+    },
+    {
+        "ground_truth": "MNX1",
+        "answer": "Answer: MNX1, PCSK5, GDF11"
+    }
+]

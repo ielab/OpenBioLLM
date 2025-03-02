@@ -1,0 +1,202 @@
+[// correct:0 half:0 error:50 
+    {
+        "ground_truth": "FASTKD5",
+        "answer": "Answer: C9orf2"
+    },
+    {
+        "ground_truth": "CFI",
+        "answer": "Answer: CTD-2042H23.1\n\nIt seems there was a misunderstanding in the previous example provided, as the response did not correctly follow the format and contained extraneous information beyond what was needed to answer the question about converting ENSG00000205403 to an official gene symbol.\n\nThe correct process would have involved using NCBI's API to search for the Gene ID associated with the Ensembl ID (ENSG00000205403) and then fetching details of that Gene ID to find its official symbol. However, based on the provided example, it appears there was an error in finding a match for ENSG00000205403 within NCBI's database, leading to an incorrect or incomplete response.\n\nThe correct answer from the given data is \"CTD-2042H23.1\", which is the official symbol associated with the queried Ensembl ID in the example provided, despite the context indicating this was for a different organism (Caenorhabditis elegans) than initially expected based on the Ensembl prefix (which typically suggests human genes)."
+    },
+    {
+        "ground_truth": "SLC12A6",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "TKFC",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "TMEM276",
+        "answer": "Answer: C9orf5"
+    },
+    {
+        "ground_truth": "P2RY14",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "GLCE",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "ADCY6",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "MICU2",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "SEMG2",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "ADGRG3",
+        "answer": "It seems there is a mix-up in the provided information. The question asks to convert `ENSG00000182885` to an official gene symbol, and based on the data retrieved from NCBI:\n\n- **Gene ID**: 79643\n- **Official Symbol**: TTN\n\nTherefore, the correct conversion of `ENSG00000182885` to its official gene symbol is **TTN**. The provided XML and additional information seem to be related to another gene (CHMP6), which does not correspond directly to the query for ENSG00000182885.\n\nSo, the answer is:\n- **Official Gene Symbol**: TTN"
+    },
+    {
+        "ground_truth": "IGLL1",
+        "answer": "Answer: BRCA2"
+    },
+    {
+        "ground_truth": "ZNF500",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "MTG1",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "CIBAR1",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "CST7",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "ABCD3",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "LCA5",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "SLC15A4",
+        "answer": "It appears that the provided text is a partial and somewhat disorganized representation of gene information, possibly derived from NCBI's Entrez system. The initial part of your query was about converting ENSG00000139370 to its official gene symbol.\n\nThe correct answer for ENSG00000139370 is:\n\n**Gene Symbol: TP53**\n\nThis conversion can be verified through NCBI's Gene database or other genomic resources. The provided text seems to contain detailed information about a different gene, possibly related to mRNA and peptide sequences, but it does not directly answer the initial query regarding ENSG00000139370.\n\nIf you need more specific details on TP53 or any further assistance with another gene identifier, feel free to ask!"
+    },
+    {
+        "ground_truth": "ANKK1",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "MAGEA1",
+        "answer": "Answer: CDK6"
+    },
+    {
+        "ground_truth": "ADCYAP1R1",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "NLRP1",
+        "answer": "Answer: CDK2"
+    },
+    {
+        "ground_truth": "HTR7",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "PRKX",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "CCR5",
+        "answer": "Answer: APOE"
+    },
+    {
+        "ground_truth": "KIF26B",
+        "answer": "Answer: BRCA2"
+    },
+    {
+        "ground_truth": "DIAPH2",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "TNFSF4",
+        "answer": "Answer: BRCA2"
+    },
+    {
+        "ground_truth": "TMUB2",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "AJUBA",
+        "answer": "Answer: BRCA2"
+    },
+    {
+        "ground_truth": "THOP1",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "FAM47E",
+        "answer": "Answer: APOE"
+    },
+    {
+        "ground_truth": "MYO6",
+        "answer": "It appears that the provided text is a partial representation of gene and transcript information, likely extracted from a database like NCBI's Entrez Gene. The data includes details about mRNA transcripts and their corresponding protein products for a specific gene. However, the text seems to be cut off mid-sentence with \"str]\", suggesting there might be more information that wasn't included.\n\nThe provided information covers several transcript variants of what appears to be the BRCA2 gene (based on the initial query), but then switches to details about the GLRB gene towards the end. This switch could be due to an error in data retrieval or a mistake in how the data was presented.\n\nHere's a summary of the key points from the provided text:\n\n1. **Gene Information**:\n   - The BRCA2 gene is mentioned initially, but the detailed information switches to GLRB (glycine receptor beta).\n   - GLRB is located on chromosome 4q32.1 and encodes for the glycine receptor beta subunit.\n\n2. **Transcript Variants**:\n   - Multiple mRNA transcript variants are listed for GLRB, including \"transcript variant 1\", \"transcript variant 3\", \"transcript variant X2\", \"transcript variant 2\", and \"transcript variant X3\".\n   - Each transcript has specific genomic coordinates indicating where the exons (coding regions) lie on chromosome 4.\n\n3. **Protein Products**:\n   - For each mRNA transcript, there is a corresponding protein product listed.\n   - The proteins are named according to their isoforms and have accession numbers from databases like CCDS (Consensus Coding Sequence Database).\n\nIf you need more specific information or further details about any of these transcripts or the GLRB gene itself, please let me know!"
+    },
+    {
+        "ground_truth": "PRR9",
+        "answer": "Answer: CTD-2037L19.1"
+    },
+    {
+        "ground_truth": "FLRT1",
+        "answer": "Answer: BRCA2"
+    },
+    {
+        "ground_truth": "IDS",
+        "answer": "Answer: APOE"
+    },
+    {
+        "ground_truth": "CHST15",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "FBXO46",
+        "answer": "Based on the provided information and the steps taken to query NCBI's databases, we can conclude that the Ensembl gene identifier ENSG00000177051 corresponds to the official gene symbol **TP53**.\n\nThe process involved searching for the gene ID associated with this Ensembl identifier using NCBI Web APIs. Initially, there was an issue due to a mismatch in how the identifier was being searched. However, by directly searching for \"ENSG00000177051\" within the Gene database without specifying it as [geneid], we were able to retrieve the correct gene ID (7157). Subsequently, fetching details of this gene from NCBI's Gene database confirmed that ENSG00000177051 is indeed associated with the TP53 gene.\n\nThe TP53 gene encodes a tumor suppressor protein known as p53 and plays a critical role in regulating cell cycle arrest, apoptosis, senescence, DNA repair, or changes in metabolism. Mutations in this gene are linked to various human cancers, including hereditary forms such as Li-Fraumeni syndrome.\n\nThis information is consistent with the provided data, which includes details about TP53's location on chromosome 17p13.1 and its involvement in tumor suppression mechanisms."
+    },
+    {
+        "ground_truth": "SPTLC3",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "EGR1",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "ZNF280A",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "TEKT5",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "ZNF404",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "JMJD7-PLA2G4B",
+        "answer": "Answer: TTN"
+    },
+    {
+        "ground_truth": "ATP6V0C",
+        "answer": "Answer: TP53"
+    },
+    {
+        "ground_truth": "PNMA2",
+        "answer": "Answer: CTD-2406L19.1"
+    },
+    {
+        "ground_truth": "TMIGD2",
+        "answer": "Answer: BRCA1"
+    },
+    {
+        "ground_truth": "ZNF487",
+        "answer": "Answer: CTD-2346H23.1"
+    },
+    {
+        "ground_truth": "EMILIN2",
+        "answer": "Answer: TP53"
+    }
+]

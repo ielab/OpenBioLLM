@@ -1,0 +1,208 @@
+[ // correct:44 half:0 error:6
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae S288C"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Mus musculus"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "It appears that the provided HTML content is a partial view of an NCBI BLAST (Basic Local Alignment Search Tool) results page. The page indicates that a BLAST job with Request ID `S142A9PA013` is currently in progress and waiting for completion.\n\nHere are some key points from the HTML:\n\n- **Job Status**: The status of the job is \"Searching,\" indicating that the BLAST search has not yet completed.\n  \n- **Request Details**:\n  - Request ID: `S142A9PA013`\n  - Submitted at: Thu Jan 09 22:13:14 2025\n  - Current time: Thu Jan 09 22:14:53 2025 (as of the last update)\n  - Time since submission: 00:01:38\n\n- **Automatic Refresh**: The page will automatically refresh every 2 seconds to check for updates on the job status.\n\n- **Navigation and Links**:\n  - There are links provided in the header and footer sections that allow users to navigate to other NCBI resources, such as MyNCBI Dashboard, Publications, Account Settings, etc.\n  \n- **Footer**: The page includes social media icons linking to NCBI's Twitter, Facebook, LinkedIn, GitHub, and Blog pages.\n\nIf you need more specific information or have a particular question about the BLAST job status or any other details from this HTML content, please let me know!"
+    },
+    // 0
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio (Zebrafish)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae N85"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (Wild Turkey)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Human (Homo sapiens)"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (Wild Turkey)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "The DNA sequence provided aligns best with sequences from Mus musculus, commonly known as the house mouse. The top hit is to a BAC clone from chromosome 9 of Mus musculus, indicating that this sequence likely originates from or has high similarity to genomic regions in mice."
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found in the database for this DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio (zebrafish)"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: No significant similarity found."
+    },
+    // 0
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found."
+    },
+    // 0
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: No significant similarity found in the database for this DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae S288C"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Mus musculus"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio (zebrafish)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: No significant similarity found in the database for the given DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio (Zebrafish)"
+    }
+]

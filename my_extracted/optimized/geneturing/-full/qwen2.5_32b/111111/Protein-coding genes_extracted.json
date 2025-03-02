@@ -1,0 +1,202 @@
+[ // correct:50 half:0 error:0
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, ATP5F1EP2 is not a protein-coding gene; it is an ATP synthase F1 subunit epsilon pseudogene 2."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124907753 is not described as a protein-coding gene; it is listed as \"uncharacterized\"."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, AMD1P4 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NODAL is a protein-coding gene. The human NODAL gene (Gene ID: 4838) encodes the nodal growth differentiation factor, which is involved in transforming growth factor beta superfamily signaling."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR4436B2 is not a protein-coding gene; it is a microRNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NAXE is a protein-coding gene. The summary indicates that it encodes the NAD(P)HX epimerase protein and interacts with apolipoprotein A-I (apoA-I), suggesting its involvement in metabolic processes related to lipoproteins."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124909477 is not described as a protein-coding gene; it is listed as \"uncharacterized\"."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC01560 is not a protein-coding gene; it is a long intergenic non-protein coding RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, UCKL1-AS1 is not a protein-coding gene. It is designated as a non-protein coding RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR6843 is not a protein-coding gene; it is a microRNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL7AP58 is not a protein-coding gene; it is a ribosomal protein L7a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SERF2 is a protein-coding gene. The information provided indicates that it encodes the small EDRK-rich factor 2 in various species including humans (Homo sapiens), with the official symbol SERF2 and GeneID 10169. This designation typically implies that the gene codes for a protein product."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124907937 is not annotated as a protein-coding gene; it is described as an uncharacterized gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-1193P is not a protein-coding gene; it is an RNA, U6 small nuclear pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124903168 is not described as a protein-coding gene; it is listed as \"uncharacterized\"."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HMGB1P9 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100420990 is not a protein-coding gene; it is an aurora kinase A interacting protein 1 pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-1212P is not a protein-coding gene; it is an RNA, U6 small nuclear pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CPVL-AS2 is not a protein-coding gene. It is an antisense RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NPFFR1 is a protein-coding gene. The information from the human entry (Gene ID: 64106) indicates that it encodes the neuropeptide FF receptor 1, which is a G-protein coupled receptor, suggesting it is indeed a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CYP4F10P is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, FANCG is a protein-coding gene. The information provided indicates that it encodes the Fanconi anemia group G protein in humans and has homologs in other species, all of which are associated with similar functions related to DNA repair and the Fanconi anemia pathway."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CMKLR2 is a protein-coding gene. The information provided indicates that it encodes the chemerin chemokine-like receptor 2 in various species including humans (Homo sapiens)."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, SSBP3-AS1 is not a protein-coding gene. It is an antisense RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100419835 is not a protein-coding gene; it is a zinc finger protein 160 pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU7-171P is not a protein-coding gene; it is an RNA, U7 small nuclear pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL34P34 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100526841 is not a protein-coding gene; it is described as a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, TTLL1 is a protein-coding gene. The human gene TTLL1 (Gene ID: 25809) encodes the TTL family tubulin polyglutamylase complex subunit L1, which is involved in modifying tubulin proteins."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CORO1A-AS1 is not a protein-coding gene. It is an antisense RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SPARC is a protein-coding gene. The information from the human entry (Gene ID: 6678) indicates that it encodes for \"secreted protein acidic and cysteine rich,\" which is a clear indication of its role as a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100129457 is not a protein-coding gene; it is described as a \"coiled-coil domain containing 86 pseudogene.\""
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HOTAIR is not a protein-coding gene. It functions through an RNA product and serves as a scaffold to assemble epigenetic regulators at the HOXD gene cluster, promoting their repression."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CAAP1 is a protein-coding gene. The information from the NCBI Gene database indicates that it encodes for \"caspase activity and apoptosis inhibitor 1\" in various species including humans (Homo sapiens), with an official symbol of CAAP1. This suggests that it is indeed involved in coding for a specific protein function related to caspase activity inhibition and anti-apoptotic processes."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, PIGCP1 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SPOP is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-746P is not a protein-coding gene; it is an RNA, U6 small nuclear 746 pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, POLE4P1 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL31P19 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, FBXO3-DT is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, DNAJB6P2 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC02865 is not a protein-coding gene; it is a long intergenic non-protein coding RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, AFF1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, PWWP2A is a protein-coding gene. The human version of the gene (Gene ID: 114825) has an official symbol of PWWP2A and is designated as \"PWWP domain-containing protein 2A,\" indicating it encodes for a protein with a PWWP domain."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC105369759 is not annotated as a protein-coding gene; it is described as \"uncharacterized.\""
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, B3GAT1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR22HG is not a protein-coding gene. It is designated as a non-protein coding gene in the provided information."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CGGBP1 is a protein-coding gene. The information provided indicates that it encodes the CGG triplet repeat binding protein 1 in various species including humans (Homo sapiens)."
+    }
+]

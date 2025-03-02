@@ -1,0 +1,252 @@
+[ // correct:0 half:39 error:11
+    {
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "Answer: chr15:92493309-92494181"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "Answer: chr8:106662360-106665024"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "Answer: chr10:89950447-89950482"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "Answer: chr15:92493309-92493436"
+    },
+    // 0
+    {
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "Answer: chr17:40850807-40850943"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "Answer: chr6:30084-30220"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "Answer: chr22:48029167-48029316"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "Answer: chr21:306235-306118 (- strand)"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "Answer: chr21:3807527-3807627"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "Answer: chr18:38671627-38671737"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr1:234883857-234883957",
+        "answer": "The provided BLAST results indicate that the query sequence aligns perfectly with several regions in the human genome, all located on chromosome 15. Specifically:\n\n- The alignment to `NG_132175.1` shows a perfect match from positions 827 to 954.\n- This region corresponds to coordinates `chr15:92493309-92493436`.\n\nTherefore, the genomic location of your query sequence in the human genome is:\n\n**chr15:92493309-92493436**\n\nThis region is part of a known enhancer element on chromosome 15."
+    },
+    // 0
+    {
+        "ground_truth": "chr10:96583669-96583777",
+        "answer": "Answer: chr15:92493309-92493387"
+    },
+    // 0
+    {
+        "ground_truth": "chr7:124923900-124924043",
+        "answer": "Answer: chr7:55086311-55086454"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr14:65272135-65272273",
+        "answer": "Answer: chr14:108077771-108077799"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:158890075-158890221",
+        "answer": "Answer: chr15:92493309-92494181"
+    },
+    // 0
+    {
+        "ground_truth": "chr18:45026043-45026168",
+        "answer": "Answer: chr18:42596008-42596133"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr3:156536294-156536419",
+        "answer": "Answer: chr3:420747-420872"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr19:32322319-32322449",
+        "answer": "Answer: chr19:32753225-32753355"
+    },
+    // 0.5
+    {
+        "ground_truth": "chrX:71742848-71742983",
+        "answer": "Answer: chrX:154808055-154808180"
+    },
+    // 0.5
+    {
+        "ground_truth": "chrX:98833089-98833232",
+        "answer": "Answer: chrX:108450805-108450948"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr22:18817258-18817377",
+        "answer": "Answer: chr1:33518-33578"
+    },
+    // 0
+    {
+        "ground_truth": "chr16:23611895-23612018",
+        "answer": "Answer: chr16:23563216-23563339"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr21:12702345-12702461",
+        "answer": "Answer: chr21:3080-3196"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:163903884-163904010",
+        "answer": "Answer: chr6:158084033-158084160"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr18:54462342-54462470",
+        "answer": "Answer: chr18:70305-70425"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr2:34350870-34351005",
+        "answer": "Answer: chr2:220897197-220897332"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:32588819-32588940",
+        "answer": "Answer: chr7:8095083-8095204"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr14:83950330-83950463",
+        "answer": "Answer: chr14:65416674-65416807"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr11:37515333-37515467",
+        "answer": "Answer: chr11:65427-65486"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr19:23003880-23004012",
+        "answer": "The BLAST search results indicate that the query sequence has significant matches to several genomic regions, primarily on chromosome 19. Here are some key points from the analysis:\n\n### Summary of Matches:\n- **Top Hits:**\n  - The top hits have a high percentage identity (85% to 87%) and cover most of the query sequence.\n  - Most alignments show minor gaps or mismatches, indicating that the query sequence is highly conserved in these regions.\n\n- **Chromosome Location:**\n  - All significant matches are located on chromosome 19. This suggests that the query sequence likely originates from this chromosome.\n\n### Detailed Matches:\n1. **AC026435.7 (chr19):**\n   - **Identity:** 87%\n   - **Alignment Length:** ~130 bp\n   - **Gaps/Mismatches:** Minor gaps and mismatches\n\n2. **AL645450.1 (chr19):**\n   - **Identity:** 87%\n   - **Alignment Length:** ~130 bp\n   - **Gaps/Mismatches:** Minor gaps and mismatches\n\n3. **AC026435.7 (chr19):**\n   - **Identity:** 87%\n   - **Alignment Length:** ~130 bp\n   - **Gaps/Mismatches:** Minor gaps and mismatches\n\n### Specific Matches:\n- The query sequence aligns well with several regions on chromosome 19, indicating that it is part of a conserved region.\n- Some matches show slight variations in the nucleotide sequences but still maintain high identity scores.\n\n### Conclusion:\nThe BLAST results strongly suggest that the query sequence is located on **chromosome 19**. The high percentage identities and alignment lengths indicate that this sequence is highly conserved within these regions of chromosome 19.\n\nIf you need to pinpoint a specific location or further analyze the context, you can use the provided coordinates from the BLAST results to explore the genomic region in more detail using tools like UCSC Genome Browser or Ensembl."
+    },
+    // 0.5
+    {
+        "ground_truth": "chr8:141523256-141523379",
+        "answer": "Answer: chr8:38039684-38039807"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr9:22210568-22210684",
+        "answer": "Answer: chr9:10847244-10847360"
+    },
+    // 0.5
+    {
+        "ground_truth": "chrX:96520716-96520841",
+        "answer": "Answer: chrX:150844441-150844566"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr20:57571370-57571508",
+        "answer": "Answer: chr15:92493309-92494181"
+    },
+    // 0
+    {
+        "ground_truth": "chr17:9557107-9557213",
+        "answer": "Answer: chr17:4605669-4605775"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr1:189568643-189568756",
+        "answer": "Answer: chr1:208608579-208608692"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr19:41724898-41725009",
+        "answer": "Answer: chr19:42168818-42168929"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:119363354-119363488",
+        "answer": "Answer: chr6:148050855-148050889"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr16:3779892-3780028",
+        "answer": "Answer: chr16:30854287-30854413"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr2:93063432-93063557",
+        "answer": "Answer: chr12:111033-111158\n\nThe provided BLAST output indicates multiple alignments with high similarity scores, but the most precise match for the query sequence is on chromosome 12 at positions 111033 to 111158. This alignment has no gaps and a very high identity score (98%), making it the best match among those listed."
+    },
+    // 0
+    {
+        "ground_truth": "chr19:19162638-19162779",
+        "answer": "Answer: chr15:82494035-82494162"
+    },
+    // 0
+    {
+        "ground_truth": "chr9:8591402-8591503",
+        "answer": "Answer: chr9:135084952-135084851"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:20935508-20935649",
+        "answer": "Answer: chr6:406052-406193"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr1:20486790-20486921",
+        "answer": "Answer: chr1:8597-8728"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr14:99402298-99402438",
+        "answer": "Answer: chr14:80868635-80868775"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr20:29228714-29228833",
+        "answer": "Answer: chr4:78550-78669"
+    },
+    // 0
+    {
+        "ground_truth": "chr10:121721897-121722042",
+        "answer": "Answer: chr15:92493309-92494181"
+    },
+    // 0
+    {
+        "ground_truth": "chr10:8432390-8432526",
+        "answer": "Answer: chr10:104209-104345"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr2:132111535-132111654",
+        "answer": "Answer: chr9:133088899-133088918"
+    },
+    // 0
+    {
+        "ground_truth": "chr20:34383091-34383229",
+        "answer": "Answer: chr20:24836-24974"
+    }
+    // 0.5
+]

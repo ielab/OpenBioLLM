@@ -1,0 +1,379 @@
+[ // correct:8 half:4 error:38
+    {
+        "ground_truth": [
+            "21q22.3"
+        ],
+        // 1
+        "answer": "Answer: The chromosome location of the gene **PFKL** (Phosphofructokinase, liver type) associated with Hemolytic anemia due to phosphofructokinase deficiency is **21q22.3**."
+    },
+    {
+        "ground_truth": [
+            "17q21.31",
+            "7q34"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Distal renal tubular acidosis are as follows:\n\n- KCNJ1 (*600359): No specific location provided.\n- ATP6V0A4 (*605239): No specific location provided.\n- ATP6V1B1 (*192132): No specific location provided.\n- SLC4A1 (+109270): Chromosome 17 (11155072)\n- CA2 (*611492): Chromosome 8 (11928091)\n\nPlease note that some of the OMIM entries do not provide specific chromosome locations for the genes associated with Distal renal tubular acidosis."
+    },
+    {
+        "ground_truth": [
+            "20q13.32"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Pseudohypoparathyroidism Ic are as follows:\n\n- GNAS (GNAS COMPLEX LOCUS): Chromosome 20 (based on the Locus information provided, though the exact location is not specified in the summary)\n- PHP1B (PSEUDOHYPOPARATHYROIDISM, TYPE IB): Chromosome 1p36\n- The other OMIM entries found are for syndromes or conditions rather than specific genes and do not provide chromosome locations."
+    },
+    {
+        "ground_truth": [
+            "6p21.1"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Glycine N-methyltransferase deficiency are as follows:\n- GNMT (Glycine N-Methyltransferase): 19212411\n- GAMT (Guanidinoacetate Methyltransferase): 18q12.2-q12.3\n\nNote: The OMIM entries indicate that the primary gene associated with Glycine N-methyltransferase deficiency is GNMT, located at chromosome position 19212411. GAMT is related to a different metabolic disorder but was included in the search results due to the term \"methyltransferase\" and its involvement in similar biochemical pathways. The other entries do not directly relate to Glycine N-methyltransferase deficiency based on their OMIM titles and descriptions."
+    },
+    {
+        "ground_truth": [
+            "17q21.2",
+            "12q13.13"
+        ],
+        // 0
+        "answer": "It seems that the response from the API call for gene information on KRT12 and KRT3 was cut off, making it difficult to extract specific chromosome location details directly. However, based on previous calls and typical genomic data, we can summarize the chromosome locations of genes related to Meesmann corneal dystrophy as follows:\n\n- **KRT12**: Located on chromosome 17q21.31.\n- **KRT3**: Also located on chromosome 17q21.31.\n\nThese locations are consistent with the information provided in earlier API responses and typical genomic databases.\n\nAnswer: The genes related to Meesmann corneal dystrophy, KRT12 and KRT3, are both located on chromosome 17q21.31."
+    },
+    {
+        "ground_truth": [
+            "3p24.3"
+        ],
+        // 1
+        "answer": "Answer: The gene related to Chronic Atrial and Intestinal Dysrhythmia (CAID) is SGOL1, located on chromosome 3p24.3."
+    },
+    {
+        "ground_truth": [
+            "1p32.3"
+        ],
+        // 0
+        "answer": "Based on the provided information, we can identify several genes related to sensorineural deafness with mild renal dysfunction and their chromosome locations:\n\n1. **GJB2 (GeneID: 2706)**\n   - Chromosome Location: 13q12.11\n\nThe other OMIM entries did not provide direct gene associations or the searches for specific conditions like BARTS4A, ARCS1, and DFNA80 did not return any relevant gene IDs from the Gene database.\n\nTherefore, based on the available data, **GJB2** is a gene associated with sensorineural deafness that has been identified. However, it's important to note that the specific condition of \"sensorineural deafness with mild renal dysfunction\" may involve other genes not directly listed in these searches or require further investigation into the OMIM entries and their associated literature for more comprehensive information."
+    },
+    {
+        "ground_truth": [
+            "13q33.1",
+            "15q22.31"
+        ],
+        // 0
+        "answer": "Answer: SLC10A2 (Chr 18), CYP7A1 (Chr 8), AMACR (Chr 5p15.33), CCK (Chr 6q24-q25), and SLC51B (Chr 15q15.1) are genes related to Bile acid malabsorption, and their chromosome locations have been listed accordingly."
+    },
+    {
+        "ground_truth": [
+            "1q22"
+        ],
+        // 0
+        "answer": "Answer: The gene related to \"Immunodeficiency due to defect in MAPBP-interacting protein\" is LAMTOR2, which is located at chromosome position 11266467. However, the OMIM entry does not provide a specific chromosomal location format (e.g., chromosome number and band). The provided locus information might be an internal identifier or a genomic coordinate that requires further interpretation to determine the exact chromosome location in a standard format. Based on the available data, we can conclude that LAMTOR2 is associated with this condition but would need additional resources for precise chromosomal localization details."
+    },
+    {
+        "ground_truth": [
+            "7q36.3"
+        ],
+        // 0
+        "answer": "Answer: The gene associated with Currarino syndrome is MNX1 (Motor Neuron and Pancreas Homeobox 1), located on chromosome 5 in humans. The provided information from the mouse gene entry suggests that its human ortholog, which is implicated in Currarino syndrome, would be expected to have a similar chromosomal location. Therefore, the chromosome location of the gene related to Currarino syndrome is **chromosome 5**."
+    },
+    {
+        "ground_truth": [
+            "20q13.33"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Intervertebral disc disease are as follows:\n\n- COL9A3 (GeneID: 120270): Chromosome location is 39730604.\n- CILP (GeneID: 603489): Chromosome location is 603988.\n\nNote that not all OMIM entries returned genes directly related to intervertebral disc disease, and some did not provide specific gene information or chromosome locations. The two provided above are the ones with clear associations and chromosome locations available from the search results."
+    },
+    {
+        "ground_truth": [
+            "8q13.3",
+            "20p11.22"
+        ],
+        // 0
+        "answer": "Answer: The chromosome location of the gene PAX1, which is related to Otofaciocervical syndrome, is **Chromosome 20; Location: 20q13.12**. \n\n(Note: There was an error in the previous retrieval where PAX6 information was provided instead of PAX1. The correct chromosome location for PAX1 is Chromosome 20.)"
+    },
+    {
+        "ground_truth": [
+            "16p11.2"
+        ],
+        // 0
+        "answer": "Answer: ATP2A1\n\nThe gene associated with Brody myopathy is **ATP2A1**, which is located at chromosome position 28825625. Note that the other entries retrieved do not directly relate to Brody myopathy based on the information provided by OMIM, and thus are not considered in this answer."
+    },
+    {
+        "ground_truth": [
+            "Xq22.2"
+        ],
+        // 0
+        "answer": "Answer: The genes related to Neurodevelopmental disorder with gait disturbance and their chromosome locations are as follows:\n\n- GRIA4 (GLUTAMATE RECEPTOR, IONOTROPIC, AMPA 4): Chromosome location is not directly provided in the OMIM summary but based on other sources it is located on chromosome 15.\n- PLAA (PHOSPHOLIPASE A2-ACTIVATING PROTEIN): Located on chromosome 10 at position q23.31.\n\nThe other entries found are syndromes or disorders rather than specific genes, and thus do not have a direct chromosome location associated with them in the provided information."
+    },
+    {
+        "ground_truth": [
+            "15q26.1"
+        ],
+        // 0
+        "answer": "Answer: The gene associated with Mitochondrial DNA depletion syndrome 4A Alpers type is POLG, which is located on chromosome 16 at position 19465903."
+    },
+    {
+        "ground_truth": [
+            "1q31.3"
+        ],
+        // 1
+        "answer": "Answer: The chromosome location of the gene CFHR5, which is related to Nephropathy due to CFHR5 deficiency, is 1q31.3."
+    },
+    {
+        "ground_truth": [
+            "2q11.2",
+            "8q21.3",
+            "1p13.3",
+            "12p12.3",
+            "1q23.3"
+        ],
+        // 0
+        "answer": "The chromosome locations of the genes related to Achromatopsia are as follows:\n\n- **GNAT2**: Located on chromosome 17 at q25.3.\n- **PDE6H**: Located on the X chromosome at p11.4-p11.3.\n- **CNGB3**: Located on chromosome 2 at q14.1-q14.2.\n- **CNGA3**: Also located on chromosome 2 at q14.1-q14.2.\n\nThese genes are associated with different forms of Achromatopsia, a condition characterized by the absence of color vision."
+    },
+    {
+        "ground_truth": [
+            "11q23.1",
+            "14q22.2",
+            "4p15.32",
+            "10q22.1",
+            "10q21.3",
+            "12q23.2"
+        ],
+        // 0
+        "answer": "It appears that the gene IDs 604825 and 261600 did not return valid summaries, likely because they are OMIM entries rather than direct gene identifiers. However, we can identify the chromosome locations for the genes PTS (Gene ID: 612719) and QDPR (Gene ID: 612676).\n\nBased on the information retrieved:\n\n- **PTS (6-PYRUVOYL-TETRAHYDROPTERIN SYNTHASE)** is located on chromosome 11.\n- **QDPR (QUINOID DIHYDROPTERIDINE REDUCTASE)** is located on chromosome 6.\n\nAnswer: PTS is located on chromosome 11, and QDPR is located on chromosome 6."
+    },
+    {
+        "ground_truth": [
+            "15q25.1"
+        ],
+        // 1
+        "answer": "Answer: The gene related to EDICT syndrome is MIR184, and its chromosome location is 15q25.1."
+    },
+    {
+        "ground_truth": [
+            "22q11.21",
+            "2p21"
+        ],
+        // 0
+        "answer": "From the provided information, we have identified that GASTROINTESTINAL DEFECTS AND IMMUNODEFICIENCY SYNDROME 1 (GIDID1) is associated with OMIM ID: 243150. This condition is linked to the gene VPS26B on chromosome 5 in dogs, as indicated by the Gene database entry for GeneID: 607442.\n\nHowever, it's important to note that this information pertains to the canine genome (Canis lupus familiaris). For human genes related to Gastrointestinal defects and immunodeficiency syndrome, we would need to further investigate other OMIM entries or directly search for human gene associations. The provided data does not contain direct chromosome locations for human genes associated with these conditions.\n\nTo summarize:\n- **Gene**: VPS26B\n- **Chromosome (Canine)**: 5\n\nFor a comprehensive answer regarding human genes and their chromosome locations related to Gastrointestinal defects and immunodeficiency syndrome, additional searches in the Gene database or OMIM for human-specific entries would be necessary."
+    },
+    {
+        "ground_truth": [
+            "Xq21.1"
+        ],
+        // 1
+        "answer": "Answer: The chromosome location of the gene TBX22, which is associated with Cleft palate with ankyloglossia, is Xq21.1. This information was obtained from querying the NCBI Gene database for the gene TBX22 after identifying it as a relevant gene in OMIM entries related to cleft palate conditions."
+    },
+    {
+        "ground_truth": [
+            "6q27"
+        ],
+        // 0
+        "answer": "Answer: The OMIM entries found do not directly provide gene information or chromosome locations for the genes related to \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures\". The search results are primarily descriptive of conditions rather than specific genetic loci. To find the chromosome locations, we would need more specific terms that link to known genes associated with these disorders. Without additional information linking specific genes to these OMIM entries, it's not possible to provide chromosome locations directly from this data."
+    },
+    {
+        "ground_truth": [
+            "3p14.3"
+        ],
+        // 0
+        "answer": "Answer: The genes related to Spondylocarpotarsal synostosis syndrome and their chromosome locations are:\n- FLNB (Filamin B): Chromosome 3, Location: 17360453\n- MYH3 (Myosin, heavy chain 3, skeletal muscle, embryonic): Chromosome 19, Location: 611418\n\nNote that the OMIM entries for SCT and CPSFS syndromes provide locus information but do not directly indicate genes. The relevant genes identified are FLNB and MYH3 based on their association with related conditions."
+    },
+    {
+        "ground_truth": [
+            "11q14.2"
+        ],
+        // half 0.5
+        "answer": "Answer: CTSC\n\nThe gene associated with Haim-Munk syndrome is **CTSC** (Cathepsin C), which is located on chromosome 11 at position q14.3, as indicated by the Locus field in the OMIM summary for the gene ID 602365."
+    },
+    {
+        "ground_truth": [
+            "6p21.33"
+        ],
+        // 1
+        "answer": "Answer: The chromosome locations of the genes related to Sialidosis are as follows:\n\n- NEU1 (Neuraminidase 1): Chromosome 6p21.33\n\nThe provided information does not contain specific chromosome location details for other genes such as SLC44A4 and LAMP1 in relation to Sialidosis, so the answer is based on the available data for NEU1."
+    },
+    {
+        "ground_truth": [
+            "20q13.12"
+        ],
+        // 1
+        "answer": "Answer: The gene related to Siddiqi syndrome is FITM2, and its chromosome location is 20q13.12."
+    },
+    {
+        "ground_truth": [
+            "2q34"
+        ],
+        // 0
+        "answer": "Answer: The genes related to Corneal fleck dystrophy and their chromosome locations are as follows:\n\n- Gene associated with OMIM entry 121850 (CORNEAL DYSTROPHY, FLECK; CFD) does not have a specific gene name provided in the summary but is located at locus 11082286.\n- The OMIM entry 122400 (EPITHELIAL RECURRENT EROSION DYSTROPHY; ERED) mentions OPALIN, but no chromosome location is specified for this gene in the provided information.\n- Gene associated with OMIM entry 106210 (ANIRIDIA 1; AN1) does not have a specific gene name provided in the summary but is located at locus 18047881.\n- The gene PIKFYVE, related to OMIM entry 609414, is located at locus 19841139.\n- Gene PAX6, associated with OMIM entry 607108, shares the same location as AN1 (ANIRIDIA 1) at locus 18047881.\n\nNote: The chromosome locations provided are loci identifiers and not direct chromosome numbers. For precise chromosome locations, further investigation into these loci would be required."
+    },
+    {
+        "ground_truth": [
+            "22q13.31"
+        ],
+        // 0
+        "answer": "Answer: ILLDP (Xp22.11), ATP6V0C (2q35), ATP6V0A4 (3p25.3), CFTR (5q31.2)"
+    },
+    {
+        "ground_truth": [
+            "6p21.32",
+            "18p11.21",
+            "13q12.3",
+            "16q22.1"
+        ],
+        // 0 
+        "answer": "Answer: The genes related to Proteasome-associated autoinflammatory syndrome and their chromosome locations are:\n\n- PSMB8 (Proteasome Subunit, Beta-Type, 8): Chromosome location is 153440.\n- PSMB10 (Proteasome 20S Subunit, Beta-Type, 10): Chromosome location is 602453.\n- PSMG2 (Proteasome Assembly Chaperone 2): Chromosome location is 11854909.\n- PSMB4 (Proteasome Subunit, Beta-Type, 4): Chromosome location is 28656878.\n\nNote: The OMIM entries for PRAAS syndromes themselves do not provide gene information directly but are associated with the genes listed above."
+    },
+    {
+        "ground_truth": [
+            "11q13.4"
+        ],
+        // 1
+        "answer": "Answer: The chromosome locations of the genes related to Orofaciodigital syndrome XIV are as follows:\n\n- **C2CD3 (Human)**: Chromosome 11, Map Location 11q13.4.\n- **C2cd3 (Mouse)**: Chromosome 7.\n\nThese results indicate that in humans, the gene associated with Orofaciodigital syndrome XIV is located on chromosome 11 at position q13.4, while its mouse ortholog is found on chromosome 7."
+    },
+    {
+        "ground_truth": [
+            "16q12.1"
+        ],
+        // half 0.5
+        "answer": "Answer: The genes related to Trichoepithelioma and their chromosome locations are as follows:\n\n- CYLD (CYLD LYSINE-63 DEUBIQUITINASE): Chromosome location is 16q12-q13.\n- PTCH1 (PATCHED 1): Chromosome location is 9q22.3.\n- ARHGAP36 (RHO GTPase-ACTIVATING PROTEIN 36): Chromosome location is Xp22.3.\n\nNote: The OMIM entries for TRICHOEPITHELIOMA, MULTIPLE FAMILIAL, 1; MFT1 and CYLINDROMATOSIS, FAMILIAL both point to the gene CYLD, which has a chromosome location of 16q12-q13. Similarly, BROOKE-SPIEGLER SYNDROME; BRSS also points to the same gene CYLD.\n\nThe entries for TRICHOEPITHELIOMA, MULTIPLE FAMILIAL, 2 and TRICHOEPITHELIOMAS, MULTIPLE DESMOPLASTIC do not provide specific genes but are associated with familial conditions. The entry for BASAL CELL CARCINOMA, INFUNDIBULOCYSTIC does not specify a gene or chromosome location.\n\nThe provided information is based on the OMIM database entries and their associated loci. For precise chromosome locations, further detailed genomic data may be required."
+    },
+    {
+        "ground_truth": [
+            "10q11.21"
+        ],
+        // 0
+        "answer": "Answer: The chromosome location of the gene FOXE1, which is related to Medullary thyroid carcinoma, is 9q22.33.\n\nNote: The provided XML data for CTAG1B does not contain a direct link to its chromosome location through this API call sequence. Further investigation or different search terms might be required to find the chromosome location of CTAG1B in relation to Medullary thyroid carcinoma."
+    },
+    {
+        "ground_truth": [
+            "17q12",
+            "7p15.3",
+            "2q24.1",
+            "6p21.31",
+            "2q36.3",
+            "2q31.3",
+            "7p15.3"
+        ], // half 1/6
+        "answer": "Answer: The genes related to Type 2 Diabetes Mellitus and their chromosome locations are as follows:\n\n- **HNF4A**: Located on chromosome 20 (specifically at 20q13.12).\n- **IL6**: Located on chromosome 7 (specifically at 7p15.3).\n- **KCNJ11**: Located on chromosome 11 (specifically at 11p15.1).\n\nThese genes are associated with Type 2 Diabetes Mellitus and play significant roles in its pathogenesis."
+    },
+    {
+        "ground_truth": [
+            "12q14.3"
+        ],
+        // half 0.5
+        "answer": "Answer: LEMD3 is the gene associated with Buschke-Ollendorff syndrome, and it is located on chromosome 12 in humans. The other results are from different organisms or not relevant to human genetics. Therefore, the chromosome location for the human gene related to Buschke-Ollendorff syndrome is **chromosome 12**."
+    },
+    {
+        "ground_truth": [
+            "20q13.12"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations for the genes related to Vascular malformation based on OMIM entries are as follows:\n\n- VMPI (VASCULAR MALFORMATION, PRIMARY INTRAOSSEOUS): Chromosome location not directly provided in summary.\n- CMAVM1 (CAPILLARY MALFORMATION-ARTERIOVENOUS MALFORMATION 1): Chromosome location not directly provided in summary.\n- LMPHM2 (LYMPHATIC MALFORMATION 2): Chromosome location not directly provided in summary.\n- CMAVM2 (CAPILLARY MALFORMATION-ARTERIOVENOUS MALFORMATION 2): Chromosome location not directly provided in summary.\n- LMPHM4 (LYMPHATIC MALFORMATION 4): Chromosome location not directly provided in summary.\n- GUBS (GENITOURINARY AND/OR BRAIN MALFORMATION SYNDROME): Chromosome location not directly provided in summary.\n- MICCAP (MICROCEPHALY-CAPILLARY MALFORMATION SYNDROME): Chromosome location not directly provided in summary.\n- JPHT (JUVENILE POLYPOSIS/HEREDITARY HEMORRHAGIC TELANGIECTASIA SYNDROME): Chromosome location not directly provided in summary.\n- LMPHM9 (LYMPHATIC MALFORMATION 9): Chromosome location not directly provided in summary.\n- MCAP (MEGALENCEPHALY-CAPILLARY MALFORMATION-POLYMICROGYRIA SYNDROME): Chromosome location not directly provided in summary.\n- LMPHM13 (LYMPHATIC MALFORMATION 13): Chromosome location not directly provided in summary.\n\nFor some entries, the chromosome locations are not directly provided in the OMIM summaries. Further investigation into specific genes associated with these conditions would be required to determine precise chromosomal locations."
+    },
+    {
+        "ground_truth": [
+            "15q26.1"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Acrocallosal syndrome are as follows:\n\n- KIF7: 6p24.3 (based on OMIM ID 611254)\n- GLI3: 7p14.1 (based on OMIM ID 165240)\n- ACTB: 7q11.23 (based on OMIM ID 102630)\n\nNote that some of the entries returned are syndromes or conditions rather than genes, and their loci do not directly correspond to gene locations. The relevant genes identified from the search results are KIF7, GLI3, and ACTB, which have been associated with Acrocallosal syndrome or related genetic disorders."
+    },
+    {
+        "ground_truth": [
+            "3p24.2",
+            "15q24.2"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Congenital disorder of deglycosylation are as follows:\n\n- NGLY1 (GeneID: 610661): Chromosome location is not directly provided in the OMIM summary, but based on gene information, it is located on chromosome 17.\n- MAN2C1 (GeneID: 154580): Located on chromosome 9.\n- ATP6AP1 (GeneID: 300197): The location \"Steep1\" seems to be an error or placeholder and does not provide a specific chromosomal location. Further investigation would be needed for accurate information.\n- CANT1 (GeneID: 613165): Located on chromosome 2.\n\nNote that the OMIM entries provided do not directly give gene-specific locations but rather locus IDs which may require further lookup to determine exact chromosome positions. The provided locations are based on general knowledge of these genes' chromosomal assignments."
+    },
+    {
+        "ground_truth": [
+            "15q22.31",
+            "10q22.1"
+        ],
+        // 0
+        "answer": "Answer: The genes related to Spinal muscular atrophy with congenital bone fractures and their chromosome locations are:\n\n- **SMABF1**: Chromosome location not specified in the OMIM entry.\n- **TRIP4 (GeneID: 604501)**: Located on chromosome 2q37.1-q37.2\n- **LMNA (GeneID: 150330)**: Located on chromosome 1q21.2\n\nNote that the OMIM entries for SMABF1 and ASCC1 indicate \"between\" as their locus, which means the exact location is not specified or it's between two markers. For a more precise answer, we would need to look up these genes in another database like Gene (NCBI)."
+    },
+    {
+        "ground_truth": [
+            "3p24.2"
+        ],
+        // 0
+        "answer": "Based on the provided information and the detailed gene fetch results, here are the chromosome locations for genes related to B-cell immunodeficiency:\n\n- **IGHM (Immunoglobulin Heavy Constant Mu)**:\n  - Chromosome: 7\n  - Location: q35\n  - Annotation: Located between positions 142059386 and 142060477 on chromosome 7.\n\n- **BTK (Bruton Tyrosine Kinase)**:\n  - Chromosome: X\n  - Location: q21.3\n  - Annotation: Located between positions 150947683 and 150952755 on the X chromosome.\n\nThese genes play critical roles in B-cell development and function, with mutations leading to various forms of B-cell immunodeficiencies such as X-linked agammaglobulinemia (XLA) for BTK. The provided annotations confirm their genomic locations within the human genome."
+    },
+    {
+        "ground_truth": [
+            "7q22.1"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia are as follows:\n\n- IMD71 (IMMUNODEFICIENCY 71 WITH INFLAMMATORY DISEASE AND CONGENITAL THROMBOCYTOPENIA): Chromosome location not directly provided in the OMIM summary.\n- PFITS (PERIODIC FEVER, IMMUNODEFICIENCY, AND THROMBOCYTOPENIA SYNDROME): Chromosome location not directly provided in the OMIM summary.\n- WAS (WISKOTT-ALDRICH SYNDROME): Xp11.22\n- IPEX (IMMUNODYSREGULATION, POLYENDOCRINOPATHY, AND ENTEROPATHY, X-LINKED): Xp11.23\n- XMEN (IMMUNODEFICIENCY, X-LINKED, WITH MAGNESIUM DEFECT, EPSTEIN-BARR VIRUS INFECTION, AND NEOPLASIA): Xq25\n- CDG2L (CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIl): Chromosome location not directly provided in the OMIM summary.\n- CGDX (GRANULOMATOUS DISEASE, CHRONIC, X-LINKED): Xp11.43\n- ARPC1B (ACTIN-RELATED PROTEIN 2/3 COMPLEX, SUBUNIT 1B): Chromosome location not directly provided in the OMIM summary.\n- FHL1 (HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 1): 9q21.3\n- STIM1 (STROMAL INTERACTION MOLECULE 1): 19p13.1\n\nNote: Some of the OMIM entries do not provide direct chromosome location information for the associated genes in their summaries. For a precise answer, further investigation into each gene's specific entry would be required to determine exact chromosomal locations."
+    },
+    {
+        "ground_truth": [
+            "2q31.1"
+        ],
+        // 0
+        "answer": "Answer: MAP3K20 is located on chromosome 17p13.1 and TP63 is located on chromosome 3q27.3-qter."
+    },
+    {
+        "ground_truth": [
+            "17q24.2",
+            "2q31.2",
+            "5q13.3"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Pigmented Nodular Adrenocortical Disease are as follows:\n1. PRKAR1A - 17q21.32\n2. PDE8B - 33338547 (This is a position on chromosome 10)\n3. CNC1 - 17q21.32\n\nNote: The other entries are conditions or genes not directly associated with the specific chromosome location for PNAD, such as PPNAD1 and PRKACA which have more complex loci descriptions that do not specify a single chromosomal region."
+    },
+    {
+        "ground_truth": [
+            "4p15.2"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Superoxide dismutase are as follows:\n\n- SOD1 (Homo sapiens): Chromosome 21, Map Location 21q22.11\n- SOD2 (Homo sapiens): Chromosome 6, Map Location 6q25.3\n- Sod1 (Mus musculus): Chromosome 16, Map Location 16 51.56 cM\n- Sod2 (Mus musculus): Chromosome 17, Map Location 17 8.75 cM\n\nNote: The list includes both human and mouse genes for Superoxide dismutase as the search returned results from both species."
+    },
+    {
+        "ground_truth": [
+            "1p32.3"
+        ],
+        // 0
+        "answer": "The provided XML data contains detailed information about several genes and their genomic locations across different annotation releases. Here's a summary of the key points for each gene:\n\n### SLC2A1 (GeneID: 6513)\n- **Description**: Encodes a major glucose transporter in the mammalian blood-brain barrier.\n- **Chromosome Location**: Chromosome 1, Map location 1p34.2\n- **Genomic Coordinates**:\n    - ChrAccVer: NC_000001.11 (Annotation Release RS_2024_08)\n        - ChrStart: 42958867\n        - ChrStop: 42925352\n- **Other Aliases**: CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN\n\n### TH (GeneID: 7054)\n- **Description**: Encodes tyrosine hydroxylase, involved in the conversion of tyrosine to dopamine.\n- **Chromosome Location**: Chromosome 11, Map location 11p15.5\n- **Genomic Coordinates**:\n    - ChrAccVer: NC_000011.10 (Annotation Release RS_2024_08)\n        - ChrStart: 2171814\n        - ChrStop: 2163928\n\n### GCH1 (GeneID: 2643)\n- **Description**: Encodes GTP cyclohydrolase I, the first and rate-limiting enzyme in tetrahydrobiopterin biosynthesis.\n- **Chromosome Location**: Chromosome 14, Map location 14q22.2\n- **Genomic Coordinates**:\n    - ChrAccVer: NC_000014.9 (Annotation Release RS_2024_08)\n        - ChrStart: 54902825\n        - ChrStop: 54842016\n\n### TBX19 (GeneID: 9095)\n- **Description**: Encodes a T-box transcription factor involved in the regulation of developmental processes.\n- **Chromosome Location**: Chromosome 1, Map location 1q24.2\n- **Genomic Coordinates**:\n    - ChrAccVer: NC_000001.11 (Annotation Release RS_2024_08)\n        - ChrStart: 168280876\n        - ChrStop: 168314425\n\n### Summary of Genes Involved in Dystonia and Movement Disorders:\n- **THAP1 (GeneID: 7054)**: Located on chromosome X, this gene is involved in the pathogenesis of primary torsion dystonia.\n- **GNAL (GeneID: 7054)**: Located on chromosome 9, this gene encodes a G protein subunit alpha long and is associated with various diseases including McCune-Albright syndrome and pseudohypoparathyroidism type 1a.\n- **DYT1 (GeneID: 2643)**: Located on chromosome 9, this gene is involved in the pathogenesis of primary torsion dystonia.\n- **TBX19 (GeneID: 9095)**: Located on chromosome 1, this gene encodes a T-box transcription factor and has been associated with isolated deficiency of pituitary POMC-derived ACTH.\n\n### Next Steps:\nIf you are interested in further details or specific aspects such as mutations, clinical significance, or functional studies related to these genes, please let me know. Additionally, if there is any particular gene or aspect that requires more detailed information, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "7p15.3"
+        ],
+        // 0
+        "answer": "It seems like the provided text is a partial representation of gene information, specifically for the interleukin 6 (IL6) gene. The data includes details about mRNA transcripts and their corresponding protein products, genomic coordinates, and accession numbers from various databases such as RefSeq, CCDS, and HGNC.\n\nThe structure of this data suggests it's part of a larger dataset that could be accessed through NCBI's Entrez system or similar biological database services. However, the text is incomplete and ends abruptly with an unfinished entry for \"transcript variant 1\" mRNA accession \"NM_000600\".\n\nIf you're looking to understand specific aspects of this gene data, such as the location of certain exons on the chromosome, the relationship between different transcript variants and their protein products, or how these sequences are annotated in various databases, please specify your query. I can help interpret parts of the provided information or guide you on how to access complete datasets for further analysis.\n\nFor example:\n- You might want to know which exon ranges correspond to specific mRNA transcripts.\n- You could be interested in understanding the differences between transcript variants and their protein products.\n- Or, you may need guidance on accessing full sequences or additional annotations from NCBI's databases.\n\nPlease let me know how I can assist further!"
+    },
+    {
+        "ground_truth": [
+            "4q21.23"
+        ],
+        // 0
+        "answer": "Answer: The chromosome locations of the genes related to Multiple System Atrophy are not directly provided in the OMIM entries retrieved. However, one relevant entry is MSA1 (OMIM ID 146500), which has a locus at position 20437598 on chromosome 17. Other entries do not provide specific gene loci related to Multiple System Atrophy directly.\n\nTo get more precise information about the genes involved in Multiple System Atrophy and their locations, we would need to further investigate each OMIM entry or search for associated genes using other databases like Gene. For example, searching for \"Multiple system atrophy\" in the Gene database might provide more specific gene associations and their chromosome locations.\n\nFor now, based on the provided information:\n- MSA1 (OMIM ID 146500) is located on Chromosome 17.\n  \nFurther investigation would be required to identify other genes involved."
+    },
+    {
+        "ground_truth": [
+            "10q23.33",
+            "6p21.1"
+        ],
+        // 0
+        "answer": "The provided XML data contains summaries of gene information from various organisms, including humans and other species. Each `<DocumentSummary>` element provides details about a specific gene or genetic locus, such as its name, description, location on the chromosome, and associated organism.\n\nHere are some key points extracted from the given XML snippets:\n\n1. **Human Genes**:\n   - **CLN5**: This gene is involved in neuronal ceroid lipofuscinosis (NCL) disorders and is located on chromosome 13q22.3.\n   - **CRX**: Also known as cone-rod homeobox, this gene plays a role in the differentiation of photoreceptor cells and is linked to Leber congenital amaurosis type III and autosomal dominant cone-rod dystrophy 2 (CORD2). It's located on chromosome 19q13.33.\n   - **CORD8**: This locus is associated with cone rod dystrophy 8, an inherited retinal disorder.\n\n2. **Other Species**:\n   - **Rattus norvegicus (Norway rat)**: The `Cln5` gene in rats has a similar function to its human counterpart and is involved in intracellular trafficking.\n   - **Danio rerio (zebrafish)**: The `cln5` gene in zebrafish also plays a role in intracellular trafficking, with predicted functions related to hydrolase activity.\n\n3. **Location Histories**:\n   - Each `<DocumentSummary>` includes a `<LocationHist>` section that tracks the history of annotations and assembly versions for the gene's location on chromosomes or contigs. This is useful for understanding how genomic data has been updated over time.\n\n4. **Common Features Across Entries**:\n   - The entries include information about genetic source, chromosome location (if known), exon count, and summary descriptions.\n   - Some genes have associated OMIM (Online Mendelian Inheritance in Man) identifiers, indicating their relevance to human diseases or traits.\n\n5. **Organism Details**:\n   - Each gene entry specifies the scientific name of the organism it belongs to along with its common name and taxonomic ID (`TaxID`).\n\nThis data is useful for researchers studying genetic disorders, comparative genomics, and evolutionary biology by providing a comprehensive overview of specific genes across different species."
+    },
+    {
+        "ground_truth": [
+            "12q24.21"
+        ],
+        // 0
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "1p36.11"
+        ],
+        // 0
+        "answer": "Answer: The genes related to Lichtenstein-Knorr syndrome are located at the following chromosome positions:\n\n- For LIKNS (Lichtenstein-Knorr Syndrome), there is no specific gene mentioned, but it has an OMIM entry with a locus identifier 32603781.\n- SLC9A1 (Solute Carrier Family 9, Member 1) is related to the syndrome and is located at chromosome position 25590979. \n\nPlease note that the exact chromosomal location in terms of bands or base pair ranges isn't provided by these OMIM entries; only locus identifiers are given. For more detailed genomic locations, further investigation into each gene's specific entry would be required."
+    },
+    {
+        "ground_truth": [
+            "2q37.3"
+        ],
+        // 0
+        "answer": "Answer: Chromosome locations for the genes related to Ablepharon-macrostomia syndrome are as follows:\n\n- TWIST2: Chromosome 1 (Human)\n- FRAS1: Chromosome 4 (Human)\n- TOP2B: Chromosome 12 (Human)\n\nThese chromosome locations correspond to the human orthologs of the genes associated with Ablepharon-macrostomia syndrome."
+    }
+]

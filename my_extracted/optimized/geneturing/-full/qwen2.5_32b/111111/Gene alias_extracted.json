@@ -1,0 +1,207 @@
+[ // correct:45 half:0 error:5
+    {
+        "ground_truth": "PSMB10",
+        "answer": "Answer: PSMB10"
+    },
+    {
+        "ground_truth": "SLC38A6",
+        "answer": "Answer: SLC38A6"
+    },
+    {
+        "ground_truth": "FCGR3A",
+        "answer": "Answer: FCGR3A"
+    },
+    {
+        "ground_truth": "FNDC11",
+        "answer": "Answer: FNDC11"
+    },
+    {
+        "ground_truth": "EOLA2",
+        "answer": "Answer: EOLA2"
+    },
+    {
+        "ground_truth": "QSOX2",
+        "answer": "Answer: QSOX2"
+    },
+    {
+        "ground_truth": "OR10A2",
+        "answer": "Answer: OR10A2"
+    },
+    {
+        "ground_truth": "NUP50",
+        "answer": "Answer: NUP50"
+    },
+    {
+        "ground_truth": "MLLT10",
+        "answer": "Answer: MLLT10"
+    },
+    {
+        "ground_truth": "MRPL57",
+        "answer": "Answer: MRPL57"
+    },
+    {
+        "ground_truth": "SYT4",
+        "answer": "Answer: SYT4"
+    },
+    {
+        "ground_truth": "ZBTB6",
+        "answer": "Answer: ZBTB6"
+    },
+    {
+        "ground_truth": "PTH",
+        "answer": "Answer: PTH1"
+    },
+    {
+        "ground_truth": "ASIP",
+        "answer": "Answer: ASIP"
+    },
+    {
+        "ground_truth": "LCE2A",
+        "answer": "Answer: LCE2A"
+    },
+    {
+        "ground_truth": "SEPTIN3",
+        "answer": "Answer: SEPTIN3"
+    },
+    {
+        "ground_truth": "TWIST2",
+        "answer": "Answer: TWIST2"
+    },
+    {
+        "ground_truth": "METTL24",
+        "answer": "Answer: METTL24"
+    },
+    {
+        "ground_truth": "RNGTT",
+        "answer": "Answer: RNGTT"
+    },
+    {
+        "ground_truth": "RNF7",
+        "answer": "Answer: RNF7"
+    },
+    {
+        "ground_truth": "F3",
+        "answer": "Answer: tfa"
+    },
+    // 0
+    {
+        "ground_truth": "SLC25A33",
+        "answer": "Answer: SLC25A33"
+    },
+    {
+        "ground_truth": "PCLO",
+        "answer": "Answer: PCLO"
+    },
+    {
+        "ground_truth": "OR56A1",
+        "answer": "Answer: OR56A1"
+    },
+    {
+        "ground_truth": "E2F1",
+        "answer": "Answer: E2F1"
+    },
+    {
+        "ground_truth": "ZNF366",
+        "answer": "Answer: ZNF366"
+    },
+    {
+        "ground_truth": "ALOX15",
+        "answer": "Answer: ALOX15"
+    },
+    {
+        "ground_truth": "LYPD6B",
+        "answer": "Answer: LYPD6B"
+    },
+    {
+        "ground_truth": "PRKCH",
+        "answer": "Answer: PRKCH"
+    },
+    {
+        "ground_truth": "ARHGEF26",
+        "answer": "Answer: ARHGEF26"
+    },
+    {
+        "ground_truth": "AGAP9",
+        "answer": "Answer: AGAP9"
+    },
+    {
+        "ground_truth": "IFT22",
+        "answer": "Answer: IFT22"
+    },
+    {
+        "ground_truth": "GLB1",
+        "answer": "Answer: GLB1"
+    },
+    {
+        "ground_truth": "COX7B",
+        "answer": "Answer: COX7B"
+    },
+    {
+        "ground_truth": "PLK5",
+        "answer": "Answer: PLK5"
+    },
+    {
+        "ground_truth": "ANKRD60",
+        "answer": "Answer: ANKRD60"
+    },
+    {
+        "ground_truth": "POC1B-GALNT4",
+        "answer": "Answer: GALNT4"
+    },
+    // 0
+    {
+        "ground_truth": "INTS8",
+        "answer": "Answer: INTS8"
+    },
+    {
+        "ground_truth": "CPB2",
+        "answer": "Answer: None of the records found for \"PCPB\" are active or relevant to human genes. The search results indicate that these entries are related to bacterial genes and have been discontinued. Therefore, there is no official gene symbol of PCPB in the context of human genes based on the provided information."
+    },
+    // 0
+    {
+        "ground_truth": "VBP1",
+        "answer": "Answer: PFDN3"
+    },
+    // 0
+    {
+        "ground_truth": "H2BC1",
+        "answer": "Answer: H2BC1"
+    },
+    {
+        "ground_truth": "CPLANE2",
+        "answer": "Answer: CPLANE2"
+    },
+    {
+        "ground_truth": "ADAMDEC1",
+        "answer": "Answer: ADAMDEC1"
+    },
+    {
+        "ground_truth": "B3GNT8",
+        "answer": "Answer: B3GNT8"
+    },
+    {
+        "ground_truth": "SRC",
+        "answer": "Answer: SRC"
+    },
+    {
+        "ground_truth": "UBTFL1",
+        "answer": "Answer: UBTFL1"
+    },
+    {
+        "ground_truth": "MOGS",
+        "answer": "Answer: GCS1"
+    },
+    // 0
+    {
+        "ground_truth": "ATOSB",
+        "answer": "Answer: ATOSB"
+    },
+    {
+        "ground_truth": "SHANK2",
+        "answer": "Answer: SHANK2"
+    },
+    {
+        "ground_truth": "PTPRR",
+        "answer": "Answer: PTPRR"
+    }
+]

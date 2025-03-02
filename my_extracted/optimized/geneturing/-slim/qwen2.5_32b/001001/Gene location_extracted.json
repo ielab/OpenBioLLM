@@ -1,0 +1,244 @@
+[ // correct:8 half:0 error:42
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chrY",
+        "answer": "Answer: Y"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: The gene LA16c-329F2.2 does not appear to be recognized in the human genome based on the query to NCBI's database. Please verify the gene name or provide additional information for a more accurate search."
+    },
+    {
+        "ground_truth": "chr1",
+        "answer": "Answer: Chromosome 1"
+    },
+    {
+        "ground_truth": "chr3",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: 17"
+    },
+    // 0
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: Chromosome 16"
+    },
+    // 0
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: Chromosome 4"
+    },
+    // 0
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr7",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: 7"
+    },
+    // 0
+    {
+        "ground_truth": "chr3",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr9",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr15",
+        "answer": "Answer: Chromosome 20"
+    },
+    // 0
+    {
+        "ground_truth": "chr12",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: Chromosome 2"
+    },
+    // 0
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr16",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr22",
+        "answer": "Answer: 17"
+    },
+    // 0
+    {
+        "ground_truth": "chr5",
+        "answer": "Answer: Chromosome 5"
+    },
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: Chromosome 17\n\nIt appears there was an error in the initial search for the gene \"RP11-215H18.5\" as it did not return any results from Entrez Gene database for Homo sapiens. However, based on the provided data, the gene associated with the query is actually CHMP6 (charged multivesicular body protein 6), which is located on Chromosome 17 in humans."
+    },
+    // 0
+    {
+        "ground_truth": "chr9",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr6",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr7",
+        "answer": "The TRGC2 gene, which stands for T cell receptor gamma constant 2, is located on chromosome 7 in humans. Specifically, it is found at the location designated as **7p14.1** according to the cytogenetic map.\n\nHere are some key details about the TRGC2 gene:\n\n- **Official Symbol**: TRGC2\n- **Description**: T cell receptor gamma constant 2\n- **Chromosome Location**: Chromosome 7; Location: 7q34 (based on the NCBI annotation)\n- **Gene ID**: 6967\n\nThe provided information indicates that the gene is involved in adaptive immune responses and is part of the T-cell receptor complex, which plays a crucial role in recognizing antigens presented by major histocompatibility complex (MHC) molecules.\n\nIf you need more specific details or have any other questions about this gene, feel free to ask!"
+    },
+    {
+        "ground_truth": "chr5",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chrX",
+        "answer": "Answer: X"
+    },
+    {
+        "ground_truth": "chr21",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr7",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chrX",
+        "answer": "Answer: X"
+    },
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: Chromosome 22\n\nIt seems there was an error in the provided example response, as it contains irrelevant information and does not follow the specified format. Based on the correct API call responses given earlier:\n\nThe gene CTD-2272D18.2 is located on chromosome 22 of the human genome."
+    },
+    // 0
+    {
+        "ground_truth": "chr17",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr7",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: Chromosome 14"
+    },
+    // 0
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: The gene AC093802.1 does not appear to be directly listed in the NCBI Gene database, which suggests it might refer to a specific clone or contig rather than a named gene. Therefore, additional information would be needed to determine its chromosomal location accurately based on the given identifier alone."
+    },
+    // 0
+    {
+        "ground_truth": "chr1",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chrX",
+        "answer": "Answer: Chromosome 5"
+    },
+    // 0
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: Chromosome 5"
+    },
+    // 0
+    {
+        "ground_truth": "chr9",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr14",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr7",
+        "answer": "Answer: Chromosome 1"
+    },
+    // 0
+    {
+        "ground_truth": "chr4",
+        "answer": "Answer: X"
+    },
+    // 0
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: Chromosome 11"
+    }
+]

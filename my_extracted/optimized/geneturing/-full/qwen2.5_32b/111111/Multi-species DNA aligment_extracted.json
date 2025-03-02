@@ -1,0 +1,208 @@
+[ // correct:44 half:0 error:6
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Based on the BLAST results, your query sequence matches several entries in the database with high identity scores. The top hits are from **Saccharomyces cerevisiae** (commonly known as baker's yeast), specifically:\n\n1. **NM_001178205.1**: Saccharomyces cerevisiae S288C flocculin FLO9, partial mRNA.\n2. **NM_001178205.1**: Saccharomyces cerevisiae S288C flocculin FLO9, partial mRNA.\n3. **L28920.2**: Saccharomyces cerevisiae chromosome I right arm sequence.\n4. **MN047822.1**: Synthetic construct clone CCSBy3025H01 Gateway entry clone sequence.\n\nThe best match is with 100% identity over the entire length of your query sequence (136/136 identities) to the following regions:\n\n- NM_001178205.1: Positions 987-1046\n- L28920.2: Positions 28984-29043\n\nThis indicates that your query sequence is a part of the **FLO9** gene in Saccharomyces cerevisiae, which encodes a flocculin protein involved in cell adhesion and aggregation.\n\n### Summary:\n- **Organism**: *Saccharomyces cerevisiae* (Baker's yeast)\n- **Gene**: FLO9\n- **Function**: Flocculin protein involved in cell adhesion\n\nThe high identity scores suggest that your sequence is a reliable match to the FLO9 gene region. If you are working with this organism and gene, these results should help confirm the identity of your sequence.\n\nIf you have any further questions or need additional analysis, feel free to ask!"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found in the database for the given DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (turkey)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "The provided sequence alignment results indicate that the query sequence aligns with high similarity to several regions in both human and chimpanzee genomes. Here are some key points from the alignments:\n\n### Human Alignments:\n- **AC019144.9 (Homo sapiens BAC clone RP11-733L22)**: The alignment shows 95% identity over a length of 118 bases, with two gaps.\n- **AC093593.3 (Homo sapiens BAC clone RP11-62B19)**: This alignment has 96% identity over 114 bases without any gaps.\n\n### Chimpanzee Alignments:\n- **AC199714.3**: The sequence aligns with 87%-89% identity across different segments, indicating a high degree of similarity but also some divergence.\n- **AC192990.2**: This alignment shows 100% identity over the entire length (127 bases) in one segment.\n\n### Summary:\nThe query sequence aligns well with both human and chimpanzee sequences, which is expected given their close evolutionary relationship. The alignments show that while there are some differences, particularly in regions where gaps or mismatches occur, overall the sequences share a high degree of similarity. This suggests that the queried sequence likely corresponds to a conserved region across these species.\n\nIf you need more specific information about particular segments or further analysis, please let me know!"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (wild turkey)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found in the database for this DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: No significant similarity found in the database for the given DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found in the database for the given DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus (chicken)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus (Red Junglefowl)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: No significant similarity found in the database for this DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio (zebrafish)"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae S288C"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Mus musculus (House Mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: No significant similarity found in the database for this DNA sequence."
+    },
+    // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish"
+    }
+]

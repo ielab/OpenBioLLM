@@ -1,0 +1,202 @@
+[ // correct:10 half:0 error:0
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1217074595 is LINC01270, which is a long intergenic non-protein coding RNA. Based on the information provided by the NCBI API response, this lncRNA has been implicated in various cancers including glioma, breast cancer, lung adenocarcinoma, gastric cancer, and esophageal cancer. It appears to function as an oncogene in these contexts, often through interactions with miRNAs or other regulatory mechanisms that affect gene expression and cellular processes."
+    },
+    {
+        "ground_truth": "Predicted to be active in cytosol.",
+        "answer": "Answer: The gene associated with SNP rs1241371358 is LRRC23, which is involved in flagellated sperm motility and radial spoke assembly. It is located in the sperm flagellum and has been implicated in spermatogenic failure 92."
+    }, // 0
+    {
+        "ground_truth": "SEPT11 belongs to the conserved septin family of filament-forming cytoskeletal GTPases that are involved in a variety of cellular functions including cytokinesis and vesicle trafficking (Hanai et al., 2004 [PubMed 15196925]; Nagata et al., 2004 [PubMed 15485874]).",
+        "answer": "Answer: The gene associated with SNP rs1481036795 is SEPTIN11. According to the summary, SEPTIN11 belongs to the conserved septin family of filament-forming cytoskeletal GTPases that are involved in a variety of cellular functions including cytokinesis and vesicle trafficking."
+    },
+    {
+        "ground_truth": "Predicted to enable guanyl-nucleotide exchange factor activity. Predicted to be involved in Rho protein signal transduction.",
+        "answer": "Answer: The gene associated with SNP rs1318850293 is PLEKHG7, which is predicted to enable guanyl-nucleotide exchange factor activity and is involved in Rho protein signal transduction."
+    },
+    {
+        "ground_truth": "Predicted to enable thiol-dependent deubiquitinase and zinc ion binding activity. Involved in spliceosomal complex assembly. Located in nucleoplasm. Part of U4/U6 x U5 tri-snRNP complex.",
+        "answer": "Answer: The gene associated with SNP rs996319727 is USP39, which is predicted to enable cysteine-type deubiquitinase activity and zinc ion binding activity. It is involved in spliceosomal complex assembly and located in the nucleoplasm. This gene is part of the U4/U6 x U5 tri-snRNP complex."
+    },
+    {
+        "ground_truth": "Predicted to enable oxidoreductase activity. Predicted to be involved in response to oxidative stress. Predicted to act upstream of or within several processes, including adult walking behavior; negative regulation of neuron death; and negative regulation of peptidyl-cysteine S-nitrosylation. Predicted to be located in mitochondrion and nucleolus. Predicted to be active in nucleus. Implicated in cerebellar hyplasia/atrophy, epilepsy, and global developmental delay.",
+        "answer": "Answer: The gene associated with SNP rs577757681 is OXR1, which is predicted to enable oxidoreductase activity and is involved in the response to oxidative stress. It is also implicated in cerebellar hypoplasia/atrophy, epilepsy, and global developmental delay."
+    },// 0.5
+    {
+        "ground_truth": "The protein encoded by this gene is a member of the WD repeat superfamily of proteins, which have regulatory functions. This gene is expressed in many tissue types including several types of eye tissue, and it has been associated with ocular phenotypes. In addition, it is upregulated in cultured cells that overexpress growth factor independence 1B, a transcription factor that is essential for hematopoietic cell development. Alternative splicing results in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs1294482311 is DMXL1. According to the summary, this gene encodes a protein that is a member of the WD repeat superfamily and has regulatory functions. It is expressed in many tissue types including several types of eye tissue and has been associated with ocular phenotypes. Additionally, it is upregulated in cultured cells that overexpress growth factor independence 1B, which is essential for hematopoietic cell development. Alternative splicing results in multiple transcript variants."
+    },
+    {
+        "ground_truth": "Predicted to enable mRNA binding activity and poly(A) binding activity. Predicted to be involved in regulation of alternative mRNA splicing, via spliceosome. Predicted to be located in nucleoplasm. Predicted to be active in nucleus.",
+        "answer": "Answer: The gene associated with SNP rs979970652 is KHDRBS2, which is predicted to enable mRNA binding activity and poly(A) binding activity. It is also predicted to be involved in the regulation of alternative mRNA splicing via spliceosome and is located in the nucleoplasm, being active in the nucleus."
+    },
+    {
+        "ground_truth": "Predicted to enable DNA binding activity. Predicted to be involved in homologous chromosome pairing at meiosis and meiotic attachment of telomere to nuclear envelope. Predicted to be located in chromosome, telomeric region. Predicted to be integral component of nuclear inner membrane.",
+        "answer": "Answer: The gene MAJIN is predicted to enable DNA binding activity and is involved in homologous chromosome pairing at meiosis and meiotic attachment of telomere to the nuclear envelope. It is also predicted to act upstream of or within double-strand break repair involved in meiotic recombination, oogenesis, and spermatogenesis. The gene is predicted to be located in the chromosome, telomeric region and to be active in the nuclear inner membrane."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1015227 is SCHLAP1, which stands for SWI/SNF complex antagonist associated with prostate cancer 1. This gene encodes a long non-coding RNA (lncRNA) that has been implicated in antagonizing the SWI/SNF chromatin remodeling complex and is associated with prostate cancer."
+    },
+    {
+        "ground_truth": "Enables R-SMAD binding activity. Involved in negative regulation of cell migration; negative regulation of epithelial to mesenchymal transition; and negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway. Located in early endosome membrane.",
+        "answer": "Answer: The gene associated with SNP rs1278530438 is LDLRAD4. According to the information retrieved, this gene enables R-SMAD binding activity and is involved in negative regulation of cell migration, negative regulation of epithelial to mesenchymal transition, and negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway. It is located in early endosome membrane."
+    },
+    {
+        "ground_truth": "This gene encodes a high affinity receptor for the peptide hormone calcitonin and belongs to a subfamily of seven transmembrane-spanning G protein-coupled receptors. The encoded protein is involved in maintaining calcium homeostasis and in regulating osteoclast-mediated bone resorption. Polymorphisms in this gene have been associated with variations in bone mineral density and onset of osteoporosis. Alternate splicing results in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs745325402 is CALCR, which encodes the calcitonin receptor. This receptor is involved in maintaining calcium homeostasis and regulating osteoclast-mediated bone resorption. Polymorphisms in this gene have been linked to variations in bone mineral density and the onset of osteoporosis."
+    },// 0.5
+    {
+        "ground_truth": "The protein encoded by this gene is one of the four known components of the sarcoglycan complex, which is a subcomplex of the dystrophin-glycoprotein complex (DGC). DGC forms a link between the F-actin cytoskeleton and the extracellular matrix. This protein is expressed most abundantly in skeletal and cardiac muscle. Mutations in this gene have been associated with autosomal recessive limb-girdle muscular dystrophy and dilated cardiomyopathy. Alternatively spliced transcript variants encoding distinct isoforms have been observed for this gene.",
+        "answer": "Answer: The gene SGCD, associated with SNP rs4704888, encodes delta-sarcoglycan, which is a component of the sarcoglycan complex. This complex is part of the dystrophin-glycoprotein complex (DGC) that forms a link between the F-actin cytoskeleton and the extracellular matrix. Mutations in this gene have been linked to autosomal recessive limb-girdle muscular dystrophy and dilated cardiomyopathy."
+    },// 0.5
+    {
+        "ground_truth": "Predicted to enable DNA-binding transcription repressor activity, RNA polymerase II-specific and RNA polymerase II cis-regulatory region sequence-specific DNA binding activity. Predicted to be involved in regulation of transcription by RNA polymerase II. Located in nucleoplasm.",
+        "answer": "Answer: The gene associated with SNP rs1201372088 is ZBTB25. According to the summary, this gene is predicted to enable DNA-binding transcription repressor activity and RNA polymerase II cis-regulatory region sequence-specific DNA binding activity. It is also predicted to be involved in negative regulation of transcription by RNA polymerase II, regulation of cytokine production, and regulation of immune system process. The gene is located in the nucleoplasm."
+    },
+    {
+        "ground_truth": "The activation of gene transcription is a multistep process that is triggered by factors that recognize transcriptional enhancer sites in DNA. These factors work with co-activators to direct transcriptional initiation by the RNA polymerase II apparatus. The protein encoded by this gene is a subunit of the CRSP (cofactor required for SP1 activation) complex, which, along with TFIID, is required for efficient activation by SP1. This protein is also a component of other multisubunit complexes e.g. thyroid hormone receptor-(TR-) associated proteins which interact with TR and facilitate TR function on DNA templates in conjunction with initiation factors and cofactors.",
+        "answer": "Answer: The gene associated with SNP rs1324451169 is MED26, which functions as a mediator complex subunit 26. It is part of the CRSP (cofactor required for SP1 activation) complex and is involved in facilitating transcriptional co-activation by interacting with factors like the thyroid hormone receptor (TR). This gene plays a role in the regulation of RNA polymerase II-mediated transcription, contributing to efficient gene expression through its involvement in various multisubunit complexes."
+    },// 0.5
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs983419152 is LINC02055, which is a long intergenic non-protein coding RNA (lncRNA). Based on the information retrieved from NCBI, there are no specific functions detailed for this lncRNA. Typically, lncRNAs can have roles in gene regulation, but without additional experimental data, we cannot specify its exact function."
+    },
+    {
+        "ground_truth": "The protein encoded by this gene interacts with thyroid hormone receptors and contains a jumonji domain. It is a candidate histone demethylase and is thought to be a coactivator for key transcription factors. It plays a role in the DNA-damage response pathway by demethylating the mediator of DNA damage checkpoint 1 (MDC1) protein, and is required for the survival of acute myeloid leukemia. Mutations in this gene are associated with Rett syndrome and intellectual disability. Alternative splicing results in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs745940901 is JMJD1C, which encodes a protein that interacts with thyroid hormone receptors and contains a jumonji domain. It is a candidate histone demethylase and acts as a coactivator for key transcription factors. This gene plays a role in the DNA-damage response pathway by demethylating the mediator of DNA damage checkpoint 1 (MDC1) protein, and it is required for the survival of acute myeloid leukemia. Mutations in this gene are associated with Rett syndrome and intellectual disability."
+    },
+    {
+        "ground_truth": "Predicted to enable phospholipid scramblase activity. Predicted to be involved in apoptotic process involved in development; engulfment of apoptotic cell; and phosphatidylserine exposure on apoptotic cell surface. Predicted to be integral component of membrane. Predicted to be active in plasma membrane.",
+        "answer": "Answer: The gene XKR9, which is associated with SNP rs1303680136, is predicted to enable phospholipid scramblase activity. It is also predicted to be involved in the apoptotic process involved in development, engulfment of apoptotic cells, and phosphatidylserine exposure on the surface of apoptotic cells. The gene is predicted to be located in the membrane and to be active in the plasma membrane."
+    },
+    {
+        "ground_truth": "Enables protein dimerization activity and ubiquitin protein ligase activity. Involved in positive regulation of response to DNA damage stimulus. Located in nucleoplasm. Part of Smc5-Smc6 complex.",
+        "answer": "Answer: The gene associated with SNP rs1053827498 is NSMCE1, which enables protein dimerization activity and ubiquitin protein ligase activity. It is involved in the DNA damage response and located in the nucleoplasm as part of the Smc5-Smc6 complex."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1350154096 is LOC107986092, and its description is \"uncharacterized LOC107986092,\" indicating that there is currently no known function for this gene."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1037441458 is LOC105372191, which is described as \"uncharacterized.\" This means there is currently no known function for this gene based on the available information from NCBI."
+    },
+    {
+        "ground_truth": "The Fox-1 family of RNA-binding proteins is evolutionarily conserved, and regulates tissue-specific alternative splicing in metazoa. Fox-1 recognizes a (U)GCAUG stretch in regulated exons or in flanking introns. The protein binds to the C-terminus of ataxin-2 and may contribute to the restricted pathology of spinocerebellar ataxia type 2 (SCA2). Ataxin-2 is the product of the SCA2 gene which causes familial neurodegenerative diseases. Fox-1 and ataxin-2 are both localized in the trans-Golgi network. Several alternatively spliced transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "Answer: The gene associated with SNP rs900408143 is RBFOX1, which encodes RNA binding fox-1 homolog 1. This protein family is evolutionarily conserved and regulates tissue-specific alternative splicing in metazoa. It recognizes a (U)GCAUG stretch in regulated exons or flanking introns. The protein binds to the C-terminus of ataxin-2, which may contribute to the restricted pathology of spinocerebellar ataxia type 2 (SCA2). Both Fox-1 and ataxin-2 are localized in the trans-Golgi network."
+    },
+    {
+        "ground_truth": "This gene encodes a family member of serine/threonine p21-activating kinases, known as PAK proteins. These proteins are critical effectors that link RhoGTPases to cytoskeleton reorganization and nuclear signaling, and they serve as targets for the small GTP binding proteins Cdc42 and Rac. This specific family member regulates cell motility and morphology. Mutations in this gene have been associated with macrocephaly, seizures, and speech delay. Overexpression of this gene is also reported in many cancer types, and particularly in breast cancer. Alternative splicing results in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs900532834 is PAK1, which encodes a family member of serine/threonine p21-activating kinases. These proteins are critical effectors that link RhoGTPases to cytoskeleton reorganization and nuclear signaling, and they serve as targets for the small GTP binding proteins Cdc42 and Rac. This specific family member regulates cell motility and morphology. Mutations in this gene have been associated with macrocephaly, seizures, and speech delay. Overexpression of this gene is also reported in many cancer types, particularly in breast cancer."
+    },
+    {
+        "ground_truth": "Predicted to enable unfolded protein binding activity. Predicted to be involved in protein folding. Predicted to be part of chaperonin-containing T-complex.",
+        "answer": "Answer: The gene associated with SNP rs1281200566 is CCT8L2, which is predicted to enable unfolded protein binding activity and be involved in protein folding. It is also predicted to be located in the cytoplasm and to be part of the chaperonin-containing T-complex."
+    },
+    {
+        "ground_truth": "This gene encodes a subunit of a voltage-dependent calcium channel protein that is a member of the voltage-gated calcium channel superfamily. The gene product was originally identified as an antigen target in Lambert-Eaton myasthenic syndrome, an autoimmune disorder. Mutations in this gene are associated with Brugada syndrome. Alternatively spliced variants encoding different isoforms have been described.",
+        "answer": "Answer: The gene associated with SNP rs1431266687 is CACNB2, which encodes a subunit of a voltage-dependent calcium channel protein. This protein is part of the voltage-gated calcium channel superfamily and was originally identified as an antigen target in Lambert-Eaton myasthenic syndrome, an autoimmune disorder. Mutations in this gene are also associated with Brugada syndrome."
+    },
+    {
+        "ground_truth": "The product of this gene belongs to the CRE (cAMP response element)-binding protein family. Members of this family contain zinc-finger and bZIP DNA-binding domains. The encoded protein specifically binds to CRE as a homodimer or a heterodimer with c-Jun or CRE-BP1, and functions as a CRE-dependent trans-activator. Alternatively spliced transcript variants encoding different isoforms have been identified.",
+        "answer": "Answer: The product of the CREB5 gene belongs to the CRE (cAMP response element)-binding protein family. Members of this family contain zinc-finger and bZIP DNA-binding domains. The encoded protein specifically binds to CRE as a homodimer or a heterodimer with c-Jun or CRE-BP1, and functions as a CRE-dependent trans-activator. This indicates that the function of the gene associated with SNP rs900745020 is involved in transcriptional regulation through binding to specific DNA sequences (CRE) and potentially modulating cellular responses to signals that increase cAMP levels."
+    },
+    {
+        "ground_truth": "This gene encodes an adaptor protein which functions in the epidermal growth factor (EGF) receptor-mediated signaling pathway. Multiple transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "Answer: The gene associated with SNP rs1188606225 is GAREM1, which encodes an adaptor protein that functions in the epidermal growth factor (EGF) receptor-mediated signaling pathway."
+    }, // 0.5
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs902730377 is LOC105372323, which is described as \"uncharacterized LOC105372323\". This indicates that there is currently no detailed functional information available for this gene."
+    },
+    {
+        "ground_truth": "This gene is a member of the GLI-similar zinc finger protein family and encodes a nuclear protein with five C2H2-type zinc finger domains. This protein functions as both a repressor and activator of transcription and is specifically involved in the development of pancreatic beta cells, the thyroid, eye, liver and kidney. Mutations in this gene have been associated with neonatal diabetes and congenital hypothyroidism (NDH). Alternatively spliced variants that encode different protein isoforms have been described but the full-length nature of only two have been determined.",
+        "answer": "Answer: The gene associated with SNP rs1044115387 is GLIS3, which encodes a nuclear protein with five C2H2-type zinc finger domains. This protein functions as both a repressor and activator of transcription and is specifically involved in the development of pancreatic beta cells, the thyroid, eye, liver, and kidney. Mutations in this gene have been associated with neonatal diabetes and congenital hypothyroidism (NDH)."
+    }, // 0.5
+    {
+        "ground_truth": "Involved in positive regulation of canonical Wnt signaling pathway. Located in nucleus.",
+        "answer": "Answer: The gene associated with SNP rs979980368 is FAM53B, and its function involves the positive regulation of the canonical Wnt signaling pathway. It is located in the nucleus."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1161130206 is EMX2OS, which is described as an \"EMX2 opposite strand/antisense RNA (non-protein coding).\" This suggests that the function of this gene involves regulation through antisense mechanisms rather than protein production."
+    },
+    {
+        "ground_truth": "Predicted to be involved in establishment of mitotic spindle orientation and regulation of establishment of bipolar cell polarity. Predicted to act upstream of or within behavioral fear response; equilibrioception; and locomotor rhythm. Predicted to be active in spindle.",
+        "answer": "Answer: The gene associated with SNP rs910422326 is ANKFN1, which is predicted to be involved in the establishment of mitotic spindle orientation and regulation of the establishment of bipolar cell polarity. It is also predicted to act upstream of or within behavioral fear response, equilibrioception, and locomotor rhythm, and is active in the spindle."
+    },
+    {
+        "ground_truth": "The protein encoded by this gene is a member of the transmembrane 4 superfamily, also known as the tetraspanin family. Most of these members are cell-surface proteins that are characterized by the presence of four hydrophobic domains. The proteins mediate signal transduction events that play a role in the regulation of cell development, activation, growth and motility. The use of alternate polyadenylation sites has been found for this gene.",
+        "answer": "Answer: The gene associated with SNP rs1035892430 is TSPAN15, which encodes tetraspanin 15. This protein is a member of the transmembrane 4 superfamily (also known as the tetraspanin family). These proteins mediate signal transduction events that play roles in regulating cell development, activation, growth, and motility."
+    },// 0.5
+    {
+        "ground_truth": "This gene encodes a member of the teneurin transmembrane protein family. The encoded protein may be involved in the regulation of neuronal development including development of the visual pathway. Mutations in this gene have been associated with microphthalmia and developmental dysplasia of the hip.",
+        "answer": "Answer: The gene associated with SNP rs1255093658 is TENM3, which encodes a member of the teneurin transmembrane protein family. This protein may be involved in the regulation of neuronal development including development of the visual pathway. Mutations in this gene have been associated with microphthalmia and developmental dysplasia of the hip."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1257276516 is LOC100506403, which is described as \"uncharacterized.\" This means there is currently no known function for this gene based on the available information from NCBI."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs563369098 is LINC01673, which is a long intergenic non-protein coding RNA (lncRNA). Its function is not explicitly detailed in the provided information, but lncRNAs are generally involved in various regulatory roles such as transcriptional regulation, chromatin modification, and post-transcriptional processing."
+    },
+    {
+        "ground_truth": "Enables RNA binding activity. Predicted to act upstream of or within several processes, including negative regulation of osteoblast differentiation; substrate adhesion-dependent cell spreading; and type II pneumocyte differentiation. Predicted to be located in endoplasmic reticulum.",
+        "answer": "Answer: The gene associated with SNP rs1032834815 is FNDC3B. According to the provided information, the FNDC3B gene enables RNA binding activity and is predicted to act upstream of or within several processes including negative regulation of osteoblast differentiation, substrate adhesion-dependent cell spreading, and type II pneumocyte differentiation. It is also predicted to be located in the endoplasmic reticulum."
+    },
+    {
+        "ground_truth": "This gene encodes retinoic acid receptor beta, a member of the thyroid-steroid hormone receptor superfamily of nuclear transcriptional regulators. This receptor localizes to the cytoplasm and to subnuclear compartments. It binds retinoic acid, the biologically active form of vitamin A which mediates cellular signalling in embryonic morphogenesis, cell growth and differentiation. It is thought that this protein limits growth of many cell types by regulating gene expression. The gene was first identified in a hepatocellular carcinoma where it flanks a hepatitis B virus integration site. Alternate promoter usage and differential splicing result in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs552952471 is RARB, which encodes retinoic acid receptor beta. This protein functions as a nuclear transcriptional regulator that binds to retinoic acid, the active form of vitamin A, and mediates cellular signaling in embryonic morphogenesis, cell growth, and differentiation. It limits the growth of many cell types by regulating gene expression."
+    }, // 0.5
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: LINC03021\n\nTo further understand the function of the gene **LINC03021**, we would typically look into its description or associated literature. However, based on the information provided by the API call, this gene is identified as being associated with SNP rs1452964195. The functional details are not explicitly stated in the response from the NCBI API and would require additional research beyond the scope of the current query capabilities."
+    },
+    {
+        "ground_truth": "The protein encoded by this gene is a neuronal calcium-binding protein that binds to and modulates the function of at least two receptors, adenosine A(2A) receptor and metabotropic glutamate receptor type 5.",
+        "answer": "Answer: The gene associated with SNP rs949202492 is NECAB2, which encodes the N-terminal EF-hand calcium binding protein 2. This protein binds to and modulates the function of at least two receptors, adenosine A(2A) receptor and metabotropic glutamate receptor type 5."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1218214598 is MIR4527HG, which functions as the host gene for MIR4527. However, no specific functional description beyond being a host gene was provided in the NCBI records."
+    },
+    {
+        "ground_truth": "Located in ciliary basal body.",
+        "answer": "Answer: The gene associated with SNP rs1022906840 is CCDC178, which is described as a coiled-coil domain-containing protein located in the ciliary basal body."
+    },
+    {
+        "ground_truth": "The protein encoded by this gene is a negative regulator of autophagy and endocytic trafficking and controls endosome maturation. This protein contains two conserved domains, an N-terminal RUN domain and a C-terminal DUF4206 domain. The RUN domain is involved in Ras-like GTPase signaling, and the DUF4206 domain contains a diacylglycerol (DAG) binding-like motif. Mutation in this gene results in deletion of the DAG binding-like motif and causes a recessive ataxia. Alternatively spliced transcript variants encoding distinct isoforms have been found for this gene.",
+        "answer": "Answer: The gene associated with SNP rs1199372758 is RUBCN, which encodes a protein that acts as a negative regulator of autophagy and endocytic trafficking and controls endosome maturation. This protein contains two conserved domains: an N-terminal RUN domain involved in Ras-like GTPase signaling, and a C-terminal DUF4206 domain containing a diacylglycerol (DAG) binding-like motif. Mutations in this gene can result in deletion of the DAG binding-like motif and cause recessive ataxia."
+    },
+    {
+        "ground_truth": "The protein encoded by this gene is a member of the protein tyrosine phosphatase (PTP) family. PTPs are known to be signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation. This PTP contains an extracellular domain, a single transmembrane segment and one intracytoplasmic catalytic domain, thus belongs to receptor type PTP. The extracellular region of this PTP is composed of multiple fibronectin type_III repeats, which was shown to interact with neuronal receptor and cell adhesion molecules, such as contactin and tenascin C. This protein was also found to interact with sodium channels, and thus may regulate sodium channels by altering tyrosine phosphorylation status. The functions of the interaction partners of this protein implicate the roles of this PTP in cell adhesion, neurite growth, and neuronal differentiation. Alternate transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "Answer: The gene associated with SNP rs1396355441 is PTPRB, which encodes protein tyrosine phosphatase receptor type B. This protein is involved in regulating various cellular processes including cell growth, differentiation, and neurite growth by altering the tyrosine phosphorylation status of its substrates. It interacts with neuronal receptor and cell adhesion molecules such as contactin and tenascin C, suggesting roles in cell adhesion and neuronal differentiation."
+    },//0.5
+    {
+        "ground_truth": "This gene encodes a member of the organic-cation transporter family. It is located in a gene cluster with another member of the family, organic cation transporter like 3. The encoded protein is a transmembrane protein which is thought to transport small molecules and since this protein is conserved among several species, it is suggested to have a fundamental role in mammalian systems. Alternative splicing results in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs1432624213 is SLC22A14, which encodes a member of the organic-cation transporter family. This protein is thought to transport small molecules and has a fundamental role in mammalian systems."
+    }, //0.5
+    {
+        "ground_truth": "This gene is a member of the intermediate filament family. Intermediate filaments are proteins which are primordial components of the cytoskeleton and nuclear envelope. The proteins encoded by the members of this gene family are evolutionarily and structurally related but have limited sequence homology, with the exception of the central rod domain. Multiple alternatively spliced transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "Answer: The gene associated with SNP rs937944577 is IFFO1, which encodes a member of the intermediate filament family. Intermediate filaments are proteins that serve as primordial components of the cytoskeleton and nuclear envelope. This particular gene has limited sequence homology to other members of its family except for the central rod domain. It plays a role in non-homologous end joining (NHEJ) factor processes, which is crucial for DNA repair mechanisms."
+    }, // 0.5
+    {
+        "ground_truth": "This gene encodes a component of the mediator complex (also known as TRAP, SMCC, DRIP, or ARC), a transcriptional coactivator complex thought to be required for the expression of almost all genes. The mediator complex is recruited by transcriptional activators or nuclear receptors to induce gene expression, possibly by interacting with RNA polymerase II and promoting the formation of a transcriptional pre-initiation complex. The product of this gene is proposed to form a sub-complex with MED12, cyclin C, and CDK8 that can negatively regulate transactivation by mediator.",
+        "answer": "Answer: The gene associated with SNP rs1450106117 is MED13, which encodes a component of the mediator complex. This complex acts as a transcriptional coactivator and is required for the expression of almost all genes. Specifically, it can be recruited by transcriptional activators or nuclear receptors to induce gene expression through interaction with RNA polymerase II and promotion of the formation of a transcriptional pre-initiation complex. The MED13 product forms a sub-complex with other proteins that can negatively regulate transactivation by mediator."
+    },
+    {
+        "ground_truth": "This gene encodes an essential regulator of mitochondrial Ca2+ uptake under basal conditions. The encoded protein interacts with the mitochondrial calcium uniporter, a mitochondrial inner membrane Ca2+ channel, and is essential in preventing mitochondrial Ca2+ overload, which can cause excessive production of reactive oxygen species and cell stress. Alternatively spliced transcript variants encoding different isoforms have been described.",
+        "answer": "Answer: The gene associated with SNP rs34083046 is MICU1, which encodes an essential regulator of mitochondrial Ca2+ uptake under basal conditions. This protein interacts with the mitochondrial calcium uniporter and prevents mitochondrial Ca2+ overload, thereby avoiding excessive production of reactive oxygen species and cell stress."
+    }, // 0.5
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs149916046 is LINC02841, which is described as a long intergenic non-protein coding RNA. Based on the information retrieved, there is no detailed functional description provided for this specific gene in the NCBI Gene database entry. Therefore, we can conclude that LINC02841 is involved in non-coding RNA functions, but more specific details about its role are not available from the current data."
+    },
+    {
+        "ground_truth": "This gene encodes a protein that belongs to the leucine-rich repeat and fibronectin type III domain-containing family of proteins. A similar protein in mouse, a glycosylated transmembrane protein, is thought to function in presynaptic differentiation.",
+        "answer": "Answer: The gene associated with SNP rs1385096481 is LRFN5, which encodes a protein that belongs to the leucine-rich repeat and fibronectin type III domain-containing family of proteins. A similar protein in mouse is thought to function in presynaptic differentiation."
+    }
+]

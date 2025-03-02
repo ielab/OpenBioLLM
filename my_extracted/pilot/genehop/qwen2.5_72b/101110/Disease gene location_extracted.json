@@ -1,0 +1,65 @@
+[ // correct:7 half:2 error:1
+    {
+        "ground_truth": [
+            "21q22.3"
+        ], // 1
+        "answer": "Answer: The gene related to Hemolytic anemia due to phosphofructokinase deficiency is PFKL, which is located on chromosome 21q22.3 in humans."
+    },
+    {
+        "ground_truth": [
+            "17q21.31",
+            "7q34"
+        ], // half 1/2
+        "answer": "It looks like you've provided a snippet of data from the NCBI Gene database, which contains detailed information about several genes in humans and mice. Here’s a summary of the key details for each gene:\n\n### 1. **SLC4A1 (Solute Carrier Family 4 Member 1)**\n   - **Gene ID:** 6521\n   - **Chromosome:** 17q21.31\n   - **Function:** Encodes a protein that is part of the anion exchanger family, expressed in the erythrocyte plasma membrane. It functions as a chloride/bicarbonate exchanger involved in carbon dioxide transport.\n   - **Diseases Associated:**\n     - Hereditary spherocytosis\n     - Distal renal tubular acidosis\n     - Southeast Asian ovalocytosis (SAO)\n   - **Blood Group System:** Diego blood group system\n\n### 2. **CA2 (Carbonic Anhydrase 2)**\n   - **Gene ID:** 760\n   - **Chromosome:** 8q21.2\n   - **Function:** Encodes one of several isozymes of carbonic anhydrase, which catalyzes the reversible hydration of carbon dioxide.\n   - **Diseases Associated:**\n     - Osteopetrosis\n     - Renal tubular acidosis\n\n### 3. **Slc4a1 (Solute Carrier Family 4 Member 1) in Mouse**\n   - **Gene ID:** 20533\n   - **Chromosome:** 11 D\n   - **Function:** Similar to the human SLC4A1 gene, it encodes a protein involved in anion transport and is expressed in various tissues.\n   - **Diseases Associated:**\n     - Hereditary spherocytosis type 4\n     - Renal tubular acidosis\n\n### 4. **ATP6V1B1 (ATPase H+ Transporting V1 Subunit B1)**\n   - **Gene ID:** 525\n   - **Chromosome:** 2p13.3\n   - **Function:** Encodes a component of vacuolar ATPase (V-ATPase), which mediates the acidification of intracellular organelles.\n   - **Diseases Associated:**\n     - Distal renal tubular acidosis associated with sensorineural deafness\n\n### 5. **KCNJ1 (Potassium Inwardly Rectifying Channel Subfamily J Member 1)**\n   - **Gene ID:** 3758\n   - **Chromosome:** 11q24.3\n   - **Function:** Encodes an integral membrane protein and inward-rectifier type potassium channel, activated by internal ATP.\n   - **Diseases Associated:**\n     - Antenatal Bartter syndrome (characterized by salt wasting, hypokalemic alkalosis, hypercalciuria, and low blood pressure)\n\n### Summary of Key Points:\n- **SLC4A1** is crucial for anion exchange in erythrocytes and can lead to hereditary spherocytosis or renal tubular acidosis when defective.\n- **CA2** plays a role in carbon dioxide metabolism and is associated with osteopetrosis and renal tubular acidosis.\n- **Slc4a1** in mice has similar functions and associations as the human SLC4A1 gene.\n- **ATP6V1B1** is involved in organelle acidification and can cause distal renal tubular acidosis with sensorineural deafness when mutated.\n- **KCNJ1** is an inward-rectifier potassium channel important for potassium homeostasis and is linked to antenatal Bartter syndrome.\n\nIf you have specific questions or need more detailed information about any of these genes, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "20q13.32"
+        ], // 1
+        "answer": "Answer: The gene related to Pseudohypoparathyroidism Ic is GNAS, and its chromosome location in humans is 20q13.32."
+    },
+    {
+        "ground_truth": [
+            "6p21.1"
+        ], // 1
+        "answer": "Answer: The chromosome location of the human gene GNMT (glycine N-methyltransferase) is 6p21.1, located on chromosome 6."
+    },
+    {
+        "ground_truth": [
+            "17q21.2",
+            "12q13.13"
+        ], // half 1/2
+        "answer": "For KRT3 in humans (Gene ID: 3850):\n- Chromosome: 12\n- Location: 12q13.13\n\nCombining the information for both genes:\n- **KRT12**:\n  - Chromosome: 5\n  - Location: 5q31.1\n\n- **KRT3**:\n  - Chromosome: 12\n  - Location: 12q13.13\n\nAnswer: KRT12 is located on chromosome 5 at 5q31.1, and KRT3 is located on chromosome 12 at 12q13.13."
+    },
+    {
+        "ground_truth": [
+            "3p24.3"
+        ], // 1
+        "answer": "Answer: The gene related to Chronic Atrial and Intestinal Dysrhythmia (CAID) is SGO1, which is located on chromosome 3 at position 3p24.3 in humans."
+    },
+    {
+        "ground_truth": [
+            "1p32.3"
+        ], // 1
+        "answer": "Answer: The gene associated with Bartter syndrome type 4A (BARTS4A) is **BSND** (barttin CLCNK type accessory subunit beta), which is located on chromosome 1 at position 1p32.3."
+    },
+    {
+        "ground_truth": [
+            "13q33.1",
+            "15q22.31"
+        ], // 0
+        "answer": "Answer: \n- AMACR (alpha-methylacyl-CoA racemase) is located on chromosome 5 at position p13.2.\n- CYP7A1 (cytochrome P450 family 7 subfamily A member 1) is located on chromosome 8 at position q12.1.\n- SLC10A2 (solute carrier family 10 member 2) is located on chromosome 13 at position q33.1."
+    },
+    {
+        "ground_truth": [
+            "1q22"
+        ], // 1
+        "answer": "Answer: The gene LAMTOR2, which is associated with Immunodeficiency due to defect in MAPBP-interacting protein, is located on chromosome 1 at position 1q22."
+    },
+    {
+        "ground_truth": [
+            "7q36.3"
+        ], // 1
+        "answer": "Answer: The gene related to Currarino syndrome is MNX1, which is located on chromosome 7q36.3 in humans."
+    }
+]

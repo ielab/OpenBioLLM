@@ -1,0 +1,45 @@
+[ // correct:7 half:0 error:3
+    {
+        "ground_truth": "chr8",
+        "answer": "Answer: Chromosome 8"
+    },
+    {
+        "ground_truth": "chrY",
+        "answer": "Answer: Chromosome Y"
+    },
+    {
+        "ground_truth": "chr16",
+        "answer": "numError"
+    },
+    // 0 
+    {
+        "ground_truth": "chr1",
+        "answer": "Answer: Chromosome 1; Location: 1q25.3"
+    },
+    {
+        "ground_truth": "chr3",
+        "answer": "Answer: Chromosome 3; Location: 3q22.3"
+    },
+    {
+        "ground_truth": "chr8",
+        "answer": "The gene RP11-34P13.7 (also known as RP11-34P13.7 or RP11-34P13) is located on chromosome 19 in the human genome. Specifically, it is found at the following coordinates:\n\n**Chromosome:** 19  \n**Start Position:** 54,115,705  \n**End Position:** 54,131,718\n\nThis information is based on the latest annotation releases and assembly versions of the human genome. If you need more detailed or specific information, feel free to ask!"
+    },
+    // 0 Data source limitation non-coding gene
+    {
+        "ground_truth": "chr11",
+        "answer": "Answer: Chromosome 11; Location: 11q12.3"
+    },
+    {
+        "ground_truth": "chr19",
+        "answer": "Answer: Chromosome 19"
+    },
+    {
+        "ground_truth": "chr4",
+        "answer": "It seems that the gene identifier ENSG10010137169.1 does not return any results in the NCBI Gene database, which might indicate an error in the identifier or that it is not recognized by this database. Would you like to try another identifier or provide more context?"
+    },
+    // 0 Data source limitation
+    {
+        "ground_truth": "chr2",
+        "answer": "Answer: Chromosome 2"
+    }
+]

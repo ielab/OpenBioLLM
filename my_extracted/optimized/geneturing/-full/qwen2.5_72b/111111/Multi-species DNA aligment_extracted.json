@@ -1,0 +1,202 @@
+[ // correct:45 half:0 error:5
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (yeast)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The sequence does not match any known organism in the database."
+    }, // 0
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (Baker's yeast)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus (Norway rat)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (turkey)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus (Norway rat)"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human) and Pan troglodytes (chimpanzee)\n\nThe sequence aligns perfectly with sequences from both human and chimpanzee chromosomes. Specifically, it matches a region on the human X chromosome and the chimpanzee X chromosome."
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (turkey)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (Human)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known sequences in the NCBI nucleotide database, indicating that it may be from an organism or a part of the genome that is not well-represented or has not been sequenced and deposited in the database yet."
+    }, // 0
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known sequences in the NCBI nucleotide database, indicating that it may be from an organism not represented in the database or is a synthetic sequence."
+    }, // 0
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known sequences in the NCBI nucleotide database, indicating that it may be from an organism or a part of the genome that is not well-represented in the database, or there might be an error in the sequence."
+    }, // 0
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (Human)"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus (chicken)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (yeast)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (Baker's yeast)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens, Pan troglodytes\n\nThe sequence aligns perfectly with sequences from *Homo sapiens* and shows a very high similarity to a sequence from *Pan troglodytes*. Given the perfect match, it is most likely that the DNA sequence originates from *Homo sapiens*. However, due to the close evolutionary relationship between humans and chimpanzees, the sequence could also be from *Pan troglodytes* if the context suggests so."
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus (chicken)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known sequences in the NCBI nucleotide database, indicating that it may be from an organism or a part of the genome that is not well-represented or has not been sequenced and deposited in the database yet."
+    }, // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (Baker's yeast)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known sequences in the NCBI nucleotide database, indicating that it may be from an organism or a part of the genome that is not well-represented or has not been sequenced and deposited in the database yet."
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    }
+]

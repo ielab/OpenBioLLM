@@ -1,0 +1,42 @@
+[ // correct:9 half:0 error:1
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (baker's yeast)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The sequence does not match any known organism in the database."
+    },// 0
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (Baker's yeast)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    }
+]

@@ -1,0 +1,42 @@
+[ // correct:10 half:0 error:0
+    {
+        "ground_truth": "PSMB10",
+        "answer": "Answer: PSMB10"
+    },
+    {
+        "ground_truth": "SLC38A6",
+        "answer": "Answer: SLC38A6"
+    },
+    {
+        "ground_truth": "FCGR3A",
+        "answer": "Answer: FCGR3A"
+    },
+    {
+        "ground_truth": "FNDC11",
+        "answer": "Answer: FNDC11"
+    },
+    {
+        "ground_truth": "EOLA2",
+        "answer": "Answer: EOLA2"
+    },
+    {
+        "ground_truth": "QSOX2",
+        "answer": "Answer: QSOX2"
+    },
+    {
+        "ground_truth": "OR10A2",
+        "answer": "Answer: OR10A2"
+    },
+    {
+        "ground_truth": "NUP50",
+        "answer": "Answer: NUP50"
+    },
+    {
+        "ground_truth": "MLLT10",
+        "answer": "Answer: MLLT10"
+    },
+    {
+        "ground_truth": "MRPL57",
+        "answer": "Answer: MRPL57"
+    }
+]

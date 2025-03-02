@@ -1,0 +1,251 @@
+[ // correct:36 half:4 error:10
+    {
+        "ground_truth": "PFKL",
+        "answer": "Answer: PFKL"
+    },
+    // 1
+    {
+        "ground_truth": "SLC4A1, ATP6V0A4",
+        "answer": "Answer: ATP6V1B1, ATP6V0A4, SLC4A1, KCNJ1, WDPCP\n\nNote: The OMIM entries provided do not directly list the genes but rather describe conditions related to distal renal tubular acidosis. Based on known genetic associations with this condition, the genes listed above are commonly associated with various forms of distal renal tubular acidosis. For precise gene-to-condition mapping, further investigation into each OMIM entry would be required."
+    },
+    // 1
+    {
+        "ground_truth": "GNAS",
+        "answer": "Answer: GNAS"
+    },
+    // 1
+    {
+        "ground_truth": "GNMT",
+        "answer": "Answer: GNMT, GAMT"
+    },
+    // 1
+    {
+        "ground_truth": "KRT12, KRT3",
+        "answer": "Answer: KRT12, KRT3"
+    },
+    // 1
+    {
+        "ground_truth": "SGO1",
+        "answer": "Answer: SGOL1"
+    },
+    // 1
+    {
+        "ground_truth": "BSND",
+        "answer": "Answer: BARTS4A"
+    },
+    // 0
+    {
+        "ground_truth": "SLC10A2, SLC51B",
+        "answer": "Answer: SLC10A2"
+    },
+    // 1
+    {
+        "ground_truth": "LAMTOR2",
+        "answer": "Answer: LAMTOR2"
+    },
+    // 1
+    {
+        "ground_truth": "MNX1",
+        "answer": "Answer: MNX1, PCSK5, GDF11"
+    },// 1
+    {
+        "ground_truth": "COL9A3",
+        "answer": "Answer: COL9A3, CILP"
+    },
+    // 1
+    {
+        "ground_truth": "EYA1, PAX1",
+        "answer": "Answer: PAX1, EYA1"
+    },
+    // 1
+    {
+        "ground_truth": "ATP2A1",
+        "answer": "Answer: ATP2A1"
+    },
+    // 1
+    {
+        "ground_truth": "TCEAL1",
+        "answer": "Answer: GRIA4, PLAA"
+    },
+    // 0
+    {
+        "ground_truth": "POLG",
+        "answer": "Answer: POLG"
+    },
+    // 1
+    {
+        "ground_truth": "CFHR5",
+        "answer": "Answer: CFHR5"
+    },
+    // 1
+    {
+        "ground_truth": "CNGA3, CNGB3, GNAT2, PDE6H, ATF6",
+        "answer": "Answer: GNAT2, PDE6H, CNGB3, CNGA3"
+    },
+    //4/5
+    {
+        "ground_truth": "PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH",
+        "answer": "Answer: PTS, QDPR, HPABH4A, HPABH4B, HPABH4C, HPABH4D, PKU, HPANBH4, FEZ1, DNAJC12\n\nNote: The genes related to Hyperphenylalaninemia include PTS and QDPR which are directly associated with the condition. Others like HPABH4A, HPABH4B, HPABH4C, HPABH4D (which refer to different types of BH4-deficient hyperphenylalaninemia), PKU (Phenylketonuria), and HPANBH4 (mild non-BH4-deficient hyperphenylalaninemia) are also related. FEZ1 and DNAJC12 were listed but their direct relation to Hyperphenylalaninemia is less clear from the provided information, as they do not have a locus directly associated with the condition in the summary data."
+    },
+    // 3/6
+    {
+        "ground_truth": "MIR184",
+        "answer": "Answer: MIR184"
+    },
+    // 1
+    {
+        "ground_truth": "PI4KA, TTC7A",
+        "answer": "Answer: GIDID1, GIDID2"
+    },
+    // 0
+    {
+        "ground_truth": "TBX22",
+        "answer": "Answer: TBX22"
+    },
+    // 1
+    {
+        "ground_truth": "DLL1",
+        "answer": "Answer: Sfpq, 614501, 619072, 619512, 619908, 618443\n\nNote: The response includes OMIM entries related to the queried condition. However, only one entry (Sfpq) directly provides a gene symbol. Other entries are identified by their unique OMIM IDs as no specific genes were listed in the summaries provided for those conditions."
+    },
+    // 0
+    {
+        "ground_truth": "FLNB",
+        "answer": "Answer: FLNB, MYH3"
+    },
+    // 1
+    {
+        "ground_truth": "CTSC",
+        "answer": "Answer: CTSC"
+    },
+    // 1
+    {
+        "ground_truth": "NEU1",
+        "answer": "Answer: NEU1, NEU4"
+    },
+    // 1
+    {
+        "ground_truth": "FITM2",
+        "answer": "Answer: FITM2, BCS1L"
+    },
+    // 1
+    {
+        "ground_truth": "PIKFYVE",
+        "answer": "Answer: PAX6, PIKFYVE"
+    },
+    // 1
+    {
+        "ground_truth": "TRMU",
+        "answer": "Answer: ILFS1, ILFS2, ILFS3, LFIT"
+    },
+    // 0
+    {
+        "ground_truth": "PSMB9, PSMG2, POMP, PSMB10",
+        "answer": "Answer: PSMB8, PSMB10, PSMG2, PSMB4"
+    },
+    // 2/4
+    {
+        "ground_truth": "C2CD3",
+        "answer": "Answer: C2CD3"
+    },
+    // 1
+    {
+        "ground_truth": "CYLD",
+        "answer": "Answer: CYLD, PTCH1"
+    },
+    // 1
+    {
+        "ground_truth": "RET",
+        "answer": "Answer: RET, MEN2A, FOXE1, CTAG1B\n\nNote: The genes directly related to Medullary thyroid carcinoma from the provided information are RET (from MTC entry) and MEN2A. Additionally, FOXE1 and CTAG1B were found in the search results but are more generally associated with thyroid cancer types; their specific roles in medullary thyroid carcinoma should be further investigated."
+    },
+    // 1
+    {
+        "ground_truth": "HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6",
+        "answer": "Answer: T2D4, T1D8, T1D3, T1D11, T1D15, T1D18, T1D21, TID17, T1D22, T1D13\n\nNote: The OMIM entries found are related to Type 1 and Type 2 diabetes mellitus. However, the question asks for genes related to \"Type diabetes mellitus,\" which is not a specific type but rather an umbrella term that includes both types of diabetes. Therefore, I have listed all relevant entries from the search results."
+    },
+    // 0
+    {
+        "ground_truth": "LEMD3",
+        "answer": "Answer: LEMD3"
+    },
+    // 1
+    {
+        "ground_truth": "ELMO2",
+        "answer": "Answer: ENG, CCM2, CCM3, PIK3CA\n\nNote: The provided information does not directly list genes but rather genetic disorders related to vascular malformations. Based on the context of vascular malformation genetic disorders listed (e.g., Hereditary Hemorrhagic Telangiectasia which is associated with ENG, CCM2, and CCM3 genes), and considering PIK3CA as a gene often involved in capillary malformations, these are inferred to be related genes. However, the direct answer from the provided data would require further specific queries for each disorder listed to identify the exact genes involved."
+    },
+    // 0
+    {
+        "ground_truth": "KIF7",
+        "answer": "Answer: KIF7, GLI3"
+    },
+    // 1
+    {
+        "ground_truth": "NGLY1, MAN2C1",
+        "answer": "Answer: NGLY1, MAN2C1, ATP6AP1, CANT1"
+    },
+    // 1
+    {
+        "ground_truth": "TRIP4, ASCC1",
+        "answer": "Answer: ASCC1, TRIP4, LMNA"
+    },
+    // 1
+    {
+        "ground_truth": "TOP2B",
+        "answer": "Answer: The search results do not directly provide specific genes related to B-cell immunodeficiency but rather OMIM entries for various types of immunodeficiencies that may involve B-cells. To find the specific genes, we would need to further investigate each entry or refine our search terms to target genes more specifically.\n\nHowever, based on the provided information, some conditions listed are associated with severe combined immunodeficiency (SCID) and other forms of immunodeficiency which can affect B-cell development and function. Further investigation into these OMIM entries could reveal specific genes involved in each condition."
+    },
+    // 0
+    {
+        "ground_truth": "ARPC1B",
+        "answer": "Answer: ARPC1B, STIM1"
+    },
+    // 1
+    {
+        "ground_truth": "MAP3K20",
+        "answer": "Answer: MAP3K20, TP63"
+    },
+    // 1
+    {
+        "ground_truth": "PRKAR1A, PDE11A, PDE8B",
+        "answer": "Answer: PRKAR1A, PDE11A, CNC1, PRKACA\n\nThe genes related to Pigmented nodular adrenocortical disease include **PRKAR1A**, **PDE11A**, **CNC1**, and **PRKACA**. These genes are associated with the condition based on OMIM records."
+    },
+    // 2/3
+    {
+        "ground_truth": "SOD3",
+        "answer": "Answer: SOD1, SOD2, SOD3"
+    },
+    // 1
+    {
+        "ground_truth": "SCP2",
+        "answer": "Answer: SCP2"
+    },
+    // 1
+    {
+        "ground_truth": "IL6",
+        "answer": "Answer: CCM, IL6, COL4A1, HHT1"
+    },
+    // 1
+    {
+        "ground_truth": "COQ2",
+        "answer": "Answer: MSA1 (Multiple System Atrophy 1, Susceptibility To) is the gene related to Multiple system atrophy from the provided OMIM search results. Other entries in the list do not directly relate to multiple system atrophy but are associated with various conditions involving atrophy."
+    },
+    // 0
+    {
+        "ground_truth": "PDE6C, GUCA1A",
+        "answer": "Answer: RCD1, CORD1, CORD2, CORD8, CORD17, NFRCD\n\nNote: The OMIM entries provide titles for genetic diseases related to cone dystrophy. However, the specific genes associated with these conditions are not directly listed in the summaries provided by the API calls. For a more precise answer regarding the exact genes involved, further investigation into each OMIM entry would be required."
+    },
+    // 0
+    {
+        "ground_truth": "TBX5",
+        "answer": "Answer: TBX5"
+    },
+    // 1
+    {
+        "ground_truth": "SLC9A1",
+        "answer": "Answer: SLC9A1"
+    },
+    // 1
+    {
+        "ground_truth": "TWIST2",
+        "answer": "Answer: TWIST2, FRAS1"
+    }
+    // 1
+]

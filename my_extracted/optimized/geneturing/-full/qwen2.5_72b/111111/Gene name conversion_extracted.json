@@ -1,0 +1,202 @@
+[ // correct:50 half:0 error:0
+    {
+        "ground_truth": "FASTKD5",
+        "answer": "Answer: FASTKD5"
+    },
+    {
+        "ground_truth": "CFI",
+        "answer": "Answer: CFI"
+    },
+    {
+        "ground_truth": "SLC12A6",
+        "answer": "Answer: SLC12A6"
+    },
+    {
+        "ground_truth": "TKFC",
+        "answer": "Answer: TKFC"
+    },
+    {
+        "ground_truth": "TMEM276",
+        "answer": "Answer: TMEM276"
+    },
+    {
+        "ground_truth": "P2RY14",
+        "answer": "Answer: P2RY14"
+    },
+    {
+        "ground_truth": "GLCE",
+        "answer": "Answer: GLCE"
+    },
+    {
+        "ground_truth": "ADCY6",
+        "answer": "Answer: ADCY6"
+    },
+    {
+        "ground_truth": "MICU2",
+        "answer": "Answer: MICU2"
+    },
+    {
+        "ground_truth": "SEMG2",
+        "answer": "Answer: SEMG2"
+    },
+    {
+        "ground_truth": "ADGRG3",
+        "answer": "Answer: ADGRG3"
+    },
+    {
+        "ground_truth": "IGLL1",
+        "answer": "Answer: IGLL1"
+    },
+    {
+        "ground_truth": "ZNF500",
+        "answer": "Answer: ZNF500"
+    },
+    {
+        "ground_truth": "MTG1",
+        "answer": "Answer: MTG1"
+    },
+    {
+        "ground_truth": "CIBAR1",
+        "answer": "Answer: CIBAR1"
+    },
+    {
+        "ground_truth": "CST7",
+        "answer": "Answer: CST7"
+    },
+    {
+        "ground_truth": "ABCD3",
+        "answer": "Answer: ABCD3"
+    },
+    {
+        "ground_truth": "LCA5",
+        "answer": "Answer: LCA5"
+    },
+    {
+        "ground_truth": "SLC15A4",
+        "answer": "Answer: SLC15A4"
+    },
+    {
+        "ground_truth": "ANKK1",
+        "answer": "Answer: ANKK1"
+    },
+    {
+        "ground_truth": "MAGEA1",
+        "answer": "Answer: MAGEA1"
+    },
+    {
+        "ground_truth": "ADCYAP1R1",
+        "answer": "Answer: ADCYAP1R1"
+    },
+    {
+        "ground_truth": "NLRP1",
+        "answer": "Answer: NLRP1"
+    },
+    {
+        "ground_truth": "HTR7",
+        "answer": "Answer: HTR7"
+    },
+    {
+        "ground_truth": "PRKX",
+        "answer": "Answer: PRKX"
+    },
+    {
+        "ground_truth": "CCR5",
+        "answer": "Answer: CCR5"
+    },
+    {
+        "ground_truth": "KIF26B",
+        "answer": "Answer: KIF26B"
+    },
+    {
+        "ground_truth": "DIAPH2",
+        "answer": "Answer: DIAPH2"
+    },
+    {
+        "ground_truth": "TNFSF4",
+        "answer": "Answer: TNFSF4"
+    },
+    {
+        "ground_truth": "TMUB2",
+        "answer": "Answer: TMUB2"
+    },
+    {
+        "ground_truth": "AJUBA",
+        "answer": "Answer: AJUBA"
+    },
+    {
+        "ground_truth": "THOP1",
+        "answer": "Answer: THOP1"
+    },
+    {
+        "ground_truth": "FAM47E",
+        "answer": "Answer: FAM47E"
+    },
+    {
+        "ground_truth": "MYO6",
+        "answer": "Answer: MYO6"
+    },
+    {
+        "ground_truth": "PRR9",
+        "answer": "Answer: PRR9"
+    },
+    {
+        "ground_truth": "FLRT1",
+        "answer": "Answer: FLRT1"
+    },
+    {
+        "ground_truth": "IDS",
+        "answer": "Answer: IDS"
+    },
+    {
+        "ground_truth": "CHST15",
+        "answer": "Answer: CHST15"
+    },
+    {
+        "ground_truth": "FBXO46",
+        "answer": "Answer: FBXO46"
+    },
+    {
+        "ground_truth": "SPTLC3",
+        "answer": "Answer: SPTLC3"
+    },
+    {
+        "ground_truth": "EGR1",
+        "answer": "Answer: EGR1"
+    },
+    {
+        "ground_truth": "ZNF280A",
+        "answer": "Answer: ZNF280A"
+    },
+    {
+        "ground_truth": "TEKT5",
+        "answer": "Answer: TEKT5"
+    },
+    {
+        "ground_truth": "ZNF404",
+        "answer": "Answer: ZNF404"
+    },
+    {
+        "ground_truth": "JMJD7-PLA2G4B",
+        "answer": "Answer: JMJD7-PLA2G4B"
+    },
+    {
+        "ground_truth": "ATP6V0C",
+        "answer": "Answer: ATP6V0C"
+    },
+    {
+        "ground_truth": "PNMA2",
+        "answer": "Answer: PNMA2"
+    },
+    {
+        "ground_truth": "TMIGD2",
+        "answer": "Answer: TMIGD2"
+    },
+    {
+        "ground_truth": "ZNF487",
+        "answer": "Answer: ZNF487"
+    },
+    {
+        "ground_truth": "EMILIN2",
+        "answer": "Answer: EMILIN2"
+    }
+]

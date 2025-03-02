@@ -1,0 +1,42 @@
+[ // correct:0 half:10 error:0
+    {
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "Answer: chr15:92493309-92494181"
+    }, //0.5
+    {
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "Answer: chr8:35025-35159"
+    },//0.5
+    {
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "Answer: chr10:42152-42288"
+    },//0.5
+    {
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "It seems like the BLAST search results were not found or there was an error in retrieving them. However, based on the initial BLAST output provided, the DNA sequence aligns perfectly to a region on chromosome 7 of the human genome.\n\nThe alignment details indicate that the query sequence matches exactly with a segment from AC004874.1, which is part of Homo sapiens PAC clone RP4-744D13 from chromosome 7. The exact genomic coordinates for this match are:\n\n**chr7:25483-25584**\n\nThis means the sequence aligns to positions 25483 through 25584 on chromosome 7 of the human genome.\n\nIf you need further details or have additional questions, feel free to ask!"
+    },//0.5
+    {
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "Answer: chr17:146805-146941"
+    },//0.5
+    {
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "Answer: chr6:30084-30221"
+    },//0.5
+    {
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "Answer: chr22:15029167-15029316"
+    },//0.5
+    {
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "Answer: chr21:120861-120980"
+    },//0.5
+    {
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "Answer: chr21:25347-25447"
+    },//0.5
+    {
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "Answer: chr18:38671627-38671737"
+    }//0.5
+]

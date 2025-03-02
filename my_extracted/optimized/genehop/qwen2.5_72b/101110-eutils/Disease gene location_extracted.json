@@ -1,0 +1,330 @@
+[ // correct:27 half:6 error:17
+    {
+        "ground_truth": [
+            "21q22.3"
+        ],
+        "answer": "Answer: The gene related to Hemolytic anemia due to phosphofructokinase deficiency is PFKL, which is located on chromosome 21 at the position 21q22.3 (chrstart: 44300052, chrstop: 44327372)."
+    },
+    {
+        "ground_truth": [
+            "17q21.31",
+            "7q34"
+        ], // 0
+        "answer": "From the API responses, we have identified the chromosome locations for some of the genes related to Distal Renal Tubular Acidosis (dRTA). Here are the results:\n\n1. **SLC4A1**:\n   - Chromosome: 15\n   - Location: 15q22.31\n\n2. **ATP6V1B1**:\n   - Chromosome: 14\n   - Location: 14q32.33\n\nHowever, the following entries did not return valid gene summaries or had issues:\n\n- **KCNJ1 (Gene ID: 28190102)**: No document summary.\n- **ATP6V0A4 (Gene ID: 16611712)**: No document summary.\n- **CA2 (Gene ID: 600730)**: No document summary.\n- **DRTA4 and DRTA1 (Locus ID: 614526)**: Discontinued record.\n- **DRTA3 (Locus ID: 16611712)**: No document summary.\n- **HOMG3 (Locus ID: 10878661)**: Hypothetical protein, no chromosome location provided.\n- **ARCS1 (Locus ID: 17994566)**: ArsR family transcriptional regulator, no chromosome location provided.\n- **HDRS (Locus ID: 606813)**: Leucine rich repeat containing 18, but the organism is Canis lupus familiaris (dog), not human.\n\n### Final Answer:\nThe genes related to Distal Renal Tubular Acidosis with their chromosome locations are:\n\n- **SLC4A1**: Chromosome 15, Location 15q22.31\n- **ATP6V1B1**: Chromosome 14, Location 14q32.33\n\nAnswer: SLC4A1 (Chromosome 15, Location 15q22.31), ATP6V1B1 (Chromosome 14, Location 14q32.33)"
+    },
+    {
+        "ground_truth": [
+            "20q13.32"
+        ], // 0
+        "answer": "Answer: The chromosome location of the gene RALGAPA2, which is related to Pseudohypoparathyroidism Ic, is 20p11.23 in humans."
+    },
+    {
+        "ground_truth": [
+            "6p21.1"
+        ],
+        "answer": "From the results, we have identified the gene **GAMT** (Guanidinoacetate N-methyltransferase) in humans and its chromosome location:\n\n- **Gene Name**: GAMT\n- **Chromosome Location**: 19p13.3\n\n### Summary of Chromosome Locations:\n- **GNMT (Glycine N-methyltransferase)**: \n  - **Human**: Chromosome 6p21.1\n- **GAMT (Guanidinoacetate N-methyltransferase)**:\n  - **Human**: Chromosome 19p13.3\n\nThese genes are involved in different metabolic pathways but both play crucial roles in methyltransferase activities and can be associated with specific deficiencies when defective."
+    },
+    {
+        "ground_truth": [
+            "17q21.2",
+            "12q13.13"
+        ],
+        "answer": "Answer: The chromosome locations of the genes related to Meesmann corneal dystrophy are as follows:\n- **KRT12**: Chromosome 17q21.2 (Human)\n- **KRT3**: Chromosome 12q13.13 (Human)"
+    },
+    {
+        "ground_truth": [
+            "3p24.3"
+        ], // 0
+        "answer": "Answer: The gene related to Chronic Atrial and Intestinal Dysrhythmia (CAID) is SGO1, which is located on chromosome 3 at position 3p25.3 in humans."
+    },
+    {
+        "ground_truth": [
+            "1p32.3"
+        ], // 0
+        "answer": "The provided data is a summary of gene information from the NCBI Gene database, specifically for genes related to sensorineural hearing loss with renal involvement. Here's a concise overview of each gene:\n\n### 1. **GATA3 (Gene ID: 2625)**\n- **Chromosome:** 10p14\n- **Description:** GATA binding protein 3 is a transcription factor that plays a role in the development and function of various tissues, including the inner ear and kidney.\n- **Relevance:** Mutations in GATA3 are associated with hypoparathyroidism, sensorineural deafness, and renal disease (HDR syndrome).\n\n### 2. **GJB2 (Gene ID: 2798)**\n- **Chromosome:** 13q11-q12\n- **Description:** Gap junction protein beta 2 is a component of gap junctions, which are channels that allow direct communication between adjacent cells.\n- **Relevance:** Mutations in GJB2 are the most common cause of hereditary nonsyndromic sensorineural deafness. Some variants may also be associated with renal abnormalities.\n\n### 3. **GJB6 (Gene ID: 2799)**\n- **Chromosome:** 13q11-q12\n- **Description:** Gap junction protein beta 6 is another component of gap junctions, similar to GJB2.\n- **Relevance:** Mutations in GJB6 can also cause nonsyndromic sensorineural deafness and may be associated with renal involvement in some cases.\n\n### 4. **MYO15A (Gene ID: 4639)**\n- **Chromosome:** 17p11.2\n- **Description:** Myosin XVa is a motor protein that plays a crucial role in the development and maintenance of hair cells in the inner ear.\n- **Relevance:** Mutations in MYO15A are associated with nonsyndromic hearing loss (DFNB3) and may also be linked to renal abnormalities.\n\n### 5. **SLC26A4 (Gene ID: 5149)**\n- **Chromosome:** 7q31\n- **Description:** Solute carrier family 26 member 4 is an ion transporter that plays a role in the regulation of chloride and iodide transport.\n- **Relevance:** Mutations in SLC26A4 are associated with Pendred syndrome, which includes sensorineural hearing loss and goiter. Some variants may also cause renal involvement.\n\n### 6. **EYA1 (Gene ID: 8350)**\n- **Chromosome:** 8q13.3\n- **Description:** Eya homolog 1 is a transcriptional coactivator that plays a role in the development of various organs, including the ear and kidney.\n- **Relevance:** Mutations in EYA1 are associated with Branchio-Oto-Renal (BOR) syndrome, which includes sensorineural hearing loss and renal abnormalities.\n\n### 7. **PAX2 (Gene ID: 5081)**\n- **Chromosome:** 10q24\n- **Description:** Paired box 2 is a transcription factor involved in the development of the kidney, eye, and ear.\n- **Relevance:** Mutations in PAX2 are associated with renal-coloboma syndrome, which includes sensorineural hearing loss and renal abnormalities.\n\n### 8. **CDH23 (Gene ID: 1019)**\n- **Chromosome:** 10q21-q22\n- **Description:** Cadherin-related 23 is a cell adhesion molecule that plays a role in the development and function of hair cells in the inner ear.\n- **Relevance:** Mutations in CDH23 are associated with Usher syndrome type 1D, which includes sensorineural hearing loss and retinitis pigmentosa. Some variants may also cause renal involvement.\n\n### 9. **TMC1 (Gene ID: 7085)**\n- **Chromosome:** 9q21.13\n- **Description:** Transmembrane channel-like 1 is a protein that plays a role in the mechanotransduction of hair cells in the inner ear.\n- **Relevance:** Mutations in TMC1 are associated with nonsyndromic sensorineural hearing loss (DFNA36 and DFNB7/11) and may also be linked to renal abnormalities.\n\n### 10. **TECTA (Gene ID: 7028)**\n- **Chromosome:** 1q43\n- **Description:** Tectorin alpha is a component of the tectorial membrane in the inner ear, which is involved in the mechanotransduction process.\n- **Relevance:** Mutations in TECTA are associated with nonsyndromic sensorineural hearing loss (DFNA8/12) and may also be linked to renal involvement.\n\n### 11. **GATA4 (Gene ID: 2623)**\n- **Chromosome:** 8p23.1\n- **Description:** GATA binding protein 4 is a transcription factor that plays a role in the development of various organs, including the heart and kidney.\n- **Relevance:** Mutations in GATA4 are associated with congenital heart defects and may also be linked to sensorineural hearing loss and renal abnormalities.\n\n### 12. **GATA5 (Gene ID: 8193)**\n- **Chromosome:** 20q13.3\n- **Description:** GATA binding protein 5 is a transcription factor that plays a role in the development of various organs, including the heart and kidney.\n- **Relevance:** Mutations in GATA5 are associated with congenital heart defects and may also be linked to sensorineural hearing loss and renal abnormalities.\n\n### 13. **GATA6 (Gene ID: 2624)**\n- **Chromosome:** 18q21\n- **Description:** GATA binding protein 6 is a transcription factor that plays a role in the development of various organs, including the heart and kidney.\n- **Relevance:** Mutations in GATA6 are associated with congenital heart defects and may also be linked to sensorineural hearing loss and renal abnormalities.\n\n### 14. **KCNQ1 (Gene ID: 3784)**\n- **Chromosome:** 11p15.5-p15.4\n- **Description:** Potassium voltage-gated channel subfamily Q member 1 is a protein that forms potassium channels and plays a role in the repolarization phase of the cardiac action potential.\n- **Relevance:** Mutations in KCNQ1 are associated with hereditary long QT syndrome, Jervell and Lange-Nielsen syndrome, and familial atrial fibrillation. Some variants may also cause sensorineural hearing loss and renal abnormalities.\n\n### 15. **HGF (Gene ID: 3082)**\n- **Chromosome:** 7q21.11\n- **Description:** Hepatocyte growth factor is a protein that binds to the hepatocyte growth factor receptor to regulate cell growth, motility, and morphogenesis.\n- **Relevance:** Mutations in HGF are associated with nonsyndromic hearing loss and may also be linked to renal abnormalities.\n\n### 16. **TXN (Gene ID: 7295)**\n- **Chromosome:** 9q31.3\n- **Description:** Thioredoxin is a protein involved in many redox reactions, including the reversible S-nitrosylation of cysteines.\n- **Relevance:** Mutations in TXN may be associated with sensorineural hearing loss and renal abnormalities.\n\n### Summary:\nThese genes are involved in various aspects of development and function, particularly in the inner ear and kidney. Mutations in these genes can lead to a range of conditions, including sensorineural hearing loss and renal involvement. Understanding the specific roles and interactions of these genes is crucial for diagnosing and managing related disorders."
+    },
+    {
+        "ground_truth": [
+            "13q33.1",
+            "15q22.31"
+        ], // 0
+        "answer": "It seems like you've provided a large dataset of gene information, primarily from the NCBI Gene database, for several genes in humans and mice. The data includes details such as gene names, descriptions, chromosome locations, and other relevant biological and genetic information. Here’s a summary of the key points for each gene:\n\n### 1. **CREBBP (Human)**\n   - **Gene ID:** 1387\n   - **Chromosome:** 16p13.3\n   - **Description:** CREB binding protein, involved in transcriptional coactivation and chromatin remodeling.\n   - **Function:** Histone acetyltransferase activity, scaffolding for transcription complexes.\n   - **Diseases:** Rubinstein-Taybi syndrome, acute myeloid leukemia.\n\n### 2. **Crebbp (Mouse)**\n   - **Gene ID:** 12914\n   - **Chromosome:** 16\n   - **Description:** CREB binding protein in mice.\n   - **Function:** Similar to human CREBBP, involved in transcriptional regulation and chromatin remodeling.\n   - **Diseases:** Rubinstein-Taybi syndrome, acute myeloid leukemia.\n\n### 3. **Cck (Mouse)**\n   - **Gene ID:** 12424\n   - **Chromosome:** 9 F4\n   - **Description:** Cholecystokinin.\n   - **Function:** Regulates gastric acid secretion and food intake, modulates neuronal activity.\n   - **Diseases:** Impaired insulin secretion, enhanced insulin sensitivity, resistance to obesity.\n\n### 4. **ABCB4 (Human)**\n   - **Gene ID:** 5244\n   - **Chromosome:** 7q21.12\n   - **Description:** ATP binding cassette subfamily B member 4.\n   - **Function:** Phosphatidylcholine translocator, involved in bile acid secretion.\n   - **Diseases:** Cholestasis, liver cirrhosis.\n\n### 5. **Abcb4 (Mouse)**\n   - **Gene ID:** 18670\n   - **Chromosome:** 5 3.43 cM\n   - **Description:** ATP-binding cassette, sub-family B member 4 in mice.\n   - **Function:** Similar to human ABCB4, involved in bile acid secretion and response to fenofibrate.\n   - **Diseases:** Cholecystitis, cholestasis, hepatocellular carcinoma.\n\n### 6. **AMACR (Human)**\n   - **Gene ID:** 23600\n   - **Chromosome:** 5p13.2\n   - **Description:** Alpha-methylacyl-CoA racemase.\n   - **Function:** Interconverts pristanoyl-CoA and C27-bile acylCoAs between their (R)- and (S)-stereoisomers.\n   - **Diseases:** Adult-onset sensorimotor neuropathy, pigmentary retinopathy, adrenomyeloneuropathy.\n\n### Additional Information:\n- **Annotation Releases:** The data includes multiple annotation releases, indicating the gene's location and details have been updated over time.\n- **Organisms:** The genes are from both humans (Homo sapiens) and mice (Mus musculus).\n- **Genomic Info:** Each gene has detailed genomic information, including chromosome accessions, start and stop positions, and exon counts.\n\nIf you need more specific information or analysis on any of these genes, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "1q22"
+        ],
+        "answer": "Answer: The gene related to Immunodeficiency due to defect in MAPBP-interacting protein is LAMTOR2, which is located on chromosome 1 at position 1q22 in humans."
+    },
+    {
+        "ground_truth": [
+            "7q36.3"
+        ],
+        "answer": "Answer: The gene related to Currarino syndrome is MNX1, which is located on chromosome 7 at the position 7q36.3."
+    },
+    {
+        "ground_truth": [
+            "20q13.33"
+        ],
+        "answer": "It seems like the data you provided is a detailed summary of several genes, including their genomic locations, aliases, and functions in humans. Here’s a concise breakdown for each gene:\n\n### 1. **Homo sapiens (Human)**\n#### HSA05420: Proteoglycans in cancer\n\n- **HSA05420: Proteoglycans in cancer** is a pathway that involves several genes, including those mentioned below.\n\n### 2. **Genes and Their Details**\n\n#### **1. HSA05420: HSA05420 (Homo sapiens)**\n- **Chromosome:** 10\n- **Location:** 10q23.31\n\n#### **2. HSA05420: HSA05420 (Homo sapiens)**\n- **Chromosome:** 17\n- **Location:** 17p13.1\n\n#### **3. HSA05420: HSA05420 (Homo sapiens)**\n- **Chromosome:** 19\n- **Location:** 19q13.33\n\n### 3. **Individual Gene Details**\n\n#### **1. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 10\n- **Location:** 10q23.31\n\n#### **2. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 17\n- **Location:** 17p13.1\n\n#### **3. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 19\n- **Location:** 19q13.33\n\n### 4. **Detailed Gene Information**\n\n#### **1. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 10\n- **Location:** 10q23.31\n- **Description:** This gene is involved in the proteoglycans in cancer pathway.\n\n#### **2. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 17\n- **Location:** 17p13.1\n- **Description:** This gene is involved in the proteoglycans in cancer pathway.\n\n#### **3. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 19\n- **Location:** 19q13.33\n- **Description:** This gene is involved in the proteoglycans in cancer pathway.\n\n### 5. **Specific Genes and Their Functions**\n\n#### **1. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 10\n- **Location:** 10q23.31\n- **Function:** Involved in the proteoglycans in cancer pathway.\n\n#### **2. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 17\n- **Location:** 17p13.1\n- **Function:** Involved in the proteoglycans in cancer pathway.\n\n#### **3. HSA05420: HSA05420 (Homo sapiens)**\n- **Gene Name:** HSA05420\n- **Chromosome:** 19\n- **Location:** 19q13.33\n- **Function:** Involved in the proteoglycans in cancer pathway.\n\n### 6. **Additional Genes and Their Functions**\n\n#### **1. HSA05420: ACAN (Homo sapiens)**\n- **Gene Name:** ACAN\n- **Chromosome:** 15\n- **Location:** 15q26.1\n- **Function:** Aggrecan is a member of the aggrecan/versican proteoglycan family. It is an integral part of the extracellular matrix in cartilaginous tissue and withstands compression in cartilage. Mutations in this gene may be involved in skeletal dysplasia and spinal degeneration.\n\n#### **2. HSA05420: COL9A3 (Homo sapiens)**\n- **Gene Name:** COL9A3\n- **Chromosome:** 20\n- **Location:** 20q13.33\n- **Function:** Encodes one of the three alpha chains of type IX collagen, which is a major component of hyaline cartilage. Mutations in this gene are associated with multiple epiphyseal dysplasia type 3.\n\n#### **3. HSA05420: CILP (Homo sapiens)**\n- **Gene Name:** CILP\n- **Chromosome:** 15\n- **Location:** 15q22.31\n- **Function:** Encodes the cartilage intermediate layer protein, which increases in early osteoarthrosis cartilage. The full-length and N-terminal domain of this protein function as an IGF-1 antagonist.\n\n#### **4. HSA05420: CHAD (Homo sapiens)**\n- **Gene Name:** CHAD\n- **Chromosome:** 17\n- **Location:** 17q21.33\n- **Function:** Chondroadherin is a cartilage matrix protein thought to mediate adhesion of isolated chondrocytes. It contains leucine-rich repeats flanked by cysteine-rich regions.\n\n### Summary\n\nThe provided data details several genes involved in the proteoglycans in cancer pathway, along with their genomic locations and functions. Each gene plays a specific role in cartilage and extracellular matrix biology, which is crucial for understanding diseases such as osteoarthrosis and skeletal dysplasia."
+    },
+    {
+        "ground_truth": [
+            "8q13.3",
+            "20p11.22"
+        ], // half 1/2
+        "answer": "Answer: The chromosome locations of the genes related to Otofaciocervical syndrome are as follows:\n\n- **EYA1 (Human)**: Located on chromosome 8 at position 8q13.3.\n- **LOC11409867**: Located on chromosome 7 in *Medicago truncatula*.\n- **LOC11436057**: Located on chromosome 3 in *Medicago truncatula*.\n\nNote: The gene with ID 613910 (LOC613910) has been discontinued and does not have a valid chromosome location. The gene F361_gp43 does not have a specified chromosome location."
+    },
+    {
+        "ground_truth": [
+            "16p11.2"
+        ],
+        "answer": "Answer: The gene related to Brody myopathy is ATP2A1, which is located on chromosome 16 at position 16p11.2 in humans."
+    },
+    {
+        "ground_truth": [
+            "Xq22.2"
+        ],
+        "answer": "The results from the NCBI databases indicate that several genes are related to Neurodevelopmental disorder with gait disturbance. However, not all of these entries provide specific chromosome locations directly. Let's filter and list the relevant genes along with their chromosome locations:\n\n1. **Tmsb15b1** - Located on the X chromosome in *Mus musculus* (house mouse).\n   - Chromosome: X\n   - Location: X 59.1 cM\n\n2. **GRIA4 (Glutamate Receptor, Ionotropic, AMPA 4)** - Related to Neurodevelopmental disorder with gait disturbance.\n   - Chromosome: 21q22.3\n   - Location: 21699275\n\n3. **MECP2 (Methyl-CpG-Binding Protein 2)** - Related to Rett Syndrome, which can include neurodevelopmental and gait disturbances.\n   - Chromosome: Xq28\n   - Location: Tmsb15b1 (Note: This is a placeholder; the actual location is Xq28)\n\n4. **PLAA (Phospholipase A2-Activating Protein)** - Related to Neurodevelopmental disorder with gait disturbance.\n   - Chromosome: 2p23\n   - Location: 2\n\n5. **UBE3A (Ubiquitin-Protein Ligase E3A)** - Associated with Angelman Syndrome, which can include neurodevelopmental and gait disturbances.\n   - Chromosome: 15q11.2\n   - Location: 18701717\n\n6. **PLP1 (Proteolipid Protein 1)** - Related to Pelizaeus-Merzbacher Disease, which can include neurodevelopmental and gait disturbances.\n   - Chromosome: Xq22\n   - Location: XLID81 (Note: This is a placeholder; the actual location is Xq22)\n\n7. **Chromosome 19q13.11 Deletion Syndrome** - Related to Neurodevelopmental disorder with gait disturbance.\n   - Chromosome: 19q13.11\n   - Location: 602378\n\nAnswer:\n- Tmsb15b1: X chromosome, X 59.1 cM\n- GRIA4: Chromosome 21, 21q22.3\n- MECP2: Chromosome X, Xq28\n- PLAA: Chromosome 2, 2p23\n- UBE3A: Chromosome 15, 15q11.2\n- PLP1: Chromosome X, Xq22\n- Chromosome 19q13.11 Deletion Syndrome: Chromosome 19, 19q13.11"
+    },
+    {
+        "ground_truth": [
+            "15q26.1"
+        ], // 0
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "1q31.3"
+        ],
+        "answer": "Answer: The gene related to Nephropathy due to CFHR5 deficiency is located on chromosome 1 at the position 1q31.3."
+    },
+    {
+        "ground_truth": [
+            "2q11.2",
+            "8q21.3",
+            "1p13.3",
+            "12p12.3",
+            "1q23.3"
+        ], // half 5/6
+        "answer": "The data you've provided is a detailed compilation of genetic information from the NCBI (National Center for Biotechnology Information) database, focusing on genes associated with achromatopsia and related conditions. Here’s a summary of the key points:\n\n### Genes and Their Details\n\n1. **ATF6 (Activating Transcription Factor 6)**\n   - **Gene ID:** 22926\n   - **Chromosome Location:** 1q23.3\n   - **Function:** Acts as a transcription factor that activates target genes for the unfolded protein response (UPR) during endoplasmic reticulum (ER) stress.\n   - **Associated Conditions:** Achromatopsia 7, diabetes, and cystic fibrosis.\n\n2. **CNGA3 (Cyclic Nucleotide Gated Channel Subunit Alpha 3)**\n   - **Gene ID:** 1261\n   - **Chromosome Location:** 2q11.2\n   - **Function:** Required for normal vision and olfactory signal transduction.\n   - **Associated Conditions:** Achromatopsia (rod monochromacy) and color blindness.\n\n3. **CNGB3 (Cyclic Nucleotide Gated Channel Subunit Beta 3)**\n   - **Gene ID:** 54714\n   - **Chromosome Location:** 8q21.3\n   - **Function:** Modulates channel function in photoreceptors.\n   - **Associated Conditions:** Achromatopsia 3 and color blindness.\n\n4. **GNAT2 (G Protein Subunit Alpha Transducin 2)**\n   - **Gene ID:** 2780\n   - **Chromosome Location:** 1p13.3\n   - **Function:** Part of the transducin complex, which couples rhodopsin and cGMP-phosphodiesterase during visual impulses.\n   - **Associated Conditions:** Achromatopsia 4 and color blindness.\n\n5. **PDE6C (Phosphodiesterase 6C)**\n   - **Gene ID:** 5146\n   - **Chromosome Location:** 10q23.33\n   - **Function:** Encodes the alpha-prime subunit of cone phosphodiesterase.\n   - **Associated Conditions:** Cone dystrophy type 4 (COD4).\n\n### Related Conditions\n\n- **Achromatopsia:** A condition characterized by a lack of color vision and reduced visual acuity. It can be caused by mutations in several genes, including CNGA3, CNGB3, GNAT2, and PDE6C.\n- **Color Blindness:** Reduced ability to distinguish certain colors, often due to genetic factors affecting photoreceptor function.\n- **Diabetes:** A metabolic disorder that can be influenced by genetic factors, including those involved in the unfolded protein response (e.g., ATF6).\n- **Cystic Fibrosis:** A genetic disorder affecting the lungs and other organs, which can also involve genes like ATF6.\n\n### Summary\n\nThe provided data highlights the importance of these genes in visual function and their roles in various conditions. Understanding the genetic basis of these disorders is crucial for developing targeted therapies and improving patient outcomes. If you have specific questions or need further details on any of these genes or conditions, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "11q23.1",
+            "14q22.2",
+            "4p15.32",
+            "10q22.1",
+            "10q21.3",
+            "12q23.2"
+        ], // half 1/2
+        "answer": "It seems like you've provided a detailed dataset of gene information, primarily focusing on human and mouse genes related to the biosynthesis of tetrahydrobiopterin (BH4) and its associated enzymes. Here’s a summary of the key points for each gene:\n\n### 1. **GCH1 (Human)**\n- **Gene ID:** 2643\n- **Chromosome:** 14q22.2\n- **Function:** Encodes GTP cyclohydrolase 1, the first and rate-limiting enzyme in BH4 biosynthesis.\n- **Diseases Associated:** Malignant hyperphenylalaninemia and dopa-responsive dystonia.\n- **Summary:** Catalyzes the conversion of GTP into 7,8-dihydroneopterin triphosphate. BH4 is essential for aromatic amino acid hydroxylases and nitric oxide synthases.\n\n### 2. **Pah (Human)**\n- **Gene ID:** 5053\n- **Chromosome:** 12q23.2\n- **Function:** Encodes phenylalanine hydroxylase, which converts phenylalanine to tyrosine.\n- **Diseases Associated:** Phenylketonuria (PKU).\n- **Summary:** The rate-limiting step in phenylalanine catabolism.\n\n### 3. **Pts (Mouse)**\n- **Gene ID:** 19286\n- **Chromosome:** 9\n- **Function:** Encodes 6-pyruvoyl-tetrahydropterin synthase, involved in the biosynthesis of BH4.\n- **Diseases Associated:** BH4-deficient hyperphenylalaninemia A and phenylketonuria.\n- **Summary:** Catalyzes the elimination of inorganic triphosphate from dihydroneopterin triphosphate.\n\n### 4. **Pts (Human)**\n- **Gene ID:** 5805\n- **Chromosome:** 11q23.1\n- **Function:** Encodes 6-pyruvoyl-tetrahydropterin synthase, involved in the biosynthesis of BH4.\n- **Diseases Associated:** Hyperphenylalaninemia.\n- **Summary:** Catalyzes the second and irreversible step in the biosynthesis of BH4 from GTP.\n\n### 5. **Qdpr (Human)**\n- **Gene ID:** 5805\n- **Chromosome:** 11q23.1\n- **Function:** Encodes quinoid dihydropteridine reductase, which is involved in the regeneration of BH4.\n- **Diseases Associated:** Hyperphenylalaninemia.\n- **Summary:** Regenerates BH4 from its oxidized forms.\n\n### 6. **Spr (Fly)**\n- **Gene ID:** 31463\n- **Chromosome:** X\n- **Function:** Encodes Sex peptide receptor, a G protein-coupled receptor involved in post-mating behavior.\n- **Summary:** Involved in G protein-coupled receptor signaling pathway and regulation of egg-laying behavior.\n\n### 7. **Qdpr (Mouse)**\n- **Gene ID:** 19286\n- **Chromosome:** 9\n- **Function:** Encodes quinoid dihydropteridine reductase, which is involved in the regeneration of BH4.\n- **Diseases Associated:** BH4-deficient hyperphenylalaninemia A and phenylketonuria.\n- **Summary:** Regenerates BH4 from its oxidized forms.\n\n### 8. **Gch1 (Mouse)**\n- **Gene ID:** 2643\n- **Chromosome:** 14q22.2\n- **Function:** Encodes GTP cyclohydrolase 1, the first and rate-limiting enzyme in BH4 biosynthesis.\n- **Diseases Associated:** Malignant hyperphenylalaninemia and dopa-responsive dystonia.\n- **Summary:** Catalyzes the conversion of GTP into 7,8-dihydroneopterin triphosphate. BH4 is essential for aromatic amino acid hydroxylases and nitric oxide synthases.\n\n### 9. **Pah (Mouse)**\n- **Gene ID:** 19286\n- **Chromosome:** 9\n- **Function:** Encodes phenylalanine hydroxylase, which converts phenylalanine to tyrosine.\n- **Diseases Associated:** Phenylketonuria (PKU).\n- **Summary:** The rate-limiting step in phenylalanine catabolism.\n\n### 10. **Qdpr (Human)**\n- **Gene ID:** 5805\n- **Chromosome:** 11q23.1\n- **Function:** Encodes quinoid dihydropteridine reductase, which is involved in the regeneration of BH4.\n- **Diseases Associated:** Hyperphenylalaninemia.\n- **Summary:** Regenerates BH4 from its oxidized forms.\n\n### 11. **Spr (Human)**\n- **Gene ID:** 31463\n- **Chromosome:** X\n- **Function:** Encodes Sex peptide receptor, a G protein-coupled receptor involved in post-mating behavior.\n- **Summary:** Involved in G protein-coupled receptor signaling pathway and regulation of egg-laying behavior.\n\n### Summary:\nThese genes are crucial for the biosynthesis and regeneration of BH4, which is essential for various metabolic processes, including the hydroxylation of phenylalanine to tyrosine. Mutations in these genes can lead to severe metabolic disorders such as hyperphenylalaninemia and phenylketonuria. Understanding the function and regulation of these enzymes is critical for developing therapeutic strategies for these conditions."
+    },
+    {
+        "ground_truth": [
+            "15q25.1"
+        ],
+        "answer": "Answer: The gene related to EDICT syndrome is MIR184, which is located on chromosome 15 at the position 15q25.1."
+    },
+    {
+        "ground_truth": [
+            "22q11.21",
+            "2p21"
+        ],// 0
+        "answer": "It seems there was a mistake in the previous steps. The correct genes associated with Gastrointestinal defects and immunodeficiency syndrome are **RAG1** and **RAG2**, not **SIM1** and **SIM2**. Let's correct this and provide the final answer.\n\nThe genes related to Gastrointestinal defects and immunodeficiency syndrome are:\n\n1. **RAG1 (Recombination Activating Gene 1)**\n   - Chromosome: 11\n   - Map Location: 11p13\n\n2. **RAG2 (Recombination Activating Gene 2)**\n   - Chromosome: 11\n   - Map Location: 11p13\n\nAnswer: The genes related to Gastrointestinal defects and immunodeficiency syndrome are RAG1 and RAG2, both located on chromosome 11 at the map location 11p13."
+    },
+    {
+        "ground_truth": [
+            "Xq21.1"
+        ], // 0
+        "answer": "It appears there was a mix-up in the data retrieval for the gene **IRF6** associated with Van der Woude syndrome 1 (VWS1). Let's correct this and provide the accurate chromosome location for **IRF6** in humans.\n\n### Corrected Information:\n\n- **Human (Homo sapiens)**: The gene **IRF6** is located on chromosome 1 at position 1q32.2.\n\n#### Detailed Location:\n- **Chromosome**: 1\n- **Position**: 1q32.2\n- **Start**: 234,585,555\n- **Stop**: 234,590,554\n\n### Summary:\n\n- **Gene Name**: IRF6 (Interferon regulatory factor 6)\n- **Chromosome Location**: 1q32.2\n- **Chromosome Start**: 234,585,555\n- **Chromosome Stop**: 234,590,554\n\nThis gene is known to play a crucial role in palatogenesis and skin development. Mutations in this gene have been associated with Van der Woude syndrome 1 (VWS1) and popliteal pterygium syndrome (PPS).\n\nIf you need further information or details on the orthologs of **IRF6** in other species, please let me know!"
+    },
+    {
+        "ground_truth": [
+            "6q27"
+        ],
+        "answer": "It seems that the response was cut off, but we have enough information to proceed with the chromosome locations of the genes related to \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures.\"\n\nHere are the relevant gene IDs and their chromosome locations:\n\n1. **DLL1 (28514)**\n   - Chromosome: 6\n   - Location: 6q27\n\n2. **SCN1A (6323)**\n   - Chromosome: 2\n   - Location: 2q24.3\n\n3. **SCN2A (6326)**\n   - Chromosome: 2\n   - Location: 2q24.3\n\n4. **TCF4 (6925)**\n   - Chromosome: 18\n   - Location: 18q21.2\n\nAnswer: The chromosome locations of the genes related to \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures\" are:\n- DLL1: 6q27\n- SCN1A: 2q24.3\n- SCN2A: 2q24.3\n- TCF4: 18q21.2"
+    },
+    {
+        "ground_truth": [
+            "3p14.3"
+        ],
+        "answer": "Answer: The gene FLNB, which is associated with Spondylocarpotarsal Synostosis Syndrome (SCT), is located on chromosome 3 in humans at the position 3p14.3."
+    },
+    {
+        "ground_truth": [
+            "11q14.2"
+        ],
+        "answer": "Answer: The gene related to Haim-Munk syndrome is **CTSC (cathepsin C)**, and its chromosome location in humans is **11q14.2**."
+    },
+    {
+        "ground_truth": [
+            "6p21.33"
+        ], // 0
+        "answer": "The data provided includes detailed genomic information for the human gene **NEU1 (Neuraminidase 1)**, also known as **NEU** or **NEU1/SA**. Here’s a summary of the key points:\n\n### Gene Information:\n- **Gene ID**: 4758\n- **Symbol**: NEU1\n- **Name**: Neuraminidase 1\n\n### Chromosomal Location:\n- **Chromosome**: 6\n- **Start Position**: 31,862,820\n- **End Position**: 31,857,658\n- **Strand**: Negative (−)\n\n### Genomic Context:\n- The gene is located on the negative strand of chromosome 6.\n- It spans a region from base pair 31,857,658 to 31,862,820.\n\n### Annotation Releases:\nThe data includes multiple annotation releases and assemblies, indicating that the genomic coordinates have been consistent across different versions of the human genome assembly. Here are some key releases:\n\n- **GRCh38 (GCF_000001405.39)**:\n  - **Annotation Release**: 109.20211119, 109.20210514, 109.20210226, etc.\n  - **Chromosome Accession**: NC_000006.12\n  - **Start Position**: 31,862,820\n  - **End Position**: 31,857,658\n\n- **GRCh37 (GCF_000001405.25)**:\n  - **Annotation Release**: RS_2024_09, 105.20220307, 105.20201022, etc.\n  - **Chromosome Accession**: NC_000006.11\n  - **Start Position**: 31,830,597\n  - **End Position**: 31,825,435\n\n### Additional Information:\n- The gene is associated with the lysosomal sialidase enzyme, which plays a crucial role in the degradation of sialic acid-containing glycoconjugates.\n- Mutations in the NEU1 gene can lead to sialidosis, a rare lysosomal storage disorder characterized by the accumulation of undigested substrates in lysosomes.\n\n### Summary:\nThe NEU1 gene is located on chromosome 6 and spans from base pair 31,857,658 to 31,862,820 on the negative strand. The genomic coordinates have been consistent across multiple annotation releases and assemblies, indicating a stable and well-characterized region of the human genome.\n\nIf you need more specific information or further details about the gene, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "20q13.12"
+        ],
+        "answer": "Answer: The chromosome location of the gene FITM2, which is associated with Siddiqi syndrome, is 20q13.12 in humans."
+    },
+    {
+        "ground_truth": [
+            "2q34"
+        ], // 0
+        "answer": "Answer: The genes related to Corneal fleck dystrophy are PIKFYVE and PAX6, with the following chromosome locations:\n- **PIKFYVE**: 2q33.1\n- **PAX6**: 11p13"
+    },
+    {
+        "ground_truth": [
+            "22q13.31"
+        ],
+        "answer": "It looks like the data you provided is a JSON response containing gene information for several human genes, including `NBAS`, `LARS1`, `TRMU`, `SCYL1`, and `RINT1`. Each entry includes detailed information such as the gene's name, description, chromosome location, and other relevant details. Here’s a summary of the key information for each gene:\n\n### 1. **NBAS (NBAS)**\n- **Description**: NBAS\n- **Chromosome**: 5\n- **Map Location**: 5q32\n- **Other Aliases**: HSPC192, ILFS1, LARS, LEURS, LEUS, LFIS, LRS, PIG44, RNTLS, cLRS, hr025Cl\n- **Nomenclature Symbol**: NBAS\n- **Nomenclature Name**: NBAS\n- **MIM Number**: 613708\n- **Summary**: This gene encodes a protein of unknown function. Mutations in this gene have been associated with infantile liver failure syndrome 1.\n\n### 2. **LARS1 (Leucyl-tRNA Synthetase 1)**\n- **Description**: Leucyl-tRNA synthetase 1\n- **Chromosome**: 5\n- **Map Location**: 5q32\n- **Other Aliases**: HSPC192, ILFS1, LARS, LEURS, LEUS, LFIS, LRS, PIG44, RNTLS, cLRS, hr025Cl\n- **Nomenclature Symbol**: LARS1\n- **Nomenclature Name**: Leucyl-tRNA synthetase 1\n- **MIM Number**: 151350\n- **Summary**: This gene encodes a cytosolic leucine-tRNA synthetase, which catalyzes the ATP-dependent ligation of L-leucine to tRNA(Leu). It is part of a multisynthetase complex and interacts with arginine tRNA synthetase. A mutation in this gene has been found in individuals with infantile liver failure syndrome 1.\n\n### 3. **TRMU (tRNA Mitochondrial 2-Thiouridylase)**\n- **Description**: tRNA mitochondrial 2-thiouridylase\n- **Chromosome**: 22\n- **Map Location**: 22q13.31\n- **Other Aliases**: LCAL3, MTO2, MTU1, TRMT, TRMT1\n- **Nomenclature Symbol**: TRMU\n- **Nomenclature Name**: tRNA mitochondrial 2-thiouridylase\n- **MIM Number**: 610230\n- **Summary**: This nuclear gene encodes a mitochondrial tRNA-modifying enzyme that catalyzes the 2-thiolation of uridine on the wobble positions of tRNA(Lys), tRNA(Glu), and tRNA(Gln). Mutations in this gene may cause transient infantile liver failure, and polymorphisms may influence the severity of deafness caused by mitochondrial 12S ribosomal RNA mutations.\n\n### 4. **SCYL1 (SCY1 Like Pseudokinase 1)**\n- **Description**: SCY1 like pseudokinase 1\n- **Chromosome**: 11\n- **Map Location**: 11q13.1\n- **Other Aliases**: GKLP, HT019, NKTL, NTKL, P105, SCAR21, TAPK, TEIF, TRAP\n- **Nomenclature Symbol**: SCYL1\n- **Nomenclature Name**: SCY1 like pseudokinase 1\n- **MIM Number**: 607982\n- **Summary**: This gene encodes a transcriptional regulator belonging to the SCY1-like family of kinase-like proteins. The protein has a divergent N-terminal kinase domain that is thought to be catalytically inactive and can bind specific DNA sequences through its C-terminal domain. It activates transcription of the telomerase reverse transcriptase and DNA polymerase beta genes.\n\n### 5. **RINT1 (RAD50 Interactor 1)**\n- **Description**: RAD50 interactor 1\n- **Chromosome**: 7\n- **Map Location**: 7q22.3\n- **Other Aliases**: ILFS3, RINT-1\n- **Nomenclature Symbol**: RINT1\n- **Nomenclature Name**: RAD50 interactor 1\n- **MIM Number**: 610089\n- **Summary**: This gene encodes a protein that interacts with the RAD50 double-strand break repair protein, which is implicated in the regulation of cell cycle progression and telomere length. The encoded protein may also play a role in trafficking cellular cargo from the endosome to the trans-Golgi network. Mutations in this gene may be associated with breast cancer.\n\n### Additional Information\n- **Genetic Source**: All genes are derived from genomic DNA.\n- **Organism**: Homo sapiens (human)\n- **TaxID**: 9606\n\nEach entry also includes detailed information about the gene's location on different assemblies and annotation releases, which can be useful for researchers working with specific genome builds.\n\nIf you have any specific questions or need further details about these genes, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "6p21.32",
+            "18p11.21",
+            "13q12.3",
+            "16q22.1"
+        ],// half 1/4
+        "answer": "Answer: The gene related to Proteasome-associated autoinflammatory syndrome is PSMB10, which is located on chromosome 16q22.1 in humans. In mice, the orthologous gene Psmb10 is located on chromosome 8 at 53.06 cM."
+    },
+    {
+        "ground_truth": [
+            "11q13.4"
+        ],
+        "answer": "Answer: The gene related to Orofaciodigital syndrome XIV is C2CD3, and its chromosome location in humans is 11q13.4."
+    },
+    {
+        "ground_truth": [
+            "16q12.1"
+        ],
+        "answer": "Answer: The genes related to Trichoepithelioma and their chromosome locations are:\n\n- **CYLD** (OMIM ID: 605018, 605041, 132700)\n  - Chromosome Location: 16q12.1\n\n- **PTCH1** (OMIM ID: 601309)\n  - Chromosome Location: 9q22.32"
+    },
+    {
+        "ground_truth": [
+            "10q11.21"
+        ],
+        "answer": "### Chromosome Locations of Genes Related to Medullary Thyroid Carcinoma\n\nBased on the provided data, here are the chromosome locations of genes related to medullary thyroid carcinoma:\n\n1. **RET (ret proto-oncogene)**\n   - **Chromosome:** 10\n   - **Map Location:** 10q11.21\n   - **NCBI Gene ID:** 5979\n\n### Additional Information:\n- The RET gene is a key player in the development of medullary thyroid carcinoma (MTC). Mutations in this gene are associated with both familial and sporadic forms of MTC, as well as other conditions such as multiple endocrine neoplasia type 2A (MEN2A) and Hirschsprung disease.\n\n### Summary:\n- **RET** is located on chromosome 10 at the position 10q11.21.\n\nIf you need more detailed information or additional genes related to medullary thyroid carcinoma, please let me know!"
+    },
+    {
+        "ground_truth": [
+            "17q12",
+            "7p15.3",
+            "2q24.1",
+            "6p21.31",
+            "2q36.3",
+            "2q31.3",
+            "7p15.3"
+        ], // 0
+        "answer": "It seems like you've provided a large dataset containing detailed information about several genes located on chromosome 5, specifically in the region 5q32. Here's a summary of the key points for each gene:\n\n### 1. **ADRB2 (Adrenergic Beta-2 Receptor)**\n   - **Gene ID:** 154\n   - **Chromosome Location:** 5q32\n   - **Aliases:** ADRB2, AD2B, B2AR, BB2, ADBR2\n   - **Function:** Encodes a G protein-coupled receptor that mediates the cellular responses to epinephrine and norepinephrine.\n   - **Clinical Significance:** Variants in this gene have been associated with asthma, obesity, and other conditions.\n\n### 2. **MIR143 (microRNA 143)**\n   - **Gene ID:** 406935\n   - **Chromosome Location:** 5q32\n   - **Aliases:** MIRN143, mir-143\n   - **Function:** A microRNA that plays a role in post-transcriptional regulation of gene expression. It is involved in various cellular processes, including differentiation and proliferation.\n   - **Clinical Significance:** Dysregulation of MIR143 has been implicated in several cancers, including colorectal cancer.\n\n### 3. **MIR145 (microRNA 145)**\n   - **Gene ID:** 406937\n   - **Chromosome Location:** 5q32\n   - **Aliases:** MIRN145, miR-145, miRNA145\n   - **Function:** Another microRNA that regulates gene expression. It is known to play a role in the differentiation of smooth muscle cells and has tumor suppressor properties.\n   - **Clinical Significance:** Reduced levels of MIR145 have been observed in various cancers, including prostate and lung cancer.\n\n### 4. **PDGFRB (Platelet-Derived Growth Factor Receptor Beta)**\n   - **Gene ID:** 5159\n   - **Chromosome Location:** 5q32\n   - **Aliases:** CD140B, IBGC4, IMF1, JTK12, KOGS, OPDKD, PDGFR, PDGFR-1, PDGFR1, PENTT\n   - **Function:** Encodes a receptor tyrosine kinase that binds to platelet-derived growth factors (PDGFs). It plays a crucial role in the development and function of various tissues, including blood vessels and the cardiovascular system.\n   - **Clinical Significance:** Mutations or translocations involving PDGFRB can lead to chronic myeloproliferative disorders and other diseases.\n\n### 5. **SH3TC2 (SH3 Domain and Tetratricopeptide Repeats 2)**\n   - **Gene ID:** 79628\n   - **Chromosome Location:** 5q32\n   - **Aliases:** CMT4C, MNMN\n   - **Function:** Encodes a protein with SH3 and tetratricopeptide repeat domains. It is thought to act as an adapter or docking molecule.\n   - **Clinical Significance:** Mutations in SH3TC2 are associated with Charcot-Marie-Tooth disease type 4C, a neurodegenerative disorder characterized by demyelination of motor and sensory neurons.\n\n### Summary\n- **Chromosome Location:** All these genes are located on chromosome 5, specifically in the 5q32 region.\n- **Functionality:** Each gene plays a unique role in cellular processes, from receptor signaling to microRNA regulation and protein interaction.\n- **Clinical Relevance:** Variants or mutations in these genes have been linked to various diseases, including cancers, neurological disorders, and cardiovascular conditions.\n\nIf you have specific questions about any of these genes or need more detailed information on particular aspects, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "12q14.3"
+        ],
+        "answer": "Answer: The LEMD3 gene, which is associated with Buschke-Ollendorff syndrome, is located on chromosome 12q14.3 in humans."
+    },
+    {
+        "ground_truth": [
+            "20q13.12"
+        ],// 0
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "15q26.1"
+        ],
+        "answer": "Answer: The chromosome locations of the genes related to Acrocallosal syndrome are as follows:\n- **ACTB (actin beta)**: Chromosome 7, Location: 7p22.1\n- **GLI3 (GLI-Kruppel family member GLI3)**: Chromosome 13, Location: 13q32.1\n- **KIF7 (kinesin family member 7)**: Chromosome 15, Location: 15q26.1"
+    },
+    {
+        "ground_truth": [
+            "3p24.2",
+            "15q24.2"
+        ],
+        "answer": "Answer: The chromosome locations of the genes related to Congenital disorder of deglycosylation are as follows:\n\n- **NGLY1**: 3p24.2 (Chromosome 3)\n- **MAN2C1**: 15q24.2 (Chromosome 15)\n- **ATP6AP1**: Xq28 (Chromosome X)\n- **CANT1**: 17q25.3 (Chromosome 17)"
+    },
+    {
+        "ground_truth": [
+            "15q22.31",
+            "10q22.1"
+        ], // half 1/2
+        "answer": "Answer: The gene associated with Spinal Muscular Atrophy with Congenital Bone Fractures 1 (SMABF1) is TRIP4, and its chromosome location is 15q22.31."
+    },
+    {
+        "ground_truth": [
+            "3p24.2"
+        ],// 0
+        "answer": "Based on the information retrieved, here are the chromosome locations of the genes related to B-cell immunodeficiency:\n\n- **KHK (614868)**: Chromosome 11 in Bos taurus (domestic cattle)\n- **Or7g21 (300400)**: Chromosome 8 in Rattus norvegicus (Norway rat)\n- **CHAD (609296)**: Chromosome 9 in Canis lupus familiaris (dog)\n- **MINAR1 (610163)**: Chromosome 3 in Canis lupus familiaris (dog)\n- **LOC617765**: Chromosome 29 in Bos taurus (domestic cattle)\n- **LOC620668**: Chromosome 2 in Mus musculus (house mouse)\n- **LOC619924**: Chromosome 4 in Mus musculus (house mouse)\n- **LOC617237**: Chromosome 1 in Bos taurus (domestic cattle) (Note: This record has been discontinued)\n- **LOC616084**: No chromosome location provided (Note: This record has been discontinued)\n- **LOC615617**: No chromosome location provided (Note: This record has been discontinued)\n- **LOC615615**: Chromosome 5 in Bos taurus (domestic cattle) (Note: This record has been discontinued)\n- **LOC615206**: Chromosome 26 in Bos taurus (domestic cattle)\n- **LOC611291**: Chromosome 1 in Canis lupus familiaris (dog) (Note: This record has been discontinued)\n- **LOC608971**: Chromosome X in Canis lupus familiaris (dog) (Note: This record has been discontinued)\n- **LOC300113**: Chromosome 7 in Rattus norvegicus (Norway rat) (Note: This record has been discontinued)\n- **AU043574 (102700)**: Chromosome 9 in Mus musculus (house mouse)\n\nAnswer: The chromosome locations of the genes related to B-cell immunodeficiency are as follows:\n- KHK (614868): Chromosome 11\n- Or7g21 (300400): Chromosome 8\n- CHAD (609296): Chromosome 9\n- MINAR1 (610163): Chromosome 3\n- LOC617765: Chromosome 29\n- LOC620668: Chromosome 2\n- LOC619924: Chromosome 4\n- LOC615206: Chromosome 26\n- AU043574 (102700): Chromosome 9\n\nNote: Some records have been discontinued and do not provide valid chromosome locations."
+    },
+    {
+        "ground_truth": [
+            "7q22.1"
+        ],// 0
+        "answer": "Error"
+    },
+    {
+        "ground_truth": [
+            "2q31.1"
+        ],
+        "answer": "Answer: The genes related to Split-foot malformation with mesoaxial polydactyly (SFMMP) and their chromosome locations are:\n\n- **MAP3K20**: Chromosome 2, Location 2q31.1\n- **TP63**: Chromosome 3, Location 3q28"
+    },
+    {
+        "ground_truth": [
+            "17q24.2",
+            "2q31.2",
+            "5q13.3"
+        ], // half 2/3
+        "answer": "It seems like you've provided a list of gene identifiers and detailed information about three specific genes: PRKACA (protein kinase cAMP-activated catalytic subunit alpha), PRKAR1A (protein kinase cAMP-dependent type I regulatory subunit alpha), and PDE8B (phosphodiesterase 8B). These genes are all involved in the cAMP signaling pathway, which is crucial for various cellular processes.\n\n### Summary of Each Gene:\n\n#### **PRKACA (Gene ID: 5566)**\n- **Chromosome:** 19p13.12\n- **Function:** Encodes one of the catalytic subunits of protein kinase A (PKA). PKA is a tetrameric holoenzyme that exists in an inactive form with two regulatory and two catalytic subunits. cAMP binding causes the dissociation of the holoenzyme, leading to the activation of the catalytic subunits.\n- **Significance:** Important for cellular processes such as differentiation, proliferation, and apoptosis. Constitutive activation due to mutations or genomic duplications can lead to hyperplasias and adenomas of the adrenal cortex, associated with corticotropin-independent Cushing's syndrome.\n- **Alternative Splicing:** Multiple transcript variants encoding different isoforms, some of which may have tissue-specific N-terminal modifications.\n\n#### **PRKAR1A (Gene ID: 5573)**\n- **Chromosome:** 17q24.2\n- **Function:** Encodes one of the regulatory subunits of PKA. The inactive PKA holoenzyme is a tetramer composed of two regulatory and two catalytic subunits. cAMP binding causes the dissociation of the regulatory subunits, allowing the catalytic subunits to phosphorylate target proteins.\n- **Significance:** Mutations in this gene can cause Carney complex (CNC), a multiple neoplasia syndrome. The protein also has a role as a tissue-specific extinguisher and may be involved in DNA replication via its interaction with Replication Factor C (RFC40).\n- **Alternative Splicing:** Several transcript variants encoding two different isoforms.\n\n#### **PDE8B (Gene ID: 8622)**\n- **Chromosome:** 5q13.3\n- **Function:** Encodes a cyclic nucleotide phosphodiesterase that specifically hydrolyzes cAMP, converting it to AMP. This enzyme is resistant to several PDE inhibitors.\n- **Significance:** Defects in this gene are associated with autosomal dominant striatal degeneration (ADSD), a neurodegenerative disorder. The protein plays a crucial role in regulating intracellular cAMP levels, which affects various signaling pathways.\n\n### Additional Information:\n- **Organism:** All three genes are found in humans (Homo sapiens).\n- **Genomic Location and Structure:** Each gene has specific chromosomal locations and exon counts, as detailed in the provided information.\n- **Clinical Relevance:** These genes have significant clinical implications, particularly in endocrine disorders and neurodegenerative diseases.\n\nIf you have any specific questions or need further details about these genes, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "4p15.2"
+        ], // 0
+        "answer": "It appears that you've provided a detailed dataset from the NCBI Gene database, focusing on superoxide dismutase (SOD) genes across different species, including humans, mice, fruit flies, yeast, and rats. Here’s a summary of the key information for each gene:\n\n### 1. **Human SOD1 (Superoxide Dismutase 1)**\n- **Gene ID:** 6647\n- **Chromosome:** 21q22.11\n- **Function:** Binds copper and zinc ions, converts superoxide radicals to molecular oxygen and hydrogen peroxide.\n- **Diseases Associated:** Familial amyotrophic lateral sclerosis (ALS), artery disease, eye disease, glucose metabolism disease, neurodegenerative diseases.\n- **Summary:** Encodes a soluble cytoplasmic protein that acts as a homodimer. It is crucial for destroying free superoxide radicals in the body.\n\n### 2. **Human SOD2 (Superoxide Dismutase 2)**\n- **Gene ID:** 6648\n- **Chromosome:** 6q25.3\n- **Function:** Member of the iron/manganese superoxide dismutase family, forms a homotetramer, binds manganese ions, and converts superoxide radicals to hydrogen peroxide and oxygen.\n- **Diseases Associated:** Idiopathic cardiomyopathy (IDC), premature aging, sporadic motor neuron disease, cancer.\n- **Summary:** Encodes a mitochondrial protein that is essential for managing the byproducts of oxidative phosphorylation.\n\n### 3. **Mouse Sod1 (Superoxide Dismutase 1)**\n- **Gene ID:** 20655\n- **Chromosome:** 16 51.56 cM\n- **Function:** Enables superoxide dismutase activity, involved in axonal transport, negative regulation of inflammatory response, and positive regulation of phagocytosis.\n- **Diseases Associated:** Amyotrophic lateral sclerosis type 1, dry eye syndrome, low tension glaucoma.\n- **Summary:** Located in the extracellular space and expressed in various structures including the brain and sensory organs.\n\n### 4. **Mouse Sod2 (Superoxide Dismutase 2)**\n- **Gene ID:** 20656\n- **Chromosome:** 17 8.75 cM\n- **Function:** Enables superoxide dismutase activity, involved in acetylcholine-mediated vasodilation, apoptotic signaling pathway, and erythrophore differentiation.\n- **Diseases Associated:** Canavan disease, Leigh disease, amyotrophic lateral sclerosis type 1, congestive heart failure, dilated cardiomyopathy.\n- **Summary:** Located in the mitochondrion and expressed in various structures including the central nervous system and heart.\n\n### 5. **Fruit Fly Sod1 (Superoxide Dismutase 1)**\n- **Gene ID:** 39251\n- **Chromosome:** 3L 3-34 cM\n- **Function:** Enables protein homodimerization activity and superoxide dismutase activity, involved in determination of adult lifespan, positive regulation of mitophagy, and regulation of terminal button organization.\n- **Diseases Associated:** Amyotrophic lateral sclerosis and amyotrophic lateral sclerosis type 1.\n- **Summary:** Located in the peroxisome and expressed in various structures including the Malpighian tubule and salivary gland.\n\n### 6. **Yeast SOD1 (Superoxide Dismutase SOD1)**\n- **Gene ID:** 853568\n- **Chromosome:** X\n- **Function:** Enables oxidoreductase activity, involved in fungal-type cell wall organization, intracellular monoatomic cation homeostasis, and protein stabilization.\n- **Diseases Associated:** Amyotrophic lateral sclerosis.\n- **Summary:** Located in the mitochondrial intermembrane space and nucleus, active in the cytosol.\n\n### 7. **Rat Sod1 (Superoxide Dismutase 1)**\n- **Gene ID:** 24786\n- **Chromosome:** 11q11\n- **Function:** Enables copper ion binding activity, protein phosphatase 2B binding activity, and superoxide dismutase activity, involved in hydrogen peroxide biosynthesis, removal of superoxide radicals, and response to antipsychotic drugs.\n- **Diseases Associated:** Hyperthyroidism, hypothyroidism, middle cerebral artery infarction, sciatic neuropathy.\n- **Summary:** Located in dense core granules, neuronal cell body, and peroxisome. Used as a biomarker for various diseases.\n\n### Additional Information:\n- Each gene has multiple transcript variants and is orthologous to human SOD1 or SOD2.\n- The genes are involved in various biological processes and are expressed in different tissues and cellular components.\n- Mutations in these genes have been associated with a range of diseases, highlighting their importance in maintaining cellular homeostasis.\n\nIf you need more specific information or further analysis on any of these genes, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "1p32.3"
+        ], 
+        "answer": "Answer: The gene related to Leukoencephalopathy with dystonia and motor neuropathy is **SCP2** (sterol carrier protein 2), located on chromosome 1 at position p32.3."
+    },
+    {
+        "ground_truth": [
+            "7p15.3"
+        ],
+        "answer": "It seems like you've provided a detailed set of gene summaries from the NCBI Gene database, specifically for genes with IDs 3569 (IL6), 16193 (Il6 in Mus musculus), 24498 (Il6 in Rattus norvegicus), 2022 (ENG), 1282 (COL4A1), and 5310 (PKD1). Each entry includes information such as the gene name, description, chromosome location, genetic source, map location, aliases, nomenclature details, MIM numbers, genomic information, summary of function, and historical annotation releases.\n\nHere’s a brief overview of each gene:\n\n### IL6 (Human)\n- **Gene ID:** 3569\n- **Chromosome:** 7p15.3\n- **Function:** Encodes a cytokine involved in inflammation and B cell maturation. It is an endogenous pyrogen that can induce fever and plays a role in various inflammatory diseases, including diabetes mellitus and systemic juvenile rheumatoid arthritis. Elevated levels are associated with viral infections like COVID-19.\n\n### Il6 (Mouse)\n- **Gene ID:** 16193\n- **Chromosome:** 5\n- **Function:** Encodes a cytokine important in immune response, hematopoiesis, inflammation, and the acute phase response. Overexpression can lead to excessive plasma cells, while deficiency affects hepatic acute phase response, immune mechanisms, bone resorption, liver regeneration, and wound healing.\n\n### Il6 (Rat)\n- **Gene ID:** 24498\n- **Chromosome:** 4q11\n- **Function:** Encodes a cytokine involved in cellular responses to cytokine stimuli, positive regulation of cell communication, and metabolic processes. It is located in the extracellular space and is used to study various diseases, including acute necrotizing pancreatitis and hypertension.\n\n### ENG (Human)\n- **Gene ID:** 2022\n- **Chromosome:** 9q34.11\n- **Function:** Encodes a homodimeric transmembrane protein that is a major glycoprotein of the vascular endothelium. It binds to TGF-beta peptides and is involved in hereditary hemorrhagic telangiectasia, preeclampsia, and several types of cancer.\n\n### COL4A1 (Human)\n- **Gene ID:** 1282\n- **Chromosome:** 13q34\n- **Function:** Encodes a type IV collagen alpha protein, which is an integral component of basement membranes. It interacts with other extracellular matrix components and has anti-angiogenic and tumor suppressor properties through proteolytic cleavage. Mutations can cause porencephaly, cerebrovascular disease, and renal and muscular defects.\n\n### PKD1 (Human)\n- **Gene ID:** 5310\n- **Chromosome:** 16p13.3\n- **Function:** Encodes a glycoprotein that regulates calcium permeable cation channels and intracellular calcium homeostasis. It is involved in cell-cell/matrix interactions and renal tubular development. Mutations cause autosomal dominant polycystic kidney disease type 1 (ADPKD1), characterized by fluid-filled cysts leading to end-stage renal failure.\n\n### Summary\n- **IL6** is a key cytokine in inflammation and immune response, with significant roles in various diseases.\n- **Il6** in both mouse and rat models shares similar functions but has been studied for different specific conditions.\n- **ENG** plays a crucial role in vascular development and is associated with hereditary hemorrhagic telangiectasia.\n- **COL4A1** is essential for basement membrane integrity and has anti-angiogenic properties.\n- **PKD1** is vital for renal function and its mutations lead to polycystic kidney disease.\n\nThese genes are well-studied and have significant implications in both basic research and clinical applications. If you need more detailed information or specific aspects of these genes, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "4q21.23"
+        ],
+        "answer": "Based on the detailed information retrieved from the `gene` database, here are some of the genes associated with Multiple System Atrophy (MSA) and their chromosome locations:\n\n### 1. **COQ2 (Coenzyme Q2)**\n- **Gene ID:** COQ2\n- **Chromosome Location:** 4q31.3\n- **Summary:** This gene encodes a protein involved in the biosynthesis of coenzyme Q, which is essential for mitochondrial function and energy production. Mutations in this gene have been associated with various neurological disorders.\n\n### 2. **SNCA (Synuclein Alpha)**\n- **Gene ID:** SNCA\n- **Chromosome Location:** 4q21\n- **Summary:** This gene encodes alpha-synuclein, a protein that is abundant in the brain and has been implicated in Parkinson's disease and other neurodegenerative disorders. Alpha-synuclein forms aggregates known as Lewy bodies, which are characteristic of MSA.\n\n### 3. **LRRK2 (Leucine-Rich Repeat Kinase 2)**\n- **Gene ID:** LRRK2\n- **Chromosome Location:** 12q12\n- **Summary:** This gene encodes a large protein with multiple domains, including leucine-rich repeats and a kinase domain. Mutations in this gene are associated with Parkinson's disease and have been implicated in MSA.\n\n### 4. **C9orf72 (C9orf72-SMCR8 Complex Subunit)**\n- **Gene ID:** C9orf72\n- **Chromosome Location:** 9p21.2\n- **Summary:** This gene is involved in endosomal trafficking and has been associated with amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Expansions of a GGGGCC repeat in this gene have also been linked to MSA.\n\n### 5. **GBA1 (Glucosylceramidase Beta 1)**\n- **Gene ID:** GBA1\n- **Chromosome Location:** 1q22\n- **Summary:** This gene encodes a lysosomal enzyme that breaks down glucocerebrosides. Mutations in this gene are associated with Gaucher disease and have been implicated in Parkinson's disease and MSA.\n\n### 6. **COQ9 (Coenzyme Q9)**\n- **Gene ID:** COQ9\n- **Chromosome Location:** 10q23.31\n- **Summary:** This gene encodes a protein involved in the biosynthesis of coenzyme Q, which is crucial for mitochondrial function. Mutations in this gene have been associated with neurodegenerative disorders.\n\n### 7. **COQ6 (Coenzyme Q6)**\n- **Gene ID:** COQ6\n- **Chromosome Location:** 1p34.2\n- **Summary:** This gene encodes a protein involved in the biosynthesis of coenzyme Q. Mutations in this gene have been associated with deafness and other neurological conditions.\n\n### Summary:\nThese genes are involved in various cellular processes, including mitochondrial function, protein aggregation, and endosomal trafficking. Mutations or dysregulation of these genes can lead to neurodegenerative disorders, including Multiple System Atrophy (MSA). Understanding the roles of these genes can provide insights into the pathogenesis of MSA and potential therapeutic targets.\n\nIf you need more detailed information on any specific gene or additional genes associated with MSA, please let me know!"
+    },
+    {
+        "ground_truth": [
+            "10q23.33",
+            "6p21.1"
+        ],// 0
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "12q24.21"
+        ],
+        "answer": "Answer: The gene related to Holt-Oram syndrome is TBX5, which is located on chromosome 12q24.21 in humans."
+    },
+    {
+        "ground_truth": [
+            "1p36.11"
+        ],// 0
+        "answer": "Error"
+    },
+    {
+        "ground_truth": [
+            "2q37.3"
+        ],
+        "answer": "Answer: The gene related to Ablepharon-macrostomia syndrome (AMS) is TWIST2, which is located on chromosome 2q37.3 in humans."
+    }
+]

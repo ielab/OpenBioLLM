@@ -1,0 +1,202 @@
+[ // correct:50 half:0 error:0
+    {
+        "ground_truth": "NA",
+        "answer": "Based on the information provided, **ATP5F1EP2** is a pseudogene and not a protein-coding gene. Specifically:\n\n- **Description**: ATP synthase F1 subunit epsilon pseudogene 2.\n- **Nomenclature Name**: ATP synthase F1 subunit epsilon pseudogene 2.\n- **Summary**: Predicted to enable hydrolase activity, contribute to proton-transporting ATP synthase activity, and be involved in proton motive force-driven mitochondrial ATP synthesis. Located in mitochondrion.\n\nSince it is a pseudogene, it does not produce a functional protein. Therefore, **ATP5F1EP2** is not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124907753 is not a protein-coding gene. It is described as \"uncharacterized\" and does not have any information indicating it codes for a protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, AMD1P4 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NODAL is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR4436B2 is not a protein-coding gene; it is a microRNA (miRNA) that functions in post-transcriptional regulation of gene expression."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NAXE is a protein-coding gene. It encodes the NAD(P)HX epimerase enzyme, which interacts with apolipoprotein A-I (apoA-I), the major apolipoprotein of high-density lipoproteins (HDLs)."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124909477 is not a protein-coding gene. It is described as \"uncharacterized\" and does not have any information indicating it codes for a protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC01560 is a long intergenic non-protein coding RNA (lincRNA)."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, UCKL1-AS1 is not a protein-coding gene; it is a non-protein coding RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR6843 is not a protein-coding gene; it is a microRNA (miRNA) that is involved in post-transcriptional regulation of gene expression. MicroRNAs do not code for proteins but instead regulate the stability and translation of mRNAs."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL7AP58 is a ribosomal protein L7a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SERF2 is a protein-coding gene. It is involved in protein destabilization and is predicted to be located in the cytosol and nucleus."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124907937 is not a protein-coding gene. It is described as \"uncharacterized\" and does not have any information indicating it codes for a protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-1193P is not a protein-coding gene; it is a pseudogene of RNA, U6 small nuclear 1193."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124903168 is not a protein-coding gene. It is described as \"uncharacterized\" and does not have any information indicating it codes for a protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HMGB1P9 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100420990 is a pseudogene, not a protein-coding gene. It is described as \"aurora kinase A interacting protein 1 pseudogene.\""
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-1212P is not a protein-coding gene; it is a pseudogene of RNA, U6 small nuclear 1212."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CPVL-AS2 is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NPFFR1 is a protein-coding gene. It encodes the neuropeptide FF receptor 1, which is a G-protein coupled receptor involved in various physiological processes."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CYP4F10P is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, FANCG is a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CMKLR2 is a protein-coding gene. It encodes a G-protein coupled receptor that binds chemerin and is involved in various biological processes such as glucose homeostasis and neuropeptide signaling pathways."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, SSBP3-AS1 is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100419835 is a zinc finger protein 160 pseudogene, which means it is not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU7-171P is not a protein-coding gene; it is an RNA, U7 small nuclear 171 pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL34P34 is a ribosomal protein L34 pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100526841 is a pseudogene, not a protein-coding gene. It is described as \"chromosome 18 open reading frame 32 pseudogene.\""
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, TTLL1 is a protein-coding gene. It encodes a member of the tubulin tyrosine ligase-like family and has been described as enabling tubulin-glutamic acid ligase activity and being involved in microtubule cytoskeleton organization."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CORO1A-AS1 is not a protein-coding gene; it is an antisense RNA (non-coding RNA)."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SPARC is a protein-coding gene. It encodes a cysteine-rich acidic matrix-associated protein that plays roles in bone calcification, extracellular matrix synthesis, and cell shape changes. The human SPARC gene is located on chromosome 5 at position q33.1."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100129457 is a pseudogene, specifically a coiled-coil domain containing 86 pseudogene. It is not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HOTAIR is not a protein-coding gene; it is a long non-coding RNA (lncRNA)."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CAAP1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, PIGCP1 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC01054 is a long intergenic non-protein coding RNA (lincRNA)."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SPOP is a protein-coding gene. It encodes a protein that may modulate the transcriptional repression activities of death-associated protein 6 (DAXX), which interacts with histone deacetylase, core histones, and other histone-associated proteins. The BTB/POZ domain of this protein has been shown in other proteins to mediate transcriptional repression and to interact with components of histone deacetylase co-repressor complexes."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-746P is not a protein-coding gene; it is a pseudogene of the U6 small nuclear RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, POLE4P1 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RASSF3-DT is not a protein-coding gene; it is described as a \"RASSF3 divergent transcript.\""
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL31P19 is a ribosomal protein L31 pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, FBXO3-DT is not a protein-coding gene. It is described as an antisense RNA (non-coding) and is officially named \"FBXO3 divergent transcript.\""
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, DNAJB6P2 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC02865 is a long intergenic non-protein coding RNA (lincRNA)."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, AFF1 is a protein-coding gene. It encodes the ALF transcription elongation factor 1, which is involved in transcriptional regulation and has been associated with various biological processes including hematopoiesis and leukemogenesis."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, PWWP2A is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC105369759 is not a protein-coding gene; it is described as \"uncharacterized.\" The information provided does not specify that it codes for a protein."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, B3GAT1 is a protein-coding gene. It encodes a beta-1,3-glucuronyltransferase enzyme that catalyzes the transfer of glucuronic acid to specific glycoproteins and glycolipids. This enzyme plays a crucial role in the biosynthesis of HNK-1 (human natural killer-1) carbohydrate epitope, which is involved in various cellular processes including cell adhesion and differentiation."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR22HG is not a protein-coding gene; it is a non-protein coding gene that acts as the host gene for microRNA 22 (MIR22)."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CGGBP1 is a protein-coding gene. It encodes a CGG repeat-binding protein that primarily localizes to the nucleus and plays roles in transcription regulation, DNA damage repair, and telomere protection."
+    }
+]

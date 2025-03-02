@@ -1,0 +1,44 @@
+[ // correct:8 half:0 error:2
+    {
+        "ground_truth": "worm",
+        "answer": "Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "The DNA sequence comes from Saccharomyces cerevisiae."
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Homo sapiens"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "The DNA sequence does not match any organism in the database with significant similarity."
+    },
+    // 0
+    {
+        "ground_truth": "mouse",
+        "answer": "Mus musculus"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "The DNA sequence comes from Zebrafish."
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "numError"
+    },
+    // 0
+    {
+        "ground_truth": "human",
+        "answer": "The DNA sequence comes from Homo sapiens (human)."
+    }
+]

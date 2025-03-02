@@ -1,0 +1,202 @@
+[ // correct:36 half:3 error:11
+    {
+        "ground_truth": "PFKL",
+        "answer": "Answer: PFKL, AK1"
+    },
+    {
+        "ground_truth": "SLC4A1, ATP6V0A4",
+        "answer": "Answer: KCNJ1, ATP6V0A4, ATP6V1B1, SLC4A1, CA2"
+    },
+    {
+        "ground_truth": "GNAS",
+        "answer": "Answer: GNAS, RALGAPA2"
+    },
+    {
+        "ground_truth": "GNMT",
+        "answer": "Answer: GNMT, GAMT, NMT1"
+    },
+    {
+        "ground_truth": "KRT12, KRT3",
+        "answer": "Answer: KRT12, KRT3"
+    },
+    {
+        "ground_truth": "SGO1",
+        "answer": "Answer: SGOL1, CAID"
+    },
+    {
+        "ground_truth": "BSND",
+        "answer": "Answer: BSND, RRM2B"
+    },
+    {
+        "ground_truth": "SLC10A2, SLC51B",
+        "answer": "Answer: SLC10A2, SLC51B, CYP7A1, CCK"
+    },
+    {
+        "ground_truth": "LAMTOR2",
+        "answer": "Answer: Clk2, LAMTOR2"
+    },
+    {
+        "ground_truth": "MNX1",
+        "answer": "Answer: MNX1, PCSK5, GDF11"
+    },
+    {
+        "ground_truth": "COL9A3",
+        "answer": "Answer: COL9A3, CILP, ACAN, HTRA1, COL11A1, COL9A2, THBS2, CHAD"
+    },
+    {
+        "ground_truth": "EYA1, PAX1",
+        "answer": "Answer: PAX1, EYA1"
+    },
+    {
+        "ground_truth": "ATP2A1",
+        "answer": "Answer: ATP2A1"
+    },
+    {
+        "ground_truth": "TCEAL1",
+        "answer": "Answer: GRIA4, MECP2, PLAA, TMSB15B1, XLID81, 30819258, 34694367, 28413018, 613655, 18701717, 31332306, 300598, 608016"
+    }, // 0
+    {
+        "ground_truth": "POLG",
+        "answer": "Answer: POLG"
+    },
+    {
+        "ground_truth": "CFHR5",
+        "answer": "Answer: CFHR5, C3G3, CFHD, AHUS1"
+    },
+    {
+        "ground_truth": "CNGA3, CNGB3, GNAT2, PDE6H, ATF6",
+        "answer": "Answer: GNAT2, CNGB3, CNGA3, PDE6H, ATF6, PDE6C"
+    },
+    {
+        "ground_truth": "PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH",
+        "answer": "Answer: PAH, GCH1, PTS, QDPR, PCBD1, SPR"
+    }, // half 5/6
+    {
+        "ground_truth": "MIR184",
+        "answer": "Answer: MIR184, EDICT syndrome is associated with mutations in the MIR184 gene."
+    },
+    {
+        "ground_truth": "PI4KA, TTC7A",
+        "answer": "Answer: DNajc5, GIDID1\n\nThe entries \"Gastrointestinal defects and immunodeficiency syndrome 2\" (GIDID2) is associated with the gene *DNajc5*, and \"Gastrointestinal defects and immunodeficiency syndrome 1\" (GIDID1) is listed but does not have a specific gene symbol provided. However, it is included in the OMIM entry for this condition."
+    }, // 0
+    {
+        "ground_truth": "TBX22",
+        "answer": "Answer: TBX22, TBX1, TBX5, CPXCR1, KLHL4, TBX19, TETAMS2, PHLS, ABERS, CATMANS, GCLEB, OFD14, TBHS1, YHFS"
+    },
+    {
+        "ground_truth": "DLL1",
+        "answer": "Answer: DNAJC5\n\nThe gene **DNAJC5** is associated with the condition \"Neurodevelopmental disorder with spasticity, hypomyelinating leukodystrophy, and brain abnormalities\" (NEDSPLB). This is the only specific gene association found among the entries examined."
+    }, // 0
+    {
+        "ground_truth": "FLNB",
+        "answer": "Answer: FLNB, MYH3, RFLNA"
+    },
+    {
+        "ground_truth": "CTSC",
+        "answer": "Answer: CTSC"
+    },
+    {
+        "ground_truth": "NEU1",
+        "answer": "Answer: NEU1, CTSA"
+    },
+    {
+        "ground_truth": "FITM2",
+        "answer": "Answer: FITM2, BCS1L, VAMP7\n\nThe genes related to Siddiqi syndrome based on the OMIM entries are FAT STORAGE-INDUCING TRANSMEMBRANE PROTEIN 2 (FITM2), BCS1 HOMOLOG, UBIQUINOL-CYTOCHROME C REDUCTASE COMPLEX CHAPERONE (BCS1L), and VESICLE-ASSOCIATED MEMBRANE PROTEIN 7 (VAMP7)."
+    },
+    {
+        "ground_truth": "PIKFYVE",
+        "answer": "Answer: CFD (Corneal Dystrophy, Fleck) is associated with the gene locus 2q33.1. However, specific genes related to this condition are not explicitly mentioned in the OMIM entries provided. For more detailed information on the genetic basis of Corneal fleck dystrophy, further research or a more specific query might be necessary."
+    }, 
+    {
+        "ground_truth": "TRMU",
+        "answer": "Answer: ILFS1, ILFS2, ILFS3, LFIT, MUL, PFBMFT7, PFBMFT8, PFBMFT9, COXPD3, Clip2, LIVER FIBROCYSTIC DISEASE AND POLYDACTYLY, VISCERAL STEATOSIS, CONGENITAL, NEPHROPATHY, PROGRESSIVE TUBULOINTERSTITIAL, WITH CHOLESTATIC LIVER DISEASE, MORBID OBESITY AND SPERMATOGENIC FAILURE, MEGARBANE-JALKH SYNDROME, SUDDEN CARDIAC FAILURE, INFANTILE, RESPIRATORY INFECTIONS, RECURRENT, AND FAILURE TO THRIVE WITH OR WITHOUT DIARRHEA, PULMONARY FIBROSIS AND/OR BONE MARROW FAILURE SYNDROME, TELOMERE-RELATED, 2. \n\nNote: Some of these entries may not directly relate to liver failure but are part of syndromes or conditions that can include liver failure as a symptom. For more specific genes associated with liver failure, further refinement of the search might be necessary."
+    }, // 0
+    {
+        "ground_truth": "PSMB9, PSMG2, POMP, PSMB10",
+        "answer": "Answer: PSMB10"
+    }, // half 1/4
+    {
+        "ground_truth": "C2CD3",
+        "answer": "Answer: C2CD3"
+    },
+    {
+        "ground_truth": "CYLD",
+        "answer": "Answer: CYLD, PTCH1, ARHGAP36"
+    },
+    {
+        "ground_truth": "RET",
+        "answer": "Answer: RET, NRAS, BRAF, FOXE1, MUC1, CTAG1B, CDH1"
+    },
+    {
+        "ground_truth": "HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6",
+        "answer": "numError"
+    },// 0
+    {
+        "ground_truth": "LEMD3",
+        "answer": "Answer: LEMD3"
+    },
+    {
+        "ground_truth": "ELMO2",
+        "answer": "Answer: The OMIM entries for vascular malformation include several genes and conditions. Notably, the following genes are associated with specific types of vascular malformations:\n\n- **RASA1 (24038909)**: Associated with Capillary Malformation-Arteriovenous Malformation 1 (CMAVM1).\n- **EVI1 (603791)**: Associated with Primary Intraosseous Vascular Malformation (VMPI).\n- **CCBE1 (28730721)**: Associated with Capillary Malformation-Arteriovenous Malformation 2 (CMAVM2).\n\nThese genes play significant roles in the development and regulation of vascular structures."
+    }, // 0
+    {
+        "ground_truth": "KIF7",
+        "answer": "Answer: KIF7, GLI3"
+    },
+    {
+        "ground_truth": "NGLY1, MAN2C1",
+        "answer": "Answer: NGLY1, MAN2C1, ATP6AP1, CANT1"
+    },
+    {
+        "ground_truth": "TRIP4, ASCC1",
+        "answer": "Answer: ASCC1, LMNA"
+    }, // half 1/2
+    {
+        "ground_truth": "TOP2B",
+        "answer": "Answer: B-cell immunodeficiency is associated with several genes, including those involved in severe combined immunodeficiencies (SCID) and other specific conditions. Some of the key genes include:\n\n- **ADA** (Adenosine Deaminase): Associated with SCID due to adenosine deaminase deficiency.\n- **IL2RG** (Interleukin 2 Receptor Subunit Gamma): Associated with X-linked severe combined immunodeficiency (SCIDX1).\n- **RAG1 and RAG2**: Involved in the recombination activating genes, which are crucial for B-cell development.\n- **BTK** (Bruton Tyrosine Kinase): Defects in this gene can lead to X-linked agammaglobulinemia, a form of B-cell immunodeficiency.\n\nFor a more detailed list and specific conditions, the following OMIM entries provide additional information:\n\n- 616084: Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay (SIFD)\n- 600802: Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-negative\n- 619924: Immunodeficiency 105, severe combined (IMD105)\n- 615617: Immunodeficiency 19, severe combined (IMD19)\n- 617237: Immunodeficiency 49, severe combined (IMD49)\n- 611291: Immunodeficiency 124, severe combined (IMD124)\n- 615607: Immunodeficiency 17 (IMD17)\n- 608971: Immunodeficiency 104, severe combined (IMD104)\n- 602450: Severe combined immunodeficiency with sensitivity to ionizing radiation\n- 609296: B-cell immunodeficiency, distal limb anomalies, and urogenital malformations (BILU)\n- 102700: Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency\n- 601457: Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive\n- 300400: Severe combined immunodeficiency, X-linked (SCIDX1)\n- 615615: Immunodeficiency 18 (IMD18)\n- 300113: X-linked B cell surface antigen, mouse, homolog-like 1 (XLRL)\n- 614868: Immunodeficiency 110 with lymphoproliferation (IMD110)\n- 617765: Immunodeficiency, common variable, 14 (CVID14)\n- 615206: Immunodeficiency 11A (IMD11A)\n- 610163: Immunodeficiency 25 (IMD25)\n- 620668: Immunodeficiency 117 (IMD117)"
+    },// 0
+    {
+        "ground_truth": "ARPC1B",
+        "answer": "Answer: ARPC1B, WAS, IPEX, XMEN, CDG2L, CGDX, FHL1, STIM1, HMOX1D, VCFS, TERT, THES1, DGS, CMM1"
+    },
+    {
+        "ground_truth": "MAP3K20",
+        "answer": "Answer: MAP3K20, TP63"
+    },
+    {
+        "ground_truth": "PRKAR1A, PDE11A, PDE8B",
+        "answer": "Answer: PDE11A, PRKAR1A, PDE8B, PRKACA"
+    },
+    {
+        "ground_truth": "SOD3",
+        "answer": "Answer: SOD1, SOD2"
+    }, // 0
+    {
+        "ground_truth": "SCP2",
+        "answer": "Answer: LKDMN (LEUKOENCEPHALOPATHY WITH DYSTONIA AND MOTOR NEUROPATHY) is associated with the gene ERLIN2 (16685654)."
+    }, // 0
+    {
+        "ground_truth": "IL6",
+        "answer": "Answer: COL4A1, CCM1 (also known as KRIT1), IL6, HHT1 (also known as ENG)"
+    },
+    {
+        "ground_truth": "COQ2",
+        "answer": "Answer: MSA1 (Jchain) is associated with Multiple System Atrophy. However, it's important to note that the term \"MSA1\" refers to a susceptibility locus rather than a specific gene. The exact genes involved in Multiple System Atrophy are still under investigation, but this locus has been identified as being relevant to the condition."
+    },// 0
+    {
+        "ground_truth": "PDE6C, GUCA1A",
+        "answer": "Answer: CORD1, CORD2, CORD7, CORD8, CORDX1, CORDX2, CORD13, CORD14, CORD17, CORD19, RCD1, RCD3A, RCD3B, RCD4, NFRCD, HJMD, MDCD, MRCS1"
+    },// 0
+    {
+        "ground_truth": "TBX5",
+        "answer": "Answer: TBX5, NKX2-5, WWTR1, SHOX2, ALX1, SALL4, TBX3, TBX1, TBX22"
+    },
+    {
+        "ground_truth": "SLC9A1",
+        "answer": "Answer: SLC9A1"
+    },
+    {
+        "ground_truth": "TWIST2",
+        "answer": "Answer: TWIST2, FRAS1, TOP2B"
+    }
+]

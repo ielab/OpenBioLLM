@@ -1,0 +1,42 @@
+[ // correct:10 half:0 error:0
+        {
+            "ground_truth": "FASTKD5",
+            "answer": "Answer: FASTKD5"
+        },
+        {
+            "ground_truth": "CFI",
+            "answer": "Answer: CFI"
+        },
+        {
+            "ground_truth": "SLC12A6",
+            "answer": "Answer: SLC12A6"
+        },
+        {
+            "ground_truth": "TKFC",
+            "answer": "Answer: TKFC"
+        },
+        {
+            "ground_truth": "TMEM276",
+            "answer": "Answer: TMEM276"
+        },
+        {
+            "ground_truth": "P2RY14",
+            "answer": "Answer: P2RY14"
+        },
+        {
+            "ground_truth": "GLCE",
+            "answer": "Answer: GLCE"
+        },
+        {
+            "ground_truth": "ADCY6",
+            "answer": "Answer: ADCY6"
+        },
+        {
+            "ground_truth": "MICU2",
+            "answer": "Answer: MICU2"
+        },
+        {
+            "ground_truth": "SEMG2",
+            "answer": "Answer: SEMG2"
+        }
+]

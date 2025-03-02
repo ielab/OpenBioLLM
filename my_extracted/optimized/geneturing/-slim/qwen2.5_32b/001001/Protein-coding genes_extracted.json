@@ -1,0 +1,203 @@
+[ // correct:49 half:0 error:1
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, ATP5F1EP2 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No\n\nThe provided information indicates that the gene LOC124907753 is described as a hypothetical protein, which typically suggests it has not been confirmed to be a protein-coding gene through experimental evidence. The gene description \"hypothetical protein LOC124907753\" and lack of additional aliases or known functions support that this gene is not definitively classified as a protein-coding gene in the current database entries."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, AMD1P4 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR4436B2 is not a protein-coding gene; it is a microRNA gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NAXE is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR6843 is not a protein-coding gene; it is a microRNA gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL7AP58 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: No\n\nThe provided information indicates that SERF2 is not a protein-coding gene. The details show it as an ncRNA (non-coding RNA) with the formal name \"LINC00467\" and described as a long intergenic non-protein coding RNA 467, which clearly signifies it does not code for proteins but rather functions as a non-coding RNA."
+    },
+    // 0
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No\n\nThe provided information indicates that the gene LOC124907937 has been discontinued and is associated with a hypothetical protein in Parachlamydia acanthamoebae UV-7, not Homo sapiens. Therefore, it does not represent a human protein-coding gene as initially queried. The discontinuation of this gene record suggests that it may no longer be considered valid or relevant within the context of current genomic databases for humans."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HMGB1P9 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No\n\nThe information provided indicates that LOC100420990 is a hypothetical protein in Sus scrofa (pig) and an aurora kinase A interacting protein 1 pseudogene in Homo sapiens (human). Pseudogenes are non-functional sequences resembling genes but not coding for proteins. Therefore, LOC100420990 is not considered a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No\n\nThe gene RNU6-1212P is not a protein-coding gene. It is an RNA, U6 small nuclear pseudogene, which does not code for proteins but rather functions in the splicing of other RNAs as part of the spliceosome complex."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CPVL-AS2 is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CYP4F10P is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CMKLR2 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100419835 is not a protein-coding gene; it is described as a \"zinc finger protein 160 pseudogene\"."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No\n\nThe gene RNU7-171P is not a protein-coding gene. It is described as an RNA, U7 small nuclear 171P and designated as a non-protein coding transcript of snoRNA U7-171P."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL34P34 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, TTLL1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes\n\nThe provided information indicates that SPARC is indeed a protein-coding gene. The details retrieved from the NCBI Gene database for SPARC (Gene ID: 6671) show it encodes secreted protein acidic and rich in cysteine, which is described as a protein-coding gene with various aliases including BM-40, Osteonectin, etc., and has multiple transcript variants that encode different isoforms of the protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100129457 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HOTAIR is not a protein-coding gene; it is an antisense intergenic RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CAAP1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes\n\nThe provided information indicates that SPOP is indeed a protein-coding gene. The details include the presence of mRNA and peptide products, which are indicative of a gene that codes for proteins. Specifically, there are multiple transcript variants (e.g., variant 1) with associated peptide isoforms (e.g., isoform 1), confirming its status as a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No\n\nThe information provided indicates that RNU6-746P is not a protein-coding gene. It is described as an RNA, U6 small nuclear 746P and falls under the category of non-protein coding RNA. The aliases include microRNA 5238 and SNORD109B, which are also non-coding RNAs. Therefore, RNU6-746P does not code for a protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, POLE4P1 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RASSF3-DT is not a protein-coding gene; it appears to be a divergent transcript."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, FBXO3-DT is not a protein-coding gene; it is listed as an antisense RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, DNAJB6P2 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes"
+    }
+]

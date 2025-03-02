@@ -1,0 +1,202 @@
+[ // correct:0 half:47 error:3
+    {
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "Answer: chr15:92493309-92494181"
+    },
+    {
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "Answer: chr8:69058-69192, chr8:36227-36361, chrUnknown:106002-106136, chrUnknown:155338-155472, chrUnknown:56659-56793"
+    },
+    {
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "Answer: chr10:42152-42288"
+    },
+    {
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "Answer: chr7:25482-25584"
+    },
+    {
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "Answer: chr17:147022-147158"
+    },
+    {
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "Answer: chr6:30024-30084, chr6:243514-243574 (Note: The sequence aligns perfectly to two regions on chromosome 6.)"
+    },
+    {
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "Answer: chr22:15029167-15029316"
+    },
+    {
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "Answer: chr21:117500-117619, chr21:3838-3957, chr21:45932-45992, chr21:120920-120980, chr21:122454-122514"
+    },
+    {
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "Answer: chr5:113918-114019, chr21:25346-25447, chr21:172125-172226, chr21:10045588-10045689, chr21:36208-36309"
+    },
+    {
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "Answer: chr18:120563-120673"
+    },
+    {
+        "ground_truth": "chr1:234883857-234883957",
+        "answer": "Answer: chr1:171187-171287, chr1:36289-36389"
+    },
+    {
+        "ground_truth": "chr10:96583669-96583777",
+        "answer": "Answer: chr10:94965-95074"
+    },
+    {
+        "ground_truth": "chr7:124923900-124924043",
+        "answer": "Answer: chr7:11084-11227"
+    },
+    {
+        "ground_truth": "chr14:65272135-65272273",
+        "answer": "Answer: chr14:33639-33778, chr14:46738852-46738991, chr14:177706-177845"
+    },
+    {
+        "ground_truth": "chr7:158890075-158890221",
+        "answer": "Answer: chr7:58345-58491"
+    },
+    {
+        "ground_truth": "chr18:45026043-45026168",
+        "answer": "Answer: chr18:350871-350996"
+    },
+    {
+        "ground_truth": "chr3:156536294-156536419",
+        "answer": "Answer: chr3:420747-420872"
+    },
+    {
+        "ground_truth": "chr19:32322319-32322449",
+        "answer": "Answer: chr19:32753225-32753355"
+    },
+    {
+        "ground_truth": "chrX:71742848-71742983",
+        "answer": "Answer: chrX:87224-87359, chrX:91444-91579"
+    },
+    {
+        "ground_truth": "chrX:98833089-98833232",
+        "answer": "Answer: chrX:85138-85282"
+    },
+    {
+        "ground_truth": "chr22:18817258-18817377",
+        "answer": "Answer: chr22:2754771-2754890, chr22:5555992-5556111, chr22:66449-66330, chr22:36465-36584, chr22:60803-60922"
+    },
+    {
+        "ground_truth": "chr16:23611895-23612018",
+        "answer": "Answer: chr16:97609-97632, chr16:23563215-23563338, chr16:34343-34462"
+    },
+    {
+        "ground_truth": "chr21:12702345-12702461",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "chr6:163903884-163904010",
+        "answer": "Answer: chr6:100302-100429"
+    },
+    {
+        "ground_truth": "chr18:54462342-54462470",
+        "answer": "Answer: chr18:70305-70425"
+    },
+    {
+        "ground_truth": "chr2:34350870-34351005",
+        "answer": "Answer: chr2:100754-100889"
+    },
+    {
+        "ground_truth": "chr7:32588819-32588940",
+        "answer": "Answer: chr7:52405-52527"
+    },
+    {
+        "ground_truth": "chr14:83950330-83950463",
+        "answer": "Answer: chr14:65416674-65416807"
+    },
+    {
+        "ground_truth": "chr11:37515333-37515467",
+        "answer": "Answer: chr11:65427-65561"
+    },
+    {
+        "ground_truth": "chr19:23003880-23004012",
+        "answer": "Answer: chr19:20195-20328"
+    },
+    {
+        "ground_truth": "chr8:141523256-141523379",
+        "answer": "Answer: chr8:68039-68162"
+    },
+    {
+        "ground_truth": "chr9:22210568-22210684",
+        "answer": "Answer: chr9:44720-44837, chr6:24517-24634"
+    },
+    {
+        "ground_truth": "chrX:96520716-96520841",
+        "answer": "Answer: chrX:46729-46855"
+    },
+    {
+        "ground_truth": "chr20:57571370-57571508",
+        "answer": "Answer: chr20:56086426-56086564"
+    },
+    {
+        "ground_truth": "chr17:9557107-9557213",
+        "answer": "Answer: chr17:23852-23746 (reverse complement)"
+    },
+    {
+        "ground_truth": "chr1:189568643-189568756",
+        "answer": "Answer: chr1:26558-26672"
+    },
+    {
+        "ground_truth": "chr19:41724898-41725009",
+        "answer": "Answer: chr19:42168818-42168929"
+    },
+    {
+        "ground_truth": "chr6:119363354-119363488",
+        "answer": "Answer: chr6:66562-66697"
+    },
+    {
+        "ground_truth": "chr16:3779892-3780028",
+        "answer": "Answer: chr16:105822-105686, chr16:31354-31218, chr16:92995211-92995347, chr16:3769893-3770029"
+    },
+    {
+        "ground_truth": "chr2:93063432-93063557",
+        "answer": "Answer: chr2:89278-89403, chr2:91318-91443, chr2:95398-95523, chr2:111033-111158, chr2:141282-141407"
+    },
+    {
+        "ground_truth": "chr19:19162638-19162779",
+        "answer": "Answer: chr19:53373-53514"
+    },
+    {
+        "ground_truth": "chr9:8591402-8591503",
+        "answer": "Answer: chr9:2026221-2026322"
+    },
+    {
+        "ground_truth": "chr6:20935508-20935649",
+        "answer": "Answer: chr6:406051-406193"
+    },
+    {
+        "ground_truth": "chr1:20486790-20486921",
+        "answer": "Answer: chr1:8597-8728"
+    },
+    {
+        "ground_truth": "chr14:99402298-99402438",
+        "answer": "Answer: chr14:80868635-80868775"
+    },
+    {
+        "ground_truth": "chr20:29228714-29228833",
+        "answer": "It looks like you have a detailed BLAST (Basic Local Alignment Search Tool) output for a query sequence against several BAC (Bacterial Artificial Chromosome) clones from the human and chimpanzee genomes. The results show multiple alignments with high identity scores, indicating strong similarity between your query sequence and the sequences in these BAC clones.\n\nHere's a summary of the key points:\n\n### Query Sequence\n- **Query Length**: 120 nucleotides\n\n### BAC Clones Analyzed\n1. **AL590841.13 (Homo sapiens)**\n   - **Length**: 167,802 bp\n   - **Alignments**:\n     - Multiple alignments with high identity scores (e.g., 195 bits, 105/120 identities)\n     - Alignments on both plus and minus strands\n\n2. **AC147391.6 (Homo sapiens)**\n   - **Length**: 262,955 bp\n   - **Alignments**:\n     - Multiple alignments with high identity scores (e.g., 195 bits, 105/120 identities)\n     - Alignments on both plus and minus strands\n\n3. **AC147391.6 (Homo sapiens)**\n   - **Length**: 262,955 bp\n   - **Alignments**:\n     - Multiple alignments with high identity scores (e.g., 195 bits, 105/120 identities)\n     - Alignments on both plus and minus strands\n\n4. **AC186373.3 (Pan troglodytes)**\n   - **Length**: 157,565 bp\n   - **Alignments**:\n     - Multiple alignments with high identity scores (e.g., 195 bits, 105/120 identities)\n     - Alignments on both plus and minus strands\n\n5. **AC186373.3 (Pan troglodytes)**\n   - **Length**: 157,565 bp\n   - **Alignments**:\n     - Multiple alignments with high identity scores (e.g., 195 bits, 105/120 identities)\n     - Alignments on both plus and minus strands\n\n### Summary of Key Alignments\n- **High Identity Scores**: Most alignments have very high identity scores, indicating strong sequence similarity.\n- **Strand Specificity**: Alignments are found on both the plus and minus strands, suggesting that the query sequence is conserved in both orientations.\n- **Conservation Across Species**: The query sequence shows high conservation between human and chimpanzee BAC clones, which is expected given their close evolutionary relationship.\n\n### Example Alignment\nHere's an example of a high-scoring alignment from one of the BAC clones:\n\n#### AC147391.6 (Homo sapiens)\n- **Query**: `TTTCCACGATAGACCTGAAACTGCCTAAATATATCTCTTTGCAGATTCTACAAAAAGACT`\n- **Subject**: `TTTTCACGATAGACCTGAAAATGCCTACATATATCCCTTTGCAGATTCTACAAAAAGACT`\n- **Score**: 195 bits\n- **Identity**: 105/120 (87.5%)\n\n### Conclusion\nThe BLAST results indicate that your query sequence is highly conserved and has multiple strong alignments with the BAC clones from both human and chimpanzee genomes. This suggests that the sequence is likely to be functionally important or evolutionarily conserved.\n\nIf you have specific questions about any of the alignments or need further analysis, feel free to ask!"
+    }, // 0
+    {
+        "ground_truth": "chr10:121721897-121722042",
+        "answer": "Answer: chr10:62918-63063, chr10:138033-138178"
+    },
+    {
+        "ground_truth": "chr10:8432390-8432526",
+        "answer": "Answer: chr10:104345-104209"
+    },
+    {
+        "ground_truth": "chr2:132111535-132111654",
+        "answer": "Answer: chr9:157193-157312"
+    },// 0
+    {
+        "ground_truth": "chr20:34383091-34383229",
+        "answer": "The BLAST results you provided show multiple alignments of your query sequence with various human DNA sequences. Here’s a summary of the key findings:\n\n### Top Matches:\n1. **AL356379.10 (Chromosome 1)**\n   - **Score**: 128 bits (69)\n   - **Expect Value**: 2e-25\n   - **Identities**: 114/136 (84%)\n   - **Gaps**: 1/136 (1%)\n\n2. **CP034494.1 (Chromosome 16)**\n   - **Score**: 126 bits (68)\n   - **Expect Value**: 6e-25\n   - **Identities**: 115/138 (83%)\n   - **Gaps**: 1/138 (1%)\n\n### Other Significant Matches:\n- **AL356379.10 (Chromosome 1)**\n  - **Score**: 106 bits (57)\n  - **Expect Value**: 8e-19\n  - **Identities**: 111/137 (81%)\n  - **Gaps**: 4/137 (3%)\n\n- **CP034494.1 (Chromosome 16)**\n  - **Score**: 102 bits (55)\n  - **Expect Value**: 1e-17\n  - **Identities**: 88/104 (85%)\n  - **Gaps**: 2/104 (2%)\n\n### Detailed Alignments:\n#### AL356379.10 (Chromosome 1)\n- **Alignment 1**:\n  ```\n  Query: TGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCT\n  Sbjct: TGCAGTGGTGTGATCATGGCTCACTGTAGTCTCAACCTCCTGGGCTCAAGCAATCCTCCT\n\n  Query: GTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGtttat\n  Sbjct: ACCTCAGCCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCCAGCTGATTT-T\n\n  Query: ttttattttttGTAGA\n  Sbjct: TTTTGTTTTTTGTAGA\n  ```\n\n- **Alignment 2**:\n  ```\n  Query: TGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCT\n  Sbjct: TGCAGTGGCACGATCTCGGCTCACTGCAACCTCCACCTCCTGGGTTCAAGTGATTCTCCT\n\n  Query: GTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTA-Gttta\n  Sbjct: GTGTCAGTCTCCTGAGTAGCTGGGATTACAGGTGCACACCACCATGCCTGGCTAAGTTT-\n  ```\n\n#### CP034494.1 (Chromosome 16)\n- **Alignment 1**:\n  ```\n  Query: AATGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTC\n  Sbjct: AATGCAGTGGCATGATCATGGCTCACTGCAGCCTCAGCCTCCTGGGCTCAGGCGATCCTC\n\n  Query: CTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGttt\n  Sbjct: CTGCCTCAGCCTCCTGAGTAGCTGGGACCACAGGTGCATGCCACCACACCTGGCTAATTT\n\n  Query: atttttattttttGTAGA\n  Sbjct: -TTTAAATATTTTGCAGA\n  ```\n\n- **Alignment 2**:\n  ```\n  Query: GAATGCAGT-G-GCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATG\n  Sbjct: GAGTGCAGTGGTGCA--ATCACTGCTCACTGCAGCCTTGACTTCCTGGGCTCTGGGAATC\n\n  Query: CTCCTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAG\n  Sbjct: CTCCCGCCTTAGCCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCACACCTGGCTAA\n\n  Query: tttattttt\n  Sbjct: TTTATTTTT\n  ```\n\n### Interpretation:\n- **High Identity and Low E-values**: The top matches have high identity (81-84%) and very low E-values (2e-25 to 6e-25), indicating strong similarity between your query sequence and the reference sequences.\n- **Multiple Alignments**: There are multiple alignments for each significant match, showing that the query sequence aligns well with different regions of the reference sequences.\n- **Gaps**: Some alignments have a few gaps, which is common in sequence alignment and can be due to insertions or deletions in the sequences.\n\n### Conclusion:\nYour query sequence has strong matches with human DNA sequences from chromosomes 1 and 16. The high identity scores and low E-values suggest that your sequence is likely derived from these regions of the human genome. If you need further analysis, such as functional annotation or specific gene identification, you might want to explore the genomic context of these alignments using tools like UCSC Genome Browser or Ensembl."
+    } // 0
+]

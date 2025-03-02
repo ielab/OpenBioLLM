@@ -1,0 +1,202 @@
+[ // correct:0 half:47 error:3
+    {
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "Answer: chr15:92493309-92493436"
+    },
+    {
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "Answer: chr8:35025-35159"
+    },
+    {
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "Answer: chr10:42152-42288"
+    },
+    {
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "Answer: chr7:25482-25584"
+    },
+    {
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "Answer: chr17:147022-147158"
+    },
+    {
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "Answer: chr6:30025-30161"
+    },
+    {
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "Answer: chr22:15029167-15029316"
+    },
+    {
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "Answer: chr21:117500-117619, chr21:45873-45992, chr21:122395-122514, chr21:119349-119468"
+    },
+    {
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "Answer: chr5:113918-114019"
+    }, // 0
+    {
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "Answer: chr18:38671627-38671737"
+    },
+    {
+        "ground_truth": "chr1:234883857-234883957",
+        "answer": "Answer: chr1:36289-36389, chr1:171187-171287"
+    },
+    {
+        "ground_truth": "chr10:96583669-96583777",
+        "answer": "Answer: chr10:94965-95074"
+    },
+    {
+        "ground_truth": "chr7:124923900-124924043",
+        "answer": "Answer: chr7:11084-11227"
+    },
+    {
+        "ground_truth": "chr14:65272135-65272273",
+        "answer": "Answer: chr14:46738853-46738991"
+    },
+    {
+        "ground_truth": "chr7:158890075-158890221",
+        "answer": "Answer: chr7:58344-58490"
+    },
+    {
+        "ground_truth": "chr18:45026043-45026168",
+        "answer": "Answer: chr18:42596008-42596133"
+    },
+    {
+        "ground_truth": "chr3:156536294-156536419",
+        "answer": "Answer: chr3:420747-420872"
+    },
+    {
+        "ground_truth": "chr19:32322319-32322449",
+        "answer": "The provided BLAST output shows multiple alignments of the query sequence with various regions in the reference sequences. The most significant alignment is with chromosome 19, specifically within a BAC clone or synthetic construct (CP034497.1) and a region on chromosome 19 (AC005682.1).\n\n### Summary of Key Alignments:\n\n1. **Perfect Match:**\n   - **Query Sequence:** `GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACaaaaaaaaTTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAAACCCGGGAG`\n   - **Reference Sequence (CP034497.1):** `GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACaaaaaaaaTTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAAACCCGGGAG`\n   - **Position:** 32,753,225 to 32,753,355\n   - **Score:** 243 bits (131)\n   - **Expect Value:** 5e-60\n   - **Identities:** 131/131 (100%)\n\n2. **Highly Significant Matches:**\n   - **Reference Sequence (AC005682.1):** `GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACaaaaaaaaTTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAAACCCGGGAG`\n   - **Position:** 40,613,953 to 40,614,079\n   - **Score:** 152 bits (82)\n   - **Expect Value:** 9e-33\n   - **Identities:** 113/128 (88%)\n\n   - **Reference Sequence (AC005682.1):** `GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACaaaaaaaaTTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAAACCCGGGAG`\n   - **Position:** 48,569,668 to 48,569,793\n   - **Score:** 152 bits (82)\n   - **Expect Value:** 9e-33\n   - **Identities:** 114/129 (88%)\n\n### Conclusion:\nThe query sequence has a perfect match with the synthetic construct CP034497.1 at position 32,753,225 to 32,753,355. Additionally, there are highly significant matches on chromosome 19 (AC005682.1) at positions 40,613,953 to 40,614,079 and 48,569,668 to 48,569,793.\n\n### Chromosome 19 Position:\n- **chr19:40,613,953-40,614,079**\n- **chr19:48,569,668-48,569,793**\n\nThese positions on chromosome 19 are where the query sequence aligns with high significance. If you need more detailed information or further analysis, please let me know!"
+    },
+    {
+        "ground_truth": "chrX:71742848-71742983",
+        "answer": "Answer: chrX:87148-87283, chrX:91444-91579"
+    },
+    {
+        "ground_truth": "chrX:98833089-98833232",
+        "answer": "Answer: Xq21.2-22.2:85139-85282"
+    },
+    {
+        "ground_truth": "chr22:18817258-18817377",
+        "answer": "Answer: chr22:43613-43732"
+    },
+    {
+        "ground_truth": "chr16:23611895-23612018",
+        "answer": "Answer: chr16:97547-97670"
+    },
+    {
+        "ground_truth": "chr21:12702345-12702461",
+        "answer": "Answer: chr21:9047-9163, chr21:11242-11358, chr21:13437-13553, chr21:15632-15748, chr21:17827-17943"
+    },
+    {
+        "ground_truth": "chr6:163903884-163904010",
+        "answer": "Answer: chr6:100302-100429"
+    },
+    {
+        "ground_truth": "chr18:54462342-54462470",
+        "answer": "Answer: chr18:70297-70425"
+    },
+    {
+        "ground_truth": "chr2:34350870-34351005",
+        "answer": "Answer: chr2:100754-100889"
+    },
+    {
+        "ground_truth": "chr7:32588819-32588940",
+        "answer": "Answer: chr7:52405-52527"
+    },
+    {
+        "ground_truth": "chr14:83950330-83950463",
+        "answer": "Answer: chr14:40480-40613, chr14:65416674-65416807"
+    },
+    {
+        "ground_truth": "chr11:37515333-37515467",
+        "answer": "Answer: chr11:65352-65486"
+    },
+    {
+        "ground_truth": "chr19:23003880-23004012",
+        "answer": "Answer: chr19:23126682-23126814"
+    },
+    {
+        "ground_truth": "chr8:141523256-141523379",
+        "answer": "Answer: chr8:68039-68162"
+    },
+    {
+        "ground_truth": "chr9:22210568-22210684",
+        "answer": "Answer: chr9:44720-44837"
+    },
+    {
+        "ground_truth": "chrX:96520716-96520841",
+        "answer": "Answer: chrX:46729-46855"
+    },
+    {
+        "ground_truth": "chr20:57571370-57571508",
+        "answer": "The BLAST (Basic Local Alignment Search Tool) results you provided show multiple alignments of your query sequence with various subject sequences from the database. Here's a summary of the key points:\n\n### Summary of Alignments\n\n1. **Top Matches:**\n   - **AL832409.1** and **CP056777.1**: These sequences have the highest bit scores (189 bits) and the lowest E-values (8e-44), indicating a strong match.\n   - **AL832409.1** and **CP056777.1** also show high identity (92%) with minimal gaps.\n\n2. **Common Features:**\n   - The query sequence aligns well with the subject sequences, showing high identity (typically 90-92%).\n   - Most alignments have a few gaps, but these are generally small and do not significantly affect the overall alignment quality.\n   - The strand orientation is either plus/plus or plus/minus, indicating that the query sequence can align in both directions with the subject sequences.\n\n3. **Specific Alignments:**\n   - **AL832409.1** (Score: 189 bits, E-value: 8e-44, Identity: 128/140):\n     ```plaintext\n     Query: ttttgtttgtttgtttgtttg-ttttgttgttgGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTG\n     Sbjct: TTTTG-TT-TTTGTTT-TTT-TT-TTGAGATGGAGTCTCGCTCTGTCGCCCAGGCTGGAGTG\n     ```\n   - **CP056777.1** (Score: 189 bits, E-value: 8e-44, Identity: 128/140):\n     ```plaintext\n     Query: ttttgtttgtttgtttgtttg-ttttgttgttgGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTG\n     Sbjct: TTTTG-TT-TTTGTTT-TTT-TT-TTGAGATGGAGTCTCGCTCTGTCGCCCAGGCTGGAGTG\n     ```\n\n4. **Other Significant Matches:**\n   - **AL832409.1** (Score: 185 bits, E-value: 1e-42, Identity: 126/139):\n     ```plaintext\n     Query: ttttgtttgtttgtttgtttgtttgttttgttgttgGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTG\n     Sbjct: TTTTTTTTTTTTGGTTTGTTTGTTTGGTTT-TT-TTGAGTCGGAGTCTCACTCTGTCGCC\n     ```\n   - **CP056777.1** (Score: 183 bits, E-value: 4e-42, Identity: 127/140):\n     ```plaintext\n     Query: ttttgtttgtttg-tttgtttgtttgttttgttgttgGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTG\n     Sbjct: TTTTTTTTTTTTGGTTTGTTTGTTTGGTTT-TT-TTGAGTCGGAGTCTCACTCTGTCGCC\n     ```\n\n### Interpretation\n\n- **High Identity and Low E-values:** The high identity (90-92%) and low E-values (e.g., 8e-44) indicate that the query sequence is very similar to the subject sequences. This suggests a strong evolutionary relationship or functional similarity.\n- **Gaps:** The presence of small gaps in some alignments does not significantly affect the overall alignment quality, as they are minimal and do not disrupt the core sequence identity.\n- **Strand Orientation:** The plus/plus and plus/minus orientations suggest that the query sequence can align with both strands of the subject sequences, which is common in DNA sequences.\n\n### Conclusion\n\nThe BLAST results indicate that your query sequence has strong matches with several subject sequences, particularly those from the AL832409.1 and CP056777.1 databases. These matches are characterized by high identity, low E-values, and minimal gaps, suggesting a high degree of similarity and potential functional or evolutionary relatedness."
+    }, // 0
+    {
+        "ground_truth": "chr17:9557107-9557213",
+        "answer": "Answer: chr17:23852-23958"
+    },
+    {
+        "ground_truth": "chr1:189568643-189568756",
+        "answer": "Answer: chr1:26558-26672"
+    },
+    {
+        "ground_truth": "chr19:41724898-41725009",
+        "answer": "Answer: chr19:20168-20280"
+    },
+    {
+        "ground_truth": "chr6:119363354-119363488",
+        "answer": "Answer: chr6:66562-66697"
+    },
+    {
+        "ground_truth": "chr16:3779892-3780028",
+        "answer": "Answer: chr16:105702-105822"
+    },
+    {
+        "ground_truth": "chr2:93063432-93063557",
+        "answer": "Answer: chr2:54597-54722, chr2:102527-102652, chr2:115274-115399, chr2:116633-116758, chr2:124110-124235, chr2:134645-134770, chr2:137361-137486, chr2:141778-141903, chr2:150951-151076, chr2:145174-145297, chr2:55957-56082, chr2:60037-60162, chr2:61397-61522, chr2:93009-93134, chr2:101168-101291, chr2:134985-135108, chr2:142118-142241, chr2:36899-37024, chr2:41668-41793, chr2:53917-54042, chr2:91649-91774, chr2:92329-92454, chr2:95049-95174, chr2:106265-106390, chr2:109156-109281, chr2:53239-53364, chr2:57997-58122, chr2:59357-59482"
+    },
+    {
+        "ground_truth": "chr19:19162638-19162779",
+        "answer": "Answer: chr19:53372-53514"
+    },
+    {
+        "ground_truth": "chr9:8591402-8591503",
+        "answer": "Answer: chr9:90517-90618"
+    },
+    {
+        "ground_truth": "chr6:20935508-20935649",
+        "answer": "Answer: chr6:406052-406193"
+    },
+    {
+        "ground_truth": "chr1:20486790-20486921",
+        "answer": "Answer: chr1:8597-8728"
+    },
+    {
+        "ground_truth": "chr14:99402298-99402438",
+        "answer": "Answer: chr14:80868635-80868775"
+    },
+    {
+        "ground_truth": "chr20:29228714-29228833",
+        "answer": "The BLAST results show multiple alignments of the query sequence with sequences from different BAC clones and a human DNA sequence. Here's a summary of the key findings:\n\n### Query Sequence:\n- **Length**: 120 nucleotides\n\n### Top Matches:\n1. **AC127385.6 (Homo sapiens BAC clone RP13-489M19 from chromosome 4)**\n   - **Score**: 195 bits (105)\n   - **Expect Value**: 1e-45\n   - **Identities**: 115/120 (96%)\n   - **Gaps**: 0/120 (0%)\n   - **Strand**: Plus/Minus\n\n2. **AC127385.6 (Homo sapiens BAC clone RP13-489M19 from chromosome 4)**\n   - **Score**: 128 bits (69)\n   - **Expect Value**: 1e-25\n   - **Identities**: 84/91 (92%)\n   - **Gaps**: 1/91 (1%)\n\n3. **AC127385.6 (Homo sapiens BAC clone RP13-489M19 from chromosome 4)**\n   - **Score**: 117 bits (63)\n   - **Expect Value**: 3e-22\n   - **Identities**: 82/91 (90%)\n   - **Gaps**: 1/91 (1%)\n\n4. **AC127385.6 (Homo sapiens BAC clone RP13-489M19 from chromosome 4)**\n   - **Score**: 110 bits (59)\n   - **Expect Value**: 5e-20\n   - **Identities**: 75/83 (90%)\n   - **Gaps**: 0/83 (0%)\n\n5. **AC127385.6 (Homo sapiens BAC clone RP13-489M19 from chromosome 4)**\n   - **Score**: 108 bits (58)\n   - **Expect Value**: 2e-19\n   - **Identities**: 96/114 (84%)\n   - **Gaps**: 3/114 (3%)\n\n### Other Matches:\n- **AC127385.6 (Homo sapiens BAC clone RP13-489M19 from chromosome 4)**\n  - Multiple alignments with scores ranging from 106 bits to 67.6 bits, showing high identity and low expect values.\n\n- **AC200706.3 (Pan troglodytes BAC clone CH251-542J9 from chromosome 7)**\n  - **Score**: 195 bits (105)\n  - **Expect Value**: 1e-45\n  - **Identities**: 115/120 (96%)\n  - **Gaps**: 0/120 (0%)\n  - **Strand**: Plus/Plus\n\n- **AC200706.3 (Pan troglodytes BAC clone CH251-542J9 from chromosome 7)**\n  - Multiple alignments with scores ranging from 117 bits to 82.4 bits, showing high identity and low expect values.\n\n### Summary:\n- The query sequence has a very strong match (195 bits, 96% identity) with the human BAC clone RP13-489M19 from chromosome 4.\n- There are also strong matches with the chimpanzee BAC clone CH251-542J9 from chromosome 7, indicating high conservation between human and chimpanzee sequences in this region.\n- The alignments show that the query sequence is highly conserved across these regions, with minimal gaps and high identity scores.\n\n### Conclusion:\nThe query sequence is likely a well-conserved region in both humans and chimpanzees, suggesting it may have important functional or regulatory roles. Further analysis could involve examining the specific genomic context of this region to understand its biological significance."
+    }, // 0
+    {
+        "ground_truth": "chr10:121721897-121722042",
+        "answer": "Answer: chr10:138032-138178, chr10:62917-63063"
+    },
+    {
+        "ground_truth": "chr10:8432390-8432526",
+        "answer": "Answer: chr10:104286-104422"
+    },
+    {
+        "ground_truth": "chr2:132111535-132111654",
+        "answer": "Answer: chr2:66806-66925, chr18:118088-118148, chr13:14935-14994, chr9:106395-106455"
+    },
+    {
+        "ground_truth": "chr20:34383091-34383229",
+        "answer": "Answer: chr20:24836-24974"
+    }
+]

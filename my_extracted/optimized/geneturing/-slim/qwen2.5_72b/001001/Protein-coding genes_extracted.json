@@ -1,0 +1,202 @@
+[ // correct:50 half:0 error:0
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, ATP5F1EP2 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124907753 is not a protein-coding gene; it is an uncharacterized locus."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, AMD1P4 is not a protein-coding gene; it is a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NODAL is a protein-coding gene. It encodes a secreted ligand of the TGF-beta superfamily of proteins and plays a crucial role in early embryonic development."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR4436B2 is a non-coding RNA (ncRNA) gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NAXE is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124909477 is not a protein-coding gene; it is an uncharacterized locus."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC01560 is not a protein-coding gene; it is a long intergenic non-protein coding RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, UCKL1-AS1 is not a protein-coding gene; it is a non-protein coding RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR6843 is a microRNA gene, not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL7AP58 is a ribosomal protein L7a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SERF2 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124907937 is not a protein-coding gene; it is an uncharacterized locus."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-1193P is not a protein-coding gene; it is an RNA, U6 small nuclear 1193 pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC124903168 is not a protein-coding gene; it is an uncharacterized locus."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HMGB1P9 is a pseudogene and does not produce a functional protein."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100420990 is a pseudogene, not a protein-coding gene. It is described as \"aurora kinase A interacting protein 1 pseudogene.\""
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "NA"
+    }, 
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CPVL-AS2 is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, NPFFR1 is a protein-coding gene. It encodes a G protein-coupled receptor that functions as a neuropeptide FF receptor."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "NA"
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, FANCG is a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CMKLR2 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, SSBP3-AS1 is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100419835 is a pseudogene, specifically a zinc finger protein 160 pseudogene. It is not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU7-171P is not a protein-coding gene; it is an RNA, U7 small nuclear 171 pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL34P34 is a ribosomal protein L34 pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100526841 is not a protein-coding gene; it is described as a pseudogene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, TTLL1 is a protein-coding gene in Homo sapiens."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, CORO1A-AS1 is not a protein-coding gene; it is an antisense RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SPARC is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC100129457 is a pseudogene, specifically a coiled-coil domain containing 86 pseudogene. It is not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, HOTAIR is not a protein-coding gene. It is a non-protein coding RNA (ncRNA)."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CAAP1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, PIGCP1 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC01054 is not a protein-coding gene; it is a long intergenic non-protein coding RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, SPOP is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RNU6-746P is not a protein-coding gene; it is an RNA pseudogene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, POLE4P1 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RASSF3-DT is not a protein-coding gene; it is a divergent transcript."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, RPL31P19 is a ribosomal protein L31 pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, FBXO3-DT is a non-protein coding transcript."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, DNAJB6P2 is a pseudogene and not a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LINC02865 is a long intergenic non-protein coding RNA."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, AFF1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, PWWP2A is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, LOC105369759 is not a protein-coding gene. It is an uncharacterized gene with genomic information but no specific function or coding potential described."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, B3GAT1 is a protein-coding gene."
+    },
+    {
+        "ground_truth": "NA",
+        "answer": "Answer: No, MIR22HG is not a protein-coding gene; it is a non-protein coding host gene."
+    },
+    {
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes, CGGBP1 is a protein-coding gene."
+    }
+]

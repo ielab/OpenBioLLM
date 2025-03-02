@@ -1,0 +1,202 @@
+[ // correct:42 half:0 error:8
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Escherichia coli"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known organism in the NCBI nucleotide database."
+    }, // 0
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus (Norway rat)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Escherichia coli\n\nThe provided BLAST results indicate that the DNA sequence aligns perfectly (100% identity) with multiple strains of _Escherichia coli_, including:\n\n- **Escherichia coli O157:H7 str. Sakai, complete genome**\n- **Escherichia coli strain E24377A, complete genome**\n- **Escherichia coli strain E24377A, plasmid pE24377A, complete sequence**\n\nThese alignments have a score of 239 bits and an E-value of 2e-60, indicating a very strong match. Therefore, the DNA sequence is from _Escherichia coli_."
+    }, // 0
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus (Norway rat)"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "The BLAST results you provided show multiple alignments of a query sequence with sequences from different BAC (Bacterial Artificial Chromosome) clones. Here's a summary of the key points:\n\n### Query Sequence:\n- **Length**: 127 nucleotides\n\n### Alignments:\n\n#### 1. **AL121877.14** (Human DNA sequence from clone RP13-140E4 on chromosome X, complete sequence)\n- **Length**: 163,253 nucleotides\n- **Best Alignment**:\n  - **Score**: 235 bits (127)\n  - **Expect Value**: 9e-58\n  - **Identities**: 127/127 (100%)\n  - **Gaps**: 0/127 (0%)\n  - **Strand**: Plus/Plus\n\n#### 2. **AC192990.2** (Pan troglodytes BAC clone CH251-352O19 from chromosome X, complete sequence)\n- **Length**: 171,256 nucleotides\n- **Best Alignment**:\n  - **Score**: 235 bits (127)\n  - **Expect Value**: 9e-58\n  - **Identities**: 127/127 (100%)\n  - **Gaps**: 0/127 (0%)\n  - **Strand**: Plus/Minus\n\n#### 3. **AC019144.9** (Homo sapiens BAC clone RP11-733L22 from chromosome 2, complete sequence)\n- **Length**: 146,004 nucleotides\n- **Best Alignment**:\n  - **Score**: 195 bits (105)\n  - **Expect Value**: 1e-45\n  - **Identities**: 118/124 (95%)\n  - **Gaps**: 2/124 (2%)\n  - **Strand**: Plus/Minus\n\n#### 4. **AC074096.8** (Homo sapiens BAC clone RP11-328L16 from chromosome 2, complete sequence)\n- **Length**: 192,649 nucleotides\n- **Best Alignment**:\n  - **Score**: 193 bits (104)\n  - **Expect Value**: 5e-45\n  - **Identities**: 114/119 (96%)\n  - **Gaps**: 0/119 (0%)\n  - **Strand**: Plus/Plus\n\n### Summary of Alignments:\n- The query sequence shows perfect matches (100% identity) with sequences from both the human and chimpanzee BAC clones, indicating high conservation.\n- The alignments with the human BAC clone RP11-733L22 and RP11-328L16 show slightly lower identities but still very strong matches, with 95% and 96% identity, respectively.\n\n### Key Observations:\n- **High Conservation**: The query sequence is highly conserved between human and chimpanzee, suggesting it may be a functionally important region.\n- **Strand Specificity**: The alignments show that the query sequence can match both the plus and minus strands of the BAC sequences, indicating potential palindromic or bidirectional regulatory elements.\n\n### Conclusion:\nThe BLAST results indicate that the query sequence is well-conserved across different human and chimpanzee BAC clones, suggesting it may play a significant role in genomic function. The high identity scores and low expect values further support this conclusion."
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Meleagris gallopavo (turkey)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known organism in the NCBI nucleotide database."
+    }, // 0
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known organism in the NCBI nucleotide database."
+    }, // 0
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known organism in the NCBI nucleotide database."
+    }, // 0
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus (chicken)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens (Human)"
+    },
+    {
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus (chicken)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known organism in the NCBI nucleotide database."
+    }, // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "It seems there was an issue with the retrieval of the BLAST results for the provided Request ID (RID: V7NVW1NX023). The error message indicates that the results were not found.\n\nHowever, based on the initial alignment data from the first response, the DNA sequence is most closely aligned with sequences from *Escherichia coli* strains. Therefore, the organism of origin for this DNA sequence is:\n\nAnswer: Escherichia coli"
+    }, // 0
+    {
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae (Baker's yeast)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Homo sapiens (human)"
+    },
+    {
+        "ground_truth": "rat",
+        "answer": "Answer: Mus musculus (house mouse)"
+    },
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Zebrafish (Danio rerio)"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans"
+    },
+    {
+        "ground_truth": "worm",
+        "answer": "Answer: No significant similarity found. The provided DNA sequence does not match any known organism in the NCBI nucleotide database."
+    }, // 0
+    {
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio (Zebrafish)"
+    }
+]

@@ -1,0 +1,488 @@
+[
+// correct:36 half:3 error:11
+// (36 + 2/7 + 1/3 + 1/7)50 = 0.74
+    {
+        "ground_truth": [
+            "SLC38A6",
+            "NAT-1",
+            "SNAT6"
+        ],
+        // 1
+        "answer": "The sequence provided aligns with the gene SLC38A6, which is located on chromosome 14. The aliases for this gene include:\n\n- NAT-1 (Neutral Amino Acid Transporter 1)\n- SNAT6 (Sodium-dependent Neuronal Amino Acid Transporter 6)\n\nThese are alternative names or symbols used to refer to the same gene in different contexts or databases."
+    },
+    {
+        "ground_truth": [
+            "FCGR3A",
+            "CD16",
+            "FCG3",
+            "CD16A",
+            "FCGR3",
+            "IGFR3",
+            "IMD20",
+            "FCR-10",
+            "FCRIII",
+            "CD16-II",
+            "FCGRIII",
+            "FCRIIIA",
+            "FcGRIIIA"
+        ],
+        // 1
+        "answer": "The provided DNA sequence aligns with high similarity (100% identity) to the gene **FCGR3A** on chromosome 1. The aliases for this gene include:\n\n- CD16\n- FCG3\n- CD16A\n- FCGR3\n- IGFR3\n- IMD20\n- FCR-10\n- FCRIII\n- CD16-II\n- FCGRIII\n- FCRIIIA\n- FcGRIIIA\n\nThese aliases are commonly used in the literature and databases to refer to the same gene, which encodes a receptor for the Fc portion of immunoglobulin G (IgG)."
+    },
+    {
+        "ground_truth": [
+            "FNDC11",
+            "C20orf195"
+        ],
+        // 1
+        "answer": "The provided sequence aligns with high similarity (100%) to the gene FNDC11, which is located on chromosome 20. The BLAST results indicate that this sequence matches regions within the fibronectin type III domain-containing protein 11 (FNDC11) gene.\n\nFrom the NCBI Gene database information provided:\n\n- **Official Symbol**: FNDC11\n- **Synonyms/Aliases**:\n  - C20orf195\n\nTherefore, the aliases of the gene that contains the given sequence are:\n\n- **C20orf195**\n\nThis alias is listed as a synonym for the official symbol FNDC11."
+    },
+    {
+        "ground_truth": [
+            "EOLA2",
+            "CXorf40B"
+        ],
+        // 1
+        "answer": "The provided DNA sequence aligns with the gene EOLA2 (Endothelium and Lymphocyte Associated ASCH Domain 2). Based on the information retrieved from NCBI, the aliases or synonyms for this gene include:\n\n- CXorf40B\n\nThis alias is listed as a synonym in the Entrez Gene record for EOLA2. The gene is located on chromosome Xq28 and has been identified through various transcript variants, all of which align with the provided sequence."
+    },
+    {
+        "ground_truth": [
+            "PSMB10",
+            "LMP10",
+            "MECL1",
+            "PRAAS5",
+            "beta2i"
+        ],// 0
+        "answer": "The sequence provided aligns to the gene **PSMB10** (Proteasome 20S subunit beta type 10). Based on the information retrieved, here are some aliases for this gene:\n\n- Proteasome (prosome, macropain) subunit, beta type 10\n- Low molecular mass protein 10\n- Macropain subunit MECl-1\n- Multicatalytic endopeptidase complex subunit MECl-1\n- Prosome Mecl1\n- Proteasome (prosomome, macropain) subunit, beta type 10\n- Proteasome MECl-1\n- Proteasome subunit MECL1\n- Proteasome subunit beta-2i\n\nThese aliases reflect the various names and descriptions used for this gene across different contexts and databases."
+    },
+    {
+        "ground_truth": [
+            "QSOX2",
+            "SOXN",
+            "QSCN6L1"
+        ],
+        // 1
+        "answer": "The gene that contains the provided sequence is **QSOX2** (quiescin sulfhydryl oxidase 2). The aliases for this gene include:\n\n- SOXN\n- QSCN6L1\n\nThese are alternative names or synonyms used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "OR10A2",
+            "OST363",
+            "OR10A2P",
+            "OR11-82",
+            "OR11-86"
+        ],
+        // 1
+        "answer": "The gene that contains the provided DNA sequence is **OR10A2** (Olfactory receptor family 10 subfamily A member 2). The aliases for this gene include:\n\n- OST363\n- OR10A2P\n- OR11-82\n- OR11-86\n\nThese aliases are listed as synonyms in the NCBI Gene database entry for **OR10A2**."
+    },
+    {
+        "ground_truth": [
+            "NUP50",
+            "NPAP60",
+            "NPAP60L"
+        ],
+        // 0
+        "answer": "It seems that the provided sequence aligns to a region on chromosome 22, but there are no genes directly annotated in this specific region according to the NCBI database. The BLAST results indicate that the sequence is located within an enhancer region (NG_146219.2) rather than within a gene.\n\nSince there are no direct gene annotations for the given sequence location, we cannot provide aliases of a gene associated with this sequence based on the current information from NCBI's database.\n\nAnswer: No genes directly annotated at the specified location; the sequence aligns to an enhancer region on chromosome 22."
+    },
+    {
+        "ground_truth": [
+            "MLLT10",
+            "AF10"
+        ],
+        // 1
+        "answer": "The provided DNA sequence aligns with the gene MLLT10, which has several aliases. Based on the information retrieved:\n\n- **Official Symbol**: MLLT10\n- **Aliases**:\n  - AF10\n  - ALL1-fused gene from chromosome 10 protein\n  - myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10\n  - myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10\n  - type I AF10 protein\n  - type III AF10 protein\n  - type IV AF10 protein\n\nTherefore, the aliases of the gene that contains the given sequence are **AF10** and several other names listed above."
+    },
+    {
+        "ground_truth": [
+            "MRPL57",
+            "MRP63",
+            "bMRP63"
+        ],
+        // 0
+        "answer": "The provided sequence aligns to a region on chromosome 13 that is annotated as an enhancer associated with the NANOG transcription factor and marked by H3K27ac and H3K4me1 histone modifications. This enhancer does not appear to be directly linked to a specific gene but rather functions in the regulation of nearby genes.\n\nThe locus identifier for this region is **LOC127825880**, which indicates that it is a biological region with regulatory function, specifically an enhancer. The aliases or identifiers associated with this sequence are:\n\n- **Locus Link ID**: 127825880\n- **Accession Number**: NG_127392.1 (for the specific enhancer region)\n- **Genomic Coordinates**: chr13:21750209-21750931 (GRCh37/hg19 assembly coordinates)\n\nThis enhancer is not directly associated with a gene but rather serves as an active regulatory element in naive human embryonic stem cells. Therefore, it does not have traditional aliases like those of protein-coding genes. Instead, its identity and function are described through the locus identifier (LOC127825880) and its genomic location on chromosome 13."
+    },
+    {
+        "ground_truth": [
+            "SYT4",
+            "HsT1192"
+        ],
+        // 0
+        "answer": "Based on the provided information, the DNA sequence aligns to the gene **SYT4** (synaptotagmin 4). The aliases for this gene include:\n\n- Synaptotagmin IV\n- SYTIV\n\nThese names are derived from the BLAST results and the subsequent retrieval of gene information from NCBI. The primary alias provided is \"Synaptotagmin IV,\" which is also referred to as \"SYTIV\" in some contexts."
+    },
+    {
+        "ground_truth": [
+            "ZBTB6",
+            "ZID",
+            "ZNF482"
+        ],
+        // 1
+        "answer": "The gene that contains the provided sequence is **ZBTB6** (zinc finger and BTB domain containing 6). The aliases for this gene include:\n\n- ZID\n- ZNF482\n\nThese aliases are listed in the Entrez Gene record for ZBTB6."
+    },
+    {
+        "ground_truth": [
+            "PTH",
+            "FIH1",
+            "PTH1"
+        ],
+        // 0
+        "answer": "Answer: PTH, PTHLH"
+    },
+    {
+        "ground_truth": [
+            "ASIP",
+            "ASP",
+            "AGSW",
+            "AGTI",
+            "AGTIL",
+            "SHEP9"
+        ], // 0
+        "answer": "Answer: ASIP, Agouti Signaling Protein, AGT2R, AW104987"
+    },
+    {
+        "ground_truth": [
+            "LCE2A",
+            "LEP9"
+        ],
+        // 0
+        "answer": "It appears there was a mix-up in the analysis. The sequence provided does not align to the gene GRN (granulin precursor) as indicated by the example response. Instead, based on the BLAST results you initially shared, the sequence aligns with high identity to regions of chromosome 1 and is associated with late cornified envelope protein 2D (LCE2D).\n\nTo answer your question about aliases for the gene containing this sequence:\n\nThe provided DNA sequence aligns well with LCE2D (late cornified envelope protein 2D). The aliases or synonyms for LCE2D include:\n- LOC110740910\n- LCE2D\n\nThese are based on the BLAST results and the gene information retrieved from NCBI. If you need more detailed information about this gene, including its function and other associated identifiers, further exploration of the NCBI Gene database or other genomic resources would be necessary."
+    },
+    {
+        "ground_truth": [
+            "SEPTIN3",
+            "SEP3",
+            "SEPT3",
+            "bK250D10.3"
+        ],
+        // 1
+        "answer": "The gene that contains the provided sequence is **SEPTIN3**. The aliases for this gene include:\n\n- SEPT3\n- SEP3\n- bK250D10.3\n\nThese are alternative names or symbols used to refer to the same gene, which encodes a member of the septin family of GTPases involved in various cellular processes including cytokinesis and cytoskeletal organization."
+    },
+    {
+        "ground_truth": [
+            "TWIST2",
+            "AMS",
+            "FFDD3",
+            "BBRSAY",
+            "DERMO1",
+            "SETLSS",
+            "bHLHa39"
+        ], // 2/7
+        "answer": "Based on the provided information, we can determine that the sequence aligns to a region associated with the gene **TWIST2** (Twist family bHLH transcription factor 2). The BLAST results show significant matches to sequences annotated as TWIST2 in different species.\n\nTo answer your question about aliases of the gene containing this sequence:\n\n- The official symbol for the gene is **TWIST2**.\n- Synonyms or aliases include:\n  - Dermo1\n  - bHLHa39\n\nThese are alternative names used to refer to the same gene, TWIST2."
+    },
+    {
+        "ground_truth": [
+            "METTL24",
+            "C6orf186"
+        ],// 1
+        "answer": "The provided DNA sequence aligns to the human genome on chromosome 6 and is associated with the gene **METTL24** (methyltransferase like 24). Based on the information retrieved from NCBI, the aliases or synonyms for this gene include:\n\n- C6orf186\n\nThis alias indicates that METTL24 was initially identified as an open reading frame (ORF) on chromosome 6. The term \"C6orf186\" reflects its chromosomal location and order of discovery relative to other ORFs in the same region.\n\nThe gene is also associated with several mRNA and protein accession numbers, such as NM_001354594 for an mRNA variant and NP_001341523 for a peptide isoform. These identifiers can be used to find more detailed information about specific transcripts or protein products of the METTL24 gene.\n\nIn summary, the primary alias for the gene containing the provided sequence is **C6orf186**."
+    },
+    {
+        "ground_truth": [
+            "RNGTT",
+            "HCE",
+            "HCE1",
+            "hCAP",
+            "CAP1A"
+        ],
+        // 0
+        "answer": "Error"
+    },
+    {
+        "ground_truth": [
+            "RNF7",
+            "SAG",
+            "ROC2",
+            "rbx2",
+            "CKBBP1"
+        ],// 1
+        "answer": "The provided sequence aligns to the human genome on chromosome 3, and it is part of the gene RNF7 (ring finger protein 7). Based on the information retrieved from NCBI Gene database for the human gene with ID 9616:\n\n- **Aliases**: CKBBP1, ROC2, SAG, rbx2\n- **Other Designations**: RING-box protein 2 | CKII beta-binding protein 1 | regulator of cullins 2 | sensitive to apoptosis gene protein | sensitive to apoptosis zinc RING finger protein SAG | sensitive to apoptosis, zinc RING finger protein SAG, regulator of cullins 2 | zinc RING finger protein SAG\n\nTherefore, the aliases for the human gene that contains the given sequence are CKBBP1, ROC2, SAG, and rbx2."
+    },
+    {
+        "ground_truth": [
+            "F3",
+            "TF",
+            "TFA",
+            "CD142"
+        ],
+        // 1
+        "answer": "The provided sequence aligns to the gene **F3** (coagulation factor III, tissue factor). Based on the information retrieved from NCBI Gene database, here are some aliases for this gene:\n\n- TF (Tissue Factor)\n- TFA\n- CD142\n\nThese aliases represent different names or symbols used to refer to the same gene in various contexts and databases."
+    },
+    {
+        "ground_truth": [
+            "SLC25A33",
+            "PNC1",
+            "BMSC-MCP"
+        ],
+        // 1
+        "answer": "The gene that contains the provided DNA sequence is **SLC25A33**, which has several aliases:\n\n- PNC1 (Pyrimidine Nucleotide Carrier 1)\n- BMSC-MCP (Bone Marrow Stromal Cell Mitochondrial Carrier Protein)\n\nThese aliases are listed as synonyms for the gene in the NCBI Gene database. The sequence aligns to regions within this gene, indicating that it is part of the SLC25A33 gene on chromosome 1."
+    },
+    {
+        "ground_truth": [
+            "PCLO",
+            "ACZ",
+            "PCH3"
+        ],
+        // 1
+        "answer": "The provided sequence aligns with the gene **PCLO** (piccolo presynaptic cytomatrix protein). Based on the information retrieved from NCBI, the aliases or synonyms for this gene include:\n\n- ACZ\n- PCH3\n\nThese are alternative names used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "OR56A1",
+            "OR11-75"
+        ],
+        // 1
+        "answer": "The provided sequence aligns to the gene **OR56A1** (Olfactory receptor family 56 subfamily A member 1). The aliases for this gene include:\n\n- OR11-75\n\nThis information was derived from the BLAST alignment results and subsequent retrieval of gene details using NCBI's EUtils. The sequence matched perfectly with regions on chromosome 11, specifically within the genomic context of the **OR56A1** gene."
+    },
+    {
+        "ground_truth": [
+            "E2F1",
+            "RBP3",
+            "E2F-1",
+            "RBAP1",
+            "RBBP3"
+        ],
+        // 1
+        "answer": "The gene that contains the provided sequence is **E2F1** (E2F transcription factor 1). Based on the information retrieved, here are some of its aliases:\n\n- E2F-1\n- RBP3 (Retinoblastoma-binding protein 3)\n- RBAP1 (RB-associated protein 1)\n- RBBP3 (Rb binding protein 3)\n\nThese names represent different designations for the same gene across various studies and databases."
+    },
+    {
+        "ground_truth": [
+            "ZNF366",
+            "DCSCRIPT",
+            "DC-SCRIPT"
+        ],
+        // 1
+        "answer": "The gene that contains the provided sequence is **ZNF366** (zinc finger protein 366). The aliases for this gene include:\n\n- DCSCRIPT\n- DC-SCRIPT\n\nThese aliases are listed in the formal name section of the Entrez Gene record, indicating alternative names or symbols used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "ALOX15",
+            "LOG15",
+            "12-LOX",
+            "15-LOX",
+            "15-LOX-1"
+        ],
+        // 1
+        "answer": "The provided sequence aligns to the human genome and is associated with the gene **ALOX15** (arachidonate 15-lipoxygenase). The aliases or synonyms for this gene include:\n\n- LOG15\n- 12-LOX\n- 15-LOX\n- 15-LOX-1\n\nThese are alternative names used to refer to the same gene, which encodes an enzyme involved in the metabolism of polyunsaturated fatty acids."
+    },
+    {
+        "ground_truth": [
+            "LYPD6B",
+            "CT116",
+            "LYPD7"
+        ],
+        // 1/3
+        "answer": "The provided sequence aligns with high identity (100%) to the gene LYPD6B, also known as LY6/PLAUR domain containing 6B. The aliases for this gene include:\n\n- **LYPD6B**: Official symbol from HGNC.\n- **CT116**: Another alias for the same gene.\n\nThese aliases are derived from the NCBI Gene database entry for LYPD6B, which indicates that CT116 is a synonym for this gene."
+    },
+    {
+        "ground_truth": [
+            "PRKCH",
+            "PKCL",
+            "PKC-L",
+            "PRKCL",
+            "uORF2",
+            "nPKC-eta"
+        ],
+        // 1
+        "answer": "The aliases of the gene that contains the provided sequence are:\n\n- PRKCH (official symbol)\n- PKC eta\n- PKC-eta\n- PKCL\n- PKC-L\n- PRKCL\n- uORF2\n- nPKC-eta\n\nThese aliases refer to the protein kinase C eta gene, which is located on chromosome 14."
+    },
+    {
+        "ground_truth": [
+            "ARHGEF26",
+            "SGEF",
+            "CSGEF",
+            "HMFN1864"
+        ],// 1
+        "answer": "The gene that contains the provided sequence is **ARHGEF26**, which stands for Rho guanine nucleotide exchange factor 26. The aliases or synonyms of this gene include:\n\n- SGEF (Src homology 3 domain-containing guanine exchange factor)\n- CSGEF (C-terminal SH3-domain containing GEF)\n- HMFN1864\n\nThese are alternative names used to refer to the same gene, reflecting its various functional domains and characteristics."
+    },
+    {
+        "ground_truth": [
+            "AGAP9",
+            "AGAP-9",
+            "CTGLF6",
+            "bA301J7.2"
+        ],
+        // 0
+        "answer": "numError"
+    },
+    {
+        "ground_truth": [
+            "IFT22",
+            "FAP9",
+            "CFAP9",
+            "RABL5"
+        ],// 1
+        "answer": "The gene that contains the provided sequence is **IFT22** (Intraflagellar Transport Protein 22). Based on the information retrieved, here are some of its aliases:\n\n- FAP9\n- CFAP9\n- RABL5\n\nThese names represent different synonyms or alternative designations for the same gene."
+    },
+    {
+        "ground_truth": [
+            "GLB1",
+            "EBP",
+            "ELNR1",
+            "MPS4B"
+        ],// 1
+        "answer": "The provided DNA sequence aligns with the gene **GLB1** (galactosidase beta 1). The aliases for this gene include:\n\n- EBP (Elastin Binding Protein)\n- ELNR1 (Elastin Receptor 1, 67kDa)\n- MPS4B\n\nThese are alternative names or symbols used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "COX7B",
+            "APLCC",
+            "LSDMCA2"
+        ],
+        // 1
+        "answer": "The provided sequence aligns to the human genome and is associated with the gene **COX7B**. The aliases for this gene include:\n\n- COX7B (official symbol)\n- Cox7b2\n- coxVIIb\n- cytochrome c oxidase subunit 7B\n\nAdditionally, there are synonyms listed in the Entrez Gene record:\n- APLCC\n- LSDMCA2\n\nThese aliases and synonyms represent different names or identifiers used for the gene encoding cytochrome c oxidase subunit 7B."
+    },
+    {
+        "ground_truth": [
+            "PLK5",
+            "PLK-5",
+            "PLK5P",
+            "SgK384ps"
+        ],// 1
+        "answer": "The provided sequence aligns to the human genome on chromosome 19 and corresponds to the gene **PLK5** (Polo-like kinase 5). The aliases for this gene include:\n\n- PLK-5\n- PLK5P\n- SgK384ps\n\nThese are alternative names or symbols used to refer to the same gene, which is described as an inactive serine/threonine-protein kinase."
+    },
+    {
+        "ground_truth": [
+            "ANKRD60",
+            "C20orf86",
+            "bA196N14.3"
+        ],// 0
+        "answer": "The sequence provided aligns to the human gene ANKRD60 (Ankyrin Repeat Domain 60). Based on the information retrieved, some of the aliases or synonyms for this gene include:\n\n- **ANKRD60**: The official symbol used by NCBI and other databases.\n- **1700019A24Rik** and **1700030G11Rik**: These are RIKEN cDNA clone names, which were sometimes used as gene symbols before the official naming.\n\nThe sequence you provided aligns with high identity to transcripts of ANKRD60, indicating that it is part of this gene. The aliases listed above can be useful for cross-referencing in different databases or literature where the gene might have been referred to by these names."
+    },
+    {
+        "ground_truth": [
+            "POC1B-GALNT4",
+            "GALNT4",
+            "GalNAc-T4"
+        ],
+        // 0
+        "answer": "The provided sequence aligns with the gene POC1B (POC1 centriolar protein B) on chromosome 12 in humans. Based on the information retrieved from NCBI, the aliases for this gene include:\n\n- CORD20\n- PIX1\n- TUWD12\n- WDR51B\n\nThese are alternative names or symbols used to refer to the POC1 centriolar protein B gene."
+    },
+    {
+        "ground_truth": [
+            "INTS8",
+            "INT8",
+            "NEDCHS",
+            "C8orf52"
+        ],// 1
+        "answer": "The gene that contains the provided DNA sequence is **INTS8** (integrator complex subunit 8). Based on the information retrieved, some of its aliases include:\n\n- INT8\n- NEDCHS\n- C8orf52\n\nThese are alternative names or symbols used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "CPB2",
+            "CPU",
+            "PCPB",
+            "TAFI"
+        ], // 1
+        "answer": "The provided sequence aligns to the **carboxypeptidase B2 (CPB2)** gene on chromosome 13. The aliases for this gene include:\n\n- CPU (Carboxypeptidase U)\n- PCPB (Plasma Carboxypeptidase B)\n- TAFI (Thrombin-activatable Fibrinolysis Inhibitor)\n\nThese are alternative names or symbols used to refer to the same gene, CPB2."
+    },
+    {
+        "ground_truth": [
+            "VBP1",
+            "PFD3",
+            "PFDN3",
+            "VBP-1",
+            "HIBBJ46"
+        ],// 1
+        "answer": "The provided DNA sequence aligns with high identity (100%) to the VHL binding protein 1 gene (VBP1) on chromosome X. Based on the information retrieved from NCBI, the aliases for this gene include:\n\n- PFD3\n- PFDN3\n- VBP-1\n- HIBBJ46\n\nThese are alternative names or symbols used to refer to the same gene in different contexts or databases."
+    },
+    {
+        "ground_truth": [
+            "H2BC1",
+            "STBP",
+            "TH2B",
+            "H2BFU",
+            "TSH2B",
+            "hTSH2B",
+            "TSH2B.1",
+            "HIST1H2BA",
+            "bA317E16.3"
+        ], // 1
+        "answer": "The provided DNA sequence aligns to the gene **HIST1H2BA** (also known as H2BC1), which is located on chromosome 6. The aliases for this gene include:\n\n- STBP (Spermatid-specific histone B)\n- TH2B (Testis Histone H2B)\n- H2BFU\n- TSH2B (Testis-specific histone H2B)\n- hTSH2B\n- TSH2B.1\n- HIST1H2BA\n- bA317E16.3\n\nThese aliases reflect the various names and identifiers used for this gene in different contexts or databases, highlighting its role as a testis-specific histone variant."
+    },
+    {
+        "ground_truth": [
+            "CPLANE2",
+            "RSG1",
+            "C1orf89"
+        ],
+        // 0
+        "answer": "Answer: No significant similarity found for the provided sequence in the human genome, hence unable to determine the aliases of the gene containing this sequence."
+    },
+    {
+        "ground_truth": [
+            "ADAMDEC1",
+            "M12.219"
+        ],
+        // 1
+        "answer": "The provided DNA sequence aligns with the gene ADAMDEC1 (ADAM-like decysin 1). Based on the information retrieved from NCBI, here are some aliases for this gene:\n\n- **Official Symbol**: ADAMDEC1\n- **Synonyms**:\n  - M12.219\n\nThe gene is located on chromosome 8 at position p21.2 and has several accession numbers associated with it, including HGNC:16299 and Ensembl:ENSG00000134028.\n\nTherefore, the aliases for the gene containing the provided sequence are:\n- ADAMDEC1\n- M12.219"
+    },
+    {
+        "ground_truth": [
+            "B3GNT8",
+            "B3GALT7",
+            "BGALT15",
+            "beta3Gn-T8"
+        ],// 1
+        "answer": "The provided sequence aligns to the gene **B3GNT8** (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8). The aliases for this gene include:\n\n- B3GALT7\n- BGALT15\n- beta3Gn-T8\n\nThese are alternative names or synonyms used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "SRC",
+            "ASV",
+            "SRC1",
+            "THC6",
+            "c-SRC",
+            "p60-Src"
+        ], // 1
+        "answer": "The provided DNA sequence aligns with the **SRC** gene, which is also known as the SRC proto-oncogene. The aliases for this gene include:\n\n- ASV (Avian Sarcoma Viral Oncogene Homolog)\n- SRC1\n- THC6\n- c-SRC\n- p60-Src\n\nThese are some of the common synonyms and aliases used to refer to the **SRC** gene in various contexts, such as literature or databases. The gene is located on chromosome 20q11.23 and encodes a non-receptor tyrosine kinase that plays an important role in cell growth regulation and embryonic development."
+    },
+    {
+        "ground_truth": [
+            "UBTFL1",
+            "HMGPI",
+            "C11orf27"
+        ],
+        // 0
+        "answer": "The provided DNA sequence aligns to the human genome on chromosome 11, specifically within a region annotated as UBTFL2 (UBTF like 2 pseudogene). Based on the information retrieved from NCBI Gene database:\n\n- **Official Symbol**: UBTFL2\n- **Aliases/Other Names**:\n  - Upstream binding transcription factor-like 2 (pseudogene)\n  - Upstream binding transcription factor, RNA polymerase I-like 2 (pseudogene)\n\nTherefore, the aliases of the gene that contains the given sequence are \"Upstream binding transcription factor-like 2 (pseudogene)\" and \"Upstream binding transcription factor, RNA polymerase I-like 2 (pseudogene)\"."
+    },
+    {
+        "ground_truth": [
+            "MOGS",
+            "DER7",
+            "GCS1",
+            "CDG2B",
+            "CWH41"
+        ], // 1
+        "answer": "The gene that contains the provided sequence is **MOGS** (mannosyl-oligosaccharide glucosidase). The aliases for this gene include:\n\n- DER7\n- GCS1\n- CDG2B\n- CWH41\n\nThese are alternative names or symbols used to refer to the same gene."
+    },
+    {
+        "ground_truth": [
+            "ATOSB",
+            "FAM214B",
+            "KIAA1539"
+        ], // 1
+        "answer": "The gene that contains the provided sequence is **ATOSB** (atos homolog B). Based on the information retrieved, here are some of its aliases:\n\n- FAM214B\n- KIAA1539\n\nThese aliases indicate different names or identifiers used for the same gene in various databases and literature."
+    },
+    {
+        "ground_truth": [
+            "SHANK2",
+            "SHANK",
+            "AUTS17",
+            "CORTBP1",
+            "CTTNBP1",
+            "ProSAP1",
+            "SPANK-3"
+        ],// 1/7
+        "answer": "The provided sequence aligns with high identity (100%) to the SHANK2 gene, which is located on chromosome 11 in humans. The BLAST results indicate that this sequence matches regions within the SHANK2 gene.\n\nTo answer your question about aliases of the gene containing the given sequence:\n\n- **Official Symbol**: SHANK2\n- **Synonyms/Aliases**:\n  - SH3 and multiple ankyrin repeat domains protein 2\n  - ProSAP1 (in mouse)\n  - mKIAA1022 (mouse ortholog)\n\nThe gene is known by these names in various contexts, reflecting its function and the species-specific nomenclature."
+    },
+    {
+        "ground_truth": [
+            "PTPRR",
+            "PTPRQ",
+            "EC-PTP",
+            "PCPTP1",
+            "PTP-SL",
+            "PTPBR7"
+        ], // 1
+        "answer": "The provided sequence aligns with the gene **PTPRR** (protein tyrosine phosphatase receptor type R). Based on the information retrieved, here are some of the aliases for this gene:\n\n- PTPRQ\n- EC-PTP\n- PCPTP1\n- PTP-SL\n- PTPBR7\n\nAdditionally, there are several protein names associated with this gene:\n- Ch-1 PTPase\n- NC-PTPCOM1\n- R-PTP-R\n- ch-1PTPase\n- protein tyrosine phosphatase Cr1PTPase\n- protein-tyrosine phosphatase NC-PTPCOM1\n- protein-tyrosine phosphatase PCPTP1\n\nThese aliases and names reflect the various contexts in which this gene has been studied or referred to within scientific literature."
+    }
+]

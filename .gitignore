@@ -1,0 +1,31 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore Python virtual environment
+venv/
+.env
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files
+.vscode/         # VSCode settings
+.idea/           # PyCharm settings
+*.sublime-workspace  # Sublime Text workspace files
+
+# Ignore Git merge conflict files
+*.orig

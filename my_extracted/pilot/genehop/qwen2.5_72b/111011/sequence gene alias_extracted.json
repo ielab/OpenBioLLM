@@ -1,0 +1,98 @@
+[ // correct:5 half:3 error:2
+  // （5 + 3/5 + 2/3 + 1/2）/10 =  0.67
+    {
+        "ground_truth": [
+            "SLC38A6",
+            "NAT-1",
+            "SNAT6"
+        ],
+        // 1
+        "answer": "Answer: NAT-1, SNAT6, N-system amino acid transporter 1, Na(+)-coupled neutral amino acid transporter 6, Sodium-coupled neutral amino acid transporter 6, amino acid transporter SLC38A6, probable sodium-coupled neutral amino acid transporter 6"
+    },
+    {
+        "ground_truth": [
+            "FCGR3A",
+            "CD16",
+            "FCG3",
+            "CD16A",
+            "FCGR3",
+            "IGFR3",
+            "IMD20",
+            "FCR-10",
+            "FCRIII",
+            "CD16-II",
+            "FCGRIII",
+            "FCRIIIA",
+            "FcGRIIIA"
+        ],
+        // 1
+        "answer": "Answer: CD16, CD16-II, CD16A, FCG3, FCGR3, FCGRIII, FCR-10, FCRIII, FCRIIIA, FcGRIIIA, IGFR3, IMD20"
+    },
+    {
+        "ground_truth": [
+            "FNDC11",
+            "C20orf195"
+        ],
+        // 0
+        "answer": "It appears that even with the expanded search range of `chr20:75000-85000`, no gene records were found in the NCBI Gene database. This strongly suggests that the sequence is located in a non-coding or intergenic region, which does not have a direct association with any known genes.\n\nSince we have exhausted our search options and have not found any specific gene associated with the given sequence, it is likely that the sequence is part of a regulatory region, an intron, or another non-coding element. Therefore, there are no known aliases for a gene containing this sequence.\n\nAnswer: No known gene aliases are associated with the provided sequence."
+    },
+    {
+        "ground_truth": [
+            "EOLA2",
+            "CXorf40B"
+        ], // 1
+        "answer": "It looks like you have a large XML snippet containing gene location history information for multiple genes (e.g., `EOLA2-DT`, `EOLA2`). The data is structured in a way that each `<DocumentSummary>` tag contains detailed information about a specific gene, including its name, description, chromosome location, and historical annotation releases.\n\nHere’s a breakdown of the key elements within each `<DocumentSummary>`:\n\n1. **Gene Information**:\n   - `<Name>`: The name of the gene.\n   - `<Description>`: A brief description of the gene.\n   - `<Chromosome>`: The chromosome on which the gene is located.\n   - `<MapLocation>`: The specific location on the chromosome.\n   - `<OtherAliases>`: Alternative names for the gene.\n   - `<OtherDesignations>`: Additional designations or descriptions.\n   - `<NomenclatureSymbol>`: The official symbol for the gene.\n   - `<NomenclatureName>`: The official name of the gene.\n   - `<NomenclatureStatus>`: The status of the nomenclature (e.g., Official).\n\n2. **Genomic Information**:\n   - `<ChrLoc>`: The chromosome location.\n   - `<ChrAccVer>`: The accession version of the chromosome.\n   - `<ChrStart>` and `<ChrStop>`: The start and stop positions of the gene on the chromosome.\n   - `<ExonCount>`: The number of exons in the gene.\n\n3. **Location History**:\n   - `<AnnotationRelease>`: The release version of the annotation.\n   - `<AssemblyAccVer>`: The accession version of the assembly.\n   - `<ChrAccVer>`: The accession version of the chromosome.\n   - `<ChrStart>` and `<ChrStop>`: The start and stop positions of the gene in this specific annotation release.\n\n### Example Breakdown for `EOLA2-DT`:\n\n```xml\n<DocumentSummary uid=\"100272228\">\n    <Name>EOLA2-DT</Name>\n    <Description>EOLA2 divergent transcript</Description>\n    <Chromosome>X</Chromosome>\n    <MapLocation>Xq28</MapLocation>\n    <OtherAliases>LINC00894</OtherAliases>\n    <OtherDesignations>long intergenic non-protein coding RNA 894</OtherDesignations>\n    <NomenclatureSymbol>EOLA2-DT</NomenclatureSymbol>\n    <NomenclatureName>EOLA2 divergent transcript</NomenclatureName>\n    <NomenclatureStatus>Official</NomenclatureStatus>\n    <GenomicInfo>\n        <GenomicInfoType>\n            <ChrLoc>X</ChrLoc>\n            <ChrAccVer>NC_000023.11</ChrAccVer>\n            <ChrStart>149938547</ChrStart>\n            <ChrStop>150016786</ChrStop>\n            <ExonCount>12</ExonCount>\n        </GenomicInfoType>\n    </GenomicInfo>\n    <LocationHist>\n        <LocationHistType>\n            <AnnotationRelease>RS_2024_08</AnnotationRelease>\n            <AssemblyAccVer>GCF_000001405.40</AssemblyAccVer>\n            <ChrAccVer>NC_000023.11</ChrAccVer>\n            <ChrStart>149938547</ChrStart>\n            <ChrStop>150016786</ChrStop>\n        </LocationHistType>\n        <!-- More LocationHistType entries for different releases -->\n    </LocationHist>\n</DocumentSummary>\n```\n\n### Example Breakdown for `EOLA2`:\n\n```xml\n<DocumentSummary uid=\"541578\">\n    <Name>EOLA2</Name>\n    <Description>endothelium and lymphocyte associated ASCH domain 2</Description>\n    <Chromosome>X</Chromosome>\n    <MapLocation>Xq28</MapLocation>\n    <OtherAliases>CXorf40B</OtherAliases>\n    <OtherDesignations>protein EOLA2|protein CXorf40B</OtherDesignations>\n    <NomenclatureSymbol>EOLA2</NomenclatureSymbol>\n    <NomenclatureName>endothelium and lymphocyte associated ASCH domain 2</NomenclatureName>\n    <NomenclatureStatus>Official</NomenclatureStatus>\n    <GenomicInfo>\n        <GenomicInfoType>\n            <ChrLoc>X</ChrLoc>\n            <ChrAccVer>NC_000023.11</ChrAccVer>\n            <ChrStart>149938490</ChrStart>\n            <ChrStop>149929531</ChrStop>\n            <ExonCount>8</ExonCount>\n        </GenomicInfoType>\n    </GenomicInfo>\n    <LocationHist>\n        <LocationHistType>\n            <AnnotationRelease>RS_2024_08</AnnotationRelease>\n            <AssemblyAccVer>GCF_000001405.40</AssemblyAccVer>\n            <ChrAccVer>NC_000023.11</ChrAccVer>\n            <ChrStart>149938490</ChrStart>\n            <ChrStop>149929531</ChrStop>\n        </LocationHistType>\n        <!-- More LocationHistType entries for different releases -->\n    </LocationHist>\n</DocumentSummary>\n```\n\n### Key Points:\n- **Chromosome and Position**: Each gene has a specific location on the chromosome, defined by `<ChrStart>` and `<ChrStop>`.\n- **Annotation Releases**: The `<LocationHist>` section provides historical information about the gene's location across different annotation releases.\n- **Exon Count**: The number of exons in the gene is provided in the `<GenomicInfoType>`.\n\nIf you have specific questions or need to extract certain data from this XML, feel free to ask!"
+    },
+    {
+        "ground_truth": [
+            "PSMB10",
+            "LMP10",
+            "MECL1",
+            "PRAAS5",
+            "beta2i"
+        ],// 3/5
+        "answer": "Based on the BLAST results and gene information provided, the sequence `AGACGTGAAGCCTAGCAGAGGACTTTTTAGCTGCTCACTGGCCCCGCTTGTCTGGCCGACTCATCCGCCCGCGACCCCTAATCCCCTCTGCCTGCCCCAAGATGCTGAAGCCA` is associated with the gene encoding the proteasome beta 10 subunit proprotein variant. This gene is known by several aliases:\n\n- **PSMB10**\n- **LMP10**\n- **MECL1**\n\nThese are the primary aliases for this gene, which encodes a component of the proteasome complex involved in protein degradation and antigen processing."
+    },
+    {
+        "ground_truth": [
+            "QSOX2",
+            "SOXN",
+            "QSCN6L1"
+        ], // 2/3
+        "answer": "Answer: QSCN6L1, SOXN, sulfhydryl oxidase 2, neuroblastoma-derived sulfhydryl oxidase, quiescin Q6 sulfhydryl oxidase 2, quiescin Q6-like 1, quiescin Q6-like protein 1, thiol oxidase 2"
+    },
+    {
+        "ground_truth": [
+            "OR10A2",
+            "OST363",
+            "OR10A2P",
+            "OR11-82",
+            "OR11-86"
+        ], // 1
+        "answer": "Answer: OR10A2, OR10A2P, OR11-82, OR11-86, OST363, olfactory receptor 10A2, hP4 olfactory receptor, olfactory receptor OR11-82 pseudogene, olfactory receptor OR11-86, olfactory receptor, family 10, subfamily A, member 2 pseudogene"
+    },
+    {
+        "ground_truth": [
+            "NUP50",
+            "NPAP60",
+            "NPAP60L"
+        ],// 0
+        "answer": "Answer: ATAC-STARR-seq lymphoblastoid silent region 13873, H3K27ac hESC enhancer GRCh37_chr22:45559735-45560257"
+    },
+    {
+        "ground_truth": [
+            "MLLT10",
+            "AF10"
+        ],// 1/2
+        "answer": "Answer: AF10, ALL1-fused gene from chromosome 10 protein, myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10, type I AF10 protein, type III AF10 protein, type IV AF10 protein"
+    },
+    {
+        "ground_truth": [
+            "MRPL57",
+            "MRP63",
+            "bMRP63"
+        ], // 1
+        "answer": "It looks like you have a large JSON object containing information about several genes, including their genomic locations and historical annotations. Here’s a breakdown of the key components for each gene:\n\n### Gene: `pro0200228`\n- **UID**: 143597\n- **Name**: pro0200228\n- **Description**: Not provided\n- **Chromosome**: 13\n- **Map Location**: 13q12.11\n- **Genomic Info**:\n  - Chromosome Accession Version: NC_000013.11\n  - Start Position: 21176564\n  - Stop Position: 21153594\n  - Exon Count: Not provided\n\n### Gene: `SAP18`\n- **UID**: 10284\n- **Name**: SAP18\n- **Description**: Sin3A associated protein 18\n- **Chromosome**: 13\n- **Map Location**: 13q12.11\n- **Other Aliases**: 2HOR0202, SAP18P\n- **Other Designations**:\n  - Histone deacetylase complex subunit SAP18\n  - 18 kDa Sin3-associated polypeptide\n  - Sin3A-associated protein, 18kDa\n  - Cell growth inhibiting protein 38\n  - Cell growth-inhibiting gene 38 protein\n  - Epididymis secretory sperm binding protein\n  - Histone deacetlyase complex subunit SAP18\n  - Sin3-associated polypeptide, 18 kDa\n  - Sin3-associated polypeptide, p18\n- **Nomenclature Symbol**: SAP18\n- **Nomenclature Name**: Sin3A associated protein 18\n- **MIM Number**: 602949\n- **Genomic Info**:\n  - Chromosome Accession Version: NC_000013.11\n  - Start Position: 21140118\n  - Stop Position: 21149096\n  - Exon Count: 5\n\n### Gene: `MRPL57`\n- **UID**: 78988\n- **Name**: MRPL57\n- **Description**: Mitochondrial ribosomal protein L57\n- **Chromosome**: 13\n- **Map Location**: 13q12.11\n- **Other Aliases**: MRP63, bMRP63, mL63\n- **Other Designations**:\n  - Large ribosomal subunit protein mL63\n  - hMRP63\n  - Mitochondrial large ribosomal subunit protein mL63\n  - Mitochondrial ribosomal protein 63\n  - Mitochondrial ribosomal protein bMRP63\n  - Ribosomal protein 63, mitochondrial\n- **Nomenclature Symbol**: MRPL57\n- **Nomenclature Name**: Mitochondrial ribosomal protein L57\n- **MIM Number**: 611997\n- **Genomic Info**:\n  - Chromosome Accession Version: NC_000013.11\n  - Start Position: 21176657\n  - Stop Position: 21179083\n  - Exon Count: 2\n\n### Gene: `ESRRAP2`\n- **UID**: 144832\n- **Name**: ESRRAP2\n- **Description**: Estrogen-related receptor alpha pseudogene 2\n- **Chromosome**: 13\n- **Map Location**: 13q12.11\n- **Other Aliases**: ESTRRA\n- **Other Designations**: Not provided\n- **Nomenclature Symbol**: ESRRAP2\n- **Nomenclature Name**: Estrogen-related receptor alpha pseudogene 2\n- **MIM Number**: Not provided\n- **Genomic Info**:\n  - Chromosome Accession Version: NC_000013.11\n  - Start Position: 21260090\n  - Stop Position: 21262361\n  - Exon Count: Not provided\n\n### Gene: `MIPEPP3`\n- **UID**: 650794\n- **Name**: MIPEPP3\n- **Description**: Mitochondrial intermediate peptidase pseudogene 3\n- **Chromosome**: 13\n- **Map Location**: 13q12.11\n- **Other Aliases**: Not provided\n- **Other Designations**:\n  - Long intergenic non-protein coding RNA 539\n- **Nomenclature Symbol**: MIPEPP3\n- **Nomenclature Name**: Mitochondrial intermediate peptidase pseudogene 3\n- **MIM Number**: Not provided\n- **Genomic Info**:\n  - Chromosome Accession Version: NC_000013.11\n  - Start Position: 21298124\n  - Stop Position: 21392922\n  - Exon Count: 6\n\n### Summary of Genomic Information\n- **Chromosome**: All genes are located on chromosome 13.\n- **Map Location**: All genes are in the region 13q12.11.\n- **Genomic Coordinates**:\n  - `pro0200228`: 21176564 to 21153594\n  - `SAP18`: 21140118 to 21149096\n  - `MRPL57`: 21176657 to 21179083\n  - `ESRRAP2`: 21260090 to 21262361\n  - `MIPEPP3`: 21298124 to 21392922\n\n### Historical Annotations\nEach gene has multiple historical annotations, including different assembly versions and annotation releases. These provide a detailed history of the genomic coordinates and other relevant information for each gene.\n\nIf you need more specific details or have any questions about particular aspects of this data, feel free to ask!"
+    }
+]
+

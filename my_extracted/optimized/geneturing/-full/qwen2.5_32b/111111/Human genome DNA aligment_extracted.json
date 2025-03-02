@@ -1,0 +1,252 @@
+[ // correct:0 half:45 error:5
+    {
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "Answer: chr15:92493309-92494181"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "Answer: chr8:106662360-106665024\n\nNote: The provided BLAST results do not directly indicate the chromosome location in a human-readable format, but based on the sequence alignment and given examples, it can be inferred that the sequence aligns to chromosome 8. However, for precise genomic coordinates, further mapping or additional information from a more specific database entry would be required. The answer provided is an educated guess based on the available data and previous example answers."
+    },
+    // 0.5
+    {
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "Answer: chr10:89950413-89950448"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "Answer: chr7:108658777-108658799"
+    }, 
+    // 0.5
+    {
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "Answer: chr17:28412104-28412240"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "Answer: chr6:30884444-30884570"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "Answer: chr22:48055597-48055746"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "Answer: chr21:306118-306235"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "Answer: chr21:38095589-38095689"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "Answer: chr18:38671627-38671737"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr1:234883857-234883957",
+        "answer": "Answer: chr1:36289-36389"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr10:96583669-96583777",
+        "answer": "Answer: chr10:89956911-89957020"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:124923900-124924043",
+        "answer": "Answer: chr7:55086311-55086454"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr14:65272135-65272273",
+        "answer": "Answer: chr14:46738853-46738991"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:158890075-158890221",
+        "answer": "Answer: chr7:150898913-150899060"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr18:45026043-45026168",
+        "answer": "Answer: chr18:349088-349213"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr3:156536294-156536419",
+        "answer": "Answer: chr3:420747-420872"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr19:32322319-32322449",
+        "answer": "Answer: chr19:32753225-32753355"
+    },
+    // 0.5
+    {
+        "ground_truth": "chrX:71742848-71742983",
+        "answer": "Answer: chrX:154808544-154808679"
+    },
+    // 0.5
+    {
+        "ground_truth": "chrX:98833089-98833232",
+        "answer": "Answer: chrX:108450805-108450948"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr22:18817258-18817377",
+        "answer": "Answer: chr1:33459-33578"
+    },
+    // 0
+    {
+        "ground_truth": "chr16:23611895-23612018",
+        "answer": "Answer: chr16:23563216-23563339"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr21:12702345-12702461",
+        "answer": "Answer: chr21:unknown_location\n\nThe provided BLAST results indicate that the sequence aligns to multiple regions on chromosome 21, but does not specify exact coordinates due to the repetitive nature of the sequence and its alignment with alpha satellite DNA, which is known for its high repetitiveness in centromeric regions. Therefore, a precise location cannot be determined from this information alone."
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:163903884-163904010",
+        "answer": "Answer: chr6:148008033-148008160"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr18:54462342-54462470",
+        "answer": "Answer: chr18:70305-70425"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr2:34350870-34351005",
+        "answer": "Answer: chr2:22081374-22081397"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr7:32588819-32588940",
+        "answer": "Answer: chr7:803508-803630"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr14:83950330-83950463",
+        "answer": "Answer: chr14:65416674-65416807"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr11:37515333-37515467",
+        "answer": "Answer: chr11:65427-65486"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr19:23003880-23004012",
+        "answer": "The BLAST search results indicate that the query sequence has significant matches to several genomic regions, primarily on chromosome 3. Here are some key points from the analysis:\n\n1. **Top Matches**:\n   - The top three matches have nearly identical sequences and high bit scores (145-147 bits), indicating a very strong match.\n     - `AGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAAtttttgtttttttAGTAGAGACA` aligns with multiple regions on chromosome 3, such as positions 6075160-6075101 and 42685276-42685335.\n   - These matches are mostly from the plus strand (forward direction) of the genome.\n\n2. **Sequence Identity**:\n   - The sequence identity ranges between 85% to 91%, with some regions showing up to 90% identity over a span of about 100-130 bases.\n   \n3. **Gaps and Mismatches**:\n   - There are occasional gaps (indicated by dashes) and mismatches, but these do not significantly affect the overall alignment quality.\n\n4. **Specific Matches**:\n   - The query sequence aligns well with regions like `AGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAAtttttgtttttttAGTAGAGACA` at positions 6075160-6075101 and 42685276-42685335.\n   - Another strong match is found in the region `AGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAAtttttgtttttttAGTAGAGACA` at positions 17909612-17909671.\n\n5. **Strand Information**:\n   - Most of the matches are on the plus strand, indicating that the query sequence is likely a forward-oriented sequence in the genome.\n   \n### Summary\nThe BLAST results suggest that your query sequence is highly conserved and present in multiple locations within chromosome 3. The high bit scores and sequence identities indicate strong homology between the query and target sequences.\n\nIf you need to pinpoint specific regions or further analyze these matches, you can use the provided coordinates (e.g., `6075160-6075101`, `42685276-42685335`) in a genome browser like UCSC Genome Browser or Ensembl to explore the context of these sequences within the chromosome.\n\nWould you like more detailed information on any specific match, or do you need help with further analysis?"
+    },
+    // 0
+    {
+        "ground_truth": "chr8:141523256-141523379",
+        "answer": "Answer: chr8:68039-68162"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr9:22210568-22210684",
+        "answer": "Answer: chr9:8077444-80774560"
+    },
+    // 0.5
+    {
+        "ground_truth": "chrX:96520716-96520841",
+        "answer": "Answer: chrX:46730-46855"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr20:57571370-57571508",
+        "answer": "The BLAST search results indicate that the query sequence has significant matches across various genomic regions, primarily on chromosome 20. The most notable match is with a perfect alignment (100% identity) to a region on chromosome 20 at position `56706464-56706405` in the forward strand.\n\nHere are some key points from the results:\n\n### Perfect Match:\n- **Chromosome:** Chr20\n- **Position:** 56,706,464 - 56,706,405 (forward strand)\n- **Identity:** 139/139 (100%)\n- **E-value:** 0\n\n### Other Significant Matches:\n- **Chromosome:** Chr20\n- **Position:** 56,706,524 - 56,706,465 (forward strand)\n- **Identity:** 139/139 (100%)\n- **E-value:** 0\n\n### Additional Matches:\nSeveral other matches are found on chromosome 20 with high identity scores but slightly lower E-values. These include:\n\n- **Chromosome:** Chr20\n- **Position:** 56,706,464 - 56,706,405 (forward strand)\n- **Identity:** 139/139 (100%)\n- **E-value:** 0\n\n### Summary:\nThe query sequence aligns perfectly to a region on chromosome 20 at position `56,706,464 - 56,706,405` in the forward strand. This suggests that this region is highly conserved and likely contains important genetic information.\n\nIf you are looking for specific functional annotations or nearby genes, you can use tools like UCSC Genome Browser or Ensembl to explore the genomic context of these regions further."
+    },
+    // 0.5
+    {
+        "ground_truth": "chr17:9557107-9557213",
+        "answer": "Answer: chr17:23852-23746 (- strand)"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr1:189568643-189568756",
+        "answer": "Answer: chr1:180587975-180588088"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr19:41724898-41725009",
+        "answer": "Answer: chr19:42168818-42168929"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:119363354-119363488",
+        "answer": "Answer: chr6:148050655-148050789"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr16:3779892-3780028",
+        "answer": "Answer: chr16:38055717-38055853"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr2:93063432-93063557",
+        "answer": "The BLAST results indicate that the query sequence has significant matches to several regions in the subject sequences, primarily from human genomic DNA. Here are some key points and observations:\n\n### Summary of Matches:\n- **High Identity Matches:**\n  - Multiple alignments show over 95% identity with the query sequence.\n  - The best match is found within the sequence `AC013426.7`, where several regions have nearly perfect matches (up to 98%).\n\n- **Specific Regions:**\n  - In `AC013426.7`:\n    - Positions 72,287–72,412\n    - Positions 74,327–74,452\n    - Positions 93,358–93,483\n    - Positions 113,072–113,197\n    - Positions 137,204–137,327\n    - Positions 138,563–138,688\n    - Positions 139,923–140,046\n    - Positions 141,282–141,407\n\n- **Other Matches:**\n  - In `AC015199.2`:\n    - Positions 29,400–29,659\n    - Positions 131,600–132,859\n    - Positions 38,144–38,269\n    - Positions 54,616–54,741\n    - Positions 62,772–62,897\n    - Positions 75,007–75,132\n    - Positions 82,143–82,268\n    - Positions 89,958–90,083\n    - Positions 91,998–92,123\n    - Positions 100,837–100,962\n    - Positions 102,535–102,660\n    - Positions 152,840–152,965\n\n### Detailed Analysis:\n- **Sequence Identity:**\n  - The query sequence aligns with high identity (up to 98%) in multiple regions.\n  - Minor mismatches are observed at specific positions.\n\n- **Strand Orientation:**\n  - All alignments are on the plus strand (`Plus/Plus`).\n\n- **Genomic Context:**\n  - These sequences likely represent repetitive elements or conserved regions within the human genome. The high identity suggests that these regions may be functionally important or under selective pressure to maintain their sequence.\n\n### Potential Biological Implications:\n- **Repetitive Elements:** \n  - High identity matches across different genomic locations suggest that these sequences might belong to a family of repetitive elements, such as Alu repeats or other transposable elements.\n  \n- **Conserved Regions:**\n  - The high conservation could indicate functional importance, possibly in regulatory regions or coding sequences.\n\n### Conclusion:\nThe query sequence appears to be highly conserved and present in multiple locations within the human genome. This suggests that it might play a significant role in gene regulation or other biological processes. Further analysis of these regions may provide insights into their function and evolutionary history."
+    },
+    // 0
+    {
+        "ground_truth": "chr19:19162638-19162779",
+        "answer": "Answer: chr19:19213447-19213588"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr9:8591402-8591503",
+        "answer": "Answer: chr9:2026221-2026322"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr6:20935508-20935649",
+        "answer": "Answer: chr6:406052-406193"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr1:20486790-20486921",
+        "answer": "Answer: chr1:8597-8728"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr14:99402298-99402438",
+        "answer": "Answer: chr14:80868635-80868775"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr20:29228714-29228833",
+        "answer": "Answer: chr4:78550-78669"
+    },
+    // 0
+    {
+        "ground_truth": "chr10:121721897-121722042",
+        "answer": "Answer: chr10:89950837-89950882"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr10:8432390-8432526",
+        "answer": "Answer: chr10:104209-104345"
+    },
+    // 0.5
+    {
+        "ground_truth": "chr2:132111535-132111654",
+        "answer": "Answer: chr9:133088871-133088990"
+    },
+    // 0
+    {
+        "ground_truth": "chr20:34383091-34383229",
+        "answer": "Answer: chr20:24836-24974"
+    }
+    // 0.5
+]

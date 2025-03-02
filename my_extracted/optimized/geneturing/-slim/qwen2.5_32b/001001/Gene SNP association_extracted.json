@@ -1,0 +1,308 @@
+[ // correct:25 half:0 error:25
+    {
+        "ground_truth": "LINC01270",
+        "answer": "Answer: LINC01270"
+    },
+    {
+        "ground_truth": "LRRC23",
+        "answer": "Answer: CYP2D6"
+    },
+    // 0
+    {
+        "ground_truth": "SEPTIN11",
+        "answer": "Answer: SEPTIN11"
+    },
+    {
+        "ground_truth": "PLEKHG7",
+        "answer": "Answer: PLEKHG7\n\nThe SNP rs1318850293 is associated with the gene PLEKHG7 based on additional information provided."
+    },
+    {
+        "ground_truth": "USP39",
+        "answer": "Answer: USP39\n\nNote: The initial response for the SNP rs996319727 indicated association with genes ARL4C and RPS4Y1. However, upon further API call, it was found that this SNP is associated with the gene USP39. Therefore, the answer provided reflects the most recent and accurate information obtained from the NCBI database."
+    },
+    {
+        "ground_truth": "OXR1",
+        "answer": "Answer: OXR1"
+    },
+    {
+        "ground_truth": "DMXL1",
+        "answer": "Answer: DMXL1"
+    },
+    {
+        "ground_truth": "KHDRBS2",
+        "answer": "Answer: CYP2D6"
+    },
+    // 0
+    {
+        "ground_truth": "MAJIN",
+        "answer": "Answer: The SNP rs1029002401 is associated with a non-coding transcript and regulatory region, but no specific gene name was provided in the data retrieved from NCBI."
+    },
+    // 0
+    {
+        "ground_truth": "SCHLAP1",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "LDLRAD4",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "CALCR",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "SGCD",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "ZBTB25",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "MED26",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "LINC02055",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "JMJD1C",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "XKR9",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "NSMCE1",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "LOC107986092",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "LOC105372191",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "RBFOX1",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "PAK1",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "CCT8L2",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "CACNB2",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "CREB5",
+        "answer": "The provided data describes a genetic variant identified in the human genome, specifically on chromosome 20. This variant has been submitted to dbSNP (Database of Single Nucleotide Polymorphisms) via the RefSeq annotation submission process by Illumina, Inc., and it is associated with the gene LOC105377347.\n\n### Key Points:\n- **Variant Details:**\n  - The variant is located at genomic position `chr20:47659877`.\n  - It has been observed in a single sample from an East Asian individual.\n  - The genotype calls are `C/T` and `T/C`, indicating heterozygosity for the variant.\n\n- **Clinical Significance:**\n  - The clinical significance of this variant is classified as \"Benign by multiple submitters (class 1)\", suggesting that it does not have a significant impact on health or disease based on current evidence from multiple sources.\n\n- **Genomic Context:**\n  - The variant falls within the cytogenetic band `20q13.33`.\n  - It is associated with the gene LOC105377347, which has the RefSeq ID `NM_001199290.1`.\n\n- **Submission and Annotation:**\n  - The variant was submitted via dbSNP's RefSeq annotation submission process.\n  - Multiple snapshots of this variant are provided for different assemblies (GRCh38.p-21 to GRCh38.p-42), indicating that the information has been consistently annotated across these builds.\n\n### Additional Information:\nThe XML snippet at the end seems to be related to another SNP (`rs900745020`), which is not directly relevant to the variant described above. This additional data appears to be a search result from dbSNP for `rs900745020`, showing its frequency in different populations and studies like GnomAD, TOPMED, and ALFA.\n\n### Summary:\nThe genetic variant on chromosome 20 at position 47659877 is considered benign based on multiple submissions. It has been consistently annotated across various genome builds and is associated with the gene LOC105377347. The data provided indicates that this variant does not pose a significant risk to health, as it has been classified as benign by multiple submitters."
+    },
+    // 0
+    {
+        "ground_truth": "GAREM1",
+        "answer": "Answer: CYP2D6 and CYP2D7P1"
+    },
+    // 0
+    {
+        "ground_truth": "LOC105372323",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "GLIS3",
+        "answer": "The SNP rs1044115387 is associated with the gene **GLIS3**. According to the information retrieved from NCBI's dbSNP, this variant is located in an intron of the GLIS3 gene and classified as a genic upstream transcript variant and intron variant."
+    },
+    {
+        "ground_truth": "FAM53B",
+        "answer": "Answer: ARHGEF12\n\nIt appears there was a discrepancy in the provided example. The initial steps correctly identified that SNP rs979980368 is associated with gene ARHGEF12 on chromosome X. However, the final API call and response seem to have returned information for a different gene (POLE2) located on chromosome 14, which does not align with the earlier findings.\n\nThe correct answer based on the initial steps is **ARHGEF12**."
+    },
+    // 0
+    {
+        "ground_truth": "EMX2OS",
+        "answer": "Answer: C7orf69"
+    },
+    // 0
+    {
+        "ground_truth": "ANKFN1",
+        "answer": "Answer: MYH7"
+    },
+    // 0
+    {
+        "ground_truth": "TSPAN15",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "TENM3",
+        "answer": "Answer: TENM3\n\nThe SNP rs1255093658 is associated with the gene TENM3."
+    },
+    {
+        "ground_truth": "LOC100506403",
+        "answer": "Answer: The SNP rs1257276516 is associated with the gene \"uncharacterized LOC100506403\" on chromosome 21."
+    },
+    {
+        "ground_truth": "LINC01673",
+        "answer": "Answer: The SNP rs563369098 is associated with the gene LINC01673, which is an uncharacterized long intergenic non-protein coding RNA."
+    },
+    {
+        "ground_truth": "FNDC3B",
+        "answer": "Answer: FNDC3B\n\nNote: The initial response for the SNP rs1032834815 did not provide gene association information. However, based on additional data provided in the format example, it appears that rs1032834815 is associated with the gene FNDC3B. Please note there was a discrepancy between the chromosome location mentioned initially (chromosome 7) and the gene information provided later (which points to chromosome 3). The answer here assumes the latter data point for gene association."
+    },
+    {
+        "ground_truth": "RARB",
+        "answer": "Answer: RNF144B and LRRC37A4P\n\nIt appears there was an error in the follow-up response, as it does not pertain to the initial query about SNP rs552952471. The correct answer is based on the information provided by the NCBI API call which indicates that the SNP rs552952471 is associated with two genes: RNF144B and LRRC37A4P."
+    },
+    // 0
+    {
+        "ground_truth": "LINC03021",
+        "answer": "Answer: LINC03021"
+    },
+    {
+        "ground_truth": "NECAB2",
+        "answer": "Answer: NECAB2"
+    },
+    {
+        "ground_truth": "MIR4527HG",
+        "answer": "Error"
+    },
+    {
+        "ground_truth": "CCDC178",
+        "answer": "Answer: PCDH11X"
+    },
+    // 0
+    {
+        "ground_truth": "RUBCN",
+        "answer": "Answer: RUBCN"
+    },
+    {
+        "ground_truth": "PTPRB",
+        "answer": "Answer: PTPRB"
+    },
+    {
+        "ground_truth": "SLC22A14",
+        "answer": "Answer: KDM5C"
+    },
+    // 0
+    {
+        "ground_truth": "IFFO1",
+        "answer": "Answer: ABLIM2\n\nNote: The initial query for SNP rs937944577 returned an incorrect ID (rs937944477). Subsequent queries with the correct ID would be necessary to accurately retrieve information about the gene associated with this specific SNP. However, based on the provided data, ABLIM2 is the gene associated with a similar SNP identifier. Please verify the exact SNP ID for accurate results."
+    },
+    // 0
+    {
+        "ground_truth": "MED13",
+        "answer": "Answer: MED13"
+    },
+    {
+        "ground_truth": "MICU1",
+        "answer": "Answer: CCND2"
+    },
+    // 0
+    {
+        "ground_truth": "LINC02841",
+        "answer": "Answer: LRP5,MIR6049\n\nNote: The initial response indicated an error in fetching the detailed SNP information. However, based on the provided data from the second API call, rs149916046 is associated with two genes: LRP5 and MIR6049."
+    },
+    // 0
+    {
+        "ground_truth": "LRFN5",
+        "answer": "Error"
+    },
+    // 补充错误的部份
+    {
+        "ground_truth": "SCHLAP1",
+        "answer": "Answer: BRWD3"
+    },
+    // 0
+    {
+        "ground_truth": "LDLRAD4",
+        "answer": "Answer: LDLRAD4"
+    },
+    {
+        "ground_truth": "CALCR",
+        "answer": "Answer: BRCA2"
+    },
+    // 0
+    {
+        "ground_truth": "SGCD",
+        "answer": "Answer: MAGEC3, MAGEC2, MAGEC1"
+    },
+    // 0
+    {
+        "ground_truth": "ZBTB25",
+        "answer": "Answer: CYP2D6"
+    },
+    // 0
+    {
+        "ground_truth": "MED26",
+        "answer": "Answer: C7orf58"
+    },
+    // 0
+    {
+        "ground_truth": "LINC02055",
+        "answer": "Answer: C7orf69"
+    },
+    // 0
+    {
+        "ground_truth": "JMJD1C",
+        "answer": "Answer: JMJD1C"
+    },
+    {
+        "ground_truth": "XKR9",
+        "answer": "Answer: XKR9\n\nNote: The response provided seems to contain an error or inconsistency. Initially, the SNP rs1303680136 was associated with the gene LOC105378459 based on the NCBI API call. However, the final answer points to the gene XKR9 without a clear intermediate step showing how this conclusion was reached from the provided data. Given the information strictly from the initial calls, the correct association would be with LOC105378459. The discrepancy might suggest an error in the question's setup or an unexpected change in the database content between API calls."
+    },
+    {
+        "ground_truth": "NSMCE1",
+        "answer": "Answer: NSMCE1"
+    },
+    {
+        "ground_truth": "LOC107986092",
+        "answer": "Answer: KDM5C"
+    },
+    // 0
+    {
+        "ground_truth": "LOC105372191",
+        "answer": "Answer: The SNP rs1037441458 is associated with the gene LOC105372191."
+    },
+    {
+        "ground_truth": "RBFOX1",
+        "answer": "Answer: C1orf106 and C1orf194"
+    },
+    // 0
+    {
+        "ground_truth": "PAK1",
+        "answer": "Answer: PAK1"
+    },
+    {
+        "ground_truth": "CCT8L2",
+        "answer": "Answer: The SNP rs1281200566 is located near the gene CCT8L2 (chaperonin containing TCP1 subunit 8 like 2) on chromosome 22. It is classified as a 2KB upstream variant, which means it falls within the region 2 kilobases upstream of the transcription start site of this gene."
+    },
+    {
+        "ground_truth": "CACNB2",
+        "answer": "Answer: The SNP rs1431266687 is associated with the gene CACNB2 (calcium voltage-gated channel auxiliary subunit beta 2)."
+    },
+    {
+        "ground_truth": "LOC105372323",
+        "answer": "Answer: RNF219"
+    },
+    // 0
+    {
+        "ground_truth": "TSPAN15",
+        "answer": "Answer: PSMB10"
+    },
+    // 0
+    {
+        "ground_truth": "MIR4527HG",
+        "answer": "Answer: MUC4"
+    },
+    // 0
+    {
+        "ground_truth": "LRFN5",
+        "answer": "Answer: The SNP rs1385096481 is associated with the gene LRFN5 (leucine rich repeat and fibronectin type III domain containing 5)."
+    }
+]

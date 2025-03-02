@@ -1,0 +1,46 @@
+[ // correct:0 half:4 error:6
+    {
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "It seems like you provided the same question twice. I'll answer it once.\n\nTo align the DNA sequence to the human genome, we need to use BLAST. First, we'll PUT the request and then GET the results.\n\nPUT Request:\nhttps://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Put&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&QUERY=ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT&HITLIST_SIZE=5\n\nGET Request:\nhttps://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Get&FORMAT_TYPE=Text&RID=G47YUENE016"
+    },
+    {
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "chr8:76614-76748"
+    },
+    // .5
+    {
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "The DNA sequence AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT is aligned to the human genome at location chr10:42153-42288.\n\nThe alignment result shows a 100% identity match between the query sequence and the database sequence AL445070.20, which is a human DNA sequence from clone RP11-385N23 on chromosome 10. The alignment covers the entire length of the query sequence (136 bp) with no gaps or mismatches."
+    },
+    {
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "numError"
+    },
+    {
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "chr17:41276092-41276231"
+    },
+    // .5
+    {
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "I'll wait for the RID to retrieve the results.\n\nPlease provide the RID or let me know when it's available, and I'll proceed with retrieving the results using the BLAST API.\n\nOnce I have the results, I can parse them to determine the alignment of the DNA sequence to the human genome."
+    },
+    {
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "chr22:15029167-15029316"
+    },
+    // .5
+    {
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "chr21:3957-3968, 3898-3839"
+    },
+    {
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "numError"
+    },
+    {
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "chr18:109896-109845"
+    }
+    // .5
+]

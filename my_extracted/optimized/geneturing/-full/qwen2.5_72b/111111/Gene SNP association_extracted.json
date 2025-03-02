@@ -1,0 +1,202 @@
+[ // correct:50 half:0 error:0
+    {
+        "ground_truth": "LINC01270",
+        "answer": "Answer: LINC01270"
+    },
+    {
+        "ground_truth": "LRRC23",
+        "answer": "Answer: LRRC23"
+    },
+    {
+        "ground_truth": "SEPTIN11",
+        "answer": "Answer: SEPTIN11"
+    },
+    {
+        "ground_truth": "PLEKHG7",
+        "answer": "Answer: PLEKHG7"
+    },
+    {
+        "ground_truth": "USP39",
+        "answer": "Answer: USP39"
+    },
+    {
+        "ground_truth": "OXR1",
+        "answer": "Answer: OXR1"
+    },
+    {
+        "ground_truth": "DMXL1",
+        "answer": "Answer: DMXL1"
+    },
+    {
+        "ground_truth": "KHDRBS2",
+        "answer": "Answer: KHDRBS2"
+    },
+    {
+        "ground_truth": "MAJIN",
+        "answer": "Answer: MAJIN"
+    },
+    {
+        "ground_truth": "SCHLAP1",
+        "answer": "Answer: SCHLAP1"
+    },
+    {
+        "ground_truth": "LDLRAD4",
+        "answer": "Answer: LDLRAD4"
+    },
+    {
+        "ground_truth": "CALCR",
+        "answer": "Answer: CALCR"
+    },
+    {
+        "ground_truth": "SGCD",
+        "answer": "Answer: SGCD"
+    },
+    {
+        "ground_truth": "ZBTB25",
+        "answer": "Answer: ZBTB25"
+    },
+    {
+        "ground_truth": "MED26",
+        "answer": "Answer: MED26"
+    },
+    {
+        "ground_truth": "LINC02055",
+        "answer": "Answer: LINC02055"
+    },
+    {
+        "ground_truth": "JMJD1C",
+        "answer": "Answer: JMJD1C"
+    },
+    {
+        "ground_truth": "XKR9",
+        "answer": "Answer: XKR9"
+    },
+    {
+        "ground_truth": "NSMCE1",
+        "answer": "Answer: NSMCE1"
+    },
+    {
+        "ground_truth": "LOC107986092",
+        "answer": "Answer: LOC107986092"
+    },
+    {
+        "ground_truth": "LOC105372191",
+        "answer": "Answer: LOC105372191"
+    },
+    {
+        "ground_truth": "RBFOX1",
+        "answer": "Answer: RBFOX1"
+    },
+    {
+        "ground_truth": "PAK1",
+        "answer": "Answer: PAK1"
+    },
+    {
+        "ground_truth": "CCT8L2",
+        "answer": "Answer: CCT8L2"
+    },
+    {
+        "ground_truth": "CACNB2",
+        "answer": "Answer: CACNB2"
+    },
+    {
+        "ground_truth": "CREB5",
+        "answer": "Answer: CREB5"
+    },
+    {
+        "ground_truth": "GAREM1",
+        "answer": "Answer: GAREM1"
+    },
+    {
+        "ground_truth": "LOC105372323",
+        "answer": "Answer: LOC105372323"
+    },
+    {
+        "ground_truth": "GLIS3",
+        "answer": "Answer: GLIS3"
+    },
+    {
+        "ground_truth": "FAM53B",
+        "answer": "Answer: FAM53B"
+    },
+    {
+        "ground_truth": "EMX2OS",
+        "answer": "Answer: EMX2OS"
+    },
+    {
+        "ground_truth": "ANKFN1",
+        "answer": "Answer: ANKFN1"
+    },
+    {
+        "ground_truth": "TSPAN15",
+        "answer": "Answer: TSPAN15"
+    },
+    {
+        "ground_truth": "TENM3",
+        "answer": "Answer: TENM3"
+    },
+    {
+        "ground_truth": "LOC100506403",
+        "answer": "Answer: LOC100506403"
+    },
+    {
+        "ground_truth": "LINC01673",
+        "answer": "Answer: LINC01673"
+    },
+    {
+        "ground_truth": "FNDC3B",
+        "answer": "Answer: FNDC3B"
+    },
+    {
+        "ground_truth": "RARB",
+        "answer": "Answer: RARB"
+    },
+    {
+        "ground_truth": "LINC03021",
+        "answer": "Answer: LINC03021"
+    },
+    {
+        "ground_truth": "NECAB2",
+        "answer": "Answer: NECAB2"
+    },
+    {
+        "ground_truth": "MIR4527HG",
+        "answer": "Answer: MIR4527HG"
+    },
+    {
+        "ground_truth": "CCDC178",
+        "answer": "Answer: CCDC178"
+    },
+    {
+        "ground_truth": "RUBCN",
+        "answer": "Answer: RUBCN"
+    },
+    {
+        "ground_truth": "PTPRB",
+        "answer": "Answer: PTPRB"
+    },
+    {
+        "ground_truth": "SLC22A14",
+        "answer": "Answer: SLC22A14"
+    },
+    {
+        "ground_truth": "IFFO1",
+        "answer": "Answer: IFFO1"
+    },
+    {
+        "ground_truth": "MED13",
+        "answer": "Answer: MED13"
+    },
+    {
+        "ground_truth": "MICU1",
+        "answer": "Answer: MICU1"
+    },
+    {
+        "ground_truth": "LINC02841",
+        "answer": "Answer: LINC02841"
+    },
+    {
+        "ground_truth": "LRFN5",
+        "answer": "Answer: LRFN5"
+    }
+]

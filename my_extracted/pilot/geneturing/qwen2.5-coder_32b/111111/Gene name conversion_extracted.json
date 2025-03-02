@@ -1,0 +1,42 @@
+[ // correct:1 half:0 error:9
+    {
+        "ground_truth": "FASTKD5",
+        "answer": "It seems there is some confusion in the provided responses, as they all refer to different genes (SRCAP and FASTKD5) but are associated with the same ENSG ID (ENSG00000215251). However, based on the initial query and the first correct response:\n\nThe official gene symbol for ENSG00000215251 is **TSPAN6**. \n\nHere's a summary of the relevant information:\n- **Gene ID**: 10847\n- **Official Symbol**: TSPAN6\n- **Full Name**: tetraspanin 6\n- **Chromosome Location**: Xq22.3\n\nIf you intended to query a different gene, please provide the correct ENSG ID or additional details for accurate information retrieval."
+    },
+    {
+        "ground_truth": "CFI",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "SLC12A6",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "TKFC",
+        "answer": "It seems there is some confusion in the provided examples, especially with the repeated and incorrect responses for converting ENSG00000149476 to an official gene symbol. Let's clarify this process step-by-step:\n\n### Step 1: PUT BLAST Request\n\nTo perform a BLAST search using the NCBI BLAST service, you would typically use a `PUT` request to submit your sequence and receive an RID (Request ID). Here is how you can do it for the given DNA sequence:\n\n```plaintext\nhttps://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Put&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&QUERY=ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT&HITLIST_SIZE=5\n```\n\nThis request will return an RID, which you can use to retrieve the results later.\n\n### Step 2: GET BLAST Results\n\nOnce you have the RID from the PUT request, you can use it in a `GET` request to fetch the BLAST results:\n\n```plaintext\nhttps://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Get&FORMAT_TYPE=Text&RID=<your_RID>\n```\n\nReplace `<your_RID>` with the actual RID returned from the PUT request.\n\n### Example for Converting ENSG00000149476 to Official Gene Symbol\n\nTo convert an Ensembl gene ID (like ENSG00000149476) to an official gene symbol, you can use the Entrez Utilities:\n\n#### Step 1: Search for the Gene ID\n\nFirst, perform a search using the `esearch` utility:\n\n```plaintext\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmax=10&retmode=json&sort=relevance&term=ENSG00000149476\n```\n\nThis will return a list of gene IDs that match the Ensembl ID.\n\n#### Step 2: Fetch Gene Summary\n\nUse the `efetch` utility to get more details about the gene, including its official symbol:\n\n```plaintext\nhttps://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmax=10&retmode=json&id=<gene_id>\n```\n\nReplace `<gene_id>` with the ID returned from the `esearch` request.\n\n### Example Response\n\nFor ENSG00000149476, the correct response should be:\n\n```json\n{\n  \"header\": {\n    \"type\": \"esearch\",\n    \"version\": \"0.3\"\n  },\n  \"esearchresult\": {\n    \"count\": \"1\",\n    \"retmax\": \"10\",\n    \"retstart\": \"0\",\n    \"idlist\": [\"2587\"],\n    \"translationset\": [],\n    \"translationstack\": [\n      {\n        \"term\": \"ENSG00000149476[All Fields]\",\n        \"field\": \"All Fields\",\n        \"count\": \"1\",\n        \"explode\": \"N\"\n      },\n      \"GROUP\"\n    ],\n    \"querytranslation\": \"ENSG00000149476[All Fields]\"\n  }\n}\n```\n\nThen, using the gene ID `2587`:\n\n```json\n{\n  \"header\": {\n    \"type\": \"esummary\",\n    \"version\": \"0.3\"\n  },\n  \"result\": {\n    \"uids\": [\"2587\"],\n    \"2587\": {\n      \"uid\": \"2587\",\n      \"name\": \"BRCA1\",\n      \"status\": \"live\",\n      \"chromosome\": \"17\",\n      \"genemaploc\": \"q21.3\",\n      \"maploc\": \"17q21.3\",\n      \"description\": \"breast cancer 1, early onset [Source:HGNC Symbol;Acc:HGNC:1100]\",\n      \"type\": \"protein-coding\",\n      \"otheraliases\": [\"BCC7\", \"BRCAI\", \"BREAST CANCER TYPE 1 SUSCEPTIBILITY PROTEIN\", \"BREAST CANCER TYPE I SUSCEPTIBILITY PROTEIN\", \"PPP2R5E\"],\n      \"omim\": [\"604370\"],\n      \"genefamilies\": [\"BRCA\"]\n    }\n  }\n}\n```\n\nThe official gene symbol for ENSG00000149476 is **BRCA1**."
+    }, // 0
+    {
+        "ground_truth": "TMEM276",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "P2RY14",
+        "answer": "The provided information indicates that the Entrez Gene ID corresponding to ENSG00000174944 is 2657, and the official gene symbol for this ID is BRCA1. Therefore, the answer to convert ENSG00000174944 to its official gene symbol is:\n\n**BRCA1**"
+    },// 0
+    {
+        "ground_truth": "GLCE",
+        "answer": "It seems there is a mix-up in the provided responses and requests. The request was to convert ENSG00000138604 to an official gene symbol, but the response contains multiple repeated queries and results that do not match the expected output.\n\nBased on the correct query and response:\n\n- **Query**: Convert ENSG00000138604 to official gene symbol.\n- **Response**:\n  - The ENSG00000138604 corresponds to the gene with UID 2597 in the NCBI Gene database.\n  - The official gene symbol for this UID is \"BRCA1\".\n\nTherefore, the correct answer is:\n\n**Answer: BRCA1**"
+    },// 0
+    {
+        "ground_truth": "ADCY6",
+        "answer": "The provided information indicates that the Entrez Gene ID corresponding to ENSG00000174233 is 673, and the official gene symbol for this ID is BRCA2. Therefore, the answer to converting ENSG00000174233 to its official gene symbol is:\n\n**BRCA2**"
+    },// 0
+    {
+        "ground_truth": "MICU2",
+        "answer": "numError"
+    },// 0
+    {
+        "ground_truth": "SEMG2",
+        "answer": "numError"
+    }// 0
+]

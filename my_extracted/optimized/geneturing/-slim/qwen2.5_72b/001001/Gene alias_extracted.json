@@ -1,0 +1,202 @@
+[ // correct:42 half:0 error:8
+    {
+        "ground_truth": "PSMB10",
+        "answer": "Answer: PSMB10"
+    },
+    {
+        "ground_truth": "SLC38A6",
+        "answer": "Answer: SLC38A6"
+    },
+    {
+        "ground_truth": "FCGR3A",
+        "answer": "Answer: FCGR3A"
+    },
+    {
+        "ground_truth": "FNDC11",
+        "answer": "Answer: FNDC11"
+    },
+    {
+        "ground_truth": "EOLA2",
+        "answer": "Answer: EOLA2"
+    },
+    {
+        "ground_truth": "QSOX2",
+        "answer": "Answer: QSOX2"
+    },
+    {
+        "ground_truth": "OR10A2",
+        "answer": "Answer: OR10A2"
+    },
+    {
+        "ground_truth": "NUP50",
+        "answer": "Answer: NUP50"
+    },
+    {
+        "ground_truth": "MLLT10",
+        "answer": "Answer: MLLT10"
+    },
+    {
+        "ground_truth": "MRPL57",
+        "answer": "Answer: MRPL57"
+    },
+    {
+        "ground_truth": "SYT4",
+        "answer": "Answer: SYT4"
+    },
+    {
+        "ground_truth": "ZBTB6",
+        "answer": "Answer: ZBTB6"
+    },
+    {
+        "ground_truth": "PTH",
+        "answer": "Answer: PTH1R\n\nIt seems there was a misunderstanding in the previous response, as none of the results directly matched \"PTH1\" for humans. However, based on common knowledge and typical naming conventions in human genetics, the official gene symbol for the Parathyroid hormone receptor 1 is **PTH1R**. If you need more specific information or if this was not what you were looking for, please let me know!"
+    }, // 0
+    {
+        "ground_truth": "ASIP",
+        "answer": "Answer: ASIP"
+    },
+    {
+        "ground_truth": "LCE2A",
+        "answer": "Answer: LCE2A"
+    },
+    {
+        "ground_truth": "SEPTIN3",
+        "answer": "Answer: SEP3 (Note: This is the official gene symbol for Arabidopsis thaliana. For human, the official gene symbol is SEPTIN3.)"
+    },
+    {
+        "ground_truth": "TWIST2",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "METTL24",
+        "answer": "Answer: METTL24"
+    },
+    {
+        "ground_truth": "RNGTT",
+        "answer": "Answer: DCD, SMC3, RNGTT\n\nNote: The term \"hCAP\" is associated with multiple genes. Here are the official gene symbols for some of them:\n- **DCD** (dermcidin)\n- **SMC3** (structural maintenance of chromosomes 3)\n- **RNGTT** (RNA guanylyltransferase and 5'-phosphatase)"
+    },
+    {
+        "ground_truth": "RNF7",
+        "answer": "Answer: RNF7"
+    },
+    {
+        "ground_truth": "F3",
+        "answer": "Answer: tfa"
+    }, // 0
+    {
+        "ground_truth": "SLC25A33",
+        "answer": "Answer: SLC25A33"
+    },
+    {
+        "ground_truth": "PCLO",
+        "answer": "Answer: PCLO"
+    },
+    {
+        "ground_truth": "OR56A1",
+        "answer": "Answer: OR56A1"
+    },
+    {
+        "ground_truth": "E2F1",
+        "answer": "Answer: E2F1"
+    },
+    {
+        "ground_truth": "ZNF366",
+        "answer": "Answer: ZNF366"
+    },
+    {
+        "ground_truth": "ALOX15",
+        "answer": "Answer: ALOX15"
+    },
+    {
+        "ground_truth": "LYPD6B",
+        "answer": "Answer: LYPD6B"
+    },
+    {
+        "ground_truth": "PRKCH",
+        "answer": "Answer: PRKCH"
+    },
+    {
+        "ground_truth": "ARHGEF26",
+        "answer": "Answer: ARHGEF26"
+    },
+    {
+        "ground_truth": "AGAP9",
+        "answer": "Answer: AGAP9"
+    },
+    {
+        "ground_truth": "IFT22",
+        "answer": "Answer: IFT22"
+    },
+    {
+        "ground_truth": "GLB1",
+        "answer": "Answer: GLB1"
+    },
+    {
+        "ground_truth": "COX7B",
+        "answer": "Answer: COX7B"
+    },
+    {
+        "ground_truth": "PLK5",
+        "answer": "Answer: PLK5"
+    },
+    {
+        "ground_truth": "ANKRD60",
+        "answer": "Answer: ANKRD60"
+    },
+    {
+        "ground_truth": "POC1B-GALNT4",
+        "answer": "Answer: GALNT4"
+    }, // 0
+    {
+        "ground_truth": "INTS8",
+        "answer": "Answer: INTS8"
+    },
+    {
+        "ground_truth": "CPB2",
+        "answer": "Answer: pcpB"
+    }, // 0
+    {
+        "ground_truth": "VBP1",
+        "answer": "Answer: VBP1"
+    },
+    {
+        "ground_truth": "H2BC1",
+        "answer": "Answer: H2BC1"
+    },
+    {
+        "ground_truth": "CPLANE2",
+        "answer": "Answer: CPLANE2"
+    },
+    {
+        "ground_truth": "ADAMDEC1",
+        "answer": "Answer: ADAMDEC1"
+    },
+    {
+        "ground_truth": "B3GNT8",
+        "answer": "Answer: B3GNT8"
+    },
+    {
+        "ground_truth": "SRC",
+        "answer": "Answer: SRC"
+    },
+    {
+        "ground_truth": "UBTFL1",
+        "answer": "Answer: C11orf27"
+    }, // 0
+    {
+        "ground_truth": "MOGS",
+        "answer": "Answer: GCS1"
+    }, // 0
+    {
+        "ground_truth": "ATOSB",
+        "answer": "Answer: FAM214B"
+    }, // 0
+    {
+        "ground_truth": "SHANK2",
+        "answer": "Answer: SHANK2"
+    },
+    {
+        "ground_truth": "PTPRR",
+        "answer": "Answer: PTPRR"
+    }
+]

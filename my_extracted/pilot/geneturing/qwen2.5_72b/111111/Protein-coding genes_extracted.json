@@ -1,0 +1,42 @@
+[ // correct:10 half:0 error:0
+        {
+            "ground_truth": "NA",
+            "answer": "Based on the information provided, **ATP5F1EP2** is classified as a pseudogene. Specifically, it is described as \"ATP synthase F1 subunit epsilon pseudogene 2.\" Pseudogenes are generally non-functional sequences of DNA that resemble functional genes but do not produce functional proteins.\n\n### Key Points:\n- **Description**: ATP5F1EP2 is an ATP synthase F1 subunit epsilon pseudogene.\n- **Location**: It is located on chromosome 13 at the position 13q12.2.\n- **Function**: While it is predicted to have certain activities (e.g., hydrolase activity, proton-transporting ATP synthase activity), it is not a functional gene and does not produce a protein.\n\n### Conclusion:\n**ATP5F1EP2 is not a protein-coding gene; it is a pseudogene.**"
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, LOC124907753 is not a protein-coding gene. It is described as \"uncharacterized\" and does not have any information indicating it codes for a protein."
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, AMD1P4 is a pseudogene and not a protein-coding gene."
+        },
+        {
+            "ground_truth": "TRUE",
+            "answer": "Answer: Yes, NODAL is a protein-coding gene."
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, MIR4436B2 is not a protein-coding gene. It is a microRNA (miRNA) that functions in post-transcriptional regulation of gene expression by affecting the stability and translation of mRNAs."
+        },
+        {
+            "ground_truth": "TRUE",
+            "answer": "Answer: Yes, NAXE is a protein-coding gene. It encodes the NAD(P)HX epimerase enzyme, which interacts with apolipoprotein A-I (apoA-I), the major apolipoprotein of high-density lipoproteins (HDLs)."
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, LOC124909477 is not a protein-coding gene; it is an uncharacterized gene. The information provided does not specify that it codes for a protein."
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, LINC01560 is a long intergenic non-protein coding RNA (lincRNA)."
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, UCKL1-AS1 is not a protein-coding gene; it is a non-protein coding RNA."
+        },
+        {
+            "ground_truth": "NA",
+            "answer": "Answer: No, MIR6843 is not a protein-coding gene. It is a microRNA (miRNA) that is involved in post-transcriptional regulation of gene expression by affecting the stability and translation of mRNAs. MicroRNAs are short non-coding RNAs and do not code for proteins."
+        }
+]

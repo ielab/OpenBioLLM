@@ -1,0 +1,42 @@
+[ // correct:2 half:0 error:8
+    {
+        "ground_truth": "LINC01270",
+        "answer": "Answer: LINC01270"
+    },
+    {
+        "ground_truth": "LRRC23",
+        "answer": "numError"
+    },// 0
+    {
+        "ground_truth": "SEPTIN11",
+        "answer": "numError"
+    },// 0
+    {
+        "ground_truth": "PLEKHG7",
+        "answer": "numError"
+    },// 0
+    {
+        "ground_truth": "USP39",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "OXR1",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "DMXL1",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "KHDRBS2",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "MAJIN",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "SCHLAP1",
+        "answer": "The SNP with ID 1015227 is associated with the gene KCNQ1 (also known as KCNE1 in some contexts, but more commonly referred to as KCNQ1), not SCHLAP1. The provided JSON data seems to be repeated multiple times and contains information about a different SNP (rs699504) which is located on chromosome 2 and associated with the gene SCHLAP1.\n\nHowever, based on the initial correct response from your query, SNP rs1015227 is indeed linked to the KCNQ1 gene. This gene encodes a potassium voltage-gated channel subunit that plays an important role in cardiac repolarization and can be associated with various cardiovascular conditions when mutated or altered.\n\nSo, to answer your question directly: The gene associated with SNP rs1015227 is **KCNQ1**."
+    }
+]

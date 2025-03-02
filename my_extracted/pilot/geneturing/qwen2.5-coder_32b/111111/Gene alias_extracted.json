@@ -1,0 +1,42 @@
+[ // correct:3 half:0 error:7
+    {
+        "ground_truth": "PSMB10",
+        "answer": "The official gene symbol for LMP10 is **PSMB10**. This gene encodes a member of the proteasome B-type family, also known as the T1B family, that is a 20S core beta subunit. It is located on chromosome 16 at position q22.1 in humans."
+    }, 
+    {
+        "ground_truth": "SLC38A6",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "FCGR3A",
+        "answer": "It seems there was an error in the search term or database selection. Let's try searching for \"IMD20\" using a more specific query to ensure we are looking at the correct gene symbol.\n\n[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmax=5&retmode=json&sort=relevance&term=IMD20[gene_symbol]]"
+    }, // 0
+    {
+        "ground_truth": "FNDC11",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "EOLA2",
+        "answer": "numError"
+    }, // 0
+    {
+        "ground_truth": "QSOX2",
+        "answer": "The official gene symbol for the gene previously known as QSCN6L1 is **QSOX2** in humans (Homo sapiens). This gene encodes a member of the sulfhydryl oxidase/quiescin-6 (Q6) family and plays a role in regulating neuroblastoma cell sensitivity to IFN-gamma-induced cell death. The other entries listed are either for different species or have been discontinued by NCBI. Therefore, the official human gene symbol is **QSOX2**."
+    },
+    {
+        "ground_truth": "OR10A2",
+        "answer": "Answer: OR11-86"
+    }, // 0
+    {
+        "ground_truth": "NUP50",
+        "answer": "Answer: NUP50"
+    },
+    {
+        "ground_truth": "MLLT10",
+        "answer": "Answer: AF10"
+    }, // 0
+    {
+        "ground_truth": "MRPL57",
+        "answer": "The official gene symbol for bMRP63 is **ABCG2**. This can be determined from the provided data, where the gene with the name \"ABCG2\" has other names including \"bcrp\", \"MRP63\", and \"bMRP63\". The entry for this gene in the NCBI Gene database indicates that its official symbol is ABCG2."
+    } // 0
+]

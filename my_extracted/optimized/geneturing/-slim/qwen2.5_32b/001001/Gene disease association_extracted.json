@@ -1,0 +1,252 @@
+[ // correct:31 half:6 error:13
+    {
+        "ground_truth": "PFKL",
+        "answer": "Answer: No specific gene record found directly for \"Hemolytic anemia due to phosphofructokinase deficiency\" using the provided query. However, based on medical knowledge, hemolytic anemia due to phosphofructokinase (PFK) deficiency is typically associated with mutations in the *PK* gene, which encodes phosphofructokinase. This condition is also known as Tarui disease. For precise information from NCBI databases, a more specific search term or approach might be required."
+    },
+    // 0
+    {
+        "ground_truth": "SLC4A1, ATP6V0A4",
+        "answer": "Answer: There are no genes directly listed as related to Distal renal tubular acidosis in the Gene database using the provided search criteria. Further exploration with different terms or databases might be necessary."
+    },
+    // 0
+    {
+        "ground_truth": "GNAS",
+        "answer": "Answer: GNAS"
+    },
+    // 1
+    {
+        "ground_truth": "GNMT",
+        "answer": "Answer: Gnmt\n\nIt seems there was a mix-up in the response, as it provided information related to another gene (GJB5) instead of genes associated with Glycine N-methyltransferase deficiency. The correct gene symbol for Glycine N-methyltransferase is \"Gnmt\". No further API calls are needed since the question asked for the gene related to Glycine N-methyltransferase deficiency, and Gnmt is the official gene symbol for this enzyme."
+    },
+    // 1
+    {
+        "ground_truth": "KRT12, KRT3",
+        "answer": "Answer: KRT12 is the gene related to Meesmann corneal dystrophy across multiple species including human. The examples provided show variations in species but consistently link KRT12 with this condition."
+    },
+    // 1/2
+    {
+        "ground_truth": "SGO1",
+        "answer": "Answer: VWF, SGO1"
+    },
+    // 1
+    {
+        "ground_truth": "BSND",
+        "answer": "Answer: KCNQ1, GATA3, MYH9, SLC26A4, HGF"
+    },
+    // 0
+    {
+        "ground_truth": "SLC10A2, SLC51B",
+        "answer": "Answer: SLC10A2, SLC51B, CEL, CYP7A1"
+    },
+    // 1
+    {
+        "ground_truth": "LAMTOR2",
+        "answer": "Answer: LAMTOR2"
+    },
+    // 1
+    {
+        "ground_truth": "MNX1",
+        "answer": "Answer: MNX1, Mnx1, mnx1, exex"
+    },
+    // 1
+    {
+        "ground_truth": "COL9A3",
+        "answer": "Answer: COL9A3, COL9A2, COL2A1, COL1A1, COL1A2"
+    },
+    // 1
+    {
+        "ground_truth": "EYA1, PAX1",
+        "answer": "Answer: EYA1 and PAX1"
+    },
+    // 1
+    {
+        "ground_truth": "ATP2A1",
+        "answer": "Answer: ATP2A1"
+    },
+    // 1
+    {
+        "ground_truth": "TCEAL1",
+        "answer": "Answer: APOE, BDNF, HERC2, TCEAL1, Mecp2"
+    },
+    // 1
+    {
+        "ground_truth": "POLG",
+        "answer": "Answer: There are no genes directly returned by the query for \"Mitochondrial DNA depletion syndrome 4A Alpers type\" using the NCBI gene database. The search term might be too specific or formatted in a way that does not match entries in the database. For more accurate results, consider searching with specific gene names or IDs associated with this condition."
+    },
+    // 0
+    {
+        "ground_truth": "CFHR5",
+        "answer": "Error"
+    },
+    // 0
+    {
+        "ground_truth": "CNGA3, CNGB3, GNAT2, PDE6H, ATF6",
+        "answer": "Answer: CNGA3, CNGB3, GNAT2, GNAT4, PDE6C"
+    },
+    // 3/5
+    {
+        "ground_truth": "PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH",
+        "answer": "Answer: PAH, GCH1, DNAJC12"
+    },
+    // 1/2
+    {
+        "ground_truth": "MIR184",
+        "answer": "Answer: CEP78, MIR184"
+    },
+    // 1
+    {
+        "ground_truth": "PI4KA, TTC7A",
+        "answer": "Answer: TP53, TNF, IL6, TGFB1, IL10, STAT3, VDR, CD274, AKT1, ABCB1, NFKB1, IL1B, PTEN, SNCA, MTOR, IGF1, HLA-B, CXCR4"
+    },
+    // 0
+    {
+        "ground_truth": "TBX22",
+        "answer": "Answer: TBX22"
+    },
+    // 1
+    {
+        "ground_truth": "DLL1",
+        "answer": "Answer: SCN1A, TCF4, SCN2A, DLL1"
+    },
+    // 1
+    {
+        "ground_truth": "FLNB",
+        "answer": "Answer: FLNB, MYH3"
+    },
+    // 1
+    {
+        "ground_truth": "CTSC",
+        "answer": "Answer: PEX13, CTSC"
+    },
+    // 1
+    {
+        "ground_truth": "NEU1",
+        "answer": "Answer: NEU1 and GLB1 are genes related to Sialidosis."
+    },
+    // 1
+    {
+        "ground_truth": "FITM2",
+        "answer": "Answer: FITM2"
+    },
+    // 1
+    {
+        "ground_truth": "PIKFYVE",
+        "answer": "Answer: PIKFYVE (GeneID: 200576) is related to Corneal fleck dystrophy."
+    },
+    // 1
+    {
+        "ground_truth": "TRMU",
+        "answer": "Answer: LARS1, SCYL1, NBAS, RINT1, TRMU"
+    },
+    // 1
+    {
+        "ground_truth": "PSMB9, PSMG2, POMP, PSMB10",
+        "answer": "Answer: PSMB8, PSMB9, PSMB4, PSMB10, POMP"
+    },
+    // 3/4
+    {
+        "ground_truth": "C2CD3",
+        "answer": "Answer: C2CD3"
+    },
+    // 1
+    {
+        "ground_truth": "CYLD",
+        "answer": "Answer: CYLD, FAP, HIF1A, MFT2"
+    },
+    // 1
+    {
+        "ground_truth": "RET",
+        "answer": "Answer: RET, HRAS, NKX2-1, FOXE1, HABP2"
+    },
+    // 1
+    {
+        "ground_truth": "HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6",
+        "answer": "Answer: CTLA4, INS, PTPN22, HNF4A, GCK"
+    },
+    // 0
+    {
+        "ground_truth": "LEMD3",
+        "answer": "Answer: ELN and LEMD3 are genes related to Buschke-Ollendorff syndrome in humans."
+    },
+    // 1
+    {
+        "ground_truth": "ELMO2",
+        "answer": "Answer: VEGFA, Kdr, VEGFC, DLX5, EPHB4"
+    },
+    // 0
+    {
+        "ground_truth": "KIF7",
+        "answer": "Answer: WDR81, KIF7"
+    },
+    // 1
+    {
+        "ground_truth": "NGLY1, MAN2C1",
+        "answer": "Answer: NGLY1, MAN2C1"
+    },
+    // 1
+    {
+        "ground_truth": "TRIP4, ASCC1",
+        "answer": "Answer: TRPV4, PLS3, TRIP4, ASCC1"
+    },
+    // 1
+    {
+        "ground_truth": "TOP2B",
+        "answer": "Answer: BCL2, BTK, RAG1, TNFRSF13C"
+    },
+    // 0
+    {
+        "ground_truth": "ARPC1B",
+        "answer": "Answer: WAS, TNF, IL6, TGFB1, IFNG"
+    },
+    // 0
+    {
+        "ground_truth": "MAP3K20",
+        "answer": "Answer: MAP3K20"
+    },
+    // 1
+    {
+        "ground_truth": "PRKAR1A, PDE11A, PDE8B",
+        "answer": "Answer: STAT3, PRKACA, PRKAR1A, PDE11A"
+    },
+    // 2/3
+    {
+        "ground_truth": "SOD3",
+        "answer": "Answer: SOD1, SOD2, Sod1, Sod2, Sod1 (Drosophila melanogaster)"
+    },
+    // 0
+    {
+        "ground_truth": "SCP2",
+        "answer": "Answer: No specific genes are directly associated with \"Leukoencephalopathy with dystonia and motor neuropathy\" based on the search. The query did not return any gene IDs from the NCBI Gene database, indicating that this particular combination of symptoms may not be well-documented under a single gene association or it might be too rare to have been linked to specific genes in current databases."
+    },
+    // 0
+    {
+        "ground_truth": "IL6",
+        "answer": "Answer: TGFB1, MTHFR, ACE, MMP9, PLA2G7"
+    },
+    // 0
+    {
+        "ground_truth": "COQ2",
+        "answer": "Answer: SNCA, LRRK2, C9orf72, COQ2"
+    },
+    // 1
+    {
+        "ground_truth": "PDE6C, GUCA1A",
+        "answer": "Answer: PROM1, ADAM9, PRPH2, GUCY2D, GUCA1A"
+    },
+    // 1/2
+    {
+        "ground_truth": "TBX5",
+        "answer": "Answer: TBX5 is the primary gene related to Holt-Oram syndrome. The other genes listed are homologs or have similar designations but TBX5 is specifically associated with the condition."
+    },
+    // 1
+    {
+        "ground_truth": "SLC9A1",
+        "answer": "Answer: PTPN11, SLC9A1"
+    },
+    // 1
+    {
+        "ground_truth": "TWIST2",
+        "answer": "Answer: TWIST2"
+    }
+    // 1
+]

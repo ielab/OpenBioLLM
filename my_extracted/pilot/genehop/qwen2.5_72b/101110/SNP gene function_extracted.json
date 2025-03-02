@@ -1,0 +1,42 @@
+[ // correct:10 half:0 error:0
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1217074595 is LINC01270, which is a long intergenic non-protein coding RNA 1270. This gene does not code for a protein but likely plays a role in regulatory functions within the cell."
+    },
+    {
+        "ground_truth": "Predicted to be active in cytosol.",
+        "answer": "Answer: The gene associated with SNP rs1241371358 is LRRC23 (leucine-rich repeat containing 23). It is predicted to be active in the cytosol."
+    },
+    {
+        "ground_truth": "SEPT11 belongs to the conserved septin family of filament-forming cytoskeletal GTPases that are involved in a variety of cellular functions including cytokinesis and vesicle trafficking (Hanai et al., 2004 [PubMed 15196925]; Nagata et al., 2004 [PubMed 15485874]).",
+        "answer": "Answer: SEPTIN11 (SEPT11) is a member of the septin family, which are filament-forming cytoskeletal GTPases involved in various cellular functions such as cytokinesis and vesicle trafficking. Specifically, SEPTIN11 plays a role in these processes by forming part of the septin cytoskeleton, contributing to cell division and the movement of vesicles within cells."
+    },
+    {
+        "ground_truth": "Predicted to enable guanyl-nucleotide exchange factor activity. Predicted to be involved in Rho protein signal transduction.",
+        "answer": "Answer: The gene associated with SNP rs1318850293 is PLEKHG7 (pleckstrin homology and RhoGEF domain containing G7). It is predicted to enable guanyl-nucleotide exchange factor activity and is involved in Rho protein signal transduction."
+    },
+    {
+        "ground_truth": "Predicted to enable thiol-dependent deubiquitinase and zinc ion binding activity. Involved in spliceosomal complex assembly. Located in nucleoplasm. Part of U4/U6 x U5 tri-snRNP complex.",
+        "answer": "Answer: The gene associated with SNP rs996319727 is USP39 (ubiquitin specific peptidase 39). This gene is predicted to enable thiol-dependent deubiquitinase and zinc ion binding activity. It is involved in spliceosomal complex assembly, located in the nucleoplasm, and is part of the U4/U6 x U5 tri-snRNP complex."
+    },
+    {
+        "ground_truth": "Predicted to enable oxidoreductase activity. Predicted to be involved in response to oxidative stress. Predicted to act upstream of or within several processes, including adult walking behavior; negative regulation of neuron death; and negative regulation of peptidyl-cysteine S-nitrosylation. Predicted to be located in mitochondrion and nucleolus. Predicted to be active in nucleus. Implicated in cerebellar hyplasia/atrophy, epilepsy, and global developmental delay.",
+        "answer": "Answer: The gene associated with SNP rs577757681 is OXR1 (oxidation resistance 1). This gene is predicted to enable oxidoreductase activity and is involved in response to oxidative stress. It acts upstream of or within several processes, including adult walking behavior, negative regulation of neuron death, and negative regulation of peptidyl-cysteine S-nitrosylation. The OXR1 protein is located in the mitochondrion and nucleolus and is active in the nucleus. It has been implicated in cerebellar hyplasia/atrophy, epilepsy, and global developmental delay."
+    },
+    {
+        "ground_truth": "The protein encoded by this gene is a member of the WD repeat superfamily of proteins, which have regulatory functions. This gene is expressed in many tissue types including several types of eye tissue, and it has been associated with ocular phenotypes. In addition, it is upregulated in cultured cells that overexpress growth factor independence 1B, a transcription factor that is essential for hematopoietic cell development. Alternative splicing results in multiple transcript variants.",
+        "answer": "Answer: The gene associated with SNP rs1294482311 is DMXL1 (Dmx like 1). This gene encodes a protein that belongs to the WD repeat superfamily of proteins, which have regulatory functions. DMXL1 is expressed in many tissue types, including several types of eye tissue, and has been associated with ocular phenotypes. It is also upregulated in cultured cells that overexpress growth factor independence 1B, a transcription factor essential for hematopoietic cell development. Alternative splicing results in multiple transcript variants."
+    },
+    {
+        "ground_truth": "Predicted to enable mRNA binding activity and poly(A) binding activity. Predicted to be involved in regulation of alternative mRNA splicing, via spliceosome. Predicted to be located in nucleoplasm. Predicted to be active in nucleus.",
+        "answer": "Answer: The gene associated with SNP rs979970652 is KHDRBS2 (KH RNA binding domain containing, signal transduction associated 2). This gene is predicted to enable mRNA binding activity and poly(A) binding activity. It is also predicted to be involved in the regulation of alternative mRNA splicing via spliceosome and is located in the nucleoplasm within the nucleus."
+    },
+    {
+        "ground_truth": "Predicted to enable DNA binding activity. Predicted to be involved in homologous chromosome pairing at meiosis and meiotic attachment of telomere to nuclear envelope. Predicted to be located in chromosome, telomeric region. Predicted to be integral component of nuclear inner membrane.",
+        "answer": "Answer: The gene associated with SNP rs1029002401 is MAJIN (membrane anchored junction protein). It is predicted to enable DNA binding activity and be involved in homologous chromosome pairing at meiosis and meiotic attachment of telomere to the nuclear envelope. It is also predicted to be located in the chromosome, telomeric region, and to be an integral component of the nuclear inner membrane."
+    },
+    {
+        "ground_truth": "ncRNA",
+        "answer": "Answer: The gene associated with SNP rs1015227 is SCHLAP1 (SWI/SNF complex antagonist associated with prostate cancer 1). It is a non-protein coding RNA gene located on chromosome 2 at the position 2q31.3. This gene has been implicated in prostate cancer and acts as an antagonist of the SWI/SNF chromatin remodeling complex."
+    }
+]
