@@ -1,4 +1,4 @@
-# OpenBioLLM
+# Pilot Study: reproducing GeneGPT
 
 ## 1. Configuration
 Install required dependencies

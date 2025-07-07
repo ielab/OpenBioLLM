@@ -6,7 +6,7 @@
  * @FilePath: /OpenBioLLM-RAG/openbio_rag/README.md
  * @Description: This is the default setting, please set `customMade`, open koroFileHeader for configuration: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-# OpenBio RAG
+# OpenBioLLM
 
 An Agentic RAG system based on LangChain for intelligent Q&A in the field of bioinformatics.
 
