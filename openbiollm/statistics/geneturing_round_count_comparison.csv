@@ -1,0 +1,460 @@
+TaskName,Question_Number,Question,multi-agent(14b+7b),multi-agent(14b+14b),multi-agent(32b+14b),multi-agent(32b+32b)
+Gene SNP association,Q1,Which gene is SNP rs1015227 associated with?,1,1,1,1
+Gene SNP association,Q2,Which gene is SNP rs1022906840 associated with?,1,1,1,1
+Gene SNP association,Q3,Which gene is SNP rs1029002401 associated with?,1,1,1,1
+Gene SNP association,Q4,Which gene is SNP rs1032834815 associated with?,1,1,1,1
+Gene SNP association,Q5,Which gene is SNP rs1035892430 associated with?,1,1,1,1
+Gene SNP association,Q6,Which gene is SNP rs1037441458 associated with?,1,1,1,1
+Gene SNP association,Q7,Which gene is SNP rs1044115387 associated with?,1,1,1,1
+Gene SNP association,Q8,Which gene is SNP rs1053827498 associated with?,1,1,1,1
+Gene SNP association,Q9,Which gene is SNP rs1161130206 associated with?,1,1,1,1
+Gene SNP association,Q10,Which gene is SNP rs1188606225 associated with?,1,1,1,1
+Gene SNP association,Q11,Which gene is SNP rs1199372758 associated with?,1,1,1,1
+Gene SNP association,Q12,Which gene is SNP rs1201372088 associated with?,1,1,1,1
+Gene SNP association,Q13,Which gene is SNP rs1217074595 associated with?,1,1,1,1
+Gene SNP association,Q14,Which gene is SNP rs1218214598 associated with?,1,1,1,1
+Gene SNP association,Q15,Which gene is SNP rs1241371358 associated with?,1,1,1,1
+Gene SNP association,Q16,Which gene is SNP rs1255093658 associated with?,1,1,1,1
+Gene SNP association,Q17,Which gene is SNP rs1257276516 associated with?,1,1,1,1
+Gene SNP association,Q18,Which gene is SNP rs1278530438 associated with?,1,1,1,1
+Gene SNP association,Q19,Which gene is SNP rs1281200566 associated with?,1,1,1,1
+Gene SNP association,Q20,Which gene is SNP rs1294482311 associated with?,1,1,1,1
+Gene SNP association,Q21,Which gene is SNP rs1303680136 associated with?,1,1,1,1
+Gene SNP association,Q22,Which gene is SNP rs1318850293 associated with?,1,1,1,1
+Gene SNP association,Q23,Which gene is SNP rs1324451169 associated with?,1,1,1,1
+Gene SNP association,Q24,Which gene is SNP rs1350154096 associated with?,1,1,1,1
+Gene SNP association,Q25,Which gene is SNP rs1385096481 associated with?,0,1,1,1
+Gene SNP association,Q26,Which gene is SNP rs1396355441 associated with?,1,1,1,1
+Gene SNP association,Q27,Which gene is SNP rs1431266687 associated with?,5,1,1,1
+Gene SNP association,Q28,Which gene is SNP rs1432624213 associated with?,0,1,1,1
+Gene SNP association,Q29,Which gene is SNP rs1450106117 associated with?,1,1,1,1
+Gene SNP association,Q30,Which gene is SNP rs1452964195 associated with?,1,1,1,1
+Gene SNP association,Q31,Which gene is SNP rs1481036795 associated with?,1,1,1,1
+Gene SNP association,Q32,Which gene is SNP rs149916046 associated with?,1,1,1,1
+Gene SNP association,Q33,Which gene is SNP rs34083046 associated with?,1,1,1,1
+Gene SNP association,Q34,Which gene is SNP rs4704888 associated with?,1,1,1,1
+Gene SNP association,Q35,Which gene is SNP rs552952471 associated with?,1,1,1,1
+Gene SNP association,Q36,Which gene is SNP rs563369098 associated with?,1,1,1,1
+Gene SNP association,Q37,Which gene is SNP rs577757681 associated with?,1,1,1,1
+Gene SNP association,Q38,Which gene is SNP rs745325402 associated with?,1,1,1,1
+Gene SNP association,Q39,Which gene is SNP rs745940901 associated with?,1,1,1,1
+Gene SNP association,Q40,Which gene is SNP rs900408143 associated with?,1,1,1,1
+Gene SNP association,Q41,Which gene is SNP rs900532834 associated with?,1,1,1,1
+Gene SNP association,Q42,Which gene is SNP rs900745020 associated with?,1,1,1,1
+Gene SNP association,Q43,Which gene is SNP rs902730377 associated with?,1,1,1,1
+Gene SNP association,Q44,Which gene is SNP rs910422326 associated with?,1,1,1,1
+Gene SNP association,Q45,Which gene is SNP rs937944577 associated with?,1,1,1,1
+Gene SNP association,Q46,Which gene is SNP rs949202492 associated with?,1,1,1,1
+Gene SNP association,Q47,Which gene is SNP rs979970652 associated with?,1,1,1,1
+Gene SNP association,Q48,Which gene is SNP rs979980368 associated with?,1,1,1,1
+Gene SNP association,Q49,Which gene is SNP rs983419152 associated with?,1,1,1,1
+Gene SNP association,Q50,Which gene is SNP rs996319727 associated with?,1,1,1,1
+average,,,1.04,1,1,1
+Gene alias,Q1,What is the official gene symbol of 15-LOX?,1,1,1,1
+Gene alias,Q2,What is the official gene symbol of AF10?,1,1,1,1
+Gene alias,Q3,What is the official gene symbol of AGTIL?,2,2,1,1
+Gene alias,Q4,What is the official gene symbol of ASV?,1,2,2,2
+Gene alias,Q5,What is the official gene symbol of BMSC-MCP?,1,1,1,1
+Gene alias,Q6,What is the official gene symbol of C11orf27?,1,1,1,1
+Gene alias,Q7,What is the official gene symbol of C20orf195?,1,1,1,1
+Gene alias,Q8,What is the official gene symbol of C20orf86?,1,1,1,1
+Gene alias,Q9,What is the official gene symbol of C6orf186?,1,1,1,1
+Gene alias,Q10,What is the official gene symbol of CKBBP1?,1,1,1,1
+Gene alias,Q11,What is the official gene symbol of CT116?,1,1,1,1
+Gene alias,Q12,What is the official gene symbol of CTGLF6?,5,1,1,1
+Gene alias,Q13,What is the official gene symbol of CTTNBP1?,1,1,5,1
+Gene alias,Q14,What is the official gene symbol of CXorf40B?,1,1,1,1
+Gene alias,Q15,What is the official gene symbol of DCSCRIPT?,1,1,1,1
+Gene alias,Q16,What is the official gene symbol of FAM214B?,5,5,5,2
+Gene alias,Q17,What is the official gene symbol of FAP9?,1,1,1,1
+Gene alias,Q18,What is the official gene symbol of FFDD3?,1,1,1,1
+Gene alias,Q19,What is the official gene symbol of GCS1?,5,1,5,5
+Gene alias,Q20,What is the official gene symbol of GalNAc-T4?,1,1,1,1
+Gene alias,Q21,What is the official gene symbol of HsT1192?,1,1,1,1
+Gene alias,Q22,What is the official gene symbol of IMD20?,1,1,1,1
+Gene alias,Q23,What is the official gene symbol of LEP9?,1,1,1,1
+Gene alias,Q24,What is the official gene symbol of LMP10?,1,1,1,1
+Gene alias,Q25,What is the official gene symbol of LSDMCA2?,1,1,1,1
+Gene alias,Q26,What is the official gene symbol of M12.219?,1,1,1,1
+Gene alias,Q27,What is the official gene symbol of MPS4B?,1,1,1,1
+Gene alias,Q28,What is the official gene symbol of NEDCHS?,1,1,1,1
+Gene alias,Q29,What is the official gene symbol of NPAP60L?,1,1,1,1
+Gene alias,Q30,What is the official gene symbol of OR11-75?,1,1,1,1
+Gene alias,Q31,What is the official gene symbol of OR11-86?,1,1,1,1
+Gene alias,Q32,What is the official gene symbol of PCH3?,1,1,1,1
+Gene alias,Q33,What is the official gene symbol of PCPB?,5,3,4,3
+Gene alias,Q34,What is the official gene symbol of PFDN3?,5,2,2,1
+Gene alias,Q35,What is the official gene symbol of PKCL?,1,1,1,1
+Gene alias,Q36,What is the official gene symbol of PLK-5?,1,1,1,1
+Gene alias,Q37,What is the official gene symbol of PTH1?,5,5,5,2
+Gene alias,Q38,What is the official gene symbol of PTP-SL?,1,1,1,1
+Gene alias,Q39,What is the official gene symbol of QSCN6L1?,5,2,2,1
+Gene alias,Q40,What is the official gene symbol of RBAP1?,2,1,1,1
+Gene alias,Q41,What is the official gene symbol of RSG1?,5,5,5,5
+Gene alias,Q42,What is the official gene symbol of SEP3?,3,2,1,1
+Gene alias,Q43,What is the official gene symbol of SGEF?,1,1,1,1
+Gene alias,Q44,What is the official gene symbol of SNAT6?,1,1,1,1
+Gene alias,Q45,What is the official gene symbol of TFA?,2,2,5,5
+Gene alias,Q46,What is the official gene symbol of TSH2B?,5,2,1,1
+Gene alias,Q47,What is the official gene symbol of ZNF482?,1,1,1,1
+Gene alias,Q48,What is the official gene symbol of bMRP63?,1,1,1,1
+Gene alias,Q49,What is the official gene symbol of beta3Gn-T8?,1,1,1,1
+Gene alias,Q50,What is the official gene symbol of hCAP?,1,1,1,1
+average,,,1.82,1.42,1.6,1.34
+Gene disease association,Q1,What are genes related to Ablepharon-macrostomia syndrome?,5,2,1,1
+Gene disease association,Q2,What are genes related to Achromatopsia?,2,2,2,1
+Gene disease association,Q3,What are genes related to Acrocallosal syndrome?,5,2,2,2
+Gene disease association,Q4,What are genes related to B-cell immunodeficiency?,2,2,2,2
+Gene disease association,Q5,What are genes related to Bile acid malabsorption?,2,2,1,1
+Gene disease association,Q6,What are genes related to Brody myopathy?,2,2,2,2
+Gene disease association,Q7,What are genes related to Buschke-Ollendorff syndrome?,2,2,1,1
+Gene disease association,Q8,What are genes related to Chronic atrial and intestinal dysrhythmia?,5,2,2,2
+Gene disease association,Q9,What are genes related to Cleft palate with ankyloglossia?,2,2,1,1
+Gene disease association,Q10,What are genes related to Cone dystrophy?,2,2,2,2
+Gene disease association,Q11,What are genes related to Congenital disorder of deglycosylation?,2,3,1,1
+Gene disease association,Q12,What are genes related to Corneal fleck dystrophy?,5,2,2,2
+Gene disease association,Q13,What are genes related to Currarino syndrome?,5,5,3,2
+Gene disease association,Q14,What are genes related to Distal renal tubular acidosis?,3,2,2,2
+Gene disease association,Q15,What are genes related to EDICT syndrome?,5,2,2,2
+Gene disease association,Q16,What are genes related to Gastrointestinal defects and immunodeficiency syndrome?,5,4,2,5
+Gene disease association,Q17,What are genes related to Glycine N-methyltransferase deficiency?,2,2,2,2
+Gene disease association,Q18,What are genes related to Haim-Munk syndrome?,2,2,1,1
+Gene disease association,Q19,What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?,5,2,2,2
+Gene disease association,Q20,What are genes related to Holt-Oram syndrome?,2,3,1,1
+Gene disease association,Q21,What are genes related to Hyperphenylalaninemia?,2,2,1,1
+Gene disease association,Q22,What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?,5,3,2,2
+Gene disease association,Q23,What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?,5,2,2,2
+Gene disease association,Q24,What are genes related to Intervertebral disc disease?,2,5,2,2
+Gene disease association,Q25,What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?,2,2,2,2
+Gene disease association,Q26,What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?,5,5,5,5
+Gene disease association,Q27,What are genes related to Lichtenstein-Knorr syndrome?,5,2,2,2
+Gene disease association,Q28,What are genes related to Liver failure?,2,4,2,2
+Gene disease association,Q29,What are genes related to Medullary thyroid carcinoma?,2,3,2,2
+Gene disease association,Q30,What are genes related to Meesmann corneal dystrophy?,2,1,3,2
+Gene disease association,Q31,What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?,5,3,3,2
+Gene disease association,Q32,What are genes related to Multiple system atrophy?,5,2,2,5
+Gene disease association,Q33,What are genes related to Nephropathy due to CFHR5 deficiency?,2,5,4,3
+Gene disease association,Q34,What are genes related to Neurodevelopmental disorder with gait disturbance?,2,2,2,5
+Gene disease association,Q35,What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?,5,3,3,5
+Gene disease association,Q36,What are genes related to Orofaciodigital syndrome XIV?,2,2,2,2
+Gene disease association,Q37,What are genes related to Otofaciocervical syndrome?,2,2,2,2
+Gene disease association,Q38,What are genes related to Pigmented nodular adrenocortical disease?,3,2,2,1
+Gene disease association,Q39,What are genes related to Proteasome-associated autoinflammatory syndrome?,2,1,1,1
+Gene disease association,Q40,What are genes related to Pseudohypoparathyroidism Ic?,5,5,1,1
+Gene disease association,Q41,What are genes related to Sensorineural deafness with mild renal dysfunction?,5,3,2,5
+Gene disease association,Q42,What are genes related to Sialidosis?,5,2,1,1
+Gene disease association,Q43,What are genes related to Siddiqi syndrome?,5,3,2,1
+Gene disease association,Q44,What are genes related to Spinal muscular atrophy with congenital bone fractures?,5,3,2,2
+Gene disease association,Q45,What are genes related to Split-foot malformation with mesoaxial polydactyly?,5,2,5,3
+Gene disease association,Q46,What are genes related to Spondylocarpotarsal synostosis syndrome?,3,2,2,1
+Gene disease association,Q47,What are genes related to Superoxide dismutase?,1,1,1,1
+Gene disease association,Q48,What are genes related to Trichoepithelioma?,5,2,2,1
+Gene disease association,Q49,What are genes related to Type diabetes mellitus?,2,2,2,2
+Gene disease association,Q50,What are genes related to Vascular malformation?,5,4,2,2
+average,,,3.42,2.54,2,2.06
+Gene location,Q1,Which chromosome is AC006042.8 gene located on human genome?,0,5,5,5
+Gene location,Q2,Which chromosome is AC018712.2 gene located on human genome?,0,4,2,5
+Gene location,Q3,Which chromosome is AC018892.8 gene located on human genome?,1,1,5,3
+Gene location,Q4,Which chromosome is AC093802.1 gene located on human genome?,0,5,5,5
+Gene location,Q5,Which chromosome is AKIRIN1P2 gene located on human genome?,1,1,1,1
+Gene location,Q6,Which chromosome is CTB-180A7.6 gene located on human genome?,5,2,2,4
+Gene location,Q7,Which chromosome is CTD-2272D18.2 gene located on human genome?,5,5,5,4
+Gene location,Q8,Which chromosome is EML3 gene located on human genome?,1,1,1,1
+Gene location,Q9,Which chromosome is ENSG10010137169.1 gene located on human genome?,5,5,5,5
+Gene location,Q10,Which chromosome is ENSG10010137820.1 gene located on human genome?,5,5,5,5
+Gene location,Q11,Which chromosome is ERCC8 gene located on human genome?,1,1,1,1
+Gene location,Q12,Which chromosome is FAM66D gene located on human genome?,1,1,1,1
+Gene location,Q13,Which chromosome is FOXL2NB gene located on human genome?,1,1,1,1
+Gene location,Q14,Which chromosome is IFRD1 gene located on human genome?,1,1,1,1
+Gene location,Q15,Which chromosome is LA16c-329F2.2 gene located on human genome?,2,5,5,5
+Gene location,Q16,Which chromosome is LINC02599 gene located on human genome?,5,1,1,1
+Gene location,Q17,Which chromosome is LPAR2 gene located on human genome?,1,1,1,1
+Gene location,Q18,Which chromosome is MTND2P25 gene located on human genome?,1,1,1,1
+Gene location,Q19,Which chromosome is MTND6P21 gene located on human genome?,1,1,1,1
+Gene location,Q20,Which chromosome is NPTN gene located on human genome?,1,2,2,1
+Gene location,Q21,Which chromosome is OR51H2P gene located on human genome?,1,1,1,1
+Gene location,Q22,Which chromosome is RGS16 gene located on human genome?,1,1,1,1
+Gene location,Q23,Which chromosome is RN7SKP265 gene located on human genome?,0,1,1,1
+Gene location,Q24,Which chromosome is RN7SL465P gene located on human genome?,0,1,1,1
+Gene location,Q25,Which chromosome is RN7SL689P gene located on human genome?,0,1,1,1
+Gene location,Q26,Which chromosome is RNU6-1143P gene located on human genome?,2,1,1,1
+Gene location,Q27,Which chromosome is RP11-1102P22.1 gene located on human genome?,5,5,1,5
+Gene location,Q28,Which chromosome is RP11-123M21.2 gene located on human genome?,5,5,5,5
+Gene location,Q29,Which chromosome is RP11-1299A16.3 gene located on human genome?,5,5,5,5
+Gene location,Q30,Which chromosome is RP11-173H9.2 gene located on human genome?,5,5,5,5
+Gene location,Q31,Which chromosome is RP11-179D22.1 gene located on human genome?,5,5,5,5
+Gene location,Q32,Which chromosome is RP11-17A4.3 gene located on human genome?,5,5,5,5
+Gene location,Q33,Which chromosome is RP11-215H18.5 gene located on human genome?,5,5,5,5
+Gene location,Q34,Which chromosome is RP11-255A11.4 gene located on human genome?,0,5,5,5
+Gene location,Q35,Which chromosome is RP11-303E16.8 gene located on human genome?,5,5,1,5
+Gene location,Q36,Which chromosome is RP11-829H16.3 gene located on human genome?,5,5,5,5
+Gene location,Q37,Which chromosome is RP4-612B18.1 gene located on human genome?,5,1,1,1
+Gene location,Q38,Which chromosome is RPS26P3 gene located on human genome?,1,1,1,1
+Gene location,Q39,Which chromosome is RPS3AP46 gene located on human genome?,1,1,1,1
+Gene location,Q40,Which chromosome is RRS1 gene located on human genome?,2,1,1,1
+Gene location,Q41,Which chromosome is SCO2 gene located on human genome?,2,1,1,1
+Gene location,Q42,Which chromosome is SIGLEC19P gene located on human genome?,1,1,1,1
+Gene location,Q43,Which chromosome is SLAIN2 gene located on human genome?,1,1,1,1
+Gene location,Q44,Which chromosome is SNORD4B gene located on human genome?,1,1,1,1
+Gene location,Q45,Which chromosome is SRD5A1P1 gene located on human genome?,1,1,1,1
+Gene location,Q46,Which chromosome is TRGC2 gene located on human genome?,1,1,1,1
+Gene location,Q47,Which chromosome is TTTY7 gene located on human genome?,1,1,1,1
+Gene location,Q48,Which chromosome is UBE2D4 gene located on human genome?,1,1,1,1
+Gene location,Q49,Which chromosome is ZNF117 gene located on human genome?,2,1,1,1
+Gene location,Q50,Which chromosome is ZNF574 gene located on human genome?,1,1,1,1
+average,,,2.16,2.38,2.26,2.44
+Gene name conversion,Q1,Convert ENSG00000010404 to official gene symbol.,1,1,1,1
+Gene name conversion,Q2,Convert ENSG00000077984 to official gene symbol.,1,1,1,1
+Gene name conversion,Q3,Convert ENSG00000078549 to official gene symbol.,1,1,1,1
+Gene name conversion,Q4,Convert ENSG00000091592 to official gene symbol.,1,1,1,1
+Gene name conversion,Q5,Convert ENSG00000103199 to official gene symbol.,1,1,1,1
+Gene name conversion,Q6,Convert ENSG00000117528 to official gene symbol.,1,1,1,1
+Gene name conversion,Q7,Convert ENSG00000117586 to official gene symbol.,1,1,1,1
+Gene name conversion,Q8,Convert ENSG00000120738 to official gene symbol.,1,1,1,1
+Gene name conversion,Q9,Convert ENSG00000124157 to official gene symbol.,1,1,1,1
+Gene name conversion,Q10,Convert ENSG00000126500 to official gene symbol.,1,1,1,1
+Gene name conversion,Q11,Convert ENSG00000128322 to official gene symbol.,1,1,1,1
+Gene name conversion,Q12,Convert ENSG00000129474 to official gene symbol.,1,1,1,1
+Gene name conversion,Q13,Convert ENSG00000132205 to official gene symbol.,1,1,1,1
+Gene name conversion,Q14,Convert ENSG00000135338 to official gene symbol.,1,1,1,1
+Gene name conversion,Q15,Convert ENSG00000138604 to official gene symbol.,1,1,1,1
+Gene name conversion,Q16,Convert ENSG00000139370 to official gene symbol.,1,1,1,1
+Gene name conversion,Q17,Convert ENSG00000140199 to official gene symbol.,1,1,1,1
+Gene name conversion,Q18,Convert ENSG00000147202 to official gene symbol.,1,1,1,1
+Gene name conversion,Q19,Convert ENSG00000148680 to official gene symbol.,1,1,1,1
+Gene name conversion,Q20,Convert ENSG00000148824 to official gene symbol.,1,1,1,1
+Gene name conversion,Q21,Convert ENSG00000149476 to official gene symbol.,1,1,1,1
+Gene name conversion,Q22,Convert ENSG00000153060 to official gene symbol.,1,1,1,1
+Gene name conversion,Q23,Convert ENSG00000160791 to official gene symbol.,1,1,1,1
+Gene name conversion,Q24,Convert ENSG00000162849 to official gene symbol.,1,1,1,1
+Gene name conversion,Q25,Convert ENSG00000165487 to official gene symbol.,1,1,1,1
+Gene name conversion,Q26,Convert ENSG00000167664 to official gene symbol.,1,1,1,1
+Gene name conversion,Q27,Convert ENSG00000168591 to official gene symbol.,1,1,1,1
+Gene name conversion,Q28,Convert ENSG00000168970 to official gene symbol.,1,1,1,1
+Gene name conversion,Q29,Convert ENSG00000169548 to official gene symbol.,1,1,1,1
+Gene name conversion,Q30,Convert ENSG00000170209 to official gene symbol.,1,1,1,1
+Gene name conversion,Q31,Convert ENSG00000172009 to official gene symbol.,1,1,1,1
+Gene name conversion,Q32,Convert ENSG00000172296 to official gene symbol.,1,1,1,1
+Gene name conversion,Q33,Convert ENSG00000174233 to official gene symbol.,1,1,1,1
+Gene name conversion,Q34,Convert ENSG00000174944 to official gene symbol.,1,1,1,1
+Gene name conversion,Q35,Convert ENSG00000176222 to official gene symbol.,1,1,1,1
+Gene name conversion,Q36,Convert ENSG00000177051 to official gene symbol.,1,1,1,1
+Gene name conversion,Q37,Convert ENSG00000182022 to official gene symbol.,1,1,1,1
+Gene name conversion,Q38,Convert ENSG00000182885 to official gene symbol.,1,1,1,1
+Gene name conversion,Q39,Convert ENSG00000183943 to official gene symbol.,1,1,1,1
+Gene name conversion,Q40,Convert ENSG00000185883 to official gene symbol.,1,1,1,1
+Gene name conversion,Q41,Convert ENSG00000188343 to official gene symbol.,1,1,1,1
+Gene name conversion,Q42,Convert ENSG00000189157 to official gene symbol.,1,1,1,1
+Gene name conversion,Q43,Convert ENSG00000196586 to official gene symbol.,1,1,1,1
+Gene name conversion,Q44,Convert ENSG00000198681 to official gene symbol.,1,1,1,1
+Gene name conversion,Q45,Convert ENSG00000203783 to official gene symbol.,1,2,1,1
+Gene name conversion,Q46,Convert ENSG00000205403 to official gene symbol.,1,1,1,1
+Gene name conversion,Q47,Convert ENSG00000215251 to official gene symbol.,1,1,1,1
+Gene name conversion,Q48,Convert ENSG00000240694 to official gene symbol.,1,1,1,1
+Gene name conversion,Q49,Convert ENSG00000243660 to official gene symbol.,1,1,1,1
+Gene name conversion,Q50,Convert ENSG00000291317 to official gene symbol.,1,1,1,1
+average,,,1,1.02,1,1
+Human genome DNA alignment,Q1,Align the DNA sequence to the human genome:AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT,1,1,1,1
+Human genome DNA alignment,Q2,Align the DNA sequence to the human genome:AACAAACAAACAAAAAAACTGTAAGCCAAAATTTTATATCCTGCCAGAATAAGCTTAATAAATAAAAGAGATATAAAAAATTTCCCAGATAAGCAAACAACGCGGGACTCAGTAGTGAAAAAAAGTAGAAAGATCACAAATTAA,1,1,1,1
+Human genome DNA alignment,Q3,Align the DNA sequence to the human genome:AACATTAACTTATTTTACCCTCATGATACTTCATTGGGGTAAGTAATGTTAATATTCCTAATTGAAAGATGAGAAACTGGAAGATCAGAAGACTAAGTAATTTTTCCAAGA,1,1,1,1
+Human genome DNA alignment,Q4,Align the DNA sequence to the human genome:AACCTCTGCCTTCTGGGTTCAAGAGATTCTTGCGCCTCAAGCCTCCTGAGTAGCTGGGCTTATAGGCATGCACCTCCACACGCAGCTAATTTTTGTACTTTTAGTAGAGACAGGGTTTTGCCATATTGGCCAGACTGGTCTC,1,1,1,1
+Human genome DNA alignment,Q5,Align the DNA sequence to the human genome:AAGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAATTTTTGTTTTTTTAGTAGAGACAGGGTTTCACCACGTTGAGGCCAGGCTGGTCTGAAACTACTGACAGGCAATCCGCCCACCTTGGCTTCCCAA,5,1,1,1
+Human genome DNA alignment,Q6,Align the DNA sequence to the human genome:ACAACTTGACATCAAGGGACCAGGATGAGAATCTTATTTCAATAACCTACTAGTTAAGTGGTTTTGGTTAAGTTTAATCATTTATCTTTAGTATTTGCAACCATAAATTTGGAATAGTGATATTAGTTGCAGGATT,5,1,1,1
+Human genome DNA alignment,Q7,Align the DNA sequence to the human genome:ACACAGTAAAGATCATTTATTTATAAACTGACAATGGCTGCTTTAACACTAGTAGAGCAGAGTCAAGTAATTGTGACAAAGACCAACCGGCCCATAAATTTGAAAATTTGTACTCTCTAGTCCTTTGTGTGAGAAGTTTGCTAA,1,1,1,1
+Human genome DNA alignment,Q8,Align the DNA sequence to the human genome:ACTCTTCTGTTGGGAGAGTTTATTCAACTTCATTTTGACTTCACTGACTTCTATACACTGATCCAAGGTGTTTTTTTATTGGCAGGTTGGATTTAATTTTCA,1,1,1,1
+Human genome DNA alignment,Q9,Align the DNA sequence to the human genome:AGATAACATTAAGGTTTACATTCTCTGTAGAAACCTGTCCCAGGAATTCGTTGATGTTTGCAGCATCCGATTACTCTATAGCCAGAGAAGGCCAAGAGTAGAACCTTCTATTTTTCTTGTTGACCTT,5,1,1,1
+Human genome DNA alignment,Q10,Align the DNA sequence to the human genome:AGCCAAGGCCAGAGGACAAAGGTGAGCTCGCCAATAGGGCCAATACTGGGTCTGGCTGGAAGGGGAGGGTGGACAGAGATGGGTACTAAGAAGTGAAGATGGACAGGCAGGACCAGGTCT,5,1,1,1
+Human genome DNA alignment,Q11,Align the DNA sequence to the human genome:AGGAGGGGGAGGGGGAGAGGGAAGGGGCAGCCCCGCCTCCCGCAGGAGAAGGGAGCGCCTCATTACGCCGGGCTCGCCCGGGATGCCTGGCTCCCGGCGTCCGCTGCCTCCGCTGGGGACGTCCCGGGTCTG,1,1,1,1
+Human genome DNA alignment,Q12,Align the DNA sequence to the human genome:AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA,1,1,1,1
+Human genome DNA alignment,Q13,Align the DNA sequence to the human genome:AGGCCGTCTCTGACCCAGCTCTCTTTCTACTCCTCTCATCTCTTGCTCACAGCCTTCCAGCCACACTGGCCTTCTTCTTGTTCCCCTGACTCACTGTGCATGCACTCTGCTAAGAGTCTTAACTCCCTA,5,1,1,1
+Human genome DNA alignment,Q14,Align the DNA sequence to the human genome:ATGAACTAAAGACTCATGACTCATTTACTCTCATTTTGACATCGCTTTGACAGTGGTGCCCAGCTTTCAAGGCAGTGACCTCTGCAGGAAGAGGCCCTTAGCTTCTGTGGAATGCTAAGTGC,5,1,1,1
+Human genome DNA alignment,Q15,Align the DNA sequence to the human genome:ATGTGGGATGTCCTGCACGTGGGCTCTGGAGTTAACAGAGGTGGGTTCTAAGTCAGGGTCATCACTTGCTTACTGAGCAACCTCGGCCAAGTTACTTATCCTCTTTGGGTTTTTTGTTAGTTTGTTCGTTTGTTTGTTTGT,1,1,1,1
+Human genome DNA alignment,Q16,Align the DNA sequence to the human genome:ATTAAACGCCCCTTAAATTACCCAGCTGTGGCAATCTGCTTCCTTGTGATACCCTGACTGATACGAATTATAAAGTAAATCCTGTGATACTCCCCCTCACCTCAAGCCCATGTTCCTGTAAGGTACAGAGTCATAGA,1,1,1,1
+Human genome DNA alignment,Q17,Align the DNA sequence to the human genome:ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT,1,1,1,1
+Human genome DNA alignment,Q18,Align the DNA sequence to the human genome:ATTTCACGCTATATACAAAAATCAACTCAAAGCATTAAATGTAAGACACGAAACTGTAAAATTACTAGAAGAAAACATAGGGGAAATTTTCATAACATTGGTTTGGGCAATGCT,1,1,1,1
+Human genome DNA alignment,Q19,Align the DNA sequence to the human genome:CAGCTAACAGAGTGGATCCTTTCTTTTTACAGAGCAGCTTTGAAACTCTATTTCTGTGGATTCTGCAAATTGATATTTGGGTTGATTTAACGATATCGATGGAAAAGGGAATATCTT,1,1,1,1
+Human genome DNA alignment,Q20,Align the DNA sequence to the human genome:CCACTACACCTGGCCACAACTGTCTTATTTAAAGGAGGACAAAGGTTAGGCTCAAGATTATGTGTTGGATTATATAACATCACACAACTTTTAAATTCAATTCCACAGATCCTACTAGGCTAGG,1,1,1,1
+Human genome DNA alignment,Q21,Align the DNA sequence to the human genome:CCAGGAGTTTGAGACCAGCTTGGGTAACCTGGCAAGACTCCGTCTCTCTCTCTCAACAACAACAACAACAAAAAGGCCGGGTGCGGTGGCTCATAACCCCAGCACTTCGGGAGGCTGAGGTGGACGGATCACTTGAG,1,1,1,1
+Human genome DNA alignment,Q22,Align the DNA sequence to the human genome:CCTCCTTCCCACCTCTCCCTGGGCCTGCTCCTGGGAGGGACAGCTCCTGTTCGAGGGGCAGGAGTCCACGGTGAGTGGGACCCTCTGTGGGACGCCCCCTCTACTTCACTCCAGGATCCCATTTTGGCCATGCACAGAGAGG,1,1,1,1
+Human genome DNA alignment,Q23,Align the DNA sequence to the human genome:CCTTAGCTTTGTCATATTAGAGGGCTGGGAGGGCCTGATCCCCTGGAACCTGCCTTTCCAACCTGATTTCCCATACTTCTTCCCATAAGCCAGATCCCATGATTTCTCTCATTTCTCCAAACAGGCCTCTTGATTTTCCACCTTGGAACT,1,1,1,1
+Human genome DNA alignment,Q24,Align the DNA sequence to the human genome:CTACAAAATGGGCATATTACTCACCTCGTAGGTTATTAATAGATGAGTTAATAAGTGTAAAATACTTAGAACAGTGCATAGCCAGCAGGGCATGGTGGCTCACACCTGT,1,1,1,1
+Human genome DNA alignment,Q25,Align the DNA sequence to the human genome:CTTCATACAAAACGAAGAGTTAAGACCTACCGGTTTTCCAAAGCCTCCCTATGAAAAACAGTATTTCTCTTAGTGGCAGGTTTGAGGTATGAGAGTCATTATTACACCTGTGAGCTGGCC,1,1,1,1
+Human genome DNA alignment,Q26,Align the DNA sequence to the human genome:GAATAAACGGTGGGCCTGGTCACCATAATGGCAGCAGGGTATGGAATGGGATGACTACAGAAATCTCTAACAGGGAGTAATGGATCATAGAATTCTTGGGGCTGAAATAGAACATTCCATTAAGGCCACGTTTGA,1,1,1,1
+Human genome DNA alignment,Q27,Align the DNA sequence to the human genome:GAATGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGTTTATTTTTATTTTTTGTAGA,1,1,1,1
+Human genome DNA alignment,Q28,Align the DNA sequence to the human genome:GATGTTTAATTAATTGCAATTACTATCTTCAAAGGAAGCCCAGAGTTGAAAGTTGTTCCTAATTACTGTGTTATGATGTCGACCAGCTACTTAAATTGATTGTGTGAGAATTTCCGATGGAGAA,1,1,1,1
+Human genome DNA alignment,Q29,Align the DNA sequence to the human genome:GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACAAAAAAAATTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAACCCGGGAGGCG,1,1,1,1
+Human genome DNA alignment,Q30,Align the DNA sequence to the human genome:GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA,1,1,1,1
+Human genome DNA alignment,Q31,Align the DNA sequence to the human genome:GGCAGCAGTCACGAGAGCTTGTGCAGGGGAATTCTCATTTATAAAACCATTACATCTCATGATACTTATTCACTACCAGGAGAACGGTATGGGAGAAACCACCCCTATGACTCAATTATCTCCACCTGGTCCTTC,1,1,1,1
+Human genome DNA alignment,Q32,Align the DNA sequence to the human genome:GTAGCTAGCCATGGTCAAGGCGGTCTAGACAGAGAGCAGTGTGGGGCTCCGTAAATACCGCACTGACGGAAAACATTAGCTTCCTGAACTGTACAGGTTATACCCAA,1,1,1,1
+Human genome DNA alignment,Q33,Align the DNA sequence to the human genome:GTGATGGGCAATCCCGGAGCCACTGGCTTGCTGGTTCCAATTCTTAGAAGCAAAGTATGGATGGCCAGGATTTTATCTCTAGTAGGGTAACAGTGACTAAAAGTGCTGTAGAAATAAGATGGGAAA,1,1,1,1
+Human genome DNA alignment,Q34,Align the DNA sequence to the human genome:GTGTTGAACAGTCCCTTTCATAGAGCAGGTTTGAAACACTCTTTTTGTAGTATCTGGAAGTGGACATTAGGAACGCTCTCAGGACTGCGTTGAAAAAGGAAATATCTTCCAATAAAAGCTAGATAG,1,1,1,1
+Human genome DNA alignment,Q35,Align the DNA sequence to the human genome:TAAAATGTTCTGTTGATGACTATTAAGTCAATTTGGTCTAAAGTGAAGTTTAAATCTAATGTTTCTTTCTTAAGTTTCTATTTTGTAGATCTGCCTTATGCTAAGAGTTGACTTTTGAAGTTCTCAAATATTAT,1,1,1,1
+Human genome DNA alignment,Q36,Align the DNA sequence to the human genome:TACAGATAATGCTAATATCAGAGTTACCAGAAATAAAGATAATATTTTGATCACCATATGCCAACTCCTCCTGCCCCCACCCTTCTTTCTCTACTGATTCAAGAATCTGGTGAAGAAACTAGGGCTAGAGAAATGGAAT,5,1,1,1
+Human genome DNA alignment,Q37,Align the DNA sequence to the human genome:TACTATAAATATCTCTGTGCACACCAACTAGAAAGTCTAGAGGAAATGAATAAACTCTTAGAAATATACAACCTCCCAAGATTGAATCAGGAATAAACAGAAGTCTTGAAGAAACCAAAA,1,1,1,1
+Human genome DNA alignment,Q38,Align the DNA sequence to the human genome:TCACTTGAGCCCAGGAGTTTGAGGCTGCAGTGAGCTCTGATTGCATCACTGCCCTGAAGCCTGGGCAACAGAGTGAGACCCTGTCTCTTAAATAAATAAATAAATAAATAAATAAATAAATAAAATTTTAAAAAATG,1,1,1,1
+Human genome DNA alignment,Q39,Align the DNA sequence to the human genome:TGAAATAATGTTTTGGATATAATGAAGTAAAAACATGTATTAATTTCACTGTTCTTTTTAAGGTATCTAATAGAAAATTTTAAATTACAAATGTGGCTTGCATTATATTTCTGTTGGATAGAGCTG,5,1,1,1
+Human genome DNA alignment,Q40,Align the DNA sequence to the human genome:TGAGAGCACAGTGGTGAGGAGGACCCACATGCCTCCTATCCTTCATAGGAGGAGAAAGGCACAAACCAGAAAACCCCCCCAACACACACACACATACACAT,1,1,1,1
+Human genome DNA alignment,Q41,Align the DNA sequence to the human genome:TGAGATTCTAGGTTCTCAGCCACCCAACCTTGCTGAACATGCTGGGCAACGTGGAACACGGGGACTCGTGGTCATGCTAATAACAGAACAAGTTTCCATTGGAAAGCTTTGCCTAAAAGAATCCTTAAAATACTATAAATTTACTC,1,1,1,1
+Human genome DNA alignment,Q42,Align the DNA sequence to the human genome:TGCAGATGTGCTCTGCGACTATGTGCTCTAGAGGTAAAAAGGAAGACACTACAAAAGATGCTTATATTAACTGGCATTGATTACTAAGTCCTTCACATTAGGAAGAATCTAGAGAAGAATCTTCTA,1,1,1,1
+Human genome DNA alignment,Q43,Align the DNA sequence to the human genome:TGGGCTCAAGTGATCCTCTTGCCTCAGCCTCCTAAAGTACTGGGATTACAGGTGCGAGCCACCACAACTGGCCTATAATTTTAAGTTTTCTTATAGTCACATTAAAAACATACAGAAGAAACATGAAATTAATTTCATAACATCTTA,1,1,1,1
+Human genome DNA alignment,Q44,Align the DNA sequence to the human genome:TTAGTATTCTTTTCAAACTGCAAAGTGACTTTTCAGCAATTGGGGTTGTTGTTTGAAATGTTTTTGAATGGCTTGTCTTCTATCTTTCCCTCATAGGAAAAGAAAAATACGACACAT,1,1,1,1
+Human genome DNA alignment,Q45,Align the DNA sequence to the human genome:TTATCTGAAAACACAGATCATTTTACTTCTTTCCAATTTGGATGTCTTTTTTTTTCTTGCCTAATTTCTCTGGCTAGGACTTCTAATACTGTGTCGAATAGACGTGGCAAAA,1,1,1,1
+Human genome DNA alignment,Q46,Align the DNA sequence to the human genome:TTCTTTACTGGTTCCTCATCTTCTCTCAAAATTCTCTTTTTAGGGATGCGAGGATGTTGAAAATGTTCTCTATTTTGATCTGGATGGCGGTTACATGGGTGTAGATCTGTGTTAAGATTGTACACTTAAGTTTCTG,1,1,1,1
+Human genome DNA alignment,Q47,Align the DNA sequence to the human genome:TTGTCAATTTAACTCACAGAGAAAAATTTTAAAATTTGCAGCCTAATTTCTTCATTGACCCAGTGATCATTCAGGAAAATAATGCTTAATTTCTATGTATT,1,1,1,1
+Human genome DNA alignment,Q48,Align the DNA sequence to the human genome:TTTCCACGATAGACCTGAAACTGCCTAAATATATCTCTTTGCAGATTCTACAAAAAGACTGTTTCCAAGCTGCTCAATCAAAGAAAGTTTTTACTCTGTGTGATGAATGCACACATCACA,1,1,1,1
+Human genome DNA alignment,Q49,Align the DNA sequence to the human genome:TTTTGTTTGTTTGTTTGTTTGTTTGTTTTGTTGTTGGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTGCAGTGGTGCGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTCCTGCCTCAGCCT,1,1,1,1
+Human genome DNA alignment,Q50,Align the DNA sequence to the human genome:TTTTTTGAGACGTTGTCTCACCCTGTCGCCCAGGCTGGAGTGCAGTGGTGCAGTCTTGGCTCACTGCAATCCCCACGTCCCAGGTTCAAACGATTCTCCTGCCTCAGTCTCCCAAGCAGCTGGGATTACAGGTGCCT,1,1,1,1
+average,,,1.64,1,1,1
+Multi-species DNA alignment,Q1,Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC,1,2,1,1
+Multi-species DNA alignment,Q2,Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT,1,1,1,1
+Multi-species DNA alignment,Q3,Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT,1,1,1,1
+Multi-species DNA alignment,Q4,Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC,1,1,1,1
+Multi-species DNA alignment,Q5,Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA,1,2,1,1
+Multi-species DNA alignment,Q6,Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA,1,1,1,1
+Multi-species DNA alignment,Q7,Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT,1,1,1,1
+Multi-species DNA alignment,Q8,Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA,1,1,1,1
+Multi-species DNA alignment,Q9,Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA,1,2,1,1
+Multi-species DNA alignment,Q10,Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA,2,3,1,1
+Multi-species DNA alignment,Q11,Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC,1,2,1,1
+Multi-species DNA alignment,Q12,Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT,1,2,1,1
+Multi-species DNA alignment,Q13,Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA,1,2,1,1
+Multi-species DNA alignment,Q14,Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT,1,1,1,1
+Multi-species DNA alignment,Q15,Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC,1,1,1,1
+Multi-species DNA alignment,Q16,Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA,1,2,1,1
+Multi-species DNA alignment,Q17,Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG,1,1,1,5
+Multi-species DNA alignment,Q18,Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT,1,1,1,1
+Multi-species DNA alignment,Q19,Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG,1,2,1,1
+Multi-species DNA alignment,Q20,Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC,1,3,1,1
+Multi-species DNA alignment,Q21,Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA,2,2,1,1
+Multi-species DNA alignment,Q22,Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA,1,1,1,1
+Multi-species DNA alignment,Q23,Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG,1,3,1,1
+Multi-species DNA alignment,Q24,Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC,1,2,1,1
+Multi-species DNA alignment,Q25,Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG,1,2,1,5
+Multi-species DNA alignment,Q26,Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA,5,5,5,5
+Multi-species DNA alignment,Q27,Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT,1,3,1,1
+Multi-species DNA alignment,Q28,Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC,1,1,1,1
+Multi-species DNA alignment,Q29,Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT,1,2,1,1
+Multi-species DNA alignment,Q30,Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT,1,1,1,1
+Multi-species DNA alignment,Q31,Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT,1,1,1,1
+Multi-species DNA alignment,Q32,Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG,1,3,1,1
+Multi-species DNA alignment,Q33,Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA,1,1,1,1
+Multi-species DNA alignment,Q34,Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT,0,5,5,5
+Multi-species DNA alignment,Q35,Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC,2,2,1,1
+Multi-species DNA alignment,Q36,Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC,1,2,1,1
+Multi-species DNA alignment,Q37,Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA,5,5,5,5
+Multi-species DNA alignment,Q38,Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC,1,1,1,1
+Multi-species DNA alignment,Q39,Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA,1,3,1,1
+Multi-species DNA alignment,Q40,Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC,1,3,1,1
+Multi-species DNA alignment,Q41,Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT,1,2,1,1
+Multi-species DNA alignment,Q42,Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT,1,3,1,1
+Multi-species DNA alignment,Q43,Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT,0,5,5,5
+Multi-species DNA alignment,Q44,Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC,1,2,1,5
+Multi-species DNA alignment,Q45,Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT,5,5,5,5
+Multi-species DNA alignment,Q46,Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT,1,2,1,1
+Multi-species DNA alignment,Q47,Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC,1,1,1,1
+Multi-species DNA alignment,Q48,Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT,1,3,1,1
+Multi-species DNA alignment,Q49,Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC,1,3,1,5
+Multi-species DNA alignment,Q50,Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA,1,1,1,1
+average,,,1.26,2.14,1.4,1.72
+Protein-coding genes,Q1,Is AFF1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q2,Is AMD1P4 a protein-coding gene?,1,1,2,2
+Protein-coding genes,Q3,Is ATP5F1EP2 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q4,Is B3GAT1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q5,Is CAAP1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q6,Is CGGBP1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q7,Is CMKLR2 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q8,Is CORO1A-AS1 a protein-coding gene?,1,1,5,3
+Protein-coding genes,Q9,Is CPVL-AS2 a protein-coding gene?,1,1,5,3
+Protein-coding genes,Q10,Is CYP4F10P a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q11,Is DNAJB6P2 a protein-coding gene?,1,1,5,5
+Protein-coding genes,Q12,Is FANCG a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q13,Is FBXO3-DT a protein-coding gene?,1,1,5,5
+Protein-coding genes,Q14,Is HMGB1P9 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q15,Is HOTAIR a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q16,Is LINC01054 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q17,Is LINC01560 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q18,Is LINC02865 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q19,Is LOC100129457 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q20,Is LOC100419835 a protein-coding gene?,5,5,1,1
+Protein-coding genes,Q21,Is LOC100420990 a protein-coding gene?,5,5,1,1
+Protein-coding genes,Q22,Is LOC100526841 a protein-coding gene?,2,5,1,1
+Protein-coding genes,Q23,Is LOC105369759 a protein-coding gene?,5,5,3,5
+Protein-coding genes,Q24,Is LOC124903168 a protein-coding gene?,5,5,3,3
+Protein-coding genes,Q25,Is LOC124907753 a protein-coding gene?,5,5,3,3
+Protein-coding genes,Q26,Is LOC124907937 a protein-coding gene?,5,5,2,3
+Protein-coding genes,Q27,Is LOC124909477 a protein-coding gene?,5,5,4,3
+Protein-coding genes,Q28,Is MIR22HG a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q29,Is MIR4436B2 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q30,Is MIR6843 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q31,Is NAXE a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q32,Is NODAL a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q33,Is NPFFR1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q34,Is PIGCP1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q35,Is POLE4P1 a protein-coding gene?,1,1,1,2
+Protein-coding genes,Q36,Is PWWP2A a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q37,Is RASSF3-DT a protein-coding gene?,1,1,5,3
+Protein-coding genes,Q38,Is RNU6-1193P a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q39,Is RNU6-1212P a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q40,Is RNU6-746P a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q41,Is RNU7-171P a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q42,Is RPL31P19 a protein-coding gene?,1,1,2,2
+Protein-coding genes,Q43,Is RPL34P34 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q44,Is RPL7AP58 a protein-coding gene?,1,1,1,5
+Protein-coding genes,Q45,Is SERF2 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q46,Is SPARC a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q47,Is SPOP a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q48,Is SSBP3-AS1 a protein-coding gene?,1,1,5,3
+Protein-coding genes,Q49,Is TTLL1 a protein-coding gene?,1,1,1,1
+Protein-coding genes,Q50,Is UCKL1-AS1 a protein-coding gene?,1,1,1,1
+average,,,1.58,1.64,1.72,1.7
+SNP location,Q1,Which chromosome does SNP rs1002944049 locate on human genome?,1,1,1,1
+SNP location,Q2,Which chromosome does SNP rs1041819671 locate on human genome?,1,1,1,1
+SNP location,Q3,Which chromosome does SNP rs1170945868 locate on human genome?,1,1,1,1
+SNP location,Q4,Which chromosome does SNP rs1188706680 locate on human genome?,1,1,1,1
+SNP location,Q5,Which chromosome does SNP rs1212113267 locate on human genome?,1,1,1,1
+SNP location,Q6,Which chromosome does SNP rs1228002921 locate on human genome?,1,1,1,1
+SNP location,Q7,Which chromosome does SNP rs1239675264 locate on human genome?,1,1,1,1
+SNP location,Q8,Which chromosome does SNP rs1246801490 locate on human genome?,1,1,1,1
+SNP location,Q9,Which chromosome does SNP rs1263053296 locate on human genome?,1,1,1,1
+SNP location,Q10,Which chromosome does SNP rs1274126968 locate on human genome?,1,1,1,1
+SNP location,Q11,Which chromosome does SNP rs1278117191 locate on human genome?,1,1,1,1
+SNP location,Q12,Which chromosome does SNP rs1281763211 locate on human genome?,1,1,1,1
+SNP location,Q13,Which chromosome does SNP rs1316126938 locate on human genome?,1,1,1,1
+SNP location,Q14,Which chromosome does SNP rs1333853138 locate on human genome?,1,1,1,1
+SNP location,Q15,Which chromosome does SNP rs1357251061 locate on human genome?,1,1,1,1
+SNP location,Q16,Which chromosome does SNP rs1372020525 locate on human genome?,1,1,1,1
+SNP location,Q17,Which chromosome does SNP rs1376217783 locate on human genome?,1,1,1,1
+SNP location,Q18,Which chromosome does SNP rs1391145256 locate on human genome?,1,1,1,1
+SNP location,Q19,Which chromosome does SNP rs1392348488 locate on human genome?,1,1,1,1
+SNP location,Q20,Which chromosome does SNP rs139642661 locate on human genome?,1,1,1,1
+SNP location,Q21,Which chromosome does SNP rs1398189587 locate on human genome?,1,1,1,1
+SNP location,Q22,Which chromosome does SNP rs1401416674 locate on human genome?,1,1,1,1
+SNP location,Q23,Which chromosome does SNP rs1412275115 locate on human genome?,1,1,1,1
+SNP location,Q24,Which chromosome does SNP rs141272872 locate on human genome?,1,1,1,1
+SNP location,Q25,Which chromosome does SNP rs1420724913 locate on human genome?,1,1,1,1
+SNP location,Q26,Which chromosome does SNP rs1430464868 locate on human genome?,1,1,1,1
+SNP location,Q27,Which chromosome does SNP rs1435895561 locate on human genome?,1,1,1,1
+SNP location,Q28,Which chromosome does SNP rs188137472 locate on human genome?,1,1,1,1
+SNP location,Q29,Which chromosome does SNP rs397784008 locate on human genome?,1,5,5,5
+SNP location,Q30,Which chromosome does SNP rs427884 locate on human genome?,1,1,1,1
+SNP location,Q31,Which chromosome does SNP rs545148486 locate on human genome?,1,1,1,1
+SNP location,Q32,Which chromosome does SNP rs547832386 locate on human genome?,1,1,1,1
+SNP location,Q33,Which chromosome does SNP rs555675816 locate on human genome?,1,1,1,1
+SNP location,Q34,Which chromosome does SNP rs563617526 locate on human genome?,1,1,1,1
+SNP location,Q35,Which chromosome does SNP rs76491275 locate on human genome?,1,1,1,1
+SNP location,Q36,Which chromosome does SNP rs866998836 locate on human genome?,0,1,1,1
+SNP location,Q37,Which chromosome does SNP rs895485955 locate on human genome?,1,1,1,1
+SNP location,Q38,Which chromosome does SNP rs899883800 locate on human genome?,1,1,1,1
+SNP location,Q39,Which chromosome does SNP rs910383316 locate on human genome?,1,1,1,1
+SNP location,Q40,Which chromosome does SNP rs951388492 locate on human genome?,1,1,1,1
+SNP location,Q41,Which chromosome does SNP rs962314907 locate on human genome?,1,1,1,1
+SNP location,Q42,Which chromosome does SNP rs965556407 locate on human genome?,1,1,1,1
+SNP location,Q43,Which chromosome does SNP rs967011458 locate on human genome?,1,1,1,1
+SNP location,Q44,Which chromosome does SNP rs975300764 locate on human genome?,1,1,1,1
+SNP location,Q45,Which chromosome does SNP rs976400036 locate on human genome?,1,1,1,1
+SNP location,Q46,Which chromosome does SNP rs983633514 locate on human genome?,1,1,1,1
+SNP location,Q47,Which chromosome does SNP rs990783431 locate on human genome?,1,1,1,1
+SNP location,Q48,Which chromosome does SNP rs992486373 locate on human genome?,1,1,1,1
+SNP location,Q49,Which chromosome does SNP rs993131098 locate on human genome?,1,1,1,1
+SNP location,Q50,Which chromosome does SNP rs999510594 locate on human genome?,1,1,1,1
+average,,,0.98,1.08,1.08,1.08

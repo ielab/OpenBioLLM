@@ -1,0 +1,31 @@
+# RAG system dependencies
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langgraph>=0.0.10
+langsmith>=0.0.69
+langchain-ollama>=0.0.1
+langchain-huggingface>=0.0.1
+langchain-chroma>=0.0.1
+sentence-transformers>=2.2.2
+chromadb>=0.4.22
+python-dotenv>=1.0.0
+pydantic>=2.7.1
+pydantic-settings>=2.1.0
+jupyter>=1.0.0
+requests>=2.32.2
+graphviz==0.20.3
+torch
+torchvision
+
+# OpenWebUI Pipeline dependencies
+fastapi==0.111.0
+uvicorn[standard]==0.22.0
+python-multipart==0.0.9
+python-socketio
+grpcio
+passlib==1.7.4
+passlib[bcrypt]
+PyJWT[crypto]
+aiohttp==3.9.5
+httpx

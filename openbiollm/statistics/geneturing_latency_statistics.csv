@@ -1,0 +1,451 @@
+Task	Question	qwen2.5:32b	multi-agent(32b+32b)
+Gene alias	Q1	53.568	20.25
+Gene alias	Q2	39.601	11.68
+Gene alias	Q3	40.132	11.06
+Gene alias	Q4	42.854	13.46
+Gene alias	Q5	43.753	13.19
+Gene alias	Q6	43.164	13.56
+Gene alias	Q7	39.148	12.18
+Gene alias	Q8	40.56	12.84
+Gene alias	Q9	43.914	13.98
+Gene alias	Q10	39.388	11.64
+Gene alias	Q11	38.78	11.22
+Gene alias	Q12	40.443	14.6
+Gene alias	Q13	42.511	33.8
+Gene alias	Q14	38.952	10.83
+Gene alias	Q15	39.669	11.25
+Gene alias	Q16	43.749	14.18
+Gene alias	Q17	38.857	10.83
+Gene alias	Q18	43.072	13.23
+Gene alias	Q19	42.044	15.06
+Gene alias	Q20	41.622	13.67
+Gene alias	Q21	42.971	64.18
+Gene alias	Q22	39.027	10.98
+Gene alias	Q23	39.072	11.09
+Gene alias	Q24	39.434	12.04
+Gene alias	Q25	39.986	12.31
+Gene alias	Q26	40.666	13.43
+Gene alias	Q27	43.448	14.21
+Gene alias	Q28	39.739	12.4
+Gene alias	Q29	40.197	13.54
+Gene alias	Q30	43.082	13.36
+Gene alias	Q31	39.349	11.74
+Gene alias	Q32	43.142	13.13
+Gene alias	Q33	38.694	10.67
+Gene alias	Q34	39.083	10.73
+Gene alias	Q35	42.575	13.25
+Gene alias	Q36	40.391	12.72
+Gene alias	Q37	44.413	14.07
+Gene alias	Q38	38.973	10.97
+Gene alias	Q39	44.752	38.73
+Gene alias	Q40	42.185	11.38
+Gene alias	Q41	39.126	11.11
+Gene alias	Q42	42.549	57.39
+Gene alias	Q43	38.853	11.01
+Gene alias	Q44	41.989	14.4
+Gene alias	Q45	43.108	30.14
+Gene alias	Q46	39.498	12.57
+Gene alias	Q47	42.797	63.14
+Gene alias	Q48	44.248	32.62
+Gene alias	Q49	40.409	13.65
+Gene alias	Q50	42.573	13.73
+Gene disease association	Q1	40.164	30.7
+Gene disease association	Q2	45.291	52.22
+Gene disease association	Q3	40.298	15.87
+Gene disease association	Q4	40.225	30.09
+Gene disease association	Q5	40.52	31.68
+Gene disease association	Q6	39.95	26.45
+Gene disease association	Q7	42.501	112.95
+Gene disease association	Q8	42.217	21.98
+Gene disease association	Q9	40.113	27.56
+Gene disease association	Q10	41.878	35.5
+Gene disease association	Q11	42.382	22.32
+Gene disease association	Q12	40.935	30.8
+Gene disease association	Q13	40.251	31.02
+Gene disease association	Q14	42.488	43.84
+Gene disease association	Q15	40.778	28.55
+Gene disease association	Q16	39.978	67.3
+Gene disease association	Q17	41.896	21.59
+Gene disease association	Q18	47.858	21.89
+Gene disease association	Q19	39.434	24.94
+Gene disease association	Q20	42.368	130.01
+Gene disease association	Q21	42.229	18.6
+Gene disease association	Q22	46.135	84.69
+Gene disease association	Q23	40.818	14.6
+Gene disease association	Q24	40.094	13.25
+Gene disease association	Q25	41.483	17.27
+Gene disease association	Q26	41.915	31.47
+Gene disease association	Q27	40.68	32.82
+Gene disease association	Q28	42.154	45.1
+Gene disease association	Q29	42.9	19.98
+Gene disease association	Q30	39.204	28.97
+Gene disease association	Q31	41.639	63.32
+Gene disease association	Q32	44.222	46.58
+Gene disease association	Q33	45.81	29.53
+Gene disease association	Q34	39.877	13.73
+Gene disease association	Q35	46.302	49.23
+Gene disease association	Q36	42.387	35.3
+Gene disease association	Q37	41.944	16.38
+Gene disease association	Q38	42.659	35.18
+Gene disease association	Q39	45.221	53.09
+Gene disease association	Q40	43.241	49.89
+Gene disease association	Q41	40.783	59.55
+Gene disease association	Q42	44.654	38.35
+Gene disease association	Q43	43.907	39.34
+Gene disease association	Q44	41.992	75.04
+Gene disease association	Q45	41.013	38.47
+Gene disease association	Q46	43.638	51.33
+Gene disease association	Q47	44.216	61.03
+Gene disease association	Q48	42.122	18.46
+Gene disease association	Q49	39.553	28.2
+Gene disease association	Q50	41.908	15.02
+Gene location	Q1	39.441	11.81
+Gene location	Q2	40.38	11.24
+Gene location	Q3	101.875	45.78
+Gene location	Q4	48.593	13.34
+Gene location	Q5	43.192	13.29
+Gene location	Q6	73.894	67.92
+Gene location	Q7	42.825	13.79
+Gene location	Q8	42.688	13.44
+Gene location	Q9	26.381	31.32
+Gene location	Q10	25.994	15.88
+Gene location	Q11	42.525	13.21
+Gene location	Q12	39.353	11.64
+Gene location	Q13	42.697	13.5
+Gene location	Q14	125.942	65.96
+Gene location	Q15	46.035	11.67
+Gene location	Q16	68.233	14.69
+Gene location	Q17	57.626	37.35
+Gene location	Q18	98.125	55.05
+Gene location	Q19	42.394	12.73
+Gene location	Q20	271.346	62.59
+Gene location	Q21	42.726	16.03
+Gene location	Q22	39.073	12.08
+Gene location	Q23	109.017	64.41
+Gene location	Q24	42.621	13.43
+Gene location	Q25	42.358	14.87
+Gene location	Q26	26.416	14.6
+Gene location	Q27	46.772	62.66
+Gene location	Q28	39.22	11.37
+Gene location	Q29	40.551	11.43
+Gene location	Q30	41.368	13.43
+Gene location	Q31	40.959	11.45
+Gene location	Q32	31.019	30.58
+Gene location	Q33	39.041	11.28
+Gene location	Q34	39.118	11.68
+Gene location	Q35	43.121	14.01
+Gene location	Q36	40.96	11.69
+Gene location	Q37	91.657	35.81
+Gene location	Q38	38.912	11.15
+Gene location	Q39	25.851	39.14
+Gene location	Q40	49.137	12.98
+Gene location	Q41	275.899	54.57
+Gene location	Q42	26.479	34.62
+Gene location	Q43	74.718	16.56
+Gene location	Q44	41.049	11.57
+Gene location	Q45	39.356	12.15
+Gene location	Q46	40.484	52.2
+Gene location	Q47	39.268	11.63
+Gene location	Q48	42.579	13.47
+Gene location	Q49	104.203	54.23
+Gene location	Q50	39.338	12.39
+Human genome DNA alignment	Q1	75.638	40
+Human genome DNA alignment	Q2	78.081	42.55
+Human genome DNA alignment	Q3	73.244	42.47
+Human genome DNA alignment	Q4	73.817	38.38
+Human genome DNA alignment	Q5	75.02	42.39
+Human genome DNA alignment	Q6	78.458	44.51
+Human genome DNA alignment	Q7	75.804	36.37
+Human genome DNA alignment	Q8	75.904	43.45
+Human genome DNA alignment	Q9	74.201	43.29
+Human genome DNA alignment	Q10	73.907	34.25
+Human genome DNA alignment	Q11	74.006	41.24
+Human genome DNA alignment	Q12	73.194	33.53
+Human genome DNA alignment	Q13	75.191	40.49
+Human genome DNA alignment	Q14	75.033	33.41
+Human genome DNA alignment	Q15	75.769	42.56
+Human genome DNA alignment	Q16	75.405	38.93
+Human genome DNA alignment	Q17	75.168	41.51
+Human genome DNA alignment	Q18	93.886	50.65
+Human genome DNA alignment	Q19	78.34	41.27
+Human genome DNA alignment	Q20	73.746	41.19
+Human genome DNA alignment	Q21	75.048	56.76
+Human genome DNA alignment	Q22	74.813	37.3
+Human genome DNA alignment	Q23	82.657	41.11
+Human genome DNA alignment	Q24	74.593	40.3
+Human genome DNA alignment	Q25	75.433	41.84
+Human genome DNA alignment	Q26	73.31	40.72
+Human genome DNA alignment	Q27	73.809	36.4
+Human genome DNA alignment	Q28	73.96	35.39
+Human genome DNA alignment	Q29	75.109	44.75
+Human genome DNA alignment	Q30	173.64	50.35
+Human genome DNA alignment	Q31	81.15	44.13
+Human genome DNA alignment	Q32	73.638	35.13
+Human genome DNA alignment	Q33	73.172	40.79
+Human genome DNA alignment	Q34	170.272	63.44
+Human genome DNA alignment	Q35	80.628	39.4
+Human genome DNA alignment	Q36	75.048	43.64
+Human genome DNA alignment	Q37	74.551	77.15
+Human genome DNA alignment	Q38	73.748	36.29
+Human genome DNA alignment	Q39	76.985	40.05
+Human genome DNA alignment	Q40	181.169	44.2
+Human genome DNA alignment	Q41	80.427	40.64
+Human genome DNA alignment	Q42	73.086	33.49
+Human genome DNA alignment	Q43	77.599	42.9
+Human genome DNA alignment	Q44	75.652	42.11
+Human genome DNA alignment	Q45	75.663	38.07
+Human genome DNA alignment	Q46	84.968	50.17
+Human genome DNA alignment	Q47	74.548	45.41
+Human genome DNA alignment	Q48	79.523	49.05
+Human genome DNA alignment	Q49	74.966	40
+Human genome DNA alignment	Q50	79.391	40.62
+Multi-species DNA alignment	Q1	72.797	31.25
+Multi-species DNA alignment	Q2	190.429	38.54
+Multi-species DNA alignment	Q3	78.913	32.04
+Multi-species DNA alignment	Q4	73.337	31.42
+Multi-species DNA alignment	Q5	71.787	48.39
+Multi-species DNA alignment	Q6	74.01	31.8
+Multi-species DNA alignment	Q7	72.964	29.67
+Multi-species DNA alignment	Q8	74.79	34.29
+Multi-species DNA alignment	Q9	74.127	37.21
+Multi-species DNA alignment	Q10	72.486	29.9
+Multi-species DNA alignment	Q11	80.886	37.38
+Multi-species DNA alignment	Q12	74.727	38.37
+Multi-species DNA alignment	Q13	73.106	32.25
+Multi-species DNA alignment	Q14	72.457	29.62
+Multi-species DNA alignment	Q15	72.58	30.62
+Multi-species DNA alignment	Q16	75.215	34.9
+Multi-species DNA alignment	Q17	72.455	29.06
+Multi-species DNA alignment	Q18	160.294	41.61
+Multi-species DNA alignment	Q19	78.093	33.02
+Multi-species DNA alignment	Q20	74.66	34.27
+Multi-species DNA alignment	Q21	74.082	33.23
+Multi-species DNA alignment	Q22	73.351	31.25
+Multi-species DNA alignment	Q23	72.505	49.92
+Multi-species DNA alignment	Q24	72.859	31.3
+Multi-species DNA alignment	Q25	72.07	28.67
+Multi-species DNA alignment	Q26	74.315	35.5
+Multi-species DNA alignment	Q27	74.233	37.26
+Multi-species DNA alignment	Q28	71.963	29.59
+Multi-species DNA alignment	Q29	72.058	37.07
+Multi-species DNA alignment	Q30	73.875	33.83
+Multi-species DNA alignment	Q31	73.799	34.43
+Multi-species DNA alignment	Q32	73.673	32.46
+Multi-species DNA alignment	Q33	76.217	37.93
+Multi-species DNA alignment	Q34	75.786	38.25
+Multi-species DNA alignment	Q35	71.966	29.35
+Multi-species DNA alignment	Q36	75.363	38.94
+Multi-species DNA alignment	Q37	84.283	37.33
+Multi-species DNA alignment	Q38	72.993	30.47
+Multi-species DNA alignment	Q39	73.156	33.59
+Multi-species DNA alignment	Q40	74.85	34.78
+Multi-species DNA alignment	Q41	72.155	49.86
+Multi-species DNA alignment	Q42	75.348	40.3
+Multi-species DNA alignment	Q43	74.09	34.66
+Multi-species DNA alignment	Q44	74.118	37.75
+Multi-species DNA alignment	Q45	73.316	32.14
+Multi-species DNA alignment	Q46	75.551	40.16
+Multi-species DNA alignment	Q47	72.243	29.95
+Multi-species DNA alignment	Q48	73.104	31.31
+Multi-species DNA alignment	Q49	72.174	36.8
+Multi-species DNA alignment	Q50	76.033	39.12
+Gene name conversion	Q1	44.994	12.23
+Gene name conversion	Q2	38.913	11.8
+Gene name conversion	Q3	39.088	12.59
+Gene name conversion	Q4	38.907	12.39
+Gene name conversion	Q5	39.037	11.86
+Gene name conversion	Q6	38.879	12.33
+Gene name conversion	Q7	38.853	12.14
+Gene name conversion	Q8	38.784	11.74
+Gene name conversion	Q9	39.105	12.23
+Gene name conversion	Q10	38.799	12.06
+Gene name conversion	Q11	41.204	12.23
+Gene name conversion	Q12	39.053	12.59
+Gene name conversion	Q13	38.932	11.9
+Gene name conversion	Q14	38.953	11.72
+Gene name conversion	Q15	38.962	12.11
+Gene name conversion	Q16	39.23	11.61
+Gene name conversion	Q17	39.937	12.06
+Gene name conversion	Q18	38.894	12.29
+Gene name conversion	Q19	39.063	12.43
+Gene name conversion	Q20	38.901	12.23
+Gene name conversion	Q21	40.579	11.99
+Gene name conversion	Q22	40.271	12.65
+Gene name conversion	Q23	40.139	12.19
+Gene name conversion	Q24	39.317	11.86
+Gene name conversion	Q25	40.364	12.2
+Gene name conversion	Q26	39.338	12.15
+Gene name conversion	Q27	39.315	12.35
+Gene name conversion	Q28	39.322	12.31
+Gene name conversion	Q29	39.846	12.88
+Gene name conversion	Q30	39.521	12
+Gene name conversion	Q31	39.65	12.02
+Gene name conversion	Q32	39.661	12.02
+Gene name conversion	Q33	39.418	12.54
+Gene name conversion	Q34	39.744	12.22
+Gene name conversion	Q35	39.692	11.87
+Gene name conversion	Q36	39.332	11.74
+Gene name conversion	Q37	38.992	11.59
+Gene name conversion	Q38	39.78	12.42
+Gene name conversion	Q39	40.896	12.01
+Gene name conversion	Q40	39.383	12.13
+Gene name conversion	Q41	39.131	12.24
+Gene name conversion	Q42	40.37	12.1
+Gene name conversion	Q43	39.2	11.82
+Gene name conversion	Q44	41.229	12.01
+Gene name conversion	Q45	39.38	12.63
+Gene name conversion	Q46	39.957	12.25
+Gene name conversion	Q47	39.198	11.84
+Gene name conversion	Q48	39.397	12.27
+Gene name conversion	Q49	39.502	11.95
+Gene name conversion	Q50	39.33	12.22
+Protein-coding genes	Q1	44.013	15.02
+Protein-coding genes	Q2	40.564	33.92
+Protein-coding genes	Q3	40.007	23.06
+Protein-coding genes	Q4	44.211	14.21
+Protein-coding genes	Q5	40.188	11.85
+Protein-coding genes	Q6	52.038	14.21
+Protein-coding genes	Q7	40.514	33.41
+Protein-coding genes	Q8	40.224	12.26
+Protein-coding genes	Q9	40.247	11.79
+Protein-coding genes	Q10	41.197	11.76
+Protein-coding genes	Q11	40.183	12.13
+Protein-coding genes	Q12	44.792	14.58
+Protein-coding genes	Q13	41.087	34.82
+Protein-coding genes	Q14	40.696	12.49
+Protein-coding genes	Q15	40.909	33.44
+Protein-coding genes	Q16	40.179	13.34
+Protein-coding genes	Q17	40.688	12.94
+Protein-coding genes	Q18	41.377	13.87
+Protein-coding genes	Q19	39.904	34.36
+Protein-coding genes	Q20	44.718	15.92
+Protein-coding genes	Q21	39.856	12.19
+Protein-coding genes	Q22	43.859	13.71
+Protein-coding genes	Q23	43.88	15.57
+Protein-coding genes	Q24	39.694	33.03
+Protein-coding genes	Q25	41.745	12.75
+Protein-coding genes	Q26	40.265	12.49
+Protein-coding genes	Q27	40.162	13.4
+Protein-coding genes	Q28	40.128	12.49
+Protein-coding genes	Q29	45.206	15.4
+Protein-coding genes	Q30	39.543	33.35
+Protein-coding genes	Q31	44.122	15.01
+Protein-coding genes	Q32	42.792	13.76
+Protein-coding genes	Q33	54.657	13.59
+Protein-coding genes	Q34	45.726	15.13
+Protein-coding genes	Q35	39.713	12.28
+Protein-coding genes	Q36	38.971	12.34
+Protein-coding genes	Q37	42.529	15.2
+Protein-coding genes	Q38	40.394	12
+Protein-coding genes	Q39	40.117	22.09
+Protein-coding genes	Q40	39.317	32.8
+Protein-coding genes	Q41	39.846	23.84
+Protein-coding genes	Q42	41.737	38
+Protein-coding genes	Q43	39.655	38.65
+Protein-coding genes	Q44	40.01	12
+Protein-coding genes	Q45	43.223	14.43
+Protein-coding genes	Q46	50.315	14.94
+Protein-coding genes	Q47	41.384	25.52
+Protein-coding genes	Q48	43.149	14.5
+Protein-coding genes	Q49	43.475	13.83
+Protein-coding genes	Q50	44.184	14.42
+Gene SNP association	Q1	25.633	13.26
+Gene SNP association	Q2	25.582	12.83
+Gene SNP association	Q3	25.507	12.53
+Gene SNP association	Q4	25.527	12.89
+Gene SNP association	Q5	25.832	12.52
+Gene SNP association	Q6	25.503	12.93
+Gene SNP association	Q7	25.915	12.6
+Gene SNP association	Q8	25.979	12.67
+Gene SNP association	Q9	25.829	12.89
+Gene SNP association	Q10	26.404	18.37
+Gene SNP association	Q11	25.377	12.67
+Gene SNP association	Q12	25.451	12.65
+Gene SNP association	Q13	26.638	15.14
+Gene SNP association	Q14	26.213	12.9
+Gene SNP association	Q15	25.385	12.92
+Gene SNP association	Q16	25.683	13.1
+Gene SNP association	Q17	25.572	13.82
+Gene SNP association	Q18	25.456	12.59
+Gene SNP association	Q19	25.832	13.2
+Gene SNP association	Q20	26.059	13.49
+Gene SNP association	Q21	25.932	13.32
+Gene SNP association	Q22	25.655	13.12
+Gene SNP association	Q23	25.259	12.78
+Gene SNP association	Q24	25.599	12.68
+Gene SNP association	Q25	25.409	12.96
+Gene SNP association	Q26	25.616	12.51
+Gene SNP association	Q27	25.313	12.6
+Gene SNP association	Q28	25.898	12.96
+Gene SNP association	Q29	25.4	12.57
+Gene SNP association	Q30	25.75	12.65
+Gene SNP association	Q31	25.695	12.94
+Gene SNP association	Q32	25.661	12.45
+Gene SNP association	Q33	25.93	13.2
+Gene SNP association	Q34	25.439	12.47
+Gene SNP association	Q35	25.874	13.04
+Gene SNP association	Q36	25.645	12.81
+Gene SNP association	Q37	25.869	13
+Gene SNP association	Q38	25.495	12.93
+Gene SNP association	Q39	25.758	13.42
+Gene SNP association	Q40	25.856	12.31
+Gene SNP association	Q41	25.353	13.2
+Gene SNP association	Q42	25.502	12.6
+Gene SNP association	Q43	25.803	12.98
+Gene SNP association	Q44	25.463	12.88
+Gene SNP association	Q45	25.573	13.11
+Gene SNP association	Q46	25.357	12.79
+Gene SNP association	Q47	25.497	12.89
+Gene SNP association	Q48	25.904	13.75
+Gene SNP association	Q49	25.654	12.96
+Gene SNP association	Q50	25.682	12.79
+SNP location	Q1	25.508	12.77
+SNP location	Q2	25.476	12.74
+SNP location	Q3	25.599	12.42
+SNP location	Q4	25.623	12.77
+SNP location	Q5	25.535	12.75
+SNP location	Q6	25.433	12.78
+SNP location	Q7	25.136	12.55
+SNP location	Q8	25.623	12.42
+SNP location	Q9	26.052	12.67
+SNP location	Q10	25.411	12.95
+SNP location	Q11	25.739	12.66
+SNP location	Q12	25.754	12.84
+SNP location	Q13	25.902	13.33
+SNP location	Q14	25.412	12.64
+SNP location	Q15	25.49	12.88
+SNP location	Q16	26.002	13.42
+SNP location	Q17	25.467	12.64
+SNP location	Q18	25.83	13.28
+SNP location	Q19	25.333	12.59
+SNP location	Q20	25.34	12.47
+SNP location	Q21	25.506	13.77
+SNP location	Q22	25.689	13.35
+SNP location	Q23	25.315	12.62
+SNP location	Q24	25.395	12.47
+SNP location	Q25	25.608	12.75
+SNP location	Q26	25.543	12.57
+SNP location	Q27	25.292	12.45
+SNP location	Q28	25.699	13.2
+SNP location	Q29	25.539	13.31
+SNP location	Q30	25.807	12.21
+SNP location	Q31	25.468	12.75
+SNP location	Q32	25.479	12.89
+SNP location	Q33	25.495	13.01
+SNP location	Q34	26.07	13.14
+SNP location	Q35	25.849	13.45
+SNP location	Q36	25.214	12.72
+SNP location	Q37	25.481	13.22
+SNP location	Q38	25.507	12.8
+SNP location	Q39	25.359	12.4
+SNP location	Q40	25.482	12.67
+SNP location	Q41	25.594	13.44
+SNP location	Q42	25.986	28.45
+SNP location	Q43	25.514	12.44
+SNP location	Q44	25.633	12.63
+SNP location	Q45	25.609	12.61
+SNP location	Q46	25.838	13.69
+SNP location	Q47	25.673	12.87
+SNP location	Q48	25.344	12.53
+SNP location	Q49	25.469	13.02
+SNP location	Q50	25.434	12.88
