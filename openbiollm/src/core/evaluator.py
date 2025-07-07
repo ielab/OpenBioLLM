@@ -13,7 +13,7 @@ class Evaluator:
     def __init__(self):
         self.llm = ChatOllama(
             model="qwen2.5:14b",
-            base_url="http://34.142.153.30:11434",
+            base_url="xxxxxxxxxxxxxx",
             api_key="ollama",
             num_ctx=16000,
             temperature=0

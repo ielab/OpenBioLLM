@@ -5,8 +5,8 @@ import uuid
 
 class SearchComponent:
     def __init__(self):
-        self.api_key = 'AIzaSyDPEndupscAqoSOFfthzQnjvtcR__n7VmY'
-        self.cse_id = '5179745bb65814ced'
+        self.api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your actual API key
+        self.cse_id = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your actual Custom Search Engine ID
 
     def _safe_get_metatag(self, metatags: List[dict], key: str) -> str:
         try:

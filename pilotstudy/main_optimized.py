@@ -1,5 +1,5 @@
 """
-    original GeneGPT setup, but use ollama instead of openai
+    optimized GeneGPT setup, prompt engineering
 """
 import json
 import os
@@ -46,7 +46,7 @@ logger = logging.getLogger()
 # Initialize the Ollama LLM client
 llm = Ollama(
 	model=model_name,
-	base_url="xxxxxxxxxxxxxx",
+    base_url="xxxxxxxxxxxxxx",
 	temperature=0.0,
 	request_timeout=500,
 	context_window=16000,
@@ -72,7 +72,6 @@ def call_ollama(q_prompt,num_calls):
 		return "Error"
 	
 def call_api(url, max_retries=3):
-	# 设置最大重试次数，避免无限重试
 	retry_count = 0
 	time.sleep(1)
 	url = url.replace(' ', '+')
@@ -113,16 +112,16 @@ def get_prompt_header(mask):
 	url_1 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmax=5&retmode=json&sort=relevance&term=LMP10'
 	call_1 = call_api(url_1)
 
-	url_2 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=gene&retmax=5&retmode=json&id=19171,5699,8138'
+	url_2 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=gene&retmax=5&retmode=json&sort=relevance&id=19171,5699,8138'
 	call_2 = call_api(url_2)
 
-	url_3 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&id=1217074595' 
+	url_3 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=snp&retmax=10&retmode=json&sort=relevance&id=1217074595'
 	call_3 = call_api(url_3)
 
 	url_4 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=omim&retmax=20&retmode=json&sort=relevance&term=Meesmann+corneal+dystrophy'
 	call_4 = call_api(url_4)
 
-	url_5 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=omim&retmax=20&retmode=json&id=618767,601687,300778,148043,122100'
+	url_5 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=omim&retmax=20&retmode=json&sort=relevance&id=618767,601687,300778,148043,122100'
 	call_5 = call_api(url_5)
 
 	url_6 = 'https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Put&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&QUERY=ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT&HITLIST_SIZE=5'
@@ -133,14 +132,29 @@ def get_prompt_header(mask):
 	time.sleep(30)
 	call_7 = call_api(url_7)
 
+	url_8 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=omim&retmax=5&retmode=json&sort=relevance&term=Glycine+N-methyltransferase+deficiency'
+	response8 = '''{...,idlist":["606664","606628","601240","160993"],...}'''
+
+	url_9 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=omim&retmax=5&retmode=json&sort=relevance&id=606664,606628,601240,160993'
+	response9 = '''{...,"result":"606664":{...,"title":"GLYCINE N-METHYLTRANSFERASE DEFICIENCY",...},"606628":{...,"title":"GLYCINE N-METHYLTRANSFERASE; GNMT",...},"601240":{...,"title":"GUANIDINOACETATE METHYLTRANSFERASE; GAMT",...},...}'''
+
+	url_10 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmax=5&retmode=json&sort=relevance&term=GNMT'
+	response10 = '''{...,"esearchresult":{...,"idlist":["27232","14711","25134","41561","403338","697722"],...},...}'''
+
+	url_11 = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmax=5&retmode=json&sort=relevance&id=27232,14711,25134,41561,403338'
+	response11 = '''{...,"result":{...,"27232":{...,"uid":"27232","name":"GNMT","maplocation":"6p21.1",...},...}'''
+
 
 	prompt = ''
 	prompt += 'Hello. Your task is to use NCBI Web APIs to answer genomic questions.\n'
 	prompt += 'Your response must always be in one of the following two formats:\n'
 
+	prompt +='1. When you need to make an API call, please put the URL you generated directly in [], Do not add anything else.\n'
+	prompt +='2. When you reach the final answer, Please use the following format：Answer: your generated answer.\n'
+
 	if mask[0]:
 		# Doc 0 is about Eutils
-		prompt += 'You can call Eutils by: "[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]".\n'
+		prompt += 'You can call Eutils by: "[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?retmax=10&db={gene|snp|omim}&retmode=json&sort=relevance&{term|id}={term|id}]".\n'
 		prompt += 'esearch: input is a search term and output is database id(s).\n'
 		prompt += 'efectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\n'
 		prompt += 'Normally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\n'
@@ -182,6 +196,22 @@ def get_prompt_header(mask):
 		prompt += f'[{url_7}]->[{call_7}]\n'
 		prompt += f'Answer: chr15:91950805-91950932\n\n'
 
+
+#  GeneHop multi-step reasoning
+	if len(mask) > 6 and mask [6]:
+		# Example 5 is for Disease gene location
+		prompt += f'Question:List chromosome locations of the genes related to Hemolytic anemia due to phosphofructokinase deficiency. Let us decompose the question to sub-questions and solve them step by step:\n'
+		prompt += f'Sub-question 1: What is the OMIM id of Glycine N-methyltransferase deficiency?\n'
+		prompt += f'[{url_8}]->[{response8}]\n'
+		prompt += f'Task 1: Extract the OMIM id in the list:[606664,606628,601240,160993]. Sub-question 2: What are genes related to OMIM id 606664,606628,601240,160993?\n'
+		prompt += f'[{url_9}]->[{response9}]\n'
+		prompt += f'Task 2: Extract Gene id of GNMT. Sub-question 3: What is the id of GNMT?\n'
+		prompt += f'[{url_10}]->[{response10}]\n'
+		prompt += f'Task 3: Extract chromosome location of GNMT. Sub-question 4: What is the chromosome location of GNMT?\n'
+		prompt += f'[{url_11}]->[{response11}]\n'
+		prompt += f'Answer: 6p21.1\n\n'
+
+	return prompt
 
 def main():
 	logger.info("Starting the GeneGPT execution process")
