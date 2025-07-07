@@ -1,0 +1,2813 @@
+{
+  "results_by_task": {
+    "Protein-coding genes (manual)": [
+      {
+        "question": "Is ATP5F1EP2 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is LOC124907753 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is AMD1P4 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is NODAL a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is MIR4436B2 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is NAXE a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC124909477 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is LINC01560 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is UCKL1-AS1 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is MIR6843 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is RPL7AP58 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is SERF2 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC124907937 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is RNU6-1193P a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC124903168 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is HMGB1P9 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is LOC100420990 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is RNU6-1212P a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is CPVL-AS2 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is NPFFR1 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is CYP4F10P a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is FANCG a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is CMKLR2 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is SSBP3-AS1 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC100419835 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is RNU7-171P a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is RPL34P34 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC100526841 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is TTLL1 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is CORO1A-AS1 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is SPARC a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC100129457 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is HOTAIR a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is CAAP1 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is PIGCP1 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is LINC01054 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is SPOP a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is RNU6-746P a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is POLE4P1 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is RASSF3-DT a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 0.0
+      },
+      {
+        "question": "Is RPL31P19 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is FBXO3-DT a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is DNAJB6P2 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is LINC02865 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is AFF1 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is PWWP2A a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is LOC105369759 a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: Yes",
+        "score": 0.0
+      },
+      {
+        "question": "Is B3GAT1 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      },
+      {
+        "question": "Is MIR22HG a protein-coding gene?",
+        "ground_truth": "NA",
+        "answer": "Answer: No",
+        "score": 1.0
+      },
+      {
+        "question": "Is CGGBP1 a protein-coding gene?",
+        "ground_truth": "TRUE",
+        "answer": "Answer: Yes",
+        "score": 1.0
+      }
+    ],
+    "Multi-species DNA alignment (manual)": [
+      {
+        "question": "Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT",
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT",
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found.",
+        "score": 0.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC",
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT",
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC",
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT",
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT",
+        "ground_truth": "rat",
+        "answer": "Answer: Rattus norvegicus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA",
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC",
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT",
+        "ground_truth": "human",
+        "answer": "Answer: Pan troglodytes",
+        "score": 0.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC",
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC",
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA",
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA",
+        "ground_truth": "rat",
+        "answer": "Answer: Homo sapiens",
+        "score": 0.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT",
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA",
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT",
+        "ground_truth": "rat",
+        "answer": "Answer: No significant similarity found.",
+        "score": 0.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG",
+        "ground_truth": "human",
+        "answer": "Answer: Homo sapiens",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT",
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC",
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC",
+        "ground_truth": "human",
+        "answer": "Answer: Pan troglodytes",
+        "score": 0.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC",
+        "ground_truth": "chicken",
+        "answer": "Answer: Gallus gallus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG",
+        "ground_truth": "mouse",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG",
+        "ground_truth": "yeast",
+        "answer": "Answer: Saccharomyces cerevisiae",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA",
+        "ground_truth": "rat",
+        "answer": "Answer: Mus musculus",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA",
+        "ground_truth": "worm",
+        "answer": "Answer: Caenorhabditis elegans",
+        "score": 1.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT",
+        "ground_truth": "worm",
+        "answer": "Answer: No significant similarity found.",
+        "score": 0.0
+      },
+      {
+        "question": "Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC",
+        "ground_truth": "zebrafish",
+        "answer": "Answer: Danio rerio",
+        "score": 1.0
+      }
+    ],
+    "Gene name conversion": [
+      {
+        "question": "Convert ENSG00000215251 to official gene symbol.",
+        "ground_truth": "FASTKD5",
+        "answer": "Answer: FASTKD5",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000205403 to official gene symbol.",
+        "ground_truth": "CFI",
+        "answer": "Answer: CFI",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000140199 to official gene symbol.",
+        "ground_truth": "SLC12A6",
+        "answer": "Answer: SLC12A6",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000149476 to official gene symbol.",
+        "ground_truth": "TKFC",
+        "answer": "Answer: TKFC",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000291317 to official gene symbol.",
+        "ground_truth": "TMEM276",
+        "answer": "Answer: TMEM276",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000174944 to official gene symbol.",
+        "ground_truth": "P2RY14",
+        "answer": "Answer: P2RY14",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000138604 to official gene symbol.",
+        "ground_truth": "GLCE",
+        "answer": "Answer: GLCE",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000174233 to official gene symbol.",
+        "ground_truth": "ADCY6",
+        "answer": "Answer: ADCY6",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000165487 to official gene symbol.",
+        "ground_truth": "MICU2",
+        "answer": "Answer: MICU2",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000124157 to official gene symbol.",
+        "ground_truth": "SEMG2",
+        "answer": "Answer: SEMG2",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000182885 to official gene symbol.",
+        "ground_truth": "ADGRG3",
+        "answer": "Answer: ADGRG3",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000128322 to official gene symbol.",
+        "ground_truth": "IGLL1",
+        "answer": "Answer: IGLL1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000103199 to official gene symbol.",
+        "ground_truth": "ZNF500",
+        "answer": "Answer: ZNF500",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000148824 to official gene symbol.",
+        "ground_truth": "MTG1",
+        "answer": "Answer: MTG1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000188343 to official gene symbol.",
+        "ground_truth": "CIBAR1",
+        "answer": "Answer: CIBAR1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000077984 to official gene symbol.",
+        "ground_truth": "CST7",
+        "answer": "Answer: CST7",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000117528 to official gene symbol.",
+        "ground_truth": "ABCD3",
+        "answer": "Answer: ABCD3",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000135338 to official gene symbol.",
+        "ground_truth": "LCA5",
+        "answer": "Answer: LCA5",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000139370 to official gene symbol.",
+        "ground_truth": "SLC15A4",
+        "answer": "Answer: SLC15A4",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000170209 to official gene symbol.",
+        "ground_truth": "ANKK1",
+        "answer": "Answer: ANKK1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000198681 to official gene symbol.",
+        "ground_truth": "MAGEA1",
+        "answer": "Answer: MAGEA1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000078549 to official gene symbol.",
+        "ground_truth": "ADCYAP1R1",
+        "answer": "Answer: ADCYAP1R1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000091592 to official gene symbol.",
+        "ground_truth": "NLRP1",
+        "answer": "Answer: NLRP1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000148680 to official gene symbol.",
+        "ground_truth": "HTR7",
+        "answer": "Answer: HTR7",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000183943 to official gene symbol.",
+        "ground_truth": "PRKX",
+        "answer": "Answer: PRKX",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000160791 to official gene symbol.",
+        "ground_truth": "CCR5",
+        "answer": "Answer: CCR5",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000162849 to official gene symbol.",
+        "ground_truth": "KIF26B",
+        "answer": "Answer: KIF26B",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000147202 to official gene symbol.",
+        "ground_truth": "DIAPH2",
+        "answer": "Answer: DIAPH2",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000117586 to official gene symbol.",
+        "ground_truth": "TNFSF4",
+        "answer": "Answer: TNFSF4",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000168591 to official gene symbol.",
+        "ground_truth": "TMUB2",
+        "answer": "Answer: TMUB2",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000129474 to official gene symbol.",
+        "ground_truth": "AJUBA",
+        "answer": "Answer: AJUBA",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000172009 to official gene symbol.",
+        "ground_truth": "THOP1",
+        "answer": "Answer: THOP1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000189157 to official gene symbol.",
+        "ground_truth": "FAM47E",
+        "answer": "Answer: FAM47E",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000196586 to official gene symbol.",
+        "ground_truth": "MYO6",
+        "answer": "Answer: MYO6",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000203783 to official gene symbol.",
+        "ground_truth": "PRR9",
+        "answer": "Answer: PRR9",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000126500 to official gene symbol.",
+        "ground_truth": "FLRT1",
+        "answer": "Answer: FLRT1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000010404 to official gene symbol.",
+        "ground_truth": "IDS",
+        "answer": "Answer: IDS",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000182022 to official gene symbol.",
+        "ground_truth": "CHST15",
+        "answer": "Answer: CHST15",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000177051 to official gene symbol.",
+        "ground_truth": "FBXO46",
+        "answer": "Answer: FBXO46",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000172296 to official gene symbol.",
+        "ground_truth": "SPTLC3",
+        "answer": "Answer: SPTLC3",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000120738 to official gene symbol.",
+        "ground_truth": "EGR1",
+        "answer": "Answer: EGR1",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000169548 to official gene symbol.",
+        "ground_truth": "ZNF280A",
+        "answer": "Answer: ZNF280A",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000153060 to official gene symbol.",
+        "ground_truth": "TEKT5",
+        "answer": "Answer: TEKT5",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000176222 to official gene symbol.",
+        "ground_truth": "ZNF404",
+        "answer": "Answer: ZNF404",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000168970 to official gene symbol.",
+        "ground_truth": "JMJD7-PLA2G4B",
+        "answer": "Answer: JMJD7-PLA2G4B",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000185883 to official gene symbol.",
+        "ground_truth": "ATP6V0C",
+        "answer": "Answer: ATP6V0C",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000240694 to official gene symbol.",
+        "ground_truth": "PNMA2",
+        "answer": "Answer: PNMA2",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000167664 to official gene symbol.",
+        "ground_truth": "TMIGD2",
+        "answer": "Answer: TMIGD2",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000243660 to official gene symbol.",
+        "ground_truth": "ZNF487",
+        "answer": "Answer: ZNF487",
+        "score": 1.0
+      },
+      {
+        "question": "Convert ENSG00000132205 to official gene symbol.",
+        "ground_truth": "EMILIN2",
+        "answer": "Answer: EMILIN2",
+        "score": 1.0
+      }
+    ],
+    "Gene disease association": [
+      {
+        "question": "What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?",
+        "ground_truth": "PFKL",
+        "answer": "Answer: AK1, PFKL",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Distal renal tubular acidosis?",
+        "ground_truth": "SLC4A1, ATP6V0A4",
+        "answer": "Answer: CA2, SLCO3A1, SLC4A1, ATP6V1B1, ATP6V0A4, KCNJ1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Pseudohypoparathyroidism Ic?",
+        "ground_truth": "GNAS",
+        "answer": "Answer: GNAS, GNAS1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Glycine N-methyltransferase deficiency?",
+        "ground_truth": "GNMT",
+        "answer": "Answer: GNMT, GAMT, NMT1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Meesmann corneal dystrophy?",
+        "ground_truth": "KRT12, KRT3",
+        "answer": "Answer: KRT12, KRT3",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Chronic atrial and intestinal dysrhythmia?",
+        "ground_truth": "SGO1",
+        "answer": "Answer: SGOL1",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Sensorineural deafness with mild renal dysfunction?",
+        "ground_truth": "BSND",
+        "answer": "Answer: BSND, RRM2B, COXPD34, COXPD37, CMTDIE",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Bile acid malabsorption?",
+        "ground_truth": "SLC10A2, SLC51B",
+        "answer": "Answer: CYP7A1, SLC10A2, CCK, SLCO3A1",
+        "score": 0.5
+      },
+      {
+        "question": "What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?",
+        "ground_truth": "LAMTOR2",
+        "answer": "Answer: LAMTOR2",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Currarino syndrome?",
+        "ground_truth": "MNX1",
+        "answer": "Answer: MNX1, GDF11",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Intervertebral disc disease?",
+        "ground_truth": "COL9A3",
+        "answer": "Answer: COL9A3, COL11A1, ACAN, CHAD, HTRA1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Otofaciocervical syndrome?",
+        "ground_truth": "EYA1, PAX1",
+        "answer": "Answer: PAX1, EYA1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Brody myopathy?",
+        "ground_truth": "ATP2A1",
+        "answer": "Answer: ATP2A1, HRAS, RNF31",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Neurodevelopmental disorder with gait disturbance?",
+        "ground_truth": "TCEAL1",
+        "answer": "Answer: TCEAL1, GRIA4, PLAA, MECP2",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?",
+        "ground_truth": "POLG",
+        "answer": "Answer: POLG",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Nephropathy due to CFHR5 deficiency?",
+        "ground_truth": "CFHR5",
+        "answer": "Answer: CFHR5, CFHD",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Achromatopsia?",
+        "ground_truth": "CNGA3, CNGB3, GNAT2, PDE6H, ATF6",
+        "answer": "Answer: GNAT2, PDE6H, CNGB3, ATF6, PDE6C",
+        "score": 0.8
+      },
+      {
+        "question": "What are genes related to Hyperphenylalaninemia?",
+        "ground_truth": "PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH",
+        "answer": "Answer: PAH, SPR, GCH1, PCBD1, DNAJC12, QDPR, PTS",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to EDICT syndrome?",
+        "ground_truth": "MIR184",
+        "answer": "Answer: MIR184",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Gastrointestinal defects and immunodeficiency syndrome?",
+        "ground_truth": "PI4KA, TTC7A",
+        "answer": "Answer: CVID7, IMD97, IMD93, IMD56, DEGCAGS, WAS, BILU, OMENN SYNDROME, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS, BILU, ICF1, ICF2, HIGM1, HIGM2, NBS, BBS",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Cleft palate with ankyloglossia?",
+        "ground_truth": "TBX22",
+        "answer": "Answer: TBX1, TBX19, TBX22, TBX5",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?",
+        "ground_truth": "DLL1",
+        "answer": "Answer: SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Spondylocarpotarsal synostosis syndrome?",
+        "ground_truth": "FLNB",
+        "answer": "Answer: FLNB, MYH3, RFLNA",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Haim-Munk syndrome?",
+        "ground_truth": "CTSC",
+        "answer": "Answer: CTSC",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Sialidosis?",
+        "ground_truth": "NEU1",
+        "answer": "Answer: NEU1, NEU4, SLC44A4, LAMP1, LAMP2, LAMP3, LAMP4, LAMP5, LAMP6, LAMP7, LAMP8, LAMP9, LAMP10, LAMP11, LAMP12, LAMP13, LAMP14, LAMP15, LAMP16, LAMP17, LAMP18, LAMP19, LAMP20, LAMP21, LAMP22, LAMP23, LAMP24, LAMP25, LAMP26, LAMP27, LAMP28, LAMP29, LAMP30, LAMP31, LAMP32, LAMP33, LAMP34, LAMP35, LAMP36, LAMP37, LAMP38, LAMP39, LAMP40, LAMP41, LAMP42, LAMP43, LAMP44, LAMP45, LAMP46, LAMP47, LAMP48, LAMP49, LAMP50, LAMP51, LAMP52, LAMP53, LAMP54, LAMP55, LAMP56, LAMP57, LAMP58, LAMP59, LAMP60",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Siddiqi syndrome?",
+        "ground_truth": "FITM2",
+        "answer": "Answer: FITM2, BCS1L, VAMP7",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Corneal fleck dystrophy?",
+        "ground_truth": "PIKFYVE",
+        "answer": "Answer: PAX6, PIKFYVE",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Liver failure?",
+        "ground_truth": "TRMU",
+        "answer": "Answer: ILFS1, ILFS2, ILFS3, ILLD, LFIT, MUL, SCAR21",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Proteasome-associated autoinflammatory syndrome?",
+        "ground_truth": "PSMB9, PSMG2, POMP, PSMB10",
+        "answer": "Answer: PSMB10, PSMB9, PSMA3, PSMB4, PSMG2",
+        "score": 0.75
+      },
+      {
+        "question": "What are genes related to Orofaciodigital syndrome XIV?",
+        "ground_truth": "C2CD3",
+        "answer": "Answer: C2CD3",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Trichoepithelioma?",
+        "ground_truth": "CYLD",
+        "answer": "Answer: CYLD, PTCH1, FAP1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Medullary thyroid carcinoma?",
+        "ground_truth": "RET",
+        "answer": "Answer: RET, CTAG1B, NRAS, PIK3CA, CDH1, KRT12, KRT3",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Type diabetes mellitus?",
+        "ground_truth": "HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6",
+        "answer": "[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=omim&retmax=20&retmode=json&id=601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,601941,601318,601942,6",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Buschke-Ollendorff syndrome?",
+        "ground_truth": "LEMD3",
+        "answer": "Answer: LEMD3",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Vascular malformation?",
+        "ground_truth": "ELMO2",
+        "answer": "Answer: LMPHM1, LMPHM2, LMPHM3, LMPHM4, LMPHM5, LMPHM6, LMPHM7, LMPHM9, LMPHM12, LMPHM13",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Acrocallosal syndrome?",
+        "ground_truth": "KIF7",
+        "answer": "Answer: KIF7, GLI3, ACTB",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Congenital disorder of deglycosylation?",
+        "ground_truth": "NGLY1, MAN2C1",
+        "answer": "Answer: MAN2C1, NGLY1, ATP6AP1, CANT1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Spinal muscular atrophy with congenital bone fractures?",
+        "ground_truth": "TRIP4, ASCC1",
+        "answer": "Answer: ASCC1, LMNA, TRIP4",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to B-cell immunodeficiency?",
+        "ground_truth": "TOP2B",
+        "answer": "Answer: CD40, CD40LG, CD3D, CD3E, CD3G, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247, CD3G, CD3E, CD3D, CD3Z, CD247",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?",
+        "ground_truth": "ARPC1B",
+        "answer": "Answer: ARPC1B, STIM1, HMOX1D",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Split-foot malformation with mesoaxial polydactyly?",
+        "ground_truth": "MAP3K20",
+        "answer": "Answer: MAP3K20, TP63",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Pigmented nodular adrenocortical disease?",
+        "ground_truth": "PRKAR1A, PDE11A, PDE8B",
+        "answer": "Answer: PDE11A, PDE8B, PRKACA, PRKAR1A",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Superoxide dismutase?",
+        "ground_truth": "SOD3",
+        "answer": "Answer: SOD1, SOD2",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?",
+        "ground_truth": "SCP2",
+        "answer": "Answer: SCP2, NDUFS1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?",
+        "ground_truth": "IL6",
+        "answer": "Answer: COL4A1, IL6",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Multiple system atrophy?",
+        "ground_truth": "COQ2",
+        "answer": "Answer: SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1, SLCO3A1",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Cone dystrophy?",
+        "ground_truth": "PDE6C, GUCA1A",
+        "answer": "Answer: RCD4, RCD3B, RCD3A, CORD12, CORD13, NFRCD, RCD1, CORD1, CORDX2",
+        "score": 0.0
+      },
+      {
+        "question": "What are genes related to Holt-Oram syndrome?",
+        "ground_truth": "TBX5",
+        "answer": "Answer: SALL4, TBX3, TBX5, TBX22, NKX2-5, TBX1, WWTR1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Lichtenstein-Knorr syndrome?",
+        "ground_truth": "SLC9A1",
+        "answer": "Answer: SLC9A1",
+        "score": 1.0
+      },
+      {
+        "question": "What are genes related to Ablepharon-macrostomia syndrome?",
+        "ground_truth": "TWIST2",
+        "answer": "Answer: FRAS1, TOP2B",
+        "score": 0.0
+      }
+    ],
+    "SNP location": [
+      {
+        "question": "Which chromosome does SNP rs1430464868 locate on human genome?",
+        "ground_truth": "chr13",
+        "answer": "Answer: chr13",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs545148486 locate on human genome?",
+        "ground_truth": "chr16",
+        "answer": "Answer: chr16",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs895485955 locate on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: chr19",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1376217783 locate on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: 11",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1420724913 locate on human genome?",
+        "ground_truth": "chr16",
+        "answer": "Answer: chr16",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs992486373 locate on human genome?",
+        "ground_truth": "chr15",
+        "answer": "Answer: chr15",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs975300764 locate on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs993131098 locate on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs899883800 locate on human genome?",
+        "ground_truth": "chr1",
+        "answer": "Answer: chr1",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs547832386 locate on human genome?",
+        "ground_truth": "chr15",
+        "answer": "Answer: chr15",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1212113267 locate on human genome?",
+        "ground_truth": "chr22",
+        "answer": "Answer: chr22",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1435895561 locate on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: 19",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs427884 locate on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: chr11",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1188706680 locate on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1316126938 locate on human genome?",
+        "ground_truth": "chr18",
+        "answer": "Answer: chr18",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1398189587 locate on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1372020525 locate on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs188137472 locate on human genome?",
+        "ground_truth": "chr17",
+        "answer": "Answer: chr17",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1246801490 locate on human genome?",
+        "ground_truth": "chr18",
+        "answer": "Answer: chr18",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs983633514 locate on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr8",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1274126968 locate on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1392348488 locate on human genome?",
+        "ground_truth": "chr22",
+        "answer": "Answer: chr22",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs965556407 locate on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs999510594 locate on human genome?",
+        "ground_truth": "chr16",
+        "answer": "Answer: chr16",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1412275115 locate on human genome?",
+        "ground_truth": "chr17",
+        "answer": "Answer: chr17",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs951388492 locate on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs967011458 locate on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs555675816 locate on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr8",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1333853138 locate on human genome?",
+        "ground_truth": "chr22",
+        "answer": "Answer: chr22",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs910383316 locate on human genome?",
+        "ground_truth": "chr1",
+        "answer": "Answer: chr1",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs563617526 locate on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: chr11",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1357251061 locate on human genome?",
+        "ground_truth": "chr21",
+        "answer": "Answer: chr21",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1401416674 locate on human genome?",
+        "ground_truth": "chr10",
+        "answer": "Answer: chr10",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs76491275 locate on human genome?",
+        "ground_truth": "chr21",
+        "answer": "Answer: chr21",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs141272872 locate on human genome?",
+        "ground_truth": "chr3",
+        "answer": "Answer: chr3",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1281763211 locate on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1278117191 locate on human genome?",
+        "ground_truth": "chr20",
+        "answer": "Answer: chr20",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1239675264 locate on human genome?",
+        "ground_truth": "chr21",
+        "answer": "Answer: chr21",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs866998836 locate on human genome?",
+        "ground_truth": "chr17",
+        "answer": "Answer: chr17",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1228002921 locate on human genome?",
+        "ground_truth": "chr2",
+        "answer": "Answer: chr2",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs976400036 locate on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: chr19",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs397784008 locate on human genome?",
+        "ground_truth": "chr15",
+        "answer": "Answer: chr15",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1170945868 locate on human genome?",
+        "ground_truth": "chr22",
+        "answer": "Answer: chr22",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs990783431 locate on human genome?",
+        "ground_truth": "chr3",
+        "answer": "Answer: chr3",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1041819671 locate on human genome?",
+        "ground_truth": "chr5",
+        "answer": "Answer: chr5",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs139642661 locate on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1263053296 locate on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1391145256 locate on human genome?",
+        "ground_truth": "chr12",
+        "answer": "Answer: chr12",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs1002944049 locate on human genome?",
+        "ground_truth": "chr9",
+        "answer": "Answer: chr9",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome does SNP rs962314907 locate on human genome?",
+        "ground_truth": "chr5",
+        "answer": "Answer: chr5",
+        "score": 1.0
+      }
+    ],
+    "Human genome DNA alignment": [
+      {
+        "question": "Align the DNA sequence to the human genome:ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT",
+        "ground_truth": "chr15:91950805-91950932",
+        "answer": "Answer: chr15:91950805-91950932",
+        "score": 1.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA",
+        "ground_truth": "chr8:7081648-7081782",
+        "answer": "Answer: chr8:1207812-1207946",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT",
+        "ground_truth": "chr10:7531973-7532108",
+        "answer": "Answer: chr10:1207812-1207947",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA",
+        "ground_truth": "chr7:71368450-71368551",
+        "answer": "Answer: chr7:140501369-140501470",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ATTAAACGCCCCTTAAATTACCCAGCTGTGGCAATCTGCTTCCTTGTGATACCCTGACTGATACGAATTATAAAGTAAATCCTGTGATACTCCCCCTCACCTCAAGCCCATGTTCCTGTAAGGTACAGAGTCATAGA",
+        "ground_truth": "chr17:30085086-30085222",
+        "answer": "Answer: chr17:76677-76714",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTTTTTGAGACGTTGTCTCACCCTGTCGCCCAGGCTGGAGTGCAGTGGTGCAGTCTTGGCTCACTGCAATCCCCACGTCCCAGGTTCAAACGATTCTCCTGCCTCAGTCTCCCAAGCAGCTGGGATTACAGGTGCCT",
+        "ground_truth": "chr6:25897419-25897555",
+        "answer": "Answer: chrX:15450107-15450235",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CCTTAGCTTTGTCATATTAGAGGGCTGGGAGGGCCTGATCCCCTGGAACCTGCCTTTCCAACCTGATTTCCCATACTTCTTCCCATAAGCCAGATCCCATGATTTCTCTCATTTCTCCAAACAGGCCTCTTGATTTTCCACCTTGGAACT",
+        "ground_truth": "chr22:30683180-30683329",
+        "answer": "Answer: chr22:16050097-16050146",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CTTCATACAAAACGAAGAGTTAAGACCTACCGGTTTTCCAAAGCCTCCCTATGAAAAACAGTATTTCTCTTAGTGGCAGGTTTGAGGTATGAGAGTCATTATTACACCTGTGAGCTGGCC",
+        "ground_truth": "chr21:7642925-7643044",
+        "answer": "Answer: chr21:91949892-91950011",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTGTCAATTTAACTCACAGAGAAAAATTTTAAAATTTGCAGCCTAATTTCTTCATTGACCCAGTGATCATTCAGGAAAATAATGCTTAATTTCTATGTATT",
+        "ground_truth": "chr21:18084464-18084564",
+        "answer": "Answer: chr21:45010526-45010626",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AACATTAACTTATTTTACCCTCATGATACTTCATTGGGGTAAGTAATGTTAATATTCCTAATTGAAAGATGAGAAACTGGAAGATCAGAAGACTAAGTAATTTTTCCAAGA",
+        "ground_truth": "chr18:41101663-41101773",
+        "answer": "Answer: chr18:109955-109845",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TGAGAGCACAGTGGTGAGGAGGACCCACATGCCTCCTATCCTTCATAGGAGGAGAAAGGCACAAACCAGAAAACCCCCCCAACACACACACACATACACAT",
+        "ground_truth": "chr1:234883857-234883957",
+        "answer": "Answer: chr1:175344-175443",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CTACAAAATGGGCATATTACTCACCTCGTAGGTTATTAATAGATGAGTTAATAAGTGTAAAATACTTAGAACAGTGCATAGCCAGCAGGGCATGGTGGCTCACACCTGT",
+        "ground_truth": "chr10:96583669-96583777",
+        "answer": "Answer: chr2:1709817-1709844",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AACAAACAAACAAAAAAACTGTAAGCCAAAATTTTATATCCTGCCAGAATAAGCTTAATAAATAAAAGAGATATAAAAAATTTCCCAGATAAGCAAACAACGCGGGACTCAGTAGTGAAAAAAAGTAGAAAGATCACAAATTAA",
+        "ground_truth": "chr7:124923900-124924043",
+        "answer": "Answer: chr7:135500-135622",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TACAGATAATGCTAATATCAGAGTTACCAGAAATAAAGATAATATTTTGATCACCATATGCCAACTCCTCCTGCCCCCACCCTTCTTTCTCTACTGATTCAAGAATCTGGTGAAGAAACTAGGGCTAGAGAAATGGAAT",
+        "ground_truth": "chr14:65272135-65272273",
+        "answer": "Answer: chr14:8570107-8570245",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TGGGCTCAAGTGATCCTCTTGCCTCAGCCTCCTAAAGTACTGGGATTACAGGTGCGAGCCACCACAACTGGCCTATAATTTTAAGTTTTCTTATAGTCACATTAAAAACATACAGAAGAAACATGAAATTAATTTCATAACATCTTA",
+        "ground_truth": "chr7:158890075-158890221",
+        "answer": "Answer: chr1:91949073-91949199",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TGCAGATGTGCTCTGCGACTATGTGCTCTAGAGGTAAAAAGGAAGACACTACAAAAGATGCTTATATTAACTGGCATTGATTACTAAGTCCTTCACATTAGGAAGAATCTAGAGAAGAATCTTCTA",
+        "ground_truth": "chr18:45026043-45026168",
+        "answer": "Answer: chr18:45217362-45217487",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TGAAATAATGTTTTGGATATAATGAAGTAAAAACATGTATTAATTTCACTGTTCTTTTTAAGGTATCTAATAGAAAATTTTAAATTACAAATGTGGCTTGCATTATATTTCTGTTGGATAGAGCTG",
+        "ground_truth": "chr3:156536294-156536419",
+        "answer": "Answer: chr3:170101-170127",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACAAAAAAAATTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAACCCGGGAGGCG",
+        "ground_truth": "chr19:32322319-32322449",
+        "answer": "Answer: chr19:45582384-45582512",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTCTTTACTGGTTCCTCATCTTCTCTCAAAATTCTCTTTTTAGGGATGCGAGGATGTTGAAAATGTTCTCTATTTTGATCTGGATGGCGGTTACATGGGTGTAGATCTGTGTTAAGATTGTACACTTAAGTTTCTG",
+        "ground_truth": "chrX:71742848-71742983",
+        "answer": "Answer: chrX:153658-153793",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ACACAGTAAAGATCATTTATTTATAAACTGACAATGGCTGCTTTAACACTAGTAGAGCAGAGTCAAGTAATTGTGACAAAGACCAACCGGCCCATAAATTTGAAAATTTGTACTCTCTAGTCCTTTGTGTGAGAAGTTTGCTAA",
+        "ground_truth": "chrX:98833089-98833232",
+        "answer": "Answer: chrX:15450107-15450250",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AGCCAAGGCCAGAGGACAAAGGTGAGCTCGCCAATAGGGCCAATACTGGGTCTGGCTGGAAGGGGAGGGTGGACAGAGATGGGTACTAAGAAGTGAAGATGGACAGGCAGGACCAGGTCT",
+        "ground_truth": "chr22:18817258-18817377",
+        "answer": "Answer: chr22:4,812,851-4,812,972",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CCACTACACCTGGCCACAACTGTCTTATTTAAAGGAGGACAAAGGTTAGGCTCAAGATTATGTGTTGGATTATATAACATCACACAACTTTTAAATTCAATTCCACAGATCCTACTAGGCTAGG",
+        "ground_truth": "chr16:23611895-23612018",
+        "answer": "Answer: chr16:92493309-92494181",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CAGCTAACAGAGTGGATCCTTTCTTTTTACAGAGCAGCTTTGAAACTCTATTTCTGTGGATTCTGCAAATTGATATTTGGGTTGATTTAACGATATCGATGGAAAAGGGAATATCTT",
+        "ground_truth": "chr21:12702345-12702461",
+        "answer": "Answer: chr21:10963763-10963877",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AGATAACATTAAGGTTTACATTCTCTGTAGAAACCTGTCCCAGGAATTCGTTGATGTTTGCAGCATCCGATTACTCTATAGCCAGAGAAGGCCAAGAGTAGAACCTTCTATTTTTCTTGTTGACCTT",
+        "ground_truth": "chr6:163903884-163904010",
+        "answer": "Answer: chr34:38268470-38268596",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AGGCCGTCTCTGACCCAGCTCTCTTTCTACTCCTCTCATCTCTTGCTCACAGCCTTCCAGCCACACTGGCCTTCTTCTTGTTCCCCTGACTCACTGTGCATGCACTCTGCTAAGAGTCTTAACTCCCTA",
+        "ground_truth": "chr18:54462342-54462470",
+        "answer": "Answer: chr18:71609-71737",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ACAACTTGACATCAAGGGACCAGGATGAGAATCTTATTTCAATAACCTACTAGTTAAGTGGTTTTGGTTAAGTTTAATCATTTATCTTTAGTATTTGCAACCATAAATTTGGAATAGTGATATTAGTTGCAGGATT",
+        "ground_truth": "chr2:34350870-34351005",
+        "answer": "Answer: chr2:2301087-2301222",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ATGAACTAAAGACTCATGACTCATTTACTCTCATTTTGACATCGCTTTGACAGTGGTGCCCAGCTTTCAAGGCAGTGACCTCTGCAGGAAGAGGCCCTTAGCTTCTGTGGAATGCTAAGTGC",
+        "ground_truth": "chr7:32588819-32588940",
+        "answer": "Answer: chr7:140501076-140501199",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TAAAATGTTCTGTTGATGACTATTAAGTCAATTTGGTCTAAAGTGAAGTTTAAATCTAATGTTTCTTTCTTAAGTTTCTATTTTGTAGATCTGCCTTATGCTAAGAGTTGACTTTTGAAGTTCTCAAATATTAT",
+        "ground_truth": "chr14:83950330-83950463",
+        "answer": "Answer: chr14:85701073-85701206",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GGCAGCAGTCACGAGAGCTTGTGCAGGGGAATTCTCATTTATAAAACCATTACATCTCATGATACTTATTCACTACCAGGAGAACGGTATGGGAGAAACCACCCCTATGACTCAATTATCTCCACCTGGTCCTTC",
+        "ground_truth": "chr11:37515333-37515467",
+        "answer": "Answer: chr10:107598-107733",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AAGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAATTTTTGTTTTTTTAGTAGAGACAGGGTTTCACCACGTTGAGGCCAGGCTGGTCTGAAACTACTGACAGGCAATCCGCCCACCTTGGCTTCCCAA",
+        "ground_truth": "chr19:23003880-23004012",
+        "answer": "Answer: chr19:45573540-45573672",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GATGTTTAATTAATTGCAATTACTATCTTCAAAGGAAGCCCAGAGTTGAAAGTTGTTCCTAATTACTGTGTTATGATGTCGACCAGCTACTTAAATTGATTGTGTGAGAATTTCCGATGGAGAA",
+        "ground_truth": "chr8:141523256-141523379",
+        "answer": "Answer: chr8:12770107-12770130",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTAGTATTCTTTTCAAACTGCAAAGTGACTTTTCAGCAATTGGGGTTGTTGTTTGAAATGTTTTTGAATGGCTTGTCTTCTATCTTTCCCTCATAGGAAAAGAAAAATACGACACAT",
+        "ground_truth": "chr9:22210568-22210684",
+        "answer": "Answer: chr6:150107958-150108108",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GTGATGGGCAATCCCGGAGCCACTGGCTTGCTGGTTCCAATTCTTAGAAGCAAAGTATGGATGGCCAGGATTTTATCTCTAGTAGGGTAACAGTGACTAAAAGTGCTGTAGAAATAAGATGGGAAA",
+        "ground_truth": "chrX:96520716-96520841",
+        "answer": "Answer: chrX:142769-142894",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTTTGTTTGTTTGTTTGTTTGTTTGTTTTGTTGTTGGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTGCAGTGGTGCGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTCCTGCCTCAGCCT",
+        "ground_truth": "chr20:57571370-57571508",
+        "answer": "Answer: chr20:56086426-56086564",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GTAGCTAGCCATGGTCAAGGCGGTCTAGACAGAGAGCAGTGTGGGGCTCCGTAAATACCGCACTGACGGAAAACATTAGCTTCCTGAACTGTACAGGTTATACCCAA",
+        "ground_truth": "chr17:9557107-9557213",
+        "answer": "Answer: chr17:76677-76983",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ATTTCACGCTATATACAAAAATCAACTCAAAGCATTAAATGTAAGACACGAAACTGTAAAATTACTAGAAGAAAACATAGGGGAAATTTTCATAACATTGGTTTGGGCAATGCT",
+        "ground_truth": "chr1:189568643-189568756",
+        "answer": "Answer: chr1:158858-158971",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTATCTGAAAACACAGATCATTTTACTTCTTTCCAATTTGGATGTCTTTTTTTTTCTTGCCTAATTTCTCTGGCTAGGACTTCTAATACTGTGTCGAATAGACGTGGCAAAA",
+        "ground_truth": "chr19:41724898-41725009",
+        "answer": "Answer: chr19:527098-527209",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GAATAAACGGTGGGCCTGGTCACCATAATGGCAGCAGGGTATGGAATGGGATGACTACAGAAATCTCTAACAGGGAGTAATGGATCATAGAATTCTTGGGGCTGAAATAGAACATTCCATTAAGGCCACGTTTGA",
+        "ground_truth": "chr6:119363354-119363488",
+        "answer": "Answer: chr6:157028-157166",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CCAGGAGTTTGAGACCAGCTTGGGTAACCTGGCAAGACTCCGTCTCTCTCTCTCAACAACAACAACAACAAAAAGGCCGGGTGCGGTGGCTCATAACCCCAGCACTTCGGGAGGCTGAGGTGGACGGATCACTTGAG",
+        "ground_truth": "chr16:3779892-3780028",
+        "answer": "Answer: chr16:91950933-91951069",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GTGTTGAACAGTCCCTTTCATAGAGCAGGTTTGAAACACTCTTTTTGTAGTATCTGGAAGTGGACATTAGGAACGCTCTCAGGACTGCGTTGAAAAAGGAAATATCTTCCAATAAAAGCTAGATAG",
+        "ground_truth": "chr2:93063432-93063557",
+        "answer": "Answer: chr2:1789735-1789735",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:CCTCCTTCCCACCTCTCCCTGGGCCTGCTCCTGGGAGGGACAGCTCCTGTTCGAGGGGCAGGAGTCCACGGTGAGTGGGACCCTCTGTGGGACGCCCCCTCTACTTCACTCCAGGATCCCATTTTGGCCATGCACAGAGAGG",
+        "ground_truth": "chr19:19162638-19162779",
+        "answer": "Answer: chr19:18990520-18990655",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ACTCTTCTGTTGGGAGAGTTTATTCAACTTCATTTTGACTTCACTGACTTCTATACACTGATCCAAGGTGTTTTTTTATTGGCAGGTTGGATTTAATTTTCA",
+        "ground_truth": "chr9:8591402-8591503",
+        "answer": "Answer: chr9:13585096-13585223",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AACCTCTGCCTTCTGGGTTCAAGAGATTCTTGCGCCTCAAGCCTCCTGAGTAGCTGGGCTTATAGGCATGCACCTCCACACGCAGCTAATTTTTGTACTTTTAGTAGAGACAGGGTTTTGCCATATTGGCCAGACTGGTCTC",
+        "ground_truth": "chr6:20935508-20935649",
+        "answer": "Answer: chr6:29,919,919-29,920,060",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:AGGAGGGGGAGGGGGAGAGGGAAGGGGCAGCCCCGCCTCCCGCAGGAGAAGGGAGCGCCTCATTACGCCGGGCTCGCCCGGGATGCCTGGCTCCCGGCGTCCGCTGCCTCCGCTGGGGACGTCCCGGGTCTG",
+        "ground_truth": "chr1:20486790-20486921",
+        "answer": "Answer: chr1:76529467-76529598",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:ATGTGGGATGTCCTGCACGTGGGCTCTGGAGTTAACAGAGGTGGGTTCTAAGTCAGGGTCATCACTTGCTTACTGAGCAACCTCGGCCAAGTTACTTATCCTCTTTGGGTTTTTTGTTAGTTTGTTCGTTTGTTTGTTTGT",
+        "ground_truth": "chr14:99402298-99402438",
+        "answer": "Answer: chr14:85701073-85701208",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TTTCCACGATAGACCTGAAACTGCCTAAATATATCTCTTTGCAGATTCTACAAAAAGACTGTTTCCAAGCTGCTCAATCAAAGAAAGTTTTTACTCTGTGTGATGAATGCACACATCACA",
+        "ground_truth": "chr20:29228714-29228833",
+        "answer": "Answer: chr20:31990419-31990539",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TGAGATTCTAGGTTCTCAGCCACCCAACCTTGCTGAACATGCTGGGCAACGTGGAACACGGGGACTCGTGGTCATGCTAATAACAGAACAAGTTTCCATTGGAAAGCTTTGCCTAAAAGAATCCTTAAAATACTATAAATTTACTC",
+        "ground_truth": "chr10:121721897-121722042",
+        "answer": "Answer: chr10:138033-138178",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TCACTTGAGCCCAGGAGTTTGAGGCTGCAGTGAGCTCTGATTGCATCACTGCCCTGAAGCCTGGGCAACAGAGTGAGACCCTGTCTCTTAAATAAATAAATAAATAAATAAATAAATAAATAAAATTTTAAAAAATG",
+        "ground_truth": "chr10:8432390-8432526",
+        "answer": "Answer: chr10:104345-104286",
+        "score": 0.5
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:TACTATAAATATCTCTGTGCACACCAACTAGAAAGTCTAGAGGAAATGAATAAACTCTTAGAAATATACAACCTCCCAAGATTGAATCAGGAATAAACAGAAGTCTTGAAGAAACCAAAA",
+        "ground_truth": "chr2:132111535-132111654",
+        "answer": "Answer: chr21:45010526-45010645",
+        "score": 0.0
+      },
+      {
+        "question": "Align the DNA sequence to the human genome:GAATGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGTTTATTTTTATTTTTTGTAGA",
+        "ground_truth": "chr20:34383091-34383229",
+        "answer": "Answer: chr20:33894259-33894397",
+        "score": 0.5
+      }
+    ],
+    "Gene alias": [
+      {
+        "question": "What is the official gene symbol of LMP10?",
+        "ground_truth": "PSMB10",
+        "answer": "Answer: PSMB10",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of SNAT6?",
+        "ground_truth": "SLC38A6",
+        "answer": "Answer: SLC38A6",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of IMD20?",
+        "ground_truth": "FCGR3A",
+        "answer": "Answer: FCGR3A",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of C20orf195?",
+        "ground_truth": "FNDC11",
+        "answer": "Answer: FNDC11",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of CXorf40B?",
+        "ground_truth": "EOLA2",
+        "answer": "Answer: EOLA2",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of QSCN6L1?",
+        "ground_truth": "QSOX2",
+        "answer": "Answer: QSOX2",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of OR11-86?",
+        "ground_truth": "OR10A2",
+        "answer": "Answer: OR10A2",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of NPAP60L?",
+        "ground_truth": "NUP50",
+        "answer": "Answer: NUP50",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of AF10?",
+        "ground_truth": "MLLT10",
+        "answer": "Answer: MLLT10",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of bMRP63?",
+        "ground_truth": "MRPL57",
+        "answer": "Answer: MRPL57",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of HsT1192?",
+        "ground_truth": "SYT4",
+        "answer": "Answer: SYT4",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of ZNF482?",
+        "ground_truth": "ZBTB6",
+        "answer": "Answer: ZBTB6",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of PTH1?",
+        "ground_truth": "PTH",
+        "answer": "Answer: YHR189W",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of AGTIL?",
+        "ground_truth": "ASIP",
+        "answer": "Answer: ASIP",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of LEP9?",
+        "ground_truth": "LCE2A",
+        "answer": "Answer: LCE2A",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of SEP3?",
+        "ground_truth": "SEPTIN3",
+        "answer": "Answer: SEPTIN3",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of FFDD3?",
+        "ground_truth": "TWIST2",
+        "answer": "Answer: TWIST2",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of C6orf186?",
+        "ground_truth": "METTL24",
+        "answer": "Answer: METTL24",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of hCAP?",
+        "ground_truth": "RNGTT",
+        "answer": "Answer: SMC3",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of CKBBP1?",
+        "ground_truth": "RNF7",
+        "answer": "Answer: CSNK2A1",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of TFA?",
+        "ground_truth": "F3",
+        "answer": "Answer: tfa",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of BMSC-MCP?",
+        "ground_truth": "SLC25A33",
+        "answer": "Answer: SLC25A33",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of PCH3?",
+        "ground_truth": "PCLO",
+        "answer": "Answer: PCLO",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of OR11-75?",
+        "ground_truth": "OR56A1",
+        "answer": "Answer: OR56A1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of RBAP1?",
+        "ground_truth": "E2F1",
+        "answer": "Answer: E2F1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of DCSCRIPT?",
+        "ground_truth": "ZNF366",
+        "answer": "Answer: ZNF366",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of 15-LOX?",
+        "ground_truth": "ALOX15",
+        "answer": "Answer: ALOX15",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of CT116?",
+        "ground_truth": "LYPD6B",
+        "answer": "Answer: LYPD6B",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of PKCL?",
+        "ground_truth": "PRKCH",
+        "answer": "Answer: PRKCH",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of SGEF?",
+        "ground_truth": "ARHGEF26",
+        "answer": "Answer: ARHGEF26",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of CTGLF6?",
+        "ground_truth": "AGAP9",
+        "answer": "Answer: AGAP9",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of FAP9?",
+        "ground_truth": "IFT22",
+        "answer": "Answer: IFT22",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of MPS4B?",
+        "ground_truth": "GLB1",
+        "answer": "Answer: GLB1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of LSDMCA2?",
+        "ground_truth": "COX7B",
+        "answer": "Answer: COX7B",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of PLK-5?",
+        "ground_truth": "PLK5",
+        "answer": "Answer: PLK5",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of C20orf86?",
+        "ground_truth": "ANKRD60",
+        "answer": "Answer: ANKRD60",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of GalNAc-T4?",
+        "ground_truth": "POC1B-GALNT4",
+        "answer": "Answer: GALNT4",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of NEDCHS?",
+        "ground_truth": "INTS8",
+        "answer": "Answer: INTS8",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of PCPB?",
+        "ground_truth": "CPB2",
+        "answer": "Answer: pcpB",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of PFDN3?",
+        "ground_truth": "VBP1",
+        "answer": "Answer: VBP1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of TSH2B?",
+        "ground_truth": "H2BC1",
+        "answer": "Answer: H2BC1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of RSG1?",
+        "ground_truth": "CPLANE2",
+        "answer": "Answer: RHB1",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of M12.219?",
+        "ground_truth": "ADAMDEC1",
+        "answer": "Answer: ADAMDEC1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of beta3Gn-T8?",
+        "ground_truth": "B3GNT8",
+        "answer": "Answer: B3GNT8",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of ASV?",
+        "ground_truth": "SRC",
+        "answer": "Answer: RETN",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of C11orf27?",
+        "ground_truth": "UBTFL1",
+        "answer": "Answer: UBTFL1",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of GCS1?",
+        "ground_truth": "MOGS",
+        "answer": "Answer: GCS1",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of FAM214B?",
+        "ground_truth": "ATOSB",
+        "answer": "Answer: FAM214B",
+        "score": 0.0
+      },
+      {
+        "question": "What is the official gene symbol of CTTNBP1?",
+        "ground_truth": "SHANK2",
+        "answer": "Answer: SHANK2",
+        "score": 1.0
+      },
+      {
+        "question": "What is the official gene symbol of PTP-SL?",
+        "ground_truth": "PTPRR",
+        "answer": "Answer: PTPRR",
+        "score": 1.0
+      }
+    ],
+    "Gene SNP association": [
+      {
+        "question": "Which gene is SNP rs1217074595 associated with?",
+        "ground_truth": "LINC01270",
+        "answer": "Answer: LINC01270",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1241371358 associated with?",
+        "ground_truth": "LRRC23",
+        "answer": "Answer: LRRC23",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1481036795 associated with?",
+        "ground_truth": "SEPTIN11",
+        "answer": "Answer: SEPTIN11",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1318850293 associated with?",
+        "ground_truth": "PLEKHG7",
+        "answer": "Answer: PLEKHG7",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs996319727 associated with?",
+        "ground_truth": "USP39",
+        "answer": "Answer: USP39",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs577757681 associated with?",
+        "ground_truth": "OXR1",
+        "answer": "Answer: OXR1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1294482311 associated with?",
+        "ground_truth": "DMXL1",
+        "answer": "Answer: DMXL1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs979970652 associated with?",
+        "ground_truth": "KHDRBS2",
+        "answer": "Answer: KHDRBS2",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1029002401 associated with?",
+        "ground_truth": "MAJIN",
+        "answer": "Answer: MAJIN",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1015227 associated with?",
+        "ground_truth": "SCHLAP1",
+        "answer": "Answer: SCHLAP1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1278530438 associated with?",
+        "ground_truth": "LDLRAD4",
+        "answer": "Answer: LDLRAD4",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs745325402 associated with?",
+        "ground_truth": "CALCR",
+        "answer": "Answer: CALCR",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs4704888 associated with?",
+        "ground_truth": "SGCD",
+        "answer": "Answer: SGCD",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1201372088 associated with?",
+        "ground_truth": "ZBTB25",
+        "answer": "Answer: ZBTB25",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1324451169 associated with?",
+        "ground_truth": "MED26",
+        "answer": "Answer: MED26",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs983419152 associated with?",
+        "ground_truth": "LINC02055",
+        "answer": "Answer: LINC02055",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs745940901 associated with?",
+        "ground_truth": "JMJD1C",
+        "answer": "Answer: JMJD1C",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1303680136 associated with?",
+        "ground_truth": "XKR9",
+        "answer": "Answer: XKR9",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1053827498 associated with?",
+        "ground_truth": "NSMCE1",
+        "answer": "Answer: NSMCE1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1350154096 associated with?",
+        "ground_truth": "LOC107986092",
+        "answer": "Answer: LOC107986092",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1037441458 associated with?",
+        "ground_truth": "LOC105372191",
+        "answer": "Answer: LOC105372191",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs900408143 associated with?",
+        "ground_truth": "RBFOX1",
+        "answer": "Answer: RBFOX1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs900532834 associated with?",
+        "ground_truth": "PAK1",
+        "answer": "Answer: PAK1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1281200566 associated with?",
+        "ground_truth": "CCT8L2",
+        "answer": "Answer: CCT8L2",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1431266687 associated with?",
+        "ground_truth": "CACNB2",
+        "answer": "Answer: CACNB2",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs900745020 associated with?",
+        "ground_truth": "CREB5",
+        "answer": "Answer: CREB5",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1188606225 associated with?",
+        "ground_truth": "GAREM1",
+        "answer": "Answer: GAREM1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs902730377 associated with?",
+        "ground_truth": "LOC105372323",
+        "answer": "Answer: LOC105372323",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1044115387 associated with?",
+        "ground_truth": "GLIS3",
+        "answer": "Answer: GLIS3",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs979980368 associated with?",
+        "ground_truth": "FAM53B",
+        "answer": "Answer: FAM53B",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1161130206 associated with?",
+        "ground_truth": "EMX2OS",
+        "answer": "Answer: EMX2OS",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs910422326 associated with?",
+        "ground_truth": "ANKFN1",
+        "answer": "Answer: ANKFN1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1035892430 associated with?",
+        "ground_truth": "TSPAN15",
+        "answer": "Answer: TSPAN15",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1255093658 associated with?",
+        "ground_truth": "TENM3",
+        "answer": "Answer: TENM3",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1257276516 associated with?",
+        "ground_truth": "LOC100506403",
+        "answer": "Answer: LOC100506403",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs563369098 associated with?",
+        "ground_truth": "LINC01673",
+        "answer": "Answer: LINC01673",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1032834815 associated with?",
+        "ground_truth": "FNDC3B",
+        "answer": "Answer: FNDC3B",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs552952471 associated with?",
+        "ground_truth": "RARB",
+        "answer": "Answer: RARB",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1452964195 associated with?",
+        "ground_truth": "LINC03021",
+        "answer": "Answer: LINC03021",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs949202492 associated with?",
+        "ground_truth": "NECAB2",
+        "answer": "Answer: NECAB2",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1218214598 associated with?",
+        "ground_truth": "MIR4527HG",
+        "answer": "Answer: MIR4527HG",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1022906840 associated with?",
+        "ground_truth": "CCDC178",
+        "answer": "Answer: CCDC178",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1199372758 associated with?",
+        "ground_truth": "RUBCN",
+        "answer": "Answer: RUBCN",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1396355441 associated with?",
+        "ground_truth": "PTPRB",
+        "answer": "Answer: PTPRB",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1432624213 associated with?",
+        "ground_truth": "SLC22A14",
+        "answer": "Answer: SLC22A14",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs937944577 associated with?",
+        "ground_truth": "IFFO1",
+        "answer": "Answer: IFFO1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1450106117 associated with?",
+        "ground_truth": "MED13",
+        "answer": "Answer: MED13",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs34083046 associated with?",
+        "ground_truth": "MICU1",
+        "answer": "Answer: MICU1",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs149916046 associated with?",
+        "ground_truth": "LINC02841",
+        "answer": "Answer: LINC02841",
+        "score": 1.0
+      },
+      {
+        "question": "Which gene is SNP rs1385096481 associated with?",
+        "ground_truth": "LRFN5",
+        "answer": "Answer: LRFN5",
+        "score": 1.0
+      }
+    ],
+    "Gene location": [
+      {
+        "question": "Which chromosome is FAM66D gene located on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr8",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is TTTY7 gene located on human genome?",
+        "ground_truth": "chrY",
+        "answer": "Answer: Y",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is LA16c-329F2.2 gene located on human genome?",
+        "ground_truth": "chr16",
+        "answer": "Answer: 16",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RGS16 gene located on human genome?",
+        "ground_truth": "chr1",
+        "answer": "Answer: chr1",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is FOXL2NB gene located on human genome?",
+        "ground_truth": "chr3",
+        "answer": "Answer: chr3",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-17A4.3 gene located on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is EML3 gene located on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: chr11",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is LPAR2 gene located on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: chr19",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is ENSG10010137169.1 gene located on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr15",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is AC018712.2 gene located on human genome?",
+        "ground_truth": "chr2",
+        "answer": "Answer: chr1:154588597-154588697",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is RRS1 gene located on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr5",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is LINC02599 gene located on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr8",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is ZNF117 gene located on human genome?",
+        "ground_truth": "chr7",
+        "answer": "Answer: 7",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-829H16.3 gene located on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is RN7SKP265 gene located on human genome?",
+        "ground_truth": "chr3",
+        "answer": "Answer: chr3",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-1102P22.1 gene located on human genome?",
+        "ground_truth": "chr16",
+        "answer": "Answer: 19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is AC018892.8 gene located on human genome?",
+        "ground_truth": "chr2",
+        "answer": "Answer: chr2",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-255A11.4 gene located on human genome?",
+        "ground_truth": "chr9",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is NPTN gene located on human genome?",
+        "ground_truth": "chr15",
+        "answer": "Answer: chr15",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-123M21.2 gene located on human genome?",
+        "ground_truth": "chr12",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is ZNF574 gene located on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: chr19",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RNU6-1143P gene located on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: chr11",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-303E16.8 gene located on human genome?",
+        "ground_truth": "chr16",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is SCO2 gene located on human genome?",
+        "ground_truth": "chr22",
+        "answer": "Answer: chr22",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is ERCC8 gene located on human genome?",
+        "ground_truth": "chr5",
+        "answer": "Answer: chr5",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is ENSG10010137820.1 gene located on human genome?",
+        "ground_truth": "chr2",
+        "answer": "Answer: chr15",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is RP11-215H18.5 gene located on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is RPS26P3 gene located on human genome?",
+        "ground_truth": "chr9",
+        "answer": "Answer: chr9",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RN7SL465P gene located on human genome?",
+        "ground_truth": "chr6",
+        "answer": "Answer: chr6",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is TRGC2 gene located on human genome?",
+        "ground_truth": "chr7",
+        "answer": "Answer: 7",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RN7SL689P gene located on human genome?",
+        "ground_truth": "chr5",
+        "answer": "Answer: chr5",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is CTB-180A7.6 gene located on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: chr15",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is MTND2P25 gene located on human genome?",
+        "ground_truth": "chrX",
+        "answer": "Answer: X",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is MTND6P21 gene located on human genome?",
+        "ground_truth": "chr21",
+        "answer": "Answer: chr21",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is UBE2D4 gene located on human genome?",
+        "ground_truth": "chr7",
+        "answer": "Answer: chr7",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is SRD5A1P1 gene located on human genome?",
+        "ground_truth": "chrX",
+        "answer": "Answer: chrX",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is CTD-2272D18.2 gene located on human genome?",
+        "ground_truth": "chr8",
+        "answer": "Answer: chr18",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is SNORD4B gene located on human genome?",
+        "ground_truth": "chr17",
+        "answer": "Answer: chr17",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is AC006042.8 gene located on human genome?",
+        "ground_truth": "chr7",
+        "answer": "Answer: chr15:91950805-91950932",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is SLAIN2 gene located on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: chr4",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-173H9.2 gene located on human genome?",
+        "ground_truth": "chr2",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is AC093802.1 gene located on human genome?",
+        "ground_truth": "chr2",
+        "answer": "Answer: chr15",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is RP4-612B18.1 gene located on human genome?",
+        "ground_truth": "chr1",
+        "answer": "Answer: chr3",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is AKIRIN1P2 gene located on human genome?",
+        "ground_truth": "chrX",
+        "answer": "Answer: chrX",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is SIGLEC19P gene located on human genome?",
+        "ground_truth": "chr19",
+        "answer": "Answer: chr19",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-179D22.1 gene located on human genome?",
+        "ground_truth": "chr9",
+        "answer": "Answer: chr19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is RPS3AP46 gene located on human genome?",
+        "ground_truth": "chr14",
+        "answer": "Answer: chr14",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is IFRD1 gene located on human genome?",
+        "ground_truth": "chr7",
+        "answer": "Answer: chr7",
+        "score": 1.0
+      },
+      {
+        "question": "Which chromosome is RP11-1299A16.3 gene located on human genome?",
+        "ground_truth": "chr4",
+        "answer": "Answer: 19",
+        "score": 0.0
+      },
+      {
+        "question": "Which chromosome is OR51H2P gene located on human genome?",
+        "ground_truth": "chr11",
+        "answer": "Answer: chr11",
+        "score": 1.0
+      }
+    ]
+  },
+  "statistics": {
+    "task_statistics": {
+      "Protein-coding genes (manual)": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 37,
+        "zero_score_count": 13,
+        "partial_score_count": 0,
+        "average_score": 0.74
+      },
+      "Multi-species DNA alignment (manual)": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 44,
+        "zero_score_count": 6,
+        "partial_score_count": 0,
+        "average_score": 0.88
+      },
+      "Gene name conversion": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 50,
+        "zero_score_count": 0,
+        "partial_score_count": 0,
+        "average_score": 1.0
+      },
+      "Gene disease association": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 36,
+        "zero_score_count": 11,
+        "partial_score_count": 3,
+        "average_score": 0.7609999999999999
+      },
+      "SNP location": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 50,
+        "zero_score_count": 0,
+        "partial_score_count": 0,
+        "average_score": 1.0
+      },
+      "Human genome DNA alignment": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 1,
+        "zero_score_count": 7,
+        "partial_score_count": 42,
+        "average_score": 0.44
+      },
+      "Gene alias": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 40,
+        "zero_score_count": 10,
+        "partial_score_count": 0,
+        "average_score": 0.8
+      },
+      "Gene SNP association": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 50,
+        "zero_score_count": 0,
+        "partial_score_count": 0,
+        "average_score": 1.0
+      },
+      "Gene location": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 31,
+        "zero_score_count": 19,
+        "partial_score_count": 0,
+        "average_score": 0.62
+      }
+    },
+    "overall_statistics": {
+      "total_questions": 450,
+      "total_score": 362.05,
+      "questions_need_manual_review": 0,
+      "average_score": 0.8045555555555556
+    }
+  }
+}

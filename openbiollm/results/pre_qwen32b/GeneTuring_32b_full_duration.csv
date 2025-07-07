@@ -1,0 +1,452 @@
+Task,Question,Start Time,End Time,Duration 
+Gene alias,Q1,10/1/2025 1:23,10/1/2025 1:24,53.568
+Gene alias,Q2,10/1/2025 1:24,10/1/2025 1:24,39.601
+Gene alias,Q3,10/1/2025 1:24,10/1/2025 1:25,40.132
+Gene alias,Q4,10/1/2025 1:25,10/1/2025 1:26,42.854
+Gene alias,Q5,10/1/2025 1:26,10/1/2025 1:27,43.753
+Gene alias,Q6,10/1/2025 1:27,10/1/2025 1:27,43.164
+Gene alias,Q7,10/1/2025 1:27,10/1/2025 1:28,39.148
+Gene alias,Q8,10/1/2025 1:28,10/1/2025 1:29,40.56
+Gene alias,Q9,10/1/2025 1:29,10/1/2025 1:29,43.914
+Gene alias,Q10,10/1/2025 1:29,10/1/2025 1:30,39.388
+Gene alias,Q11,10/1/2025 1:30,10/1/2025 1:31,38.78
+Gene alias,Q12,10/1/2025 1:31,10/1/2025 1:31,40.443
+Gene alias,Q13,10/1/2025 1:31,10/1/2025 1:32,42.511
+Gene alias,Q14,10/1/2025 1:32,10/1/2025 1:33,38.952
+Gene alias,Q15,10/1/2025 1:33,10/1/2025 1:33,39.669
+Gene alias,Q16,10/1/2025 1:33,10/1/2025 1:34,43.749
+Gene alias,Q17,10/1/2025 1:34,10/1/2025 1:35,38.857
+Gene alias,Q18,10/1/2025 1:35,10/1/2025 1:35,43.072
+Gene alias,Q19,10/1/2025 1:35,10/1/2025 1:36,42.044
+Gene alias,Q20,10/1/2025 1:36,10/1/2025 1:37,41.622
+Gene alias,Q21,10/1/2025 1:37,10/1/2025 1:38,42.971
+Gene alias,Q22,10/1/2025 1:38,10/1/2025 1:38,39.027
+Gene alias,Q23,10/1/2025 1:38,10/1/2025 1:39,39.072
+Gene alias,Q24,10/1/2025 1:39,10/1/2025 1:40,39.434
+Gene alias,Q25,10/1/2025 1:40,10/1/2025 1:40,39.986
+Gene alias,Q26,10/1/2025 1:40,10/1/2025 1:41,40.666
+Gene alias,Q27,10/1/2025 1:41,10/1/2025 1:42,43.448
+Gene alias,Q28,10/1/2025 1:42,10/1/2025 1:42,39.739
+Gene alias,Q29,10/1/2025 1:42,10/1/2025 1:43,40.197
+Gene alias,Q30,10/1/2025 1:43,10/1/2025 1:44,43.082
+Gene alias,Q31,10/1/2025 1:44,10/1/2025 1:44,39.349
+Gene alias,Q32,10/1/2025 1:44,10/1/2025 1:45,43.142
+Gene alias,Q33,10/1/2025 1:45,10/1/2025 1:46,38.694
+Gene alias,Q34,10/1/2025 1:46,10/1/2025 1:46,39.083
+Gene alias,Q35,10/1/2025 1:46,10/1/2025 1:47,42.575
+Gene alias,Q36,10/1/2025 1:47,10/1/2025 1:48,40.391
+Gene alias,Q37,10/1/2025 1:48,10/1/2025 1:48,44.413
+Gene alias,Q38,10/1/2025 1:48,10/1/2025 1:49,38.973
+Gene alias,Q39,10/1/2025 1:49,10/1/2025 1:50,44.752
+Gene alias,Q40,10/1/2025 1:50,10/1/2025 1:51,42.185
+Gene alias,Q41,10/1/2025 1:51,10/1/2025 1:51,39.126
+Gene alias,Q42,10/1/2025 1:51,10/1/2025 1:52,42.549
+Gene alias,Q43,10/1/2025 1:52,10/1/2025 1:53,38.853
+Gene alias,Q44,10/1/2025 1:53,10/1/2025 1:53,41.989
+Gene alias,Q45,10/1/2025 1:53,10/1/2025 1:54,43.108
+Gene alias,Q46,10/1/2025 1:54,10/1/2025 1:55,39.498
+Gene alias,Q47,10/1/2025 1:55,10/1/2025 1:55,42.797
+Gene alias,Q48,10/1/2025 1:55,10/1/2025 1:56,44.248
+Gene alias,Q49,10/1/2025 1:56,10/1/2025 1:57,40.409
+Gene alias,Q50,10/1/2025 1:57,10/1/2025 1:57,42.573
+Gene disease association,Q1,10/1/2025 1:57,10/1/2025 1:58,40.164
+Gene disease association,Q2,10/1/2025 1:58,10/1/2025 1:59,45.291
+Gene disease association,Q3,10/1/2025 1:59,10/1/2025 2:00,40.298
+Gene disease association,Q4,10/1/2025 2:00,10/1/2025 2:00,40.225
+Gene disease association,Q5,10/1/2025 2:00,10/1/2025 2:01,40.52
+Gene disease association,Q6,10/1/2025 2:01,10/1/2025 2:02,39.95
+Gene disease association,Q7,10/1/2025 2:02,10/1/2025 2:02,42.501
+Gene disease association,Q8,10/1/2025 2:02,10/1/2025 2:03,42.217
+Gene disease association,Q9,10/1/2025 2:03,10/1/2025 2:04,40.113
+Gene disease association,Q10,10/1/2025 2:04,10/1/2025 2:04,41.878
+Gene disease association,Q11,10/1/2025 2:04,10/1/2025 2:05,42.382
+Gene disease association,Q12,10/1/2025 2:05,10/1/2025 2:06,40.935
+Gene disease association,Q13,10/1/2025 2:06,10/1/2025 2:06,40.251
+Gene disease association,Q14,10/1/2025 2:06,10/1/2025 2:07,42.488
+Gene disease association,Q15,10/1/2025 2:07,10/1/2025 2:08,40.778
+Gene disease association,Q16,10/1/2025 2:08,10/1/2025 2:08,39.978
+Gene disease association,Q17,10/1/2025 2:08,10/1/2025 2:09,41.896
+Gene disease association,Q18,10/1/2025 2:09,10/1/2025 2:10,47.858
+Gene disease association,Q19,10/1/2025 2:10,10/1/2025 2:11,39.434
+Gene disease association,Q20,10/1/2025 2:11,10/1/2025 2:11,42.368
+Gene disease association,Q21,10/1/2025 2:11,10/1/2025 2:12,42.229
+Gene disease association,Q22,10/1/2025 2:12,10/1/2025 2:13,46.135
+Gene disease association,Q23,10/1/2025 2:13,10/1/2025 2:13,40.818
+Gene disease association,Q24,10/1/2025 2:13,10/1/2025 2:14,40.094
+Gene disease association,Q25,10/1/2025 2:14,10/1/2025 2:15,41.483
+Gene disease association,Q26,10/1/2025 2:15,10/1/2025 2:16,41.915
+Gene disease association,Q27,10/1/2025 2:16,10/1/2025 2:16,40.68
+Gene disease association,Q28,10/1/2025 2:16,10/1/2025 2:17,42.154
+Gene disease association,Q29,10/1/2025 2:17,10/1/2025 2:18,42.9
+Gene disease association,Q30,10/1/2025 2:18,10/1/2025 2:18,39.204
+Gene disease association,Q31,10/1/2025 2:18,10/1/2025 2:19,41.639
+Gene disease association,Q32,10/1/2025 2:19,10/1/2025 2:20,44.222
+Gene disease association,Q33,10/1/2025 2:20,10/1/2025 2:20,45.81
+Gene disease association,Q34,10/1/2025 2:20,10/1/2025 2:21,39.877
+Gene disease association,Q35,10/1/2025 2:21,10/1/2025 2:22,46.302
+Gene disease association,Q36,10/1/2025 2:22,10/1/2025 2:23,42.387
+Gene disease association,Q37,10/1/2025 2:23,10/1/2025 2:23,41.944
+Gene disease association,Q38,10/1/2025 2:23,10/1/2025 2:24,42.659
+Gene disease association,Q39,10/1/2025 2:24,10/1/2025 2:25,45.221
+Gene disease association,Q40,10/1/2025 2:25,10/1/2025 2:25,43.241
+Gene disease association,Q41,10/1/2025 2:25,10/1/2025 2:26,40.783
+Gene disease association,Q42,10/1/2025 2:26,10/1/2025 2:27,44.654
+Gene disease association,Q43,10/1/2025 2:27,10/1/2025 2:28,43.907
+Gene disease association,Q44,10/1/2025 2:28,10/1/2025 2:28,41.992
+Gene disease association,Q45,10/1/2025 2:28,10/1/2025 2:29,41.013
+Gene disease association,Q46,10/1/2025 2:29,10/1/2025 2:30,43.638
+Gene disease association,Q47,10/1/2025 2:30,10/1/2025 2:30,44.216
+Gene disease association,Q48,10/1/2025 2:30,10/1/2025 2:31,42.122
+Gene disease association,Q49,10/1/2025 2:31,10/1/2025 2:32,39.553
+Gene disease association,Q50,10/1/2025 2:32,10/1/2025 2:33,41.908
+Gene location,Q1,10/1/2025 2:33,10/1/2025 2:33,39.441
+Gene location,Q2,10/1/2025 2:33,10/1/2025 2:34,40.38
+Gene location,Q3,10/1/2025 2:34,10/1/2025 2:36,101.875
+Gene location,Q4,10/1/2025 2:36,10/1/2025 2:36,48.593
+Gene location,Q5,10/1/2025 2:36,10/1/2025 2:37,43.192
+Gene location,Q6,10/1/2025 2:37,10/1/2025 2:38,73.894
+Gene location,Q7,10/1/2025 2:38,10/1/2025 2:39,42.825
+Gene location,Q8,10/1/2025 2:39,10/1/2025 2:40,42.688
+Gene location,Q9,10/1/2025 2:40,10/1/2025 2:40,26.381
+Gene location,Q10,10/1/2025 2:40,10/1/2025 2:41,25.994
+Gene location,Q11,10/1/2025 2:41,10/1/2025 2:41,42.525
+Gene location,Q12,10/1/2025 2:41,10/1/2025 2:42,39.353
+Gene location,Q13,10/1/2025 2:42,10/1/2025 2:43,42.697
+Gene location,Q14,10/1/2025 2:43,10/1/2025 2:45,125.942
+Gene location,Q15,10/1/2025 2:45,10/1/2025 2:46,46.035
+Gene location,Q16,10/1/2025 2:46,10/1/2025 2:47,68.233
+Gene location,Q17,10/1/2025 2:47,10/1/2025 2:48,57.626
+Gene location,Q18,10/1/2025 2:48,10/1/2025 2:49,98.125
+Gene location,Q19,10/1/2025 2:49,10/1/2025 2:50,42.394
+Gene location,Q20,10/1/2025 2:50,10/1/2025 2:55,271.346
+Gene location,Q21,10/1/2025 2:55,10/1/2025 2:55,42.726
+Gene location,Q22,10/1/2025 2:55,10/1/2025 2:56,39.073
+Gene location,Q23,10/1/2025 2:56,10/1/2025 2:58,109.017
+Gene location,Q24,10/1/2025 2:58,10/1/2025 2:58,42.621
+Gene location,Q25,10/1/2025 2:58,10/1/2025 2:59,42.358
+Gene location,Q26,10/1/2025 2:59,10/1/2025 3:00,26.416
+Gene location,Q27,10/1/2025 3:00,10/1/2025 3:00,46.772
+Gene location,Q28,10/1/2025 3:00,10/1/2025 3:01,39.22
+Gene location,Q29,10/1/2025 3:01,10/1/2025 3:02,40.551
+Gene location,Q30,10/1/2025 3:02,10/1/2025 3:02,41.368
+Gene location,Q31,10/1/2025 3:02,10/1/2025 3:03,40.959
+Gene location,Q32,10/1/2025 3:03,10/1/2025 3:04,31.019
+Gene location,Q33,10/1/2025 3:04,10/1/2025 3:04,39.041
+Gene location,Q34,10/1/2025 3:04,10/1/2025 3:05,39.118
+Gene location,Q35,10/1/2025 3:05,10/1/2025 3:06,43.121
+Gene location,Q36,10/1/2025 3:06,10/1/2025 3:06,40.96
+Gene location,Q37,10/1/2025 3:06,10/1/2025 3:08,91.657
+Gene location,Q38,10/1/2025 3:08,10/1/2025 3:08,38.912
+Gene location,Q39,10/1/2025 3:08,10/1/2025 3:09,25.851
+Gene location,Q40,10/1/2025 3:09,10/1/2025 3:10,49.137
+Gene location,Q41,10/1/2025 3:10,10/1/2025 3:14,275.899
+Gene location,Q42,10/1/2025 3:14,10/1/2025 3:15,26.479
+Gene location,Q43,10/1/2025 3:15,10/1/2025 3:16,74.718
+Gene location,Q44,10/1/2025 3:16,10/1/2025 3:17,41.049
+Gene location,Q45,10/1/2025 3:17,10/1/2025 3:17,39.356
+Gene location,Q46,10/1/2025 3:17,10/1/2025 3:18,40.484
+Gene location,Q47,10/1/2025 3:18,10/1/2025 3:19,39.268
+Gene location,Q48,10/1/2025 3:19,10/1/2025 3:19,42.579
+Gene location,Q49,10/1/2025 3:19,10/1/2025 3:21,104.203
+Gene location,Q50,10/1/2025 3:21,10/1/2025 3:22,39.338
+Human genome DNA aligment,Q1,10/1/2025 3:22,10/1/2025 3:23,75.638
+Human genome DNA aligment,Q2,10/1/2025 3:23,10/1/2025 3:24,78.081
+Human genome DNA aligment,Q3,10/1/2025 3:24,10/1/2025 3:26,73.244
+Human genome DNA aligment,Q4,10/1/2025 3:26,10/1/2025 3:27,73.817
+Human genome DNA aligment,Q5,10/1/2025 3:27,10/1/2025 3:28,75.02
+Human genome DNA aligment,Q6,10/1/2025 3:28,10/1/2025 3:29,78.458
+Human genome DNA aligment,Q7,10/1/2025 3:29,10/1/2025 3:31,75.804
+Human genome DNA aligment,Q8,10/1/2025 3:31,10/1/2025 3:32,75.904
+Human genome DNA aligment,Q9,10/1/2025 3:32,10/1/2025 3:33,74.201
+Human genome DNA aligment,Q10,10/1/2025 3:33,10/1/2025 3:34,73.907
+Human genome DNA aligment,Q11,10/1/2025 3:34,10/1/2025 3:36,74.006
+Human genome DNA aligment,Q12,10/1/2025 3:36,10/1/2025 3:37,73.194
+Human genome DNA aligment,Q13,10/1/2025 3:37,10/1/2025 3:38,75.191
+Human genome DNA aligment,Q14,10/1/2025 3:38,10/1/2025 3:39,75.033
+Human genome DNA aligment,Q15,10/1/2025 3:39,10/1/2025 3:41,75.769
+Human genome DNA aligment,Q16,10/1/2025 3:41,10/1/2025 3:42,75.405
+Human genome DNA aligment,Q17,10/1/2025 3:42,10/1/2025 3:43,75.168
+Human genome DNA aligment,Q18,10/1/2025 3:43,10/1/2025 3:45,93.886
+Human genome DNA aligment,Q19,10/1/2025 3:45,10/1/2025 3:46,78.34
+Human genome DNA aligment,Q20,10/1/2025 3:46,10/1/2025 3:47,73.746
+Human genome DNA aligment,Q21,10/1/2025 3:47,10/1/2025 3:48,75.048
+Human genome DNA aligment,Q22,10/1/2025 3:48,10/1/2025 3:50,74.813
+Human genome DNA aligment,Q23,10/1/2025 3:50,10/1/2025 3:51,82.657
+Human genome DNA aligment,Q24,10/1/2025 3:51,10/1/2025 3:52,74.593
+Human genome DNA aligment,Q25,10/1/2025 3:52,10/1/2025 3:54,75.433
+Human genome DNA aligment,Q26,10/1/2025 3:54,10/1/2025 3:55,73.31
+Human genome DNA aligment,Q27,10/1/2025 3:55,10/1/2025 3:56,73.809
+Human genome DNA aligment,Q28,10/1/2025 3:56,10/1/2025 3:57,73.96
+Human genome DNA aligment,Q29,10/1/2025 3:57,10/1/2025 3:58,75.109
+Human genome DNA aligment,Q30,10/1/2025 3:58,10/1/2025 4:01,173.64
+Human genome DNA aligment,Q31,10/1/2025 4:01,10/1/2025 4:03,81.15
+Human genome DNA aligment,Q32,10/1/2025 4:03,10/1/2025 4:04,73.638
+Human genome DNA aligment,Q33,10/1/2025 4:04,10/1/2025 4:05,73.172
+Human genome DNA aligment,Q34,10/1/2025 4:05,10/1/2025 4:08,170.272
+Human genome DNA aligment,Q35,10/1/2025 4:08,10/1/2025 4:09,80.628
+Human genome DNA aligment,Q36,10/1/2025 4:09,10/1/2025 4:11,75.048
+Human genome DNA aligment,Q37,10/1/2025 4:11,10/1/2025 4:12,74.551
+Human genome DNA aligment,Q38,10/1/2025 4:12,10/1/2025 4:13,73.748
+Human genome DNA aligment,Q39,10/1/2025 4:13,10/1/2025 4:14,76.985
+Human genome DNA aligment,Q40,10/1/2025 4:14,10/1/2025 4:17,181.169
+Human genome DNA aligment,Q41,10/1/2025 4:17,10/1/2025 4:19,80.427
+Human genome DNA aligment,Q42,10/1/2025 4:19,10/1/2025 4:20,73.086
+Human genome DNA aligment,Q43,10/1/2025 4:20,10/1/2025 4:21,77.599
+Human genome DNA aligment,Q44,10/1/2025 4:21,10/1/2025 4:22,75.652
+Human genome DNA aligment,Q45,10/1/2025 4:22,10/1/2025 4:24,75.663
+Human genome DNA aligment,Q46,10/1/2025 4:24,10/1/2025 4:25,84.968
+Human genome DNA aligment,Q47,10/1/2025 4:25,10/1/2025 4:26,74.548
+Human genome DNA aligment,Q48,10/1/2025 4:26,10/1/2025 4:28,79.523
+Human genome DNA aligment,Q49,10/1/2025 4:28,10/1/2025 4:29,74.966
+Human genome DNA aligment,Q50,10/1/2025 4:29,10/1/2025 4:30,79.391
+Multi-species DNA aligment,Q1,10/1/2025 4:30,10/1/2025 4:32,72.797
+Multi-species DNA aligment,Q2,10/1/2025 4:32,10/1/2025 4:35,190.429
+Multi-species DNA aligment,Q3,10/1/2025 4:35,10/1/2025 4:36,78.913
+Multi-species DNA aligment,Q4,10/1/2025 4:36,10/1/2025 4:37,73.337
+Multi-species DNA aligment,Q5,10/1/2025 4:37,10/1/2025 4:38,71.787
+Multi-species DNA aligment,Q6,10/1/2025 4:38,10/1/2025 4:40,74.01
+Multi-species DNA aligment,Q7,10/1/2025 4:40,10/1/2025 4:41,72.964
+Multi-species DNA aligment,Q8,10/1/2025 4:41,10/1/2025 4:42,74.79
+Multi-species DNA aligment,Q9,10/1/2025 4:42,10/1/2025 4:43,74.127
+Multi-species DNA aligment,Q10,10/1/2025 4:43,10/1/2025 4:45,72.486
+Multi-species DNA aligment,Q11,10/1/2025 4:45,10/1/2025 4:46,80.886
+Multi-species DNA aligment,Q12,10/1/2025 4:46,10/1/2025 4:47,74.727
+Multi-species DNA aligment,Q13,10/1/2025 4:47,10/1/2025 4:48,73.106
+Multi-species DNA aligment,Q14,10/1/2025 4:48,10/1/2025 4:50,72.457
+Multi-species DNA aligment,Q15,10/1/2025 4:50,10/1/2025 4:51,72.58
+Multi-species DNA aligment,Q16,10/1/2025 4:51,10/1/2025 4:52,75.215
+Multi-species DNA aligment,Q17,10/1/2025 4:52,10/1/2025 4:53,72.455
+Multi-species DNA aligment,Q18,10/1/2025 4:53,10/1/2025 4:56,160.294
+Multi-species DNA aligment,Q19,10/1/2025 4:56,10/1/2025 4:57,78.093
+Multi-species DNA aligment,Q20,10/1/2025 4:57,10/1/2025 4:58,74.66
+Multi-species DNA aligment,Q21,10/1/2025 4:58,10/1/2025 5:00,74.082
+Multi-species DNA aligment,Q22,10/1/2025 5:00,10/1/2025 5:01,73.351
+Multi-species DNA aligment,Q23,10/1/2025 5:01,10/1/2025 5:02,72.505
+Multi-species DNA aligment,Q24,10/1/2025 5:02,10/1/2025 5:03,72.859
+Multi-species DNA aligment,Q25,10/1/2025 5:03,10/1/2025 5:05,72.07
+Multi-species DNA aligment,Q26,10/1/2025 5:05,10/1/2025 5:06,74.315
+Multi-species DNA aligment,Q27,10/1/2025 5:06,10/1/2025 5:07,74.233
+Multi-species DNA aligment,Q28,10/1/2025 5:07,10/1/2025 5:08,71.963
+Multi-species DNA aligment,Q29,10/1/2025 5:08,10/1/2025 5:09,72.058
+Multi-species DNA aligment,Q30,10/1/2025 5:09,10/1/2025 5:11,73.875
+Multi-species DNA aligment,Q31,10/1/2025 5:11,10/1/2025 5:12,73.799
+Multi-species DNA aligment,Q32,10/1/2025 5:12,10/1/2025 5:13,73.673
+Multi-species DNA aligment,Q33,10/1/2025 5:13,10/1/2025 5:14,76.217
+Multi-species DNA aligment,Q34,10/1/2025 5:14,10/1/2025 5:16,75.786
+Multi-species DNA aligment,Q35,10/1/2025 5:16,10/1/2025 5:17,71.966
+Multi-species DNA aligment,Q36,10/1/2025 5:17,10/1/2025 5:18,75.363
+Multi-species DNA aligment,Q37,10/1/2025 5:18,10/1/2025 5:20,84.283
+Multi-species DNA aligment,Q38,10/1/2025 5:20,10/1/2025 5:21,72.993
+Multi-species DNA aligment,Q39,10/1/2025 5:21,10/1/2025 5:22,73.156
+Multi-species DNA aligment,Q40,10/1/2025 5:22,10/1/2025 5:23,74.85
+Multi-species DNA aligment,Q41,10/1/2025 5:23,10/1/2025 5:24,72.155
+Multi-species DNA aligment,Q42,10/1/2025 5:24,10/1/2025 5:26,75.348
+Multi-species DNA aligment,Q43,10/1/2025 5:26,10/1/2025 5:27,74.09
+Multi-species DNA aligment,Q44,10/1/2025 5:27,10/1/2025 5:28,74.118
+Multi-species DNA aligment,Q45,10/1/2025 5:28,10/1/2025 5:29,73.316
+Multi-species DNA aligment,Q46,10/1/2025 5:29,10/1/2025 5:31,75.551
+Multi-species DNA aligment,Q47,10/1/2025 5:31,10/1/2025 5:32,72.243
+Multi-species DNA aligment,Q48,10/1/2025 5:32,10/1/2025 5:33,73.104
+Multi-species DNA aligment,Q49,10/1/2025 5:33,10/1/2025 5:34,72.174
+Multi-species DNA aligment,Q50,10/1/2025 5:34,10/1/2025 5:35,76.033
+Gene name conversion,Q1,10/1/2025 5:35,10/1/2025 5:36,44.994
+Gene name conversion,Q2,10/1/2025 5:36,10/1/2025 5:37,38.913
+Gene name conversion,Q3,10/1/2025 5:37,10/1/2025 5:38,39.088
+Gene name conversion,Q4,10/1/2025 5:38,10/1/2025 5:38,38.907
+Gene name conversion,Q5,10/1/2025 5:38,10/1/2025 5:39,39.037
+Gene name conversion,Q6,10/1/2025 5:39,10/1/2025 5:39,38.879
+Gene name conversion,Q7,10/1/2025 5:39,10/1/2025 5:40,38.853
+Gene name conversion,Q8,10/1/2025 5:40,10/1/2025 5:41,38.784
+Gene name conversion,Q9,10/1/2025 5:41,10/1/2025 5:41,39.105
+Gene name conversion,Q10,10/1/2025 5:41,10/1/2025 5:42,38.799
+Gene name conversion,Q11,10/1/2025 5:42,10/1/2025 5:43,41.204
+Gene name conversion,Q12,10/1/2025 5:43,10/1/2025 5:43,39.053
+Gene name conversion,Q13,10/1/2025 5:43,10/1/2025 5:44,38.932
+Gene name conversion,Q14,10/1/2025 5:44,10/1/2025 5:45,38.953
+Gene name conversion,Q15,10/1/2025 5:45,10/1/2025 5:45,38.962
+Gene name conversion,Q16,10/1/2025 5:45,10/1/2025 5:46,39.23
+Gene name conversion,Q17,10/1/2025 5:46,10/1/2025 5:47,39.937
+Gene name conversion,Q18,10/1/2025 5:47,10/1/2025 5:47,38.894
+Gene name conversion,Q19,10/1/2025 5:47,10/1/2025 5:48,39.063
+Gene name conversion,Q20,10/1/2025 5:48,10/1/2025 5:49,38.901
+Gene name conversion,Q21,10/1/2025 5:49,10/1/2025 5:49,40.579
+Gene name conversion,Q22,10/1/2025 5:49,10/1/2025 5:50,40.271
+Gene name conversion,Q23,10/1/2025 5:50,10/1/2025 5:51,40.139
+Gene name conversion,Q24,10/1/2025 5:51,10/1/2025 5:51,39.317
+Gene name conversion,Q25,10/1/2025 5:51,10/1/2025 5:52,40.364
+Gene name conversion,Q26,10/1/2025 5:52,10/1/2025 5:53,39.338
+Gene name conversion,Q27,10/1/2025 5:53,10/1/2025 5:53,39.315
+Gene name conversion,Q28,10/1/2025 5:53,10/1/2025 5:54,39.322
+Gene name conversion,Q29,10/1/2025 5:54,10/1/2025 5:55,39.846
+Gene name conversion,Q30,10/1/2025 5:55,10/1/2025 5:55,39.521
+Gene name conversion,Q31,10/1/2025 5:55,10/1/2025 5:56,39.65
+Gene name conversion,Q32,10/1/2025 5:56,10/1/2025 5:57,39.661
+Gene name conversion,Q33,10/1/2025 5:57,10/1/2025 5:57,39.418
+Gene name conversion,Q34,10/1/2025 5:57,10/1/2025 5:58,39.744
+Gene name conversion,Q35,10/1/2025 5:58,10/1/2025 5:59,39.692
+Gene name conversion,Q36,10/1/2025 5:59,10/1/2025 5:59,39.332
+Gene name conversion,Q37,10/1/2025 5:59,10/1/2025 6:00,38.992
+Gene name conversion,Q38,10/1/2025 6:00,10/1/2025 6:01,39.78
+Gene name conversion,Q39,10/1/2025 6:01,10/1/2025 6:01,40.896
+Gene name conversion,Q40,10/1/2025 6:01,10/1/2025 6:02,39.383
+Gene name conversion,Q41,10/1/2025 6:02,10/1/2025 6:03,39.131
+Gene name conversion,Q42,10/1/2025 6:03,10/1/2025 6:03,40.37
+Gene name conversion,Q43,10/1/2025 6:03,10/1/2025 6:04,39.2
+Gene name conversion,Q44,10/1/2025 6:04,10/1/2025 6:05,41.229
+Gene name conversion,Q45,10/1/2025 6:05,10/1/2025 6:05,39.38
+Gene name conversion,Q46,10/1/2025 6:05,10/1/2025 6:06,39.957
+Gene name conversion,Q47,10/1/2025 6:06,10/1/2025 6:07,39.198
+Gene name conversion,Q48,10/1/2025 6:07,10/1/2025 6:07,39.397
+Gene name conversion,Q49,10/1/2025 6:07,10/1/2025 6:08,39.502
+Gene name conversion,Q50,10/1/2025 6:08,10/1/2025 6:08,39.33
+Protein-coding genes,Q1,10/1/2025 6:08,10/1/2025 6:09,44.013
+Protein-coding genes,Q2,10/1/2025 6:09,10/1/2025 6:10,40.564
+Protein-coding genes,Q3,10/1/2025 6:10,10/1/2025 6:11,40.007
+Protein-coding genes,Q4,10/1/2025 6:11,10/1/2025 6:11,44.211
+Protein-coding genes,Q5,10/1/2025 6:11,10/1/2025 6:12,40.188
+Protein-coding genes,Q6,10/1/2025 6:12,10/1/2025 6:13,52.038
+Protein-coding genes,Q7,10/1/2025 6:13,10/1/2025 6:14,40.514
+Protein-coding genes,Q8,10/1/2025 6:14,10/1/2025 6:14,40.224
+Protein-coding genes,Q9,10/1/2025 6:14,10/1/2025 6:15,40.247
+Protein-coding genes,Q10,10/1/2025 6:15,10/1/2025 6:16,41.197
+Protein-coding genes,Q11,10/1/2025 6:16,10/1/2025 6:16,40.183
+Protein-coding genes,Q12,10/1/2025 6:16,10/1/2025 6:17,44.792
+Protein-coding genes,Q13,10/1/2025 6:17,10/1/2025 6:18,41.087
+Protein-coding genes,Q14,10/1/2025 6:18,10/1/2025 6:18,40.696
+Protein-coding genes,Q15,10/1/2025 6:18,10/1/2025 6:19,40.909
+Protein-coding genes,Q16,10/1/2025 6:19,10/1/2025 6:20,40.179
+Protein-coding genes,Q17,10/1/2025 6:20,10/1/2025 6:20,40.688
+Protein-coding genes,Q18,10/1/2025 6:20,10/1/2025 6:21,41.377
+Protein-coding genes,Q19,10/1/2025 6:21,10/1/2025 6:22,39.904
+Protein-coding genes,Q20,10/1/2025 6:22,10/1/2025 6:22,44.718
+Protein-coding genes,Q21,10/1/2025 6:22,10/1/2025 6:23,39.856
+Protein-coding genes,Q22,10/1/2025 6:23,10/1/2025 6:24,43.859
+Protein-coding genes,Q23,10/1/2025 6:24,10/1/2025 6:25,43.88
+Protein-coding genes,Q24,10/1/2025 6:25,10/1/2025 6:25,39.694
+Protein-coding genes,Q25,10/1/2025 6:25,10/1/2025 6:26,41.745
+Protein-coding genes,Q26,10/1/2025 6:26,10/1/2025 6:27,40.265
+Protein-coding genes,Q27,10/1/2025 6:27,10/1/2025 6:27,40.162
+Protein-coding genes,Q28,10/1/2025 6:27,10/1/2025 6:28,40.128
+Protein-coding genes,Q29,10/1/2025 6:28,10/1/2025 6:29,45.206
+Protein-coding genes,Q30,10/1/2025 6:29,10/1/2025 6:29,39.543
+Protein-coding genes,Q31,10/1/2025 6:29,10/1/2025 6:30,44.122
+Protein-coding genes,Q32,10/1/2025 6:30,10/1/2025 6:31,42.792
+Protein-coding genes,Q33,10/1/2025 6:31,10/1/2025 6:32,54.657
+Protein-coding genes,Q34,10/1/2025 6:32,10/1/2025 6:32,45.726
+Protein-coding genes,Q35,10/1/2025 6:32,10/1/2025 6:33,39.713
+Protein-coding genes,Q36,10/1/2025 6:33,10/1/2025 6:34,38.971
+Protein-coding genes,Q37,10/1/2025 6:34,10/1/2025 6:34,42.529
+Protein-coding genes,Q38,10/1/2025 6:34,10/1/2025 6:35,40.394
+Protein-coding genes,Q39,10/1/2025 6:35,10/1/2025 6:36,40.117
+Protein-coding genes,Q40,10/1/2025 6:36,10/1/2025 6:36,39.317
+Protein-coding genes,Q41,10/1/2025 6:36,10/1/2025 6:37,39.846
+Protein-coding genes,Q42,10/1/2025 6:37,10/1/2025 6:38,41.737
+Protein-coding genes,Q43,10/1/2025 6:38,10/1/2025 6:39,39.655
+Protein-coding genes,Q44,10/1/2025 6:39,10/1/2025 6:39,40.01
+Protein-coding genes,Q45,10/1/2025 6:39,10/1/2025 6:40,43.223
+Protein-coding genes,Q46,10/1/2025 6:40,10/1/2025 6:41,50.315
+Protein-coding genes,Q47,10/1/2025 6:41,10/1/2025 6:41,41.384
+Protein-coding genes,Q48,10/1/2025 6:41,10/1/2025 6:42,43.149
+Protein-coding genes,Q49,10/1/2025 6:42,10/1/2025 6:43,43.475
+Protein-coding genes,Q50,10/1/2025 6:43,10/1/2025 6:44,44.184
+Gene SNP association,Q1,10/1/2025 6:44,10/1/2025 6:44,25.633
+Gene SNP association,Q2,10/1/2025 6:44,10/1/2025 6:44,25.582
+Gene SNP association,Q3,10/1/2025 6:44,10/1/2025 6:45,25.507
+Gene SNP association,Q4,10/1/2025 6:45,10/1/2025 6:45,25.527
+Gene SNP association,Q5,10/1/2025 6:45,10/1/2025 6:46,25.832
+Gene SNP association,Q6,10/1/2025 6:46,10/1/2025 6:46,25.503
+Gene SNP association,Q7,10/1/2025 6:46,10/1/2025 6:47,25.915
+Gene SNP association,Q8,10/1/2025 6:47,10/1/2025 6:47,25.979
+Gene SNP association,Q9,10/1/2025 6:47,10/1/2025 6:47,25.829
+Gene SNP association,Q10,10/1/2025 6:47,10/1/2025 6:48,26.404
+Gene SNP association,Q11,10/1/2025 6:48,10/1/2025 6:48,25.377
+Gene SNP association,Q12,10/1/2025 6:48,10/1/2025 6:49,25.451
+Gene SNP association,Q13,10/1/2025 6:49,10/1/2025 6:49,26.638
+Gene SNP association,Q14,10/1/2025 6:49,10/1/2025 6:50,26.213
+Gene SNP association,Q15,10/1/2025 6:50,10/1/2025 6:50,25.385
+Gene SNP association,Q16,10/1/2025 6:50,10/1/2025 6:50,25.683
+Gene SNP association,Q17,10/1/2025 6:50,10/1/2025 6:51,25.572
+Gene SNP association,Q18,10/1/2025 6:51,10/1/2025 6:51,25.456
+Gene SNP association,Q19,10/1/2025 6:51,10/1/2025 6:52,25.832
+Gene SNP association,Q20,10/1/2025 6:52,10/1/2025 6:52,26.059
+Gene SNP association,Q21,10/1/2025 6:52,10/1/2025 6:53,25.932
+Gene SNP association,Q22,10/1/2025 6:53,10/1/2025 6:53,25.655
+Gene SNP association,Q23,10/1/2025 6:53,10/1/2025 6:53,25.259
+Gene SNP association,Q24,10/1/2025 6:53,10/1/2025 6:54,25.599
+Gene SNP association,Q25,10/1/2025 6:54,10/1/2025 6:54,25.409
+Gene SNP association,Q26,10/1/2025 6:54,10/1/2025 6:55,25.616
+Gene SNP association,Q27,10/1/2025 6:55,10/1/2025 6:55,25.313
+Gene SNP association,Q28,10/1/2025 6:55,10/1/2025 6:56,25.898
+Gene SNP association,Q29,10/1/2025 6:56,10/1/2025 6:56,25.4
+Gene SNP association,Q30,10/1/2025 6:56,10/1/2025 6:56,25.75
+Gene SNP association,Q31,10/1/2025 6:56,10/1/2025 6:57,25.695
+Gene SNP association,Q32,10/1/2025 6:57,10/1/2025 6:57,25.661
+Gene SNP association,Q33,10/1/2025 6:57,10/1/2025 6:58,25.93
+Gene SNP association,Q34,10/1/2025 6:58,10/1/2025 6:58,25.439
+Gene SNP association,Q35,10/1/2025 6:58,10/1/2025 6:59,25.874
+Gene SNP association,Q36,10/1/2025 6:59,10/1/2025 6:59,25.645
+Gene SNP association,Q37,10/1/2025 6:59,10/1/2025 6:59,25.869
+Gene SNP association,Q38,10/1/2025 6:59,10/1/2025 7:00,25.495
+Gene SNP association,Q39,10/1/2025 7:00,10/1/2025 7:00,25.758
+Gene SNP association,Q40,10/1/2025 7:00,10/1/2025 7:01,25.856
+Gene SNP association,Q41,10/1/2025 7:01,10/1/2025 7:01,25.353
+Gene SNP association,Q42,10/1/2025 7:01,10/1/2025 7:02,25.502
+Gene SNP association,Q43,10/1/2025 7:02,10/1/2025 7:02,25.803
+Gene SNP association,Q44,10/1/2025 7:02,10/1/2025 7:02,25.463
+Gene SNP association,Q45,10/1/2025 7:02,10/1/2025 7:03,25.573
+Gene SNP association,Q46,10/1/2025 7:03,10/1/2025 7:03,25.357
+Gene SNP association,Q47,10/1/2025 7:03,10/1/2025 7:04,25.497
+Gene SNP association,Q48,10/1/2025 7:04,10/1/2025 7:04,25.904
+Gene SNP association,Q49,10/1/2025 7:04,10/1/2025 7:05,25.654
+Gene SNP association,Q50,10/1/2025 7:05,10/1/2025 7:05,25.682
+SNP location,Q1,10/1/2025 7:05,10/1/2025 7:05,25.508
+SNP location,Q2,10/1/2025 7:05,10/1/2025 7:06,25.476
+SNP location,Q3,10/1/2025 7:06,10/1/2025 7:06,25.599
+SNP location,Q4,10/1/2025 7:06,10/1/2025 7:07,25.623
+SNP location,Q5,10/1/2025 7:07,10/1/2025 7:07,25.535
+SNP location,Q6,10/1/2025 7:07,10/1/2025 7:08,25.433
+SNP location,Q7,10/1/2025 7:08,10/1/2025 7:08,25.136
+SNP location,Q8,10/1/2025 7:08,10/1/2025 7:08,25.623
+SNP location,Q9,10/1/2025 7:08,10/1/2025 7:09,26.052
+SNP location,Q10,10/1/2025 7:09,10/1/2025 7:09,25.411
+SNP location,Q11,10/1/2025 7:09,10/1/2025 7:10,25.739
+SNP location,Q12,10/1/2025 7:10,10/1/2025 7:10,25.754
+SNP location,Q13,10/1/2025 7:10,10/1/2025 7:11,25.902
+SNP location,Q14,10/1/2025 7:11,10/1/2025 7:11,25.412
+SNP location,Q15,10/1/2025 7:11,10/1/2025 7:11,25.49
+SNP location,Q16,10/1/2025 7:11,10/1/2025 7:12,26.002
+SNP location,Q17,10/1/2025 7:12,10/1/2025 7:12,25.467
+SNP location,Q18,10/1/2025 7:12,10/1/2025 7:13,25.83
+SNP location,Q19,10/1/2025 7:13,10/1/2025 7:13,25.333
+SNP location,Q20,10/1/2025 7:13,10/1/2025 7:14,25.34
+SNP location,Q21,10/1/2025 7:14,10/1/2025 7:14,25.506
+SNP location,Q22,10/1/2025 7:14,10/1/2025 7:14,25.689
+SNP location,Q23,10/1/2025 7:14,10/1/2025 7:15,25.315
+SNP location,Q24,10/1/2025 7:15,10/1/2025 7:15,25.395
+SNP location,Q25,10/1/2025 7:15,10/1/2025 7:16,25.608
+SNP location,Q26,10/1/2025 7:16,10/1/2025 7:16,25.543
+SNP location,Q27,10/1/2025 7:16,10/1/2025 7:17,25.292
+SNP location,Q28,10/1/2025 7:17,10/1/2025 7:17,25.699
+SNP location,Q29,10/1/2025 7:17,10/1/2025 7:17,25.539
+SNP location,Q30,10/1/2025 7:17,10/1/2025 7:18,25.807
+SNP location,Q31,10/1/2025 7:18,10/1/2025 7:18,25.468
+SNP location,Q32,10/1/2025 7:18,10/1/2025 7:19,25.479
+SNP location,Q33,10/1/2025 7:19,10/1/2025 7:19,25.495
+SNP location,Q34,10/1/2025 7:19,10/1/2025 7:20,26.07
+SNP location,Q35,10/1/2025 7:20,10/1/2025 7:20,25.849
+SNP location,Q36,10/1/2025 7:20,10/1/2025 7:20,25.214
+SNP location,Q37,10/1/2025 7:20,10/1/2025 7:21,25.481
+SNP location,Q38,10/1/2025 7:21,10/1/2025 7:21,25.507
+SNP location,Q39,10/1/2025 7:21,10/1/2025 7:22,25.359
+SNP location,Q40,10/1/2025 7:22,10/1/2025 7:22,25.482
+SNP location,Q41,10/1/2025 7:22,10/1/2025 7:22,25.594
+SNP location,Q42,10/1/2025 7:22,10/1/2025 7:23,25.986
+SNP location,Q43,10/1/2025 7:23,10/1/2025 7:23,25.514
+SNP location,Q44,10/1/2025 7:23,10/1/2025 7:24,25.633
+SNP location,Q45,10/1/2025 7:24,10/1/2025 7:24,25.609
+SNP location,Q46,10/1/2025 7:24,10/1/2025 7:25,25.838
+SNP location,Q47,10/1/2025 7:25,10/1/2025 7:25,25.673
+SNP location,Q48,10/1/2025 7:25,10/1/2025 7:25,25.344
+SNP location,Q49,10/1/2025 7:25,10/1/2025 7:26,25.469
+SNP location,Q50,10/1/2025 7:26,10/1/2025 7:26,25.434
+,,,,48.45568889

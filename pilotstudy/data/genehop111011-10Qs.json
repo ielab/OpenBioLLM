@@ -1,0 +1,65 @@
+{
+    "sequence gene alias": {
+        "What are the aliases of the gene that contains this sequnece:GTAGATGGAACTGGTAGTCAGCTGGAGAGCAGCATGGAGGCGTCCTGGGGGAGCTTCAACGCTGAGCGGGGCTGGTATGTCTCTGTCCAGCAGCCTGAAGAAGCGGAGGCCGA. Let's decompose the question to sub-questions and solve them step by step.": [
+            "SLC38A6",
+            "NAT-1",
+            "SNAT6"
+        ],
+        "What are the aliases of the gene that contains this sequnece:ATTGTGAGAGTAACCAACGTGGGGTTACGGGGGAGAATCTGGAGAGAAGAGAAGAGGTTAACAACCCTCCCACTTCCTGGCCACCCCCCTCCACCTTTTCTGGTAAGGAGCCC. Let's decompose the question to sub-questions and solve them step by step.": [
+            "FCGR3A",
+            "CD16",
+            "FCG3",
+            "CD16A",
+            "FCGR3",
+            "IGFR3",
+            "IMD20",
+            "FCR-10",
+            "FCRIII",
+            "CD16-II",
+            "FCGRIII",
+            "FCRIIIA",
+            "FcGRIIIA"
+        ],
+        "What are the aliases of the gene that contains this sequnece:GGAAGAGGCCCCAGCACTGACCTCCGTGGGGGTGGAGATGAGGAGGATGGAAAGGGTGTCTTCCTCCAGCATCTTCCTGAAGGTGAAGGAGGGGCACCTTGGGGTGTCTAAGA. Let's decompose the question to sub-questions and solve them step by step.": [
+            "FNDC11",
+            "C20orf195"
+        ],
+        "What are the aliases of the gene that contains this sequnece:GCACACGTACGTTCCTCATGAAAGGGACGACGGGAGCTGCATGAAAGCCGAAGTTATGGACCGCTAGCATCTGTCACTGGCCACCGGTTTCCGGGAGTAAGCGGCAGCTACCT. Let's decompose the question to sub-questions and solve them step by step.": [
+            "EOLA2",
+            "CXorf40B"
+        ],
+        "What are the aliases of the gene that contains this sequnece:AGACGTGAAGCCTAGCAGAGGACTTTTTAGCTGCTCACTGGCCCCGCTTGTCTGGCCGACTCATCCGCCCGCGACCCCTAATCCCCTCTGCCTGCCCCAAGATGCTGAAGCCA. Let's decompose the question to sub-questions and solve them step by step.": [
+            "PSMB10",
+            "LMP10",
+            "MECL1",
+            "PRAAS5",
+            "beta2i"
+        ],
+        "What are the aliases of the gene that contains this sequnece:ACTTCCAACATGGCGGCGGCCGGGGCGGCGGTGGCGCGCAGCCCGGGAATCGGAGCGGGACCTGCGCTGAGAGCCCGGCGCTCGCCCCCGCCGCGGGCCGCACGGCTGCCGCG. Let's decompose the question to sub-questions and solve them step by step.": [
+            "QSOX2",
+            "SOXN",
+            "QSCN6L1"
+        ],
+        "What are the aliases of the gene that contains this sequnece:ACTAGCCCCAAGAACAAAAGAGGCACAGGTGGGAACAACTCTCCCAAAACCAGGACTGGGAGCATGGCCAAACTTCATAGTGAGCTTACTTGCCTCTGACACACAAGGCAGCA. Let's decompose the question to sub-questions and solve them step by step.": [
+            "OR10A2",
+            "OST363",
+            "OR10A2P",
+            "OR11-82",
+            "OR11-86"
+        ],
+        "What are the aliases of the gene that contains this sequnece:GCCGGCGCGCTTGCGCAGTAGCTGAACGCGGGCGTTTCTTTCCTCCCTTTTTTTCGAATTGGTTTTGGGGGTAGATTCGAGTTACAAAATGGCCGCCCGGAGCGTGTTCGGCG. Let's decompose the question to sub-questions and solve them step by step.": [
+            "NUP50",
+            "NPAP60",
+            "NPAP60L"
+        ],
+        "What are the aliases of the gene that contains this sequnece:ATGCTTCATTACACCCTTCATGGAAGCTGGCACACTCGCCCCACCCTCGTTTTCCACGGGCCAGTCTTGGAGGAAAAGGCCAGCAGGTAGGTTCCCAGGGCACGGAGATGATG. Let's decompose the question to sub-questions and solve them step by step.": [
+            "MLLT10",
+            "AF10"
+        ],
+        "What are the aliases of the gene that contains this sequnece:GCTTACGCCACGGCGTCTGCTGGCGGCCGCGGAGACGCAGAGTCTTGAGCAGCGCGGCAGGTGAGTAGCTGTGCGAATTCGGTTCTCTAGGGAGCTCCTTCTTCGCCTGCTGG. Let's decompose the question to sub-questions and solve them step by step.": [
+            "MRPL57",
+            "MRP63",
+            "bMRP63"
+        ]
+    }
+}

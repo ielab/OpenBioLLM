@@ -9,7 +9,7 @@ __pycache__/
 
 # Ignore system files
 .DS_Store
-
+.gitignore
 # Ignore Excel files
 *.xlsx
 *.xls
@@ -36,9 +36,7 @@ venv/
 .AppleDouble
 .LSOverride
 .cursor
-data/
-results/
-pre*/
+
 
 Icon
 ._*

@@ -1,0 +1,1329 @@
+{
+  "results_by_task": {
+    "sequence gene alias": [
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GTAGATGGAACTGGTAGTCAGCTGGAGAGCAGCATGGAGGCGTCCTGGGGGAGCTTCAACGCTGAGCGGGGCTGGTATGTCTCTGTCCAGCAGCCTGAAGAAGCGGAGGCCGA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "SLC38A6",
+          "NAT-1",
+          "SNAT6"
+        ],
+        "answer": "The sequence provided matches with several transcript variants of the gene Solute Carrier Family 38 Member 6 (SLC38A6) in Homo sapiens. The aliases for this gene include:\n\n- SLC38A6\n- NAT10\n- NCLT\n\nHowever, based on the BLAST results, it appears that there is no direct alias associated with the sequence other than being part of the SLC38A6 gene. The matches are from different transcript variants (X18, X11, X8, X3, X6) of this gene.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATTGTGAGAGTAACCAACGTGGGGTTACGGGGGAGAATCTGGAGAGAAGAGAAGAGGTTAACAACCCTCCCACTTCCTGGCCACCCCCCTCCACCTTTTCTGGTAAGGAGCCC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "FCGR3A",
+          "CD16",
+          "FCG3",
+          "CD16A",
+          "FCGR3",
+          "IGFR3",
+          "IMD20",
+          "FCR-10",
+          "FCRIII",
+          "CD16-II",
+          "FCGRIII",
+          "FCRIIIA",
+          "FcGRIIIA"
+        ],
+        "answer": "The gene containing the sequence provided is Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit MECL1.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GGAAGAGGCCCCAGCACTGACCTCCGTGGGGGTGGAGATGAGGAGGATGGAAAGGGTGTCTTCCTCCAGCATCTTCCTGAAGGTGAAGGAGGGGCACCTTGGGGTGTCTAAGA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "FNDC11",
+          "C20orf195"
+        ],
+        "answer": "The gene containing the sequence provided corresponds to FNDC11 in Homo sapiens. The aliases for this gene are:\n\n- C20orf195\n\nFor other species, the gene symbol remains similar with slight variations:\n- In Mus musculus (house mouse), it is 1700026M20Rik.\n- In Macaca mulatta (rhesus monkey), it is also referred to as C20orf195.\n- In Bos taurus (domestic cattle), the aliases are C13H20orf195 and C20orf195.\n- In Rattus norvegicus (Norway rat), an alias is RGD1564340. \n\nPlease note that for Homo sapiens, the primary alias provided by NCBI is \"C20orf195\".",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCACACGTACGTTCCTCATGAAAGGGACGACGGGAGCTGCATGAAAGCCGAAGTTATGGACCGCTAGCATCTGTCACTGGCCACCGGTTTCCGGGAGTAAGCGGCAGCTACCT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "EOLA2",
+          "CXorf40B"
+        ],
+        "answer": "The gene containing the sequence provided corresponds to EOLA2 in Homo sapiens (human). The official symbol for this gene is EOLA2 and it has another alias: CXorf40B. This gene is located on chromosome X at position Xq28.",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGACGTGAAGCCTAGCAGAGGACTTTTTAGCTGCTCACTGGCCCCGCTTGTCTGGCCGACTCATCCGCCCGCGACCCCTAATCCCCTCTGCCTGCCCCAAGATGCTGAAGCCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "PSMB10",
+          "LMP10",
+          "MECL1",
+          "PRAAS5",
+          "beta2i"
+        ],
+        "answer": "The sequence provided matches with the gene NM_002801.4, which corresponds to the proteasome 20S subunit beta 10 (PSMB10) in Homo sapiens. Common aliases for this gene include MECL-1 and PSMB10.\n\nTherefore, the aliases of the gene containing the provided sequence are **MECL-1** and **PSMB10**.",
+        "score": 0.2
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ACTTCCAACATGGCGGCGGCCGGGGCGGCGGTGGCGCGCAGCCCGGGAATCGGAGCGGGACCTGCGCTGAGAGCCCGGCGCTCGCCCCCGCCGCGGGCCGCACGGCTGCCGCG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "QSOX2",
+          "SOXN",
+          "QSCN6L1"
+        ],
+        "answer": "The gene containing the sequence provided corresponds to **QSOX2** in humans and other species. The aliases for this gene include:\n\n- QSCN6L1\n- SOXN\n\nThese are the primary aliases associated with the human QSOX2 gene based on the information retrieved from NCBI databases.",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ACTAGCCCCAAGAACAAAAGAGGCACAGGTGGGAACAACTCTCCCAAAACCAGGACTGGGAGCATGGCCAAACTTCATAGTGAGCTTACTTGCCTCTGACACACAAGGCAGCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "OR10A2",
+          "OST363",
+          "OR10A2P",
+          "OR11-82",
+          "OR11-86"
+        ],
+        "answer": "The gene containing the sequence provided is Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCCGGCGCGCTTGCGCAGTAGCTGAACGCGGGCGTTTCTTTCCTCCCTTTTTTTCGAATTGGTTTTGGGGGTAGATTCGAGTTACAAAATGGCCGCCCGGAGCGTGTTCGGCG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "NUP50",
+          "NPAP60",
+          "NPAP60L"
+        ],
+        "answer": "The sequence provided does not directly match any gene in the NCBI Gene database based on the search performed. However, given the context and the additional research conducted, it appears that you might be referring to the Psmb10 (proteasome subunit beta type 10) gene from Mus musculus (house mouse). The aliases for this gene include Mecl-1 and Mecl1.\n\nIf your sequence is part of a larger genomic context or transcript, please provide more information so I can assist further.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATGCTTCATTACACCCTTCATGGAAGCTGGCACACTCGCCCCACCCTCGTTTTCCACGGGCCAGTCTTGGAGGAAAAGGCCAGCAGGTAGGTTCCCAGGGCACGGAGATGATG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "MLLT10",
+          "AF10"
+        ],
+        "answer": "The sequence provided matches with the gene MLLT10 (also known as DOT1L cofactor) in Homo sapiens and other species based on BLAST results. However, no specific gene aliases were found using NCBI's E-utilities for the exact sequences given. The primary gene identifier is MLLT10; it may also be referred to by its full name \"MLLT10 histone lysine methyltransferase DOT1L cofactor\". Additional information or a broader search might be necessary to find any aliases associated with this specific sequence within the context of the larger gene.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCTTACGCCACGGCGTCTGCTGGCGGCCGCGGAGACGCAGAGTCTTGAGCAGCGCGGCAGGTGAGTAGCTGTGCGAATTCGGTTCTCTAGGGAGCTCCTTCTTCGCCTGCTGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "MRPL57",
+          "MRP63",
+          "bMRP63"
+        ],
+        "answer": "The gene sequence provided does not match any records in the NCBI Gene database based on the search performed. However, given the context of the previous analysis, if we were looking for aliases of the Psmb10 gene (which was found through a different query), its aliases include Mecl-1 and Mecl1. If you meant to find the gene associated with this specific sequence, please provide more details or confirm the species and context.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGAAGAGCCAAAACAGGAACCGAGGTGGCAAATCACTGTGCGAGGGCGAGTGGACCTCCCTCTTTGCCTCCTCCCTGTTCCAGGAGCTGGTGCCCTGGGCTCTGCGCTGTTGT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "SYT4",
+          "HsT1192"
+        ],
+        "answer": "The sequence provided matches with several entries in the nucleotide database, all of which are highly similar or identical to Homo sapiens synaptotagmin 4 (SYT4). The primary gene identifier for this sequence is NM_020783.4, and SYT4 is its official gene name.\n\nAliases for the SYT4 gene include:\n- FLJ51713\n- FLJ18511\n- FLJ18377\n\nThese aliases are derived from different cDNA clones or transcript variants of the same gene. The sequence you provided aligns perfectly with these entries, indicating that it is part of the SYT4 gene.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CTTCCAGGCTAAGTCCATCTTCCGGCTTGGGCAGACGCTGCCGCGGAATCCTTGACTCTAGTTTTCTGAGTCGGTGAGTGAGTGCAAAGTAGATTCCTCAGGTGGAGGGTGCC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ZBTB6",
+          "ZID",
+          "ZNF482"
+        ],
+        "answer": "The sequence provided matches with the gene ZBTB6 across multiple species in the database. The aliases for this gene include LOC130002516 and other transcript variants like XM_008958648.5, XM_009457250.5, NM_006626.6, BC037282.2, among others. These aliases are associated with different transcript variants of the ZBTB6 gene in various species such as Pan paniscus and Homo sapiens.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CCTTTTAGTATCCAATTATCTGAAACTTAAGAAGAGTGTGCACCGCCCAATGGGTGTGTGTATGTGCTGCTTTGAACCTATAGTTGAGATCCAGAGAATTGGGAGTGACATCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "PTH",
+          "FIH1",
+          "PTH1"
+        ],
+        "answer": "The gene containing the sequence you provided has the official symbol Psmb10 and other aliases Mecl-1 and Mecl1 in Mus musculus (house mouse). Other designations for this gene include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, and proteasome (prosomome, macropain) subunit, beta type 10.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGGCTACCAAAGTCGCTGGTAGCCTGGACCCTGAGTTCACCGATCCTTCCTACTCAGTAATATCTACAGGTAAGTCCAAAGGGAAATTGCTTTGGGAATCTGACAATTTAACT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ASIP",
+          "ASP",
+          "AGSW",
+          "AGTI",
+          "AGTIL",
+          "SHEP9"
+        ],
+        "answer": "The sequence provided matches with the gene ASIP (agouti signaling protein) in Homo sapiens and other species. The exact match was found on chromosome 20 of the human genome. However, no specific aliases for this particular segment within the ASIP gene were directly listed from the NCBI Gene database search or BLAST results. For comprehensive information about aliases of the ASIP gene, you may refer to the official NCBI Gene page for ASIP (Gene ID: 420).",
+        "score": 0.16666666666666666
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATCTGCTCTGACTTCCCCAGGACGTGTCTGTGCTCCTGTGTGTGACCAGGGTGAGTGGCAACCTGGGAGCCAGAGGGCACAGGGGAATGGGAAGATTAAGGGAGGCTTCAGAG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "LCE2A",
+          "LEP9"
+        ],
+        "answer": "The sequence provided matches with several entries in the NCBI database, particularly aligning perfectly with the mRNA of human late cornified envelope 2A (LCE2A) gene (NM_178428.4). However, no direct alias for this specific gene based on the given sequence was found through the searches conducted.\n\nThe LCE2A gene is part of a family of genes involved in skin barrier formation and differentiation. If you are looking for aliases or other names associated with the LCE2A gene, some common ones include:\n\n- LOC105376894\n- KIAA1191\n\nHowever, these are not direct matches to your sequence but rather alternative identifiers for the same gene in different databases. For a precise match and aliases related specifically to the provided sequence, further investigation into the exact genomic context or functional regions of LCE2A would be necessary.\n\nGiven the high identity scores with other species' late cornified envelope proteins (LCE), it's likely that your query sequence is part of this gene family but may not correspond directly to a known alias. If you need more specific information, consider checking databases like Ensembl or RefSeq for detailed annotations and aliases related to LCE2A or similar genes in the human genome.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGAGCCCAGCCCAGCACGGTCTCCGGGGATGTAGCTGGTGGGACAGTGAGCAGAGGGCTGGGCCCTGTGCCTGGGGACTGTGGCCTGGAGGCTGAGCAGGAGCTGAGGAGGGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "SEPTIN3",
+          "SEP3",
+          "SEPT3",
+          "bK250D10.3"
+        ],
+        "answer": "The sequence provided matches the gene SEPTIN3 in multiple species with 100% identity. The official symbol for this gene in humans (Homo sapiens) is SEPTIN3 and its other aliases include SEP3, SEPT3, and bK250D10.3.",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCACAAGCCGGCCTTGAAATCAGAGCCTTTCCAGCAACTCCGAGAGCGTGTGCTCGGCGACCGCGGGCTTGGCCAGCGGCGCGCGCTCGGCGCCCCGGCGCCCCCAGCCCCAC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "TWIST2",
+          "AMS",
+          "FFDD3",
+          "BBRSAY",
+          "DERMO1",
+          "SETLSS",
+          "bHLHa39"
+        ],
+        "answer": "The sequence provided does not directly match any gene in the NCBI Gene database based on the search performed. However, given that the sequence appears to be a part of the Psmb10 (proteasome subunit beta type 10) gene from Mus musculus according to the information retrieved for gene ID 19171, the aliases for this gene are:\n\n- Mecl-1\n- Mecl1\n\nOther designations include:\n- proteasome subunit beta type-10\n- low molecular mass protein 10\n- macropain subunit MECl-1\n- multicatalytic endopeptidase complex subunit MECl-1\n- prosome Mecl1\n- proteasome (prosomome, macropain) subunit, beta type 10\n- proteasome MECl-1\n- proteasome subunit MECL1\n- proteasome subunit beta-2i\n\nIf you need a more precise match for the sequence provided, further analysis such as BLAST search might be necessary.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGTTGGCCGCTCCGGCCTGTGGGGCTACATCCCTGCTGCCGGCCAGGCGCGGCCCGCGGGACCCCGAGTGTAGCGCCATGGCCCGGGAGAGGCCGCCCGGGAGGGGCTGCGGC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "METTL24",
+          "C6orf186"
+        ],
+        "answer": "The gene containing the sequence AGTTGGCCGCTCCGGCCTGTGGGGCTACATCCCTGCTGCCGGCCAGGCGCGGCCCGCGGGACCCCGAGTGTAGCGCCATGGCCCGGGAGAGGCCGCCCGGGAGGGGCTGCGGC is METTL24 (methyltransferase like 24). The aliases for this gene in Homo sapiens are:\n\n- C6orf186\n\nFor other species, the aliases may vary. For example:\n- In Mus musculus: 9030224M15Rik\n- In Bos taurus: C9H6orf186\n- In Pan troglodytes: CK820_G0000545\n- In Macaca mulatta: C6orf186\n- In Canis lupus familiaris: C12H6orf186\n- In Gallus gallus: C3H6ORF186, dJ71D21.2\n- In Danio rerio: si:ch211-158b22.1-2\n\nPlease note that the exact aliases can vary depending on the species and database annotations.",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCATTGTGGGTTCTCCTGGAGCTGTGGAGTTGATCCTGAATGAAAGTGGCGCGCCGCCCCTGACGTTACCCGGATCGGAGAGGTTGGAATTCAGATTACGGCTGCGATTCGGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "RNGTT",
+          "HCE",
+          "HCE1",
+          "hCAP",
+          "CAP1A"
+        ],
+        "answer": "The sequence provided matches multiple entries in the nucleotide database with 100% identity, primarily associated with the gene RNA guanylyltransferase and 5'-phosphatase (RNGTT). The aliases for this gene include:\n\n- LOC129996812\n- RNGTT\n\nThe sequence is found in various transcript variants of Homo sapiens and one from Pan troglodytes.",
+        "score": 0.2
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CTTCCCCAAGCCAACGTCTCCGCCGTCGGCTCCGCGGCGCCGCCATGGCCGACGTGGAAGACGGAGAGGAAACCTGCGCCCTGGCCTCTCACTCCGGGAGCTCAGGCTCCAAG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "RNF7",
+          "SAG",
+          "ROC2",
+          "rbx2",
+          "CKBBP1"
+        ],
+        "answer": "The sequence provided matches the gene encoding ring finger protein 7 (RNF7) in multiple species with a high degree of identity. The primary gene identifier for RNF7 in humans is **NM_014245** and its alias is **RNF7**. Other identifiers include NM_001201370, which represents another transcript variant of the same gene.\n\nTherefore, the aliases of the gene containing this sequence are primarily:\n\n- RNF7\n\nAdditional identifiers for different species or transcript variants may exist but the primary human gene alias is **RNF7**.",
+        "score": 0.2
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AAGACTGCGAGCTCCCCGCACCCCCTCGCACTCCCTCTGGCCGGCCCAGGGCGCCTTCAGCCCAACCTCCCCAGCCCCACGGGCGCCACGGAACCCGCTCGATCTCGCCGCCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "F3",
+          "TF",
+          "TFA",
+          "CD142"
+        ],
+        "answer": "The sequence provided matches with several entries related to the gene encoding coagulation factor III (F3) in Homo sapiens. The primary accession NM_001993.5 corresponds to this gene. Common aliases for the F3 gene include:\n\n- Tissue Factor (TF)\n- Thromboplastin\n\nThese aliases are widely used in literature and databases to refer to the coagulation factor III gene.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGCTCCCCGCCGGGCTCGCGCCGCAGAGGCCGGTGAGGCGCCGGCGGCCACGCCGCGGAAGGCGCGGGCCGAGCAGAGCCGGGCGTTGGAGCCCGCGCGCGCATGGAGGCGTT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "SLC25A33",
+          "PNC1",
+          "BMSC-MCP"
+        ],
+        "answer": "The sequence provided matches with several entries in the nucleotide database, primarily associated with the gene Solute Carrier Family 25 Member 33 (SLC25A33). The aliases for this gene include:\n\n- LOC120883622\n- LOC653698\n\nThese aliases are derived from pseudogenes and regulatory regions related to the SLC25A33 gene.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGATCTGCTTCTCCCCGGCTCGGGGCGCCGAGGCGGCGTCCGGGAGGTGTCTTCTGCAAAGGTTGCCTGGCGCTGTCCAACATGGAGGAGGCACCGGCAGCGGGCGTTACCTG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "PCLO",
+          "ACZ",
+          "PCH3"
+        ],
+        "answer": "The sequence provided matches with several transcript variants of the gene *PCLO* (Piccolo presynaptic cytomatrix protein) in various species including humans and gorillas. The aliases for this gene include:\n\n- **Official Symbol:** PCLO\n- **HGNC ID:** HGNC:10265\n- **Entrez Gene ID:** 84937\n\nThe sequence matches with transcript variants such as X1, X2, X3, X4, and X5 of the *PCLO* gene.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CATGGCCACCCCTGCAGCAGTTACAACACTAAGAGCTCGTTCTTTTGCATCCTCTGTAAGTCCCAGGGCCAAGGGAGGGGAGCCTAGGCTATATTGGACCTAGATAGGAAGAG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "OR56A1",
+          "OR11-75"
+        ],
+        "answer": "The sequence provided does not directly correspond to a specific gene in the NCBI Gene database based on the searches conducted. However, through BLAST analysis, this sequence aligns perfectly with parts of several genomic sequences including those from Homo sapiens chromosome 11 and Pongo abelii (orangutan) BAC clone CH276-407H20. One of these alignments is associated with a transcript variant of the olfactory receptor family 56 subfamily A member 1 gene (OR56A1), but it does not provide aliases for this specific sequence.\n\nGiven that the exact gene alias cannot be determined from the provided sequence alone, further investigation into the genomic context or functional annotation would be necessary to identify any aliases of the gene containing this sequence.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GGGACTTTGCAGGCAGCGGCGGCCGGGGGCGGAGCGGGATCGAGCCCTCGCCGAGGCCTGCCGCCATGGGCCCGCGCCGCCGCCGCCGCCTGTCACCCGGGCCGCGCGGGCCG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "E2F1",
+          "RBP3",
+          "E2F-1",
+          "RBAP1",
+          "RBBP3"
+        ],
+        "answer": "The gene sequence provided matches the gene Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CTCTTTCTTAAGTCATTCGAAACACTGTCCCTGCGAGTTCTTTAAGTTCCCTGCAATCTGTACACAAGAGAAAGAGGGAGAGAGAGAGGGAGAGAGACAGAGAGAGCAGGGAT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ZNF366",
+          "DCSCRIPT",
+          "DC-SCRIPT"
+        ],
+        "answer": "The sequence provided matches with the gene ZNF366 across multiple species including humans and various primates. The exact gene name for this sequence in Homo sapiens (human) is *ZNF366*. There are no specific aliases mentioned for this particular gene in the provided information, but commonly genes can have alternative names or symbols depending on databases like HGNC (HUGO Gene Nomenclature Committee). For precise alias information, you may want to check the official HGNC database entry for ZNF366.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGAAGGAGCGAAACATCTTTGAGCAAGATGGGTCTCTACCGCATCCGCGTGTCCACTGGGGCCTCGCTCTATGCCGGTTCCAACAACCAGGTGCAGCTGTGGCTGGTCGGCCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ALOX15",
+          "LOG15",
+          "12-LOX",
+          "15-LOX",
+          "15-LOX-1"
+        ],
+        "answer": "The sequence provided matches the gene ALOX15 in Homo sapiens, which has other aliases including 12-LOX, 15-LOX, 15-LOX-1, LOG15. This gene is also known as arachidonate 15-lipoxygenase and is located on chromosome 17 at position 17p13.2.",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CCCGCGCGGTAGCAGCCAACGCCGGCCCCAGGCGGGTGCGCTGGGAGCCTGGGCCGGGAGCCGGGTGAGGGCGCCGAGAGGCTCGGTGGGCGCGGGCGGCGAGGTGAGCTGGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "LYPD6B",
+          "CT116",
+          "LYPD7"
+        ],
+        "answer": "The sequence provided matches several entries related to the gene LYPD6B in various species. The aliases for human LYPD6B are CT116 and LYPD7. Other designations include \"ly6/PLAUR domain-containing protein 6B\" and \"cancer/testis antigen 116\".",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGATTTGCTCTGATTCTGACAATGCAGTGGGTATCAGAGCTCAGGTCCAGAGGAAAAGCCTGGAGTGAGTGAGGCTGCGAGCTTCCTCTTCAGAACTCTGCATGCTTATCGGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "PRKCH",
+          "PKCL",
+          "PKC-L",
+          "PRKCL",
+          "uORF2",
+          "nPKC-eta"
+        ],
+        "answer": "The sequence provided matches with the mRNA of Homo sapiens protein kinase C eta (PRKCH), transcript variant X5, as indicated by the BLAST search result. The gene alias for PRKCH includes \"PRKCETA\". Therefore, the gene containing the given sequence is PRKCH, and one of its aliases is PRKCETA.",
+        "score": 0.16666666666666666
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGAACTCTGCGCTACTGCCCACGCATCTCACAAAGTCTACTACGCCGCGCGTTCTCGGTTTCAACGCACCTCCAGGATTCAGGGCTTCCTAAGCTGCAATTCAGCAGGGCTCC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ARHGEF26",
+          "SGEF",
+          "CSGEF",
+          "HMFN1864"
+        ],
+        "answer": "The sequence provided matches with several entries in the nucleotide database, primarily associated with the gene ARHGEF26 (Rho guanine nucleotide exchange factor 26). The top hits are:\n\n- AK127282.1: Homo sapiens cDNA FLJ45349\n- NM_001251962.2: Homo sapiens Rho guanine nucleotide exchange factor 26 (ARHGEF26), transcript variant 1, mRNA\n\nAliases for the gene ARHGEF26 include:\n- SGEF (Src homology 3 domain-containing guanine nucleotide exchange factor)\n- RHOSGEF (Rho-specific guanine nucleotide exchange factor)\n\nTherefore, based on the sequence alignment results, your query sequence is part of the ARHGEF26 gene, also known as SGEF or RHOSGEF.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGCGGGAAGACCATCTCTGCAAGTGCAGCATAGCCTCGGCCTAGGACAGCGGGAGTGCGTGGCCAAAGCTGTGAGCAGAGGCACAGGTGGTGGCAGACAGTAGAGGCGCCCCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "AGAP9",
+          "AGAP-9",
+          "CTGLF6",
+          "bA301J7.2"
+        ],
+        "answer": "The sequence provided matches with several entries in the nucleotide database, particularly those related to ArfGAP with GTPase domain, ankyrin repeat and PH domain-containing proteins (AGAP). The most relevant human gene associated with this sequence is NM_133446.4, which corresponds to Homo sapiens ArfGAP with GTPase domain, ankyrin repeat and PH domain 4 (AGAP4), transcript variant 2.\n\nThe aliases for the AGAP4 gene include:\n- ARHGAP4\n- C10orf98\n\nThese are common alternative names used in various databases and literature. If you need more specific information or additional details, please specify your requirements.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GTCGGCCCTGCGGGCCTCTCTCCGTCGCCATGGAAACGAAAGCGGCCAAGTAGAGCTCCGTCCTGACGCGCCGCCTCCCGTGGGCTCCGGCCGGCTAAGCCGCGGCGGACAAC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "IFT22",
+          "FAP9",
+          "CFAP9",
+          "RABL5"
+        ],
+        "answer": "The sequence provided matches with several entries related to the gene encoding intraflagellar transport 22 (IFT22) in humans and other primates. The primary match is for NM_001287526.1, which corresponds to Homo sapiens IFT22 mRNA.\n\nAliases for this gene include:\n- **IFT22**\n- **WDR34**\n\nThese aliases can be found in various databases such as NCBI Gene and UniProtKB. For more detailed information on the gene's function and other related aliases, you may want to consult these resources directly.",
+        "score": 0.25
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGTCAAGTGACGCGAAGCGGCCGGCCTGGGCGCCGACTGCAGAGCCGGGAGGCTGGTGGTCATGCCGGGGTTCCTGGTTCGCATCCTCCCTCTGTTGCTGGTTCTGCTGCTTC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "GLB1",
+          "EBP",
+          "ELNR1",
+          "MPS4B"
+        ],
+        "answer": "The sequence provided matches the gene Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GTTTTTCAGCTCACTTCAAGGGTACCTGAAGCGAATTGGCACCAAAGCAGCAGCTGTATTGCCGCAGTTCTAGCTTCACCTTCACGATGTTTCCCTTGGTCAAAAGCGCACTA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "COX7B",
+          "APLCC",
+          "LSDMCA2"
+        ],
+        "answer": "The gene containing the sequence provided is Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit MECL1.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGAGCGGCCCCGGAGCGGCCGCAGCGCGGTGGTCTCGGCCCGGCTGCGCCAGAGTCCGCGCGATGGAGCCCCGGCCGCGGCGGCGGCGCAGGAGTCGCCCCCTGGTCGCCGCC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "PLK5",
+          "PLK-5",
+          "PLK5P",
+          "SgK384ps"
+        ],
+        "answer": "The sequence provided matches the gene Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATGACGCGCGGCCGCGCCTGGGGGATGCGGCGGGCGGCGGCGGGGGCGGGCGGAGCGCGGGCGGCGGGGCCAACTGGGGGCGCCTCTCGCCTGCACCCCAATGCGGGACGCAG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ANKRD60",
+          "C20orf86",
+          "bA196N14.3"
+        ],
+        "answer": "The sequence provided matches with the gene ANKRD60 (Ankyrin Repeat Domain 60) in Homo sapiens and other species. The aliases for this gene include:\n\n- **ANKRD60**\n- **FLJ14597** \n- **LOC283987**\n\nThese are the primary identifiers, but ANKRD60 is the most commonly used name for this gene.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATCGATCACAGGCTCACAACGCCCTTCCATTCATCGCTCTTATTCCAGTCCTGGTTACTACCCCACTTCCTGACATCAAACCAGGGAGAACGCGAGTGTTAGTTAACATGGCT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "POC1B-GALNT4",
+          "GALNT4",
+          "GalNAc-T4"
+        ],
+        "answer": "The sequence provided does not directly match any gene in the NCBI Gene database based on the search performed. However, given the context and the additional research conducted, it appears that you might be referring to the Psmb10 (proteasome subunit beta type 10) gene from Mus musculus. The aliases for this gene include Mecl-1, Mecl1, proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, and proteasome subunit MECL1. \n\nIf the sequence you provided is a part of this gene or another specific gene, please provide more context or refine your query for a more accurate response.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCCATTTTGGATTGTGTGAGTTTCCGGGACGTTCGGAGGGTGGCCTCTCTCCCACCGGGTTCCGCATACCCCAGGCACCGGCCCGCATCCAAGTGTCAGGTTGGAGCCGGGAA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "INTS8",
+          "INT8",
+          "NEDCHS",
+          "C8orf52"
+        ],
+        "answer": "The gene containing the sequence provided is Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GTTGTACAGAAAATTGCTGTTGGGATGAAGCTTTGCAGCCTTGCAGTCCTTGTACCCATTGTTCTCTTCTGTGAGCAGCATGTCTTCGCGTTTCAGAGGTAACCCAATAGAA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "CPB2",
+          "CPU",
+          "PCPB",
+          "TAFI"
+        ],
+        "answer": "The sequence provided matches with several entries in the nucleotide database, particularly those related to carboxypeptidase B2 (CPB2) gene from Homo sapiens and other species. However, no direct gene alias was found through NCBI's Entrez Gene search using this specific sequence.\n\nBased on BLAST results, the sequence is highly conserved in regions associated with CPB2 genes across different organisms. Therefore, it can be inferred that your query sequence likely belongs to the carboxypeptidase B2 (CPB2) gene or a closely related region.\n\nFor Homo sapiens specifically, the CPB2 gene has several aliases including:\n- CPB2\n- Plasma kallikrein activator\n- Carboxypeptidase U\n\nPlease note that no direct alias was found for this exact sequence in Entrez Gene database. The provided information is based on BLAST results and known aliases of the CPB2 gene.",
+        "score": 0.25
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATTACTCAGCTTTTCATCTGCTGTGTTGAAAGCCAACTTATCATTTTTCACATTATTGTATACATCTAAAAGACATCATAAACGAAGACTGGAAGTGAAAACTGAAAAACTGA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "VBP1",
+          "PFD3",
+          "PFDN3",
+          "VBP-1",
+          "HIBBJ46"
+        ],
+        "answer": "The sequence provided matches with the gene VHL binding protein 1 (VBP1), also known as Homo sapiens VHL binding protein 1 (VBP1). The BLAST results show a perfect match for this sequence in several entries related to VBP1, including transcript variants and genomic sequences. Therefore, aliases or alternative names for the gene containing this sequence are not explicitly provided by the BLAST search but based on the context, it is primarily associated with VBP1. For more specific aliases, you would need to refer to a comprehensive gene database such as NCBI Gene or Ensembl.",
+        "score": 0.2
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GTTTGTTTACTTGGCGAGACTTGGAGCTGAGGTCATTTGGAGCTGTTTAATACTGAAGAGCTGTTGAGCACTGGAAAGTGCTGTGTAACCCTGGAAAAGAACCGTGTAACGCT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "H2BC1",
+          "STBP",
+          "TH2B",
+          "H2BFU",
+          "TSH2B",
+          "hTSH2B",
+          "TSH2B.1",
+          "HIST1H2BA",
+          "bA317E16.3"
+        ],
+        "answer": "The sequence provided matches with several histone H2B genes and transcripts in Homo sapiens, including NM_170610.3 (H2BC1), AF397301.1 (STBP), AL512384.9, AK312055.1 (TSH2B), and AF531284.1 (HIST1H2BA). The gene associated with these transcripts is HIST1H2BC.\n\nAliases for the gene containing this sequence include:\n- H2BC\n- H2BC1\n- STH2B\n- TSH2B\n\nPlease note that some of these aliases may be specific to certain isoforms or contexts.",
+        "score": 0.5555555555555556
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGCTGCCAGCACGCGCAGAAGGCGGACGCAGGCGGGGCGGAAGTGGGCCCGGCGGGCTGGGGCGGCGGGAGTGCGGGTGGGCGTTTAAAGGGGCCTTCGGCACCCAGGTCGGT. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "CPLANE2",
+          "RSG1",
+          "C1orf89"
+        ],
+        "answer": "The sequence provided does not match any known gene in the NCBI Gene database or find significant similarity with sequences in the nucleotide collection (nr/nt) database using BLASTN. Therefore, I cannot provide aliases for a gene containing this specific sequence as no matching genes were found. It's possible that the sequence is novel or from an unannotated region of the genome.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGATGTGAGTCCTCAATGAGCTATAACCACAGCCATAAATATCTCTCAAAGATGAGGAACATTCTCATGATGTTGACACTGCAATTTTTTGACAATTTCCCAACACTCTTAAG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ADAMDEC1",
+          "M12.219"
+        ],
+        "answer": "The sequence provided matches the gene Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:TCTTCCTCCAGCTGTTCCCACAGGCTCCATTATTCAAACTTTGGGGGAGGAAATCAGGGCTGGACAGATCATCAACTGCTGCTGCTGACAGACTGTGTTCCTGCCATGATGGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "B3GNT8",
+          "B3GALT7",
+          "BGALT15",
+          "beta3Gn-T8"
+        ],
+        "answer": "The sequence provided matches with the gene B3GNT8 across various species and constructs. The aliases for this gene include:\n\n- UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 (B3GNT8)\n- BGALT15\n\nThis conclusion is based on BLAST results that show high identity matches with the sequence in multiple entries related to B3GNT8.",
+        "score": 0.5
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:CATTTCACCAGCCCAGGCTGGCTTCTGCTGTTGACTGGCTGTGGCACCTCAAGCAGCCCCTTTCCCCTCTAGCCTCAGTTTATCACCGCAAGAGCTACCATTCATCTAGCACA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "SRC",
+          "ASV",
+          "SRC1",
+          "THC6",
+          "c-SRC",
+          "p60-Src"
+        ],
+        "answer": "The sequence provided matches the gene Psmb10 in Mus musculus (house mouse). The aliases for this gene are Mecl-1 and Mecl1. Other designations include proteasome subunit beta type-10, low molecular mass protein 10, macropain subunit MECl-1, multicatalytic endopeptidase complex subunit MECl-1, prosome Mecl1, proteasome (prosomome, macropain) subunit, beta type 10, proteasome MECl-1, and proteasome subunit beta-2i.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATGGCTTTGCCTAGAAGCCAAGGCCATTGGTCCAACAAAGACATCTTGAGGTTACTGGAATGCATGGAGAATAATCGCCCATCTGATGACAACAGCACGTTTAGCTCAACTCA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "UBTFL1",
+          "HMGPI",
+          "C11orf27"
+        ],
+        "answer": "The sequence provided matches the mRNA of the gene **UBTFL1** (upstream binding transcription factor like 1) with a perfect match in several entries including NM_001143975.1 and NG_012230.1, which is located on chromosome 11. There are no direct aliases for UBTFL1 listed in the provided BLAST results or E-utilities searches. However, it's common to check gene-specific databases like NCBI Gene (https://www.ncbi.nlm.nih.gov/gene/) for additional information and possible synonyms or aliases.\n\nGiven the perfect match of your sequence with NM_001143975.1, you can refer to this accession number for more detailed information about UBTFL1 gene including its aliases if any are available in other databases.",
+        "score": 0.3333333333333333
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:GCAGGCGCTGGCTGGCAGGTGTCGCTAACCGGACGGTGGTCGCCAGGGCGAGAGGCGGGAGCCGGAGAGGTGAGGCAGGACCCGGGCTCCACTGCCGCCTCTCCGAGCTCTTG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "MOGS",
+          "DER7",
+          "GCS1",
+          "CDG2B",
+          "CWH41"
+        ],
+        "answer": "The gene containing the sequence GCAGGCGCTGGCTGGCAGGTGTCGCTAACCGGACGGTGGTCGCCAGGGCGAGAGGCGGGAGCCGGAGAGGTGAGGCAGGACCCGGGCTCCACTGCCGCCTCTCCGAGCTCTTG is associated with the gene symbol MOGS (Mannosyl-oligosaccharide glucosidase) in humans. The aliases for this gene include CDG2B, CWH41, DER7, and GCS1.",
+        "score": 1.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ACGTGGCCGGGGTGGGACCTCAGGCGACCTGCGACCATCACTTTGTCTCCTCCTTCCTCCTTTGGGGCCGCCACCGCCAATCAGAGCCAGCGGATCCTGGTTGGAGTGCGACC. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "ATOSB",
+          "FAM214B",
+          "KIAA1539"
+        ],
+        "answer": "The sequence provided matches with the gene ATOSB in multiple species including Homo sapiens. The aliases for this gene include:\n\n- ATOSB (gene name)\n- FAM214B (family with sequence similarity 214 member B)\n\nThese aliases are based on the BLAST results which show high identity scores between your provided sequence and sequences from various transcript variants of ATOSB in different species.",
+        "score": 0.6666666666666666
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:AGGATTCCTGGAGTCTCCGGAGGGTGCCTTTGGCCTCTGGGATTCACCCGAGCCGTTGGCTTTTGCTCCCCCCACCCCACCCCCTGGCTTTTCTTGGCTTGGAGGGCAGCTGG. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "SHANK2",
+          "SHANK",
+          "AUTS17",
+          "CORTBP1",
+          "CTTNBP1",
+          "ProSAP1",
+          "SPANK-3"
+        ],
+        "answer": "The sequence provided does not directly match any gene in the NCBI Gene database based on the search performed. However, given that the sequence might be a part of a larger transcript or protein and considering the context from the previous analysis, it appears to be related to the *Psmb10* (proteasome subunit beta type 10) gene in Mus musculus.\n\nThe aliases for the Psmb10 gene are:\n- Mecl-1\n- Mecl1\n\nIf you need more precise information or if there's a specific region of interest within this sequence, please provide additional details.",
+        "score": 0.0
+      },
+      {
+        "question": "What are the aliases of the gene that contains this sequnece:ATGCTCAGTAGCCGCGGCGCTGCTGCTGGGCTGCTGGGCTGGCGCGGAGTCCACCCTGCCGTCTCCGCCTTGGCTTCTGGGCGTCCAGAAGGCCAGGCATTTGCCGCCTCTGA. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "PTPRR",
+          "PTPRQ",
+          "EC-PTP",
+          "PCPTP1",
+          "PTP-SL",
+          "PTPBR7"
+        ],
+        "answer": "The gene sequence provided matches the protein tyrosine phosphatase receptor type R (PTPRR) across multiple species. The aliases for this gene in humans include EC-PTP, PCPTP1, PTP-SL, PTPBR7, and PTPRQ. \n\nFor other species:\n- Mouse: Gmcp1, PTP-SL, PTPBR7, RPTPRR, mPTP213\n- Rat: PC12-PTP1, Pcptp1, R-PTP-R\n- Zebrafish: si:cabz01062511.1\n- Cattle: PCPTP1\n- Rhesus monkey: EGK_03927\n- Tropical clawed frog: ec-ptp, pcptp1, ptp-sl, ptpbr7\n\nThese aliases are specific to the gene PTPRR in different organisms as per NCBI Gene database.",
+        "score": 1.0
+      }
+    ],
+    "Disease gene location": [
+      {
+        "question": "List chromosome locations of the genes related to Hemolytic anemia due to phosphofructokinase deficiency. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "21q22.3"
+        ],
+        "answer": "The search for \"Hemolytic anemia due to phosphofructokinase deficiency\" in OMIM returned three entries: 232800, 171860, and 103000. However, the specific chromosome locations of the genes related to this condition were not directly provided by these searches.\n\nTo provide accurate information about the chromosomal location of the gene(s) involved in Hemolytic anemia due to phosphofructokinase deficiency, further investigation is required. Phosphofructokinase (PFK) deficiency typically affects muscle and red blood cells, with the most common form being caused by mutations in the PFKM gene on chromosome 12.\n\nFor a precise answer regarding all genes involved, additional OMIM entries or direct gene database searches would be necessary. The primary gene of interest is:\n\n- **PFKM (Phosphofructokinase, muscle type)**: Located on chromosome 12q13.1-q21.\n\nFurther details about other potential related genes can be found by directly searching the OMIM entries or relevant genetic databases for more specific information.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Distal renal tubular acidosis. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "17q21.31",
+          "7q34"
+        ],
+        "answer": "To find the chromosome locations of genes related to Distal Renal Tubular Acidosis (dRTA), I need to look up each OMIM entry provided and extract gene location details. However, due to duplicate parameter errors in the eutils response, I cannot directly retrieve detailed information for all entries at once.\n\nFrom the initial search results, here are some relevant OMIM IDs related to dRTA:\n- 611555\n- 179830\n- 611590\n- 179800\n\nTo provide accurate chromosome locations for these genes, I would need to query each ID individually or use another method to gather this information. Would you like me to proceed with individual OMIM queries?",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Pseudohypoparathyroidism Ic. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "20q13.32"
+        ],
+        "answer": "The search for \"Pseudohypoparathyroidism Ic\" in OMIM returned multiple entries but did not specify chromosome locations directly related to Pseudohypoparathyroidism Ic. To provide accurate gene locations, we need more specific information or a direct link to the relevant genes. The IDs provided (612462, 103580, 603233, 139320, 166350) correspond to various forms of pseudohypoparathyroidism and related conditions in OMIM but do not specify the exact gene or chromosome location for Pseudohypoparathyroidism Ic. Further investigation is required to pinpoint the specific genes involved in this condition.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Glycine N-methyltransferase deficiency. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "6p21.1"
+        ],
+        "answer": "The search for \"Glycine N-methyltransferase deficiency\" in OMIM returned four entries: 606664, 606628, 601240, and 160993. However, the specific chromosome locations of the genes related to this condition were not directly provided by these searches. To accurately list the chromosome locations, further investigation into each OMIM entry is required.\n\nFor a precise answer, please refer to individual gene entries or consult additional databases such as NCBI Gene for detailed information on the chromosomal location of the relevant genes (GNMT and others involved in this condition).",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Meesmann corneal dystrophy. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "17q21.2",
+          "12q13.13"
+        ],
+        "answer": "The genes related to Meesmann corneal dystrophy are KRT12 and KRT3. Their chromosome locations are:\n\n- **KRT12**: Chromosome 17; Location: 17q21.2 (Human)\n- **KRT3**: Chromosome 12; Location: 12q13.13 (Human)",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Chronic atrial and intestinal dysrhythmia. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "3p24.3"
+        ],
+        "answer": "The search for \"Chronic atrial and intestinal dysrhythmia\" in OMIM returned two entries: 616201 and 609168. However, these entries do not provide specific gene information related to both chronic atrial and intestinal dysrhythmias simultaneously. Therefore, I cannot list the chromosome locations of genes directly associated with this condition based on the current search results.\n\nFor more detailed genetic information, it would be helpful to look into individual conditions such as \"atrial fibrillation\" or \"intestinal dysrhythmia\" separately and then cross-reference the findings for overlapping genes.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Sensorineural deafness with mild renal dysfunction. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "1p32.3"
+        ],
+        "answer": "Based on the available OMIM entries related to \"Sensorineural deafness with mild renal dysfunction,\" I found two genes that have chromosome locations:\n\n1. **BARTTER SYNDROME, TYPE 4A, NEONATAL, WITH SENSORINEURAL DEAFNESS (OMIM:602522)** - The gene associated with this condition is located at position 10862633 on the genome.\n\n2. **PENDRED SYNDROME (OMIM:274600)** - This syndrome includes sensorineural deafness and goiter, but no specific chromosome location was provided in the OMIM entry for this gene related to mild renal dysfunction.\n\nFor other entries listed, either no specific chromosome locations were given or they do not directly relate to both conditions simultaneously. Therefore, I can provide you with only one confirmed chromosome location:\n\n- **BARTTER SYNDROME, TYPE 4A, NEONATAL, WITH SENSORINEURAL DEAFNESS** - Chromosome location: Position 10862633.\n\nPlease note that further research may be required to identify additional genes and their locations related to this specific combination of symptoms.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Bile acid malabsorption. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "13q33.1",
+          "15q22.31"
+        ],
+        "answer": "Based on the searches conducted using E-utilities, there is one OMIM entry that contains information about genes related to Bile Acid Malabsorption along with their chromosome locations: OMIM ID 118440. However, without further detailed exploration of this specific entry or additional resources, I cannot provide a comprehensive list of the exact gene names and their corresponding chromosome locations.\n\nTo proceed, we would need to retrieve more detailed information from OMIM entry 118440 or consult other databases such as NCBI Gene or HGMD for precise gene location data.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Immunodeficiency due to defect in MAPBP-interacting protein. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "1q22"
+        ],
+        "answer": "The gene related to Immunodeficiency due to defect in MAPBP-interacting protein is ABLIM2. The chromosome location of this gene in humans (Homo sapiens) is:\n\n- Chromosome: 4; Location: 4p16.1\n\nThis information was retrieved from the NCBI Gene database, where ABLIM2 is annotated as being located on chromosome 4 with the specific genomic coordinates NC_000004.12 (7965327..8158813, complement).",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Currarino syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "7q36.3"
+        ],
+        "answer": "The gene related to Currarino syndrome with chromosome location information available in OMIM database is mapped to the following:\n\n- Gene: PTCH1 (Patched 1)\n- Chromosome Location: 9q22.3\n\nThis gene has been associated with Currarino syndrome, but it's important to note that other genes might also be involved and more research may be needed for a comprehensive understanding of all genetic factors contributing to the syndrome.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Intervertebral disc disease. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "20q13.33"
+        ],
+        "answer": "Based on the research conducted using E-utilities from NCBI, two OMIM entries related to intervertebral disc disease with chromosome location and genes are:\n\n1. **OMIM Entry 614980**: This entry is associated with a gene located on chromosome 12q24.31.\n2. **OMIM Entry 188061**: This entry is related to a gene located on chromosome 17p13.1.\n\nFor more detailed information about the specific genes and their roles in intervertebral disc disease, you may need to consult additional resources or databases such as GeneCards, NCBI Gene, or relevant scientific literature.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Otofaciocervical syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "8q13.3",
+          "20p11.22"
+        ],
+        "answer": "Based on the searches conducted using E-utilities, there are no specific OMIM entries that directly list chromosome locations for genes related to Otofaciocervical syndrome when searching with the term \"chromosome locations\". Therefore, I cannot provide you with precise chromosome locations of the genes associated with this syndrome from the available data. Further research or different search strategies might be necessary to find this information.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Brody myopathy. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "16p11.2"
+        ],
+        "answer": "The gene related to Brody myopathy with chromosome location information available in OMIM database is 118200 (RYR1 gene). However, I couldn't find specific chromosome locations for other genes associated with this condition. The RYR1 gene is located on chromosome 19q13.4.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Neurodevelopmental disorder with gait disturbance. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "Xq22.2"
+        ],
+        "answer": "The chromosome locations of genes related to Neurodevelopmental disorder with gait disturbance are as follows:\n\n- **APOE**: Chromosome 19; Location: 19q13.32\n- **BDNF**: Chromosome 11; Location: 11p14.1\n- **MECP2**: Chromosome X; Location: X 37.63 cM (Xq28)\n- **HERC2**: Chromosome 15; Location: 15q13.1\n- **JARID2**: Chromosome 6; Location: 6p22.3\n- **TCEAL1**: Chromosome X; Location: Xq22.2\n- **FAM177A1**: Chromosome 14; Location: 14q13.2\n\nThese genes were identified based on their association with the given disorder through OMIM and Gene databases.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Mitochondrial DNA depletion syndrome 4A Alpers type. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "15q26.1"
+        ],
+        "answer": "The search for \"Mitochondrial DNA depletion syndrome 4A Alpers type\" in OMIM returned two entries: 203700 and 174763. However, these entries do not provide specific chromosome locations of the genes related to this condition. To get more detailed information about the gene location, further investigation is needed.\n\nFor entry 203700 (Alpers syndrome), it is associated with mutations in the POLG gene located on chromosome 15 (15q26). For entry 174763 (MDDS4A), no specific gene or chromosomal location was provided. Therefore, for MDDS4A Alpers type specifically, additional research would be required to determine the exact gene and its location.\n\nPlease note that more detailed information might be available through other databases such as GeneCards or HGMD.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Nephropathy due to CFHR5 deficiency. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "1q31.3"
+        ],
+        "answer": "The genes related to Nephropathy due to CFHR5 deficiency are not directly listed in the provided search results from OMIM and Gene databases. However, CFHR5 itself is located on chromosome 1 at location 1q32. \n\nSince the exact genes associated with nephropathy due to CFHR5 deficiency were not found in the searches conducted, I recommend focusing on the CFHR5 gene and its neighboring complement factor H (CFH) gene for further investigation as they are closely related in function and chromosomal location.\n\nFor CFHR5:\n- Chromosome: 1\n- Location: 1q32\n\nFor CFH:\n- Chromosome: 1\n- Location: 1q31.3",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Achromatopsia. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "2q11.2",
+          "8q21.3",
+          "1p13.3",
+          "12p12.3",
+          "1q23.3"
+        ],
+        "answer": "The chromosome locations of genes related to Achromatopsia are as follows:\n\n- **ABCA4**: Chromosome 1; Location: 1p22.1\n- **ATF6 (Human)**: Chromosome 1; Location: 1q23.3\n- **USH2A**: Chromosome 1; Location: 1q41\n- **CHM**: Chromosome X; Location: Xq21.2\n- **OPSIN-LCR**: Chromosome X; Location: Xq28\n- **CNGA3**: Chromosome 2; Location: 2q11.2\n- **CNGB3**: Chromosome 8; Location: 8q21.3\n- **GNAT2 (Human)**: Chromosome 1; Location: 1p13.3\n- **PDE6C**: Chromosome 10; Location: 10q23.33\n- **PDE6H**: Chromosome 12; Location: 12p12.3\n\nNote that some genes, such as ATF6 and GNAT2, have homologs in other species (e.g., mouse) with different chromosomal locations. The above list includes only the human gene locations relevant to Achromatopsia.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Hyperphenylalaninemia. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "11q23.1",
+          "14q22.2",
+          "4p15.32",
+          "10q22.1",
+          "10q21.3",
+          "12q23.2"
+        ],
+        "answer": "To address the question about chromosome locations of genes related to Hyperphenylalaninemia, I will list the OMIM IDs associated with this condition and their corresponding gene symbols and chromosomal locations:\n\n1. **OMIM ID: 264070**\n   - Gene Symbol: PAH (Phenylalanine hydroxylase)\n   - Chromosome Location: 12q23-q24\n\n2. **OMIM ID: 261630**\n   - Gene Symbol: PTS (Pseudohypoxia protein-coding gene)\n   - Chromosome Location: Xp11.23-p11.22\n\n3. **OMIM ID: 233910**\n   - Gene Symbol: GCH1 (GTP cyclohydrolase 1)\n   - Chromosome Location: 4p15.33\n\n4. **OMIM ID: 261640**\n   - Gene Symbol: DDC (Dopa decarboxylase)\n   - Chromosome Location: Xp11.23-p11.22\n\n5. **OMIM ID: 261600**\n   - Gene Symbol: SPR (Sphingolipid delta-hexosonate hexuronyltransferase)\n   - Chromosome Location: 7q11.2-q11.23\n\n6. **OMIM ID: 617384**\n   - Gene Symbol: SLC6A9 (Solute carrier family 6 member 9)\n   - Chromosome Location: 15q26.1\n\n7. **OMIM ID: 612719**\n   - Gene Symbol: DBT (D-Bifunctional protein)\n   - Chromosome Location: 10p11.23-p11.22\n\n8. **OMIM ID: 612676**\n   - Gene Symbol: HADH (Hydroxyacyl-CoA dehydrogenase/3-ketoacid CoA transferase/hydroxymethylglutaryl-CoA lyase)\n   - Chromosome Location: 4q31.2\n\n9. **OMIM ID: 606060**\n   - Gene Symbol: PTPRZ (Protein tyrosine phosphatase, receptor-type, Z)\n   - Chromosome Location: Xp11.23-p11.22\n\n10. **OMIM ID: 126090**\n    - Gene Symbol: CUX2 (Cut-like homeobox 2)\n    - Chromosome Location: 7q34-qter\n\n11. **OMIM ID: 600225**\n    - Gene Symbol: PCBD2 (Porphobilinogen deaminase domain containing 2)\n    - Chromosome Location: Xp11.23-p11.22\n\n12. **OMIM ID: 612349**\n    - Gene Symbol: HARS2 (Histidyl-tRNA synthetase 2, mitochondrial)\n    - Chromosome Location: Xq25-qter\n\n13. **OMIM ID: 612716**\n    - Gene Symbol: DBT (D-Bifunctional protein)\n    - Chromosome Location: 10p11.23-p11.22\n\n14. **OMIM ID: 128230**\n    - Gene Symbol: HADH (Hydroxyacyl-CoA dehydrogenase/3-ketoacid CoA transferase/hydroxymethylglutaryl-CoA lyase)\n    - Chromosome Location: 4q31.2\n\n15. **OMIM ID: 182125**\n    - Gene Symbol: DBT (D-Bifunctional protein)\n    - Chromosome Location: 10p11.23-p11.22\n\n16. **OMIM ID: 234500**\n    - Gene Symbol: HADH (Hydroxyacyl-CoA dehydrogenase/3-ketoacid CoA transferase/hydroxymethylglutaryl-CoA lyase)\n    - Chromosome Location: 4q31.2\n\n17. **OMIM ID: 251120**\n    - Gene Symbol: DBT (D-Bifunctional protein)\n    - Chromosome Location: 10p11.23-p11.22\n\n18. **OMIM ID: 312170**\n    - Gene Symbol: HADH (Hydroxyacyl-CoA dehydrogenase/3-ketoacid CoA transferase/hydroxymethylglutaryl-CoA lyase)\n    - Chromosome Location: 4q31.2\n\nThese are the genes and their chromosome locations related to Hyperphenylalaninemia based on OMIM entries.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to EDICT syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "15q25.1"
+        ],
+        "answer": "The gene related to EDICT syndrome is MIR184, located on chromosome 15 at the position 15q25.1.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Gastrointestinal defects and immunodeficiency syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "22q11.21",
+          "2p21"
+        ],
+        "answer": "The search for \"Gastrointestinal defects and immunodeficiency syndrome\" in OMIM returned 98 entries, but due to duplicate parameter errors when trying to fetch detailed information about each entry, I couldn't retrieve chromosome locations directly. To provide accurate gene locations related to these conditions, we need to look up individual genes associated with the syndromes from the list of OMIM IDs provided.\n\nFor a precise answer, please specify one or more specific syndromes or OMIM IDs for further investigation.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Cleft palate with ankyloglossia. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "Xq21.1"
+        ],
+        "answer": "The gene related to Cleft palate with ankyloglossia that has chromosome location information available is TBX22:\n\n- **Official Symbol:** TBX22  \n- **Name:** T-box transcription factor 22  \n- **Chromosome:** X  \n- **Location:** Xq21.1  \n\nThis gene is annotated in the human genome (Homo sapiens) and has been linked to conditions involving cleft palate and ankyloglossia. \n\nOther genes or entries related to this condition were found, but they either did not have chromosome location information provided or were from non-human species. For instance, CPX (Cleft Palate and/or Ankyloglossia) is a human gene symbol that was replaced with GeneID: 50945 which corresponds to TBX22.\n\nTherefore, the primary gene of interest for Cleft palate with ankyloglossia based on available data is TBX22 located at Xq21.1.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "6q27"
+        ],
+        "answer": "The search for \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures\" in OMIM returned 3039 entries, but due to duplicate parameter errors when trying to fetch detailed information about each entry, I couldn't retrieve chromosome locations directly. To provide accurate gene locations related to this condition, we need to narrow down the search by focusing on specific genes associated with neurodevelopmental disorders and seizures. Would you like me to proceed with a more targeted search or suggest alternative databases?",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Spondylocarpotarsal synostosis syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "3p14.3"
+        ],
+        "answer": "The genes related to Spondylocarpotarsal synostosis syndrome and their chromosome locations are:\n\n1. **FLNB** - Chromosome 3p14.3\n2. **MYH3** - Chromosome 17p13.1\n3. **RFLNA** - Chromosome 12q24.31\n\nNote: The genes \"smyhc1\" and \"Flnb\" are not directly related to Spondylocarpotarsal synostosis syndrome in humans, as they belong to zebrafish (Danio rerio) and mouse (Mus musculus), respectively.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Haim-Munk syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "11q14.2"
+        ],
+        "answer": "Based on the searches conducted using E-utilities, there are no OMIM entries specifically linking Haim-Munk syndrome genes with their chromosome locations. Therefore, I cannot provide you with the chromosome locations of the genes related to Haim-Munk syndrome at this time. Further research may be needed in other databases or literature for more detailed information.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Sialidosis. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "6p21.33"
+        ],
+        "answer": "The provided OMIM IDs do not directly correspond to Sialidosis genes when queried individually for detailed information. To accurately list chromosome locations of the genes related to Sialidosis, we need to focus on the specific genetic causes of Sialidosis.\n\nSialidosis is caused by mutations in the *NEU1* gene (also known as sialidase), which is located on chromosome 6 at position p23. \n\nTherefore, the relevant chromosome location for Sialidosis is:\n\n- **Chromosome:** 6\n- **Location:** p23\n\nThis information corresponds to the *NEU1* gene, which is responsible for causing Sialidosis when mutated.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Siddiqi syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "20q13.12"
+        ],
+        "answer": "Based on the searches conducted using E-utilities, there are two OMIM entries related to Siddiqi syndrome that mention chromosome locations and genes: \n\n1. [MIM 262000](https://omim.org/entry/262000)\n2. [MIM 603647](https://omim.org/entry/603647)\n\nTo provide specific chromosome locations of the genes related to Siddiqi syndrome, you should review these OMIM entries for detailed information.\n\nUnfortunately, I couldn't find direct mentions of gene names and their exact chromosomal locations in the searches. You may need to visit the provided links or search further within each entry for more precise details about the genes involved and their chromosome locations.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Corneal fleck dystrophy. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "2q34"
+        ],
+        "answer": "The OMIM search for \"Corneal fleck dystrophy\" returned several entries, but it seems that direct gene associations and chromosome locations were not provided in the initial query results. To accurately list the chromosome locations of genes related to Corneal fleck dystrophy, we need more specific information about the genes involved.\n\nFor a precise answer, I would recommend searching for individual genes associated with this condition or consulting detailed OMIM entries for each ID (121850, 122400, 106210, 609414, 607108, and 301050) to find the specific genes and their chromosome locations.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Liver failure. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "22q13.31"
+        ],
+        "answer": "The search for genes related to liver failure using OMIM database returned a large number of entries (1378). Due to the limitation in displaying all results at once and avoiding duplicate data issues, I am unable to provide chromosome locations for each gene directly from this query. To proceed accurately, we would need to narrow down the search or review individual records from the provided IDs (e.g., 615486, 618641) to extract specific gene information and their chromosomal locations.\n\nFor a more precise answer, you may want to specify particular genes of interest related to liver failure.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Proteasome-associated autoinflammatory syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "6p21.32",
+          "18p11.21",
+          "13q12.3",
+          "16q22.1"
+        ],
+        "answer": "The search for \"Proteasome-associated autoinflammatory syndrome\" in OMIM returned multiple entries, but it did not specify chromosome locations directly. To accurately list the chromosome locations of genes related to Proteasome-associated autoinflammatory syndromes, we need more specific information about the individual genes involved.\n\nFor a precise answer, I would recommend searching for each gene individually or providing a list of candidate genes if available. Would you like me to proceed with this approach?",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Orofaciodigital syndrome XIV. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "11q13.4"
+        ],
+        "answer": "The search for \"Orofaciodigital syndrome XIV\" in OMIM returned two entries: 615948 and 615944. However, due to duplicate parameter issues, I couldn't fetch detailed information about these entries directly. To provide chromosome locations of the genes related to Orofaciodigital Syndrome XIV, we need more specific details or direct access to OMIM records.\n\nFor accurate results, please visit OMIM (Online Mendelian Inheritance in Man) database using identifiers 615948 and 615944 for detailed information on chromosome locations.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Trichoepithelioma. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "16q12.1"
+        ],
+        "answer": "The OMIM IDs provided do not directly give chromosome locations for genes related to Trichoepithelioma. To get specific gene locations, we need to look up individual entries or use more targeted queries. For example, PTCH1 (601309) is a known gene associated with this condition and it maps to chromosome 9q22.3. However, for comprehensive information on all genes related to Trichoepithelioma, further investigation into each OMIM entry or consulting the latest genetic databases would be necessary.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Medullary thyroid carcinoma. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "10q11.21"
+        ],
+        "answer": "Based on the research conducted using NCBI's E-utilities, here are some genes related to Medullary Thyroid Carcinoma (MTC) along with their chromosome locations:\n\n1. RET gene: Chromosome 10q11.2\n2. DCC gene: Chromosome 18q11.2\n3. CDKN1C gene: Chromosome 11p15.5\n\nThese genes are associated with MTC and have been identified through OMIM (Online Mendelian Inheritance in Man) database searches. For more detailed information, you can refer to the specific OMIM entries for each gene.\n\nPlease note that this list may not be exhaustive as there could be other genes involved in MTC which were not captured by these search terms or are yet to be discovered.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Type diabetes mellitus. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "17q12",
+          "7p15.3",
+          "2q24.1",
+          "6p21.31",
+          "2q36.3",
+          "2q31.3",
+          "7p15.3"
+        ],
+        "answer": "Based on the OMIM database searches conducted, here are some genes related to Type 2 Diabetes Mellitus along with their chromosome locations:\n\n1. **Gene: TCF7L2 (603694)**\n   - Chromosome Location: 10q25.3\n\n2. **Gene: KCNJ11 (601283)**\n   - Chromosome Location: 11p15.1\n\n3. **Gene: PPARG (600319)**\n   - Chromosome Location: 3p25\n\n4. **Gene: TCF7L2 (603694)** (repeated for emphasis on its importance)\n   - Chromosome Location: 10q25.3\n\n5. **Gene: WFS1 (601410)**\n   - Chromosome Location: 4p16.3\n\n6. **Gene: CDKAL1 (613375)**\n   - Chromosome Location: 6p22.3\n\n7. **Gene: SLC30A8 (600496)**\n   - Chromosome Location: 8q24.12-q24.13\n\n8. **Gene: IGF2BP2 (151660)**\n   - Chromosome Location: 3p22.1\n\n9. **Gene: CDKN2A/B (147940)**\n   - Chromosome Location: 9p21.3\n\n10. **Gene: MTNR1B (600716)**\n    - Chromosome Location: 4q35\n\nThese are some of the key genes associated with Type 2 Diabetes Mellitus, but there may be additional ones not listed here. For a comprehensive list and more detailed information, you can refer to OMIM or other genetic databases.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Buschke-Ollendorff syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "12q14.3"
+        ],
+        "answer": "Based on the research conducted using E-utilities, there are no direct OMIM entries that list chromosome locations of genes specifically related to Buschke-Ollendorff syndrome when searching with terms like \"genes\" and \"chromosome locations\". Therefore, I cannot provide specific chromosome locations for the genes associated with this syndrome from the available data. Further investigation in other databases or literature might be necessary to find this information.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Vascular malformation. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "20q13.12"
+        ],
+        "answer": "The OMIM search for \"Vascular malformation\" returned 20 entries related to this condition. However, due to duplicate parameter errors when attempting to fetch detailed information about each entry, I couldn't retrieve chromosome locations directly from these results.\n\nTo provide you with the most accurate and comprehensive list of genes associated with vascular malformations along with their chromosomal locations, we would need to manually look up each OMIM ID or use a different approach such as querying gene databases like NCBI Gene or HGMD (Human Gene Mutation Database).\n\nWould you like me to proceed with manual lookup for the top few entries or suggest an alternative method?",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Acrocallosal syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "15q26.1"
+        ],
+        "answer": "The previous search results did not directly provide chromosome locations for genes related to Acrocallosal syndrome. To accurately list the chromosome locations of the genes associated with this condition, we need to refine our query or use a different approach such as searching for specific gene names linked to Acrocallosal syndrome and then finding their chromosomal locations.\n\nLet's start by identifying the specific genes related to Acrocallosal syndrome. Could you please provide more details about the type of Acrocallosal syndrome (if there are multiple types) or any known associated genes?",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Congenital disorder of deglycosylation. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "3p24.2",
+          "15q24.2"
+        ],
+        "answer": "The genes related to Congenital disorder of deglycosylation and their chromosome locations are:\n\n1. **NGLY1** - Chromosome 3; Location: 3p24.2\n2. **MAN2C1** - Chromosome 15; Location: 15q24.2\n\nThese genes have been identified as being associated with Congenital disorder of deglycosylation based on the information retrieved from NCBI databases.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Spinal muscular atrophy with congenital bone fractures. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "15q22.31",
+          "10q22.1"
+        ],
+        "answer": "The genes related to Spinal muscular atrophy with congenital bone fractures and their chromosome locations are:\n\n1. **PLS3** - Chromosome X; Location: Xq23\n2. **TRPV4** - Chromosome 12; Location: 12q24.11\n3. **AR (Androgen Receptor)** - Chromosome X; Location: Xq12\n\nThese genes were identified based on the information retrieved from NCBI's Gene database using the search term \"Spinal muscular atrophy with congenital bone fractures\".",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to B-cell immunodeficiency. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "3p24.2"
+        ],
+        "answer": "The chromosome locations of genes related to B-cell immunodeficiency are as follows:\n\n- **IL6**: Chromosome 7; Location: 7p15.3\n- **BCL2**: Chromosome 18; Location: 18q21.33\n- **FOXP3**: Chromosome X; Location: Xp11.23\n- **IL4**: Chromosome 5; Location: 5q31.1\n- **Prkdc**: Chromosome 16; Location: 16 A2 (Note: This is a mouse gene, human ortholog is on chromosome 8)\n- **CD40**: Chromosome 20; Location: 20q13.12\n- **TNFSF13B**: Chromosome 13; Location: 13q33.3\n- **Cd40 (mouse)**: Chromosome 2; Location: 2 85.38 cM\n- **Btk (mouse)**: Chromosome X; Location: X 56.18 cM\n- **IKZF1**: Chromosome 7; Location: 7p12.2\n- **BTK**: Chromosome X; Location: Xq22.1\n- **PIK3CD**: Chromosome 1; Location: 1p36.22\n- **BCL10**: Chromosome 1; Location: 1p22.3\n- **RAG1**: Chromosome 11; Location: 11p12\n- **TOP2B**: Chromosome 3; Location: 3p24.2\n- **TNFRSF13C**: Chromosome 22; Location: 22q13.2\n- **BCL11B**: Chromosome 14; Location: 14q32.2\n- **DCLRE1C**: Chromosome 10; Location: 10p13\n\nPlease note that some of the genes listed are from mouse models, and their human orthologs may have slightly different locations or additional information not provided here.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "7q22.1"
+        ],
+        "answer": "The search for \"Immunodeficiency with inflammatory disease and congenital thrombocytopenia\" in OMIM returned 16 entries, but it seems that the specific gene details or chromosome locations were not directly provided. To accurately list the chromosome locations of genes related to this condition, we would need more detailed information about each entry.\n\nFor a precise answer, I recommend looking up each OMIM ID individually for detailed genetic information:\n\n- [OMIM 617718](https://omim.org/entry/617718)\n- [OMIM 150550](https://omim.org/entry/150550)\n- [OMIM 301000](https://omim.org/entry/301000)\n- [OMIM 304790](https://omim.org/entry/304790)\n- [OMIM 300853](https://omim.org/entry/300853)\n- [OMIM 614576](https://omim.org/entry/614576)\n- [OMIM 306400](https://omim.org/entry/306400)\n- [OMIM 604223](https://omim.org/entry/604223)\n- [OMIM 267700](https://omim.org/entry/267700)\n- [OMIM 605921](https://omim.org/entry/605921)\n- [OMIM 614034](https://omim.org/entry/614034)\n- [OMIM 192430](https://omim.org/entry/192430)\n- [OMIM 187270](https://omim.org/entry/187270)\n- [OMIM 222470](https://omim.org/entry/222470)\n- [OMIM 188400](https://omim.org/entry/188400)\n- [OMIM 155600](https://omim.org/entry/155600)\n\nEach OMIM entry will provide detailed information about the gene(s) and their chromosome locations.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Split-foot malformation with mesoaxial polydactyly. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "2q31.1"
+        ],
+        "answer": "The search for \"Split-foot malformation with mesoaxial polydactyly\" in OMIM returned four entries: 616890, 609479, 186000, and 603273. However, the detailed information for these entries is not provided in the current response. To accurately list chromosome locations of genes related to Split-foot malformation with mesoaxial polydactyly, we need more specific data from OMIM or other genetic databases.\n\nFor a precise answer, please refer to OMIM directly using the identifiers above or consult a comprehensive genetic database for detailed gene information and chromosomal locations.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Pigmented nodular adrenocortical disease. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "17q24.2",
+          "2q31.2",
+          "5q13.3"
+        ],
+        "answer": "Based on the searches conducted using E-utilities, there is limited information available regarding specific genes related to Pigmented Nodular Adrenocortical Disease (PNAD) with their chromosome locations. The OMIM entries retrieved do not provide detailed gene location data for PNAD.\n\nHowever, one relevant entry identified is 188830, which corresponds to Carney complex, a condition that includes PNAD as part of its clinical spectrum. For more precise information on the genes and their chromosomal locations associated with PNAD, further investigation into the Carney complex gene PPKAR1A (located at chromosome 2p16) would be necessary.\n\nGiven the current data available through OMIM searches, additional resources or direct genetic studies may be required to provide a comprehensive list of genes and their chromosome locations specifically for Pigmented Nodular Adrenocortical Disease.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Superoxide dismutase. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "4p15.2"
+        ],
+        "answer": "The chromosome locations of genes related to Superoxide dismutase in humans are as follows:\n\n- SOD1: Chromosome 21; Location: 21q22.11\n- SOD2: Chromosome 6; Location: 6q25.3\n- SOD3: Chromosome 4; Location: 4p15.2\n\nFor other species, the locations are:\n\n- Mouse (Sod1): Chromosome 16; Location: 16 51.56 cM\n- Mouse (Sod2): Chromosome 17; Location: 17 8.75 cM\n- Rat (Sod1): Chromosome 11; Location: 11q11\n- Rat (Sod2): Chromosome 1; Location: 1q11\n- Zebrafish (sod1): Chromosome 10\n- Zebrafish (sod2): Chromosome 20\n\nPlease note that the locations for some species are provided in centiMorgans (cM) and may not be as precise as human chromosome locations.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Leukoencephalopathy with dystonia and motor neuropathy. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "1p32.3"
+        ],
+        "answer": "The search for \"Leukoencephalopathy with dystonia and motor neuropathy\" in OMIM returned multiple entries, but it's not clear which specific gene or condition you are interested in. Could you please specify a particular gene or syndrome related to this disorder? This will help me provide the chromosome location of the relevant genes accurately.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Intracranial hemorrhage in brain cerebrovascular malformations. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "7p15.3"
+        ],
+        "answer": "Based on the available data:\n\n1. **Cerebral Cavernous Malformations (CCM)**: The gene associated with this condition is located at chromosome 16p18.6553.\n\n2. **Interleukin 6 (IL6)**: This gene's location is not directly related to the specific chromosomal locations for intracranial hemorrhage in brain cerebrovascular malformations, but it is listed as 2q35.\n\n3. **Collagen Type IV Alpha-1 (COL4A1)**: Similarly, this gene's location is not specifically linked to the condition but is located at 13q33-qter.\n\n4. **Hereditary Hemorrhagic Telangiectasia Type 1 (HHT1)**: The gene associated with HHT1 is mapped to chromosome 9p12-p11. \n\nThe information provided does not specify all genes directly related to intracranial hemorrhage in brain cerebrovascular malformations, but these are some of the relevant entries from OMIM that have been identified. For a more comprehensive list, further investigation into specific gene-disease associations would be necessary.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Multiple system atrophy. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "4q21.23"
+        ],
+        "answer": "The chromosome locations of genes related to Multiple System Atrophy are as follows:\n\n- **SNCA**: Chromosome 4; Location: 4q22.1\n- **MAPT**: Chromosome 17; Location: 17q21.31\n- **LRRK2**: Chromosome 12; Location: 12q12\n- **CFH**: Chromosome 1; Location: 1q31.3\n- **PRKN**: Chromosome 6; Location: 6q26\n- **CST3**: Chromosome 20; Location: 20p11.21\n- **C9orf72**: Chromosome 9; Location: 9p21.2\n- **GBA1**: Chromosome 1; Location: 1q22\n- **GPNMB**: Chromosome 7; Location: 7p15.3\n- **KLK6**: Chromosome 19; Location: 19q13.41\n- **PPP1R1B**: Chromosome 17; Location: 17q12\n- **MT3**: Chromosome 16; Location: 16q13\n- **HIP1**: Chromosome 7; Location: 7q11.23\n- **AMBRA1**: Chromosome 11; Location: 11p11.2\n- **COQ2**: Chromosome 4; Location: 4q21.23\n- **TMEM230**: Chromosome 20; Location: 20p13-p12.3\n\nThese genes are associated with Multiple System Atrophy based on the information retrieved from NCBI databases.",
+        "score": 1.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Cone dystrophy. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "10q23.33",
+          "6p21.1"
+        ],
+        "answer": "The chromosome locations of genes related to Cone dystrophy are as follows:\n\n- PROM1: Chromosome 4; Location: 4p15.32\n- ADAM9: Chromosome 8; Location: 8p11.22\n- PRPH2: Chromosome 6; Location: 6p21.1\n- GUCY2D: Chromosome 17; Location: 17p13.1\n- GUCA1A: Chromosome 6; Location: 6p21.1\n- OPN1LW: Chromosome X; Location: Xq28\n- OPN1MW: Chromosome X; Location: Xq28\n- PITPNM3: Chromosome 17; Location: 17p13.2-p13.1\n- CORD17: Chromosome 10; Location: 10q26\n- CORD8: Chromosome 1; Location: 1q12-q24\n- CORD1: Chromosome 18; Location: 18q21.1-q21.3\n- COD2: Chromosome X; Location: Xq27\n- RCD1: Chromosome 6; Location: 6q25-q26\n\nThese genes are associated with various forms of cone dystrophy and related conditions.",
+        "score": 0.5
+      },
+      {
+        "question": "List chromosome locations of the genes related to Holt-Oram syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "12q24.21"
+        ],
+        "answer": "The genes related to Holt-Oram syndrome and their chromosome locations are:\n\n1. TBX5 - Chromosome 12q24.1\n2. EPHA7 - Chromosome 6p23 (This gene is not typically associated with Holt-Oram syndrome, but it was returned in the search results)\n3. GATA4 - Chromosome 8p23.1 (Not directly related to Holt-Oram syndrome, but included in the search results)\n\nTBX5 is the primary gene associated with Holt-Oram syndrome and is located on chromosome 12q24.1. The other genes listed may be related to similar conditions or were returned due to overlapping terms used in the search query.",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Lichtenstein-Knorr syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "1p36.11"
+        ],
+        "answer": "The OMIM entries for Lichtenstein-Knorr syndrome are 616291 and 107310. However, I need more specific information to provide chromosome locations of related genes. Let's proceed by fetching detailed descriptions from these OMIM entries.\n\nFetching details for OMIM entry 616291:\n[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=omim&id=616291&retmode=json]\n\nFetching details for OMIM entry 107310:\n[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=omim&id=107310&retmode=json]",
+        "score": 0.0
+      },
+      {
+        "question": "List chromosome locations of the genes related to Ablepharon-macrostomia syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": [
+          "2q37.3"
+        ],
+        "answer": "The previous search did not yield specific gene locations for Ablepharon-macrostomia syndrome due to duplicate parameter errors. To accurately list chromosome locations of genes related to this syndrome, we need to refine our approach and ensure that we are querying the correct database with precise terms.\n\nLet's start by searching OMIM (Online Mendelian Inheritance in Man) directly for \"Ablepharon-macrostomia syndrome\" to find the specific gene(s) associated with it. Once identified, we can then determine their chromosome locations.\nBased on available information:\n\n- The Ablepharon-Macrostomia Syndrome is linked to mutations in the **TGIF** (Transforming Growth-Impaired Factor) gene.\n- This gene is located at **chromosome 19p13.2**.\n\nTherefore, the chromosome location of the gene related to Ablepharon-macrostomia syndrome is: **19p13.2**.",
+        "score": 0.0
+      }
+    ],
+    "SNP gene function (manual)": [
+      {
+        "question": "What is the function of the gene associated with SNP rs1217074595? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1217074595 is located in the gene LINC01270 on chromosome 20q13.13. LINC01270 is a long intergenic non-protein coding RNA, which means it does not encode for a protein but may have regulatory functions at the transcriptional or post-transcriptional level. The specific function of this gene and how the SNP affects its expression or activity are currently not detailed in the provided information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1241371358? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to be active in cytosol.",
+        "answer": "The SNP rs1241371358 is located in the intron of the gene LRRC23 (leucine-rich repeat containing 23) on chromosome 12. The function of LRRC23 specifically related to this SNP cannot be directly inferred from the information provided, as SNPs within introns typically do not alter protein sequences and their functional impact is often unclear without further experimental evidence. However, LRRC23 is known to encode a leucine-rich repeat-containing protein, which are commonly involved in protein-protein interactions and signaling pathways.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1481036795? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "SEPT11 belongs to the conserved septin family of filament-forming cytoskeletal GTPases that are involved in a variety of cellular functions including cytokinesis and vesicle trafficking (Hanai et al., 2004 [PubMed 15196925]; Nagata et al., 2004 [PubMed 15485874]).",
+        "answer": "The SNP rs1481036795 is located in the SEPTIN11 gene on chromosome 4 (position: 4q21.1). The function of the SEPTIN11 gene is not explicitly detailed in the provided information, but it is known to encode a member of the septin family of proteins which are involved in various cellular processes such as cytoskeleton organization and cell division. For more specific functional details about this particular SNP's impact on the gene or protein function, further investigation would be required.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1318850293? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable guanyl-nucleotide exchange factor activity. Predicted to be involved in Rho protein signal transduction.",
+        "answer": "The SNP rs1318850293 is located in the gene PLEKHG7 on chromosome 12. The function of PLEKHG7 is not fully characterized, but it belongs to a family of proteins that contain pleckstrin homology (PH) domains and RhoGEF domains, suggesting roles potentially related to signal transduction and regulation of actin cytoskeleton dynamics. However, specific functional details about this gene require further investigation.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs996319727? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable thiol-dependent deubiquitinase and zinc ion binding activity. Involved in spliceosomal complex assembly. Located in nucleoplasm. Part of U4/U6 x U5 tri-snRNP complex.",
+        "answer": "The SNP rs996319727 is located in the intron of the gene USP39 on chromosome 2 (position: 2p11.2). The function of the USP39 gene is associated with ubiquitin-specific peptidase activity, which involves the removal of ubiquitin from proteins. It plays a role in snRNP assembly and is involved in processing small nuclear RNAs (snRNAs) that are essential for RNA splicing.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs577757681? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable oxidoreductase activity. Predicted to be involved in response to oxidative stress. Predicted to act upstream of or within several processes, including adult walking behavior; negative regulation of neuron death; and negative regulation of peptidyl-cysteine S-nitrosylation. Predicted to be located in mitochondrion and nucleolus. Predicted to be active in nucleus. Implicated in cerebellar hyplasia/atrophy, epilepsy, and global developmental delay.",
+        "answer": "The SNP rs577757681 is located in the gene OXR1 (oxidation resistance 1), which is found on chromosome 8 at location 8q23.1. The function of the OXR1 gene involves providing oxidation resistance to cells, and it encodes a protein that may act as a regulator of cellular processes related to oxidative stress response. However, since rs577757681 is an intronic variant (located within an intron), its direct functional impact on the OXR1 gene's expression or protein function is not clear from the provided information and would require further investigation.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1294482311? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene is a member of the WD repeat superfamily of proteins, which have regulatory functions. This gene is expressed in many tissue types including several types of eye tissue, and it has been associated with ocular phenotypes. In addition, it is upregulated in cultured cells that overexpress growth factor independence 1B, a transcription factor that is essential for hematopoietic cell development. Alternative splicing results in multiple transcript variants.",
+        "answer": "The SNP rs1294482311 is located in the intron of the DMXL1 gene on chromosome 5 (position: 5q23.1). The function of the DMXL1 gene, also known as dmX-like protein 1, has not been extensively characterized, but it is part of a family of genes involved in various cellular processes. However, specific information about how this particular SNP affects the function of DMXL1 is currently unavailable based on the provided data.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs979970652? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable mRNA binding activity and poly(A) binding activity. Predicted to be involved in regulation of alternative mRNA splicing, via spliceosome. Predicted to be located in nucleoplasm. Predicted to be active in nucleus.",
+        "answer": "The SNP rs979970652 is located in the intron of the gene KHDRBS2 on chromosome 6 (position: 6q11.1). The function of KHDRBS2 involves RNA binding and signal transduction, as indicated by its name \"KH domain-containing, RNA-binding, signal transduction-associated protein 2\". However, the specific impact of this SNP on the gene's function is not provided in the available information.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1029002401? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable DNA binding activity. Predicted to be involved in homologous chromosome pairing at meiosis and meiotic attachment of telomere to nuclear envelope. Predicted to be located in chromosome, telomeric region. Predicted to be integral component of nuclear inner membrane.",
+        "answer": "Error: 'search_agent'",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1015227? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1015227 is located within the intron of the gene SCHLAP1 on chromosome 2 (position: 2q31.3). SCHLAP1 is a non-protein coding RNA gene associated with prostate cancer and is also known as LINC00913, PCAT11, or PCAT114. The function of SCHLAP1 involves antagonizing the SWI/SNF complex, which is involved in chromatin remodeling. However, the specific impact of rs1015227 on SCHLAP1's function has not been detailed in the provided information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1278530438? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Enables R-SMAD binding activity. Involved in negative regulation of cell migration; negative regulation of epithelial to mesenchymal transition; and negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway. Located in early endosome membrane.",
+        "answer": "The SNP rs1278530438 is located in the LDLRAD4 gene on chromosome 18. The LDLRAD4 gene encodes a protein that contains a low-density lipoprotein receptor class A domain, but specific functional details about this gene are limited based on current information. It is designated as having an intron variant and genic upstream transcript variant according to the SNP entry.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs745325402? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a high affinity receptor for the peptide hormone calcitonin and belongs to a subfamily of seven transmembrane-spanning G protein-coupled receptors. The encoded protein is involved in maintaining calcium homeostasis and in regulating osteoclast-mediated bone resorption. Polymorphisms in this gene have been associated with variations in bone mineral density and onset of osteoporosis. Alternate splicing results in multiple transcript variants.",
+        "answer": "The SNP rs745325402 is located in the intron of the gene CALCR (calcitonin receptor). The calcitonin receptor gene encodes a high-affinity receptor for the peptide hormone calcitonin, which belongs to a subfamily of seven transmembrane-spanning G protein-coupled receptors. This encoded protein plays a role in maintaining calcium homeostasis and regulating osteoclast-mediated bone resorption. Polymorphisms in this gene have been associated with variations in bone mineral density and the onset of osteoporosis.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs4704888? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene is one of the four known components of the sarcoglycan complex, which is a subcomplex of the dystrophin-glycoprotein complex (DGC). DGC forms a link between the F-actin cytoskeleton and the extracellular matrix. This protein is expressed most abundantly in skeletal and cardiac muscle. Mutations in this gene have been associated with autosomal recessive limb-girdle muscular dystrophy and dilated cardiomyopathy. Alternatively spliced transcript variants encoding distinct isoforms have been observed for this gene.",
+        "answer": "The SNP rs4704888 is located in the gene SGCD, which encodes sarcoglycan delta (SGD). This protein is a component of the sarcoglycan complex and part of the dystrophin-glycoprotein complex (DGC), linking the F-actin cytoskeleton to the extracellular matrix. Mutations in SGCD are associated with autosomal recessive limb-girdle muscular dystrophy and dilated cardiomyopathy.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1201372088? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable DNA-binding transcription repressor activity, RNA polymerase II-specific and RNA polymerase II cis-regulatory region sequence-specific DNA binding activity. Predicted to be involved in regulation of transcription by RNA polymerase II. Located in nucleoplasm.",
+        "answer": "The SNP rs1201372088 is located in the intron of the gene ZBTB25 (zinc finger and BTB domain containing 25) on chromosome 14. The function of the ZBTB25 gene product, a zinc finger protein with a BTB domain, suggests it may be involved in transcriptional regulation or chromatin remodeling; however, specific functional details about this SNP's impact are not provided in the available data.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1324451169? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The activation of gene transcription is a multistep process that is triggered by factors that recognize transcriptional enhancer sites in DNA. These factors work with co-activators to direct transcriptional initiation by the RNA polymerase II apparatus. The protein encoded by this gene is a subunit of the CRSP (cofactor required for SP1 activation) complex, which, along with TFIID, is required for efficient activation by SP1. This protein is also a component of other multisubunit complexes e.g. thyroid hormone receptor-(TR-) associated proteins which interact with TR and facilitate TR function on DNA templates in conjunction with initiation factors and cofactors.",
+        "answer": "The SNP rs1324451169 is located in the intron of the MED26 gene on chromosome 19 (position: NC_000019.10:g.16613264A>G). The MED26 gene encodes a subunit of the mediator complex, which is involved in RNA polymerase II transcription regulation. Specifically, it functions as a coactivator for transcription factors like Sp1 to enhance their ability to activate gene expression.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs983419152? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs983419152 is located in the intronic region of the gene LINC02055 on chromosome 8 (position: 8q24.23). LINC02055 is a long intergenic non-protein coding RNA, which means it does not encode for proteins but may have regulatory functions at the transcriptional or post-transcriptional level. The specific function of this SNP and its impact on LINC02055's expression or regulation are currently unknown based on the provided information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs745940901? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene interacts with thyroid hormone receptors and contains a jumonji domain. It is a candidate histone demethylase and is thought to be a coactivator for key transcription factors. It plays a role in the DNA-damage response pathway by demethylating the mediator of DNA damage checkpoint 1 (MDC1) protein, and is required for the survival of acute myeloid leukemia. Mutations in this gene are associated with Rett syndrome and intellectual disability. Alternative splicing results in multiple transcript variants.",
+        "answer": "The SNP rs745940901 is located within the JMJD1C gene on chromosome 10. The JMJD1C gene encodes a protein that interacts with thyroid hormone receptors and contains a jumonji domain. This protein is thought to be a coactivator for key transcription factors, plays a role in the DNA-damage response pathway by demethylating MDC1 (mediator of DNA damage checkpoint 1) protein, and is required for the survival of acute myeloid leukemia. Mutations in this gene are associated with Rett syndrome and intellectual disability.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1303680136? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable phospholipid scramblase activity. Predicted to be involved in apoptotic process involved in development; engulfment of apoptotic cell; and phosphatidylserine exposure on apoptotic cell surface. Predicted to be integral component of membrane. Predicted to be active in plasma membrane.",
+        "answer": "The SNP rs1303680136 is located in a region associated with the gene XKR9 on chromosome 8 (8q13.3). The function of the XKR9 gene is not explicitly detailed in the provided information, but it belongs to the XK blood group complex subunit-related family and is related to the XK protein, which is involved in red blood cell formation and function. For a more precise understanding of its specific role, further investigation into the biological functions of XKR9 would be necessary.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1053827498? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Enables protein dimerization activity and ubiquitin protein ligase activity. Involved in positive regulation of response to DNA damage stimulus. Located in nucleoplasm. Part of Smc5-Smc6 complex.",
+        "answer": "The SNP rs1053827498 is located in the intron of the gene NSMCE1 (Non-structural maintenance of chromosomes element 1 homolog). The function of NSMCE1 includes enabling protein dimerization activity and ubiquitin protein ligase activity. It plays a role in DNA damage response and is part of the Smc5-Smc6 complex, which is involved in chromosome maintenance and repair processes.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1350154096? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1350154096 is located in the intronic region of the gene LOC107986092 on chromosome 3. The gene LOC107986092 is described as \"uncharacterized,\" meaning its function has not yet been determined or reported in scientific literature. Therefore, there isn't enough information available to describe the specific function of this gene or how the SNP might affect it.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1037441458? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1037441458 is located in the intron of the gene LOC105372191 on chromosome 18. However, LOC105372191 is described as an uncharacterized gene, meaning its function has not yet been determined or reported in scientific literature. Therefore, there isn't enough information to specify the function of this gene associated with the SNP rs1037441458.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs900408143? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The Fox-1 family of RNA-binding proteins is evolutionarily conserved, and regulates tissue-specific alternative splicing in metazoa. Fox-1 recognizes a (U)GCAUG stretch in regulated exons or in flanking introns. The protein binds to the C-terminus of ataxin-2 and may contribute to the restricted pathology of spinocerebellar ataxia type 2 (SCA2). Ataxin-2 is the product of the SCA2 gene which causes familial neurodegenerative diseases. Fox-1 and ataxin-2 are both localized in the trans-Golgi network. Several alternatively spliced transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "The SNP rs900408143 is located in the gene RBFOX1, which is also known as RNA binding fox-1 homolog 1 (RBFOX1). This gene encodes a protein that functions as an RNA-binding protein and plays roles in alternative splicing regulation. It is located on chromosome 16 at position 16p13.3.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs900532834? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a family member of serine/threonine p21-activating kinases, known as PAK proteins. These proteins are critical effectors that link RhoGTPases to cytoskeleton reorganization and nuclear signaling, and they serve as targets for the small GTP binding proteins Cdc42 and Rac. This specific family member regulates cell motility and morphology. Mutations in this gene have been associated with macrocephaly, seizures, and speech delay. Overexpression of this gene is also reported in many cancer types, and particularly in breast cancer. Alternative splicing results in multiple transcript variants.",
+        "answer": "The SNP rs900532834 is located in the intron of the PAK1 gene on chromosome 11 (position: 11q13.5-q14.1). The PAK1 gene encodes a serine/threonine-protein kinase called p21-activated kinase 1, which plays a role in regulating cell functions such as cytoskeletal rearrangement and transcription. However, the specific functional impact of rs900532834 on PAK1 is not detailed in the provided information.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1281200566? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to enable unfolded protein binding activity. Predicted to be involved in protein folding. Predicted to be part of chaperonin-containing T-complex.",
+        "answer": "The SNP rs1281200566 is located near or within the gene CCT8L2 on chromosome 22 (location: 22q11.1). The CCT8L2 gene encodes a protein similar to chaperonin containing TCP1 subunit 8, which plays a role in protein folding and stabilization. However, the specific function of the CCT8L2 protein is not fully characterized yet.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1431266687? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a subunit of a voltage-dependent calcium channel protein that is a member of the voltage-gated calcium channel superfamily. The gene product was originally identified as an antigen target in Lambert-Eaton myasthenic syndrome, an autoimmune disorder. Mutations in this gene are associated with Brugada syndrome. Alternatively spliced variants encoding different isoforms have been described.",
+        "answer": "The SNP rs1431266687 is located in the gene CACNB2, which encodes a calcium voltage-gated channel auxiliary subunit beta 2. This protein is part of the L-type calcium channels and plays a role in regulating neuronal excitability by controlling calcium influx into neurons.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs900745020? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The product of this gene belongs to the CRE (cAMP response element)-binding protein family. Members of this family contain zinc-finger and bZIP DNA-binding domains. The encoded protein specifically binds to CRE as a homodimer or a heterodimer with c-Jun or CRE-BP1, and functions as a CRE-dependent trans-activator. Alternatively spliced transcript variants encoding different isoforms have been identified.",
+        "answer": "The SNP rs900745020 is located in the intron of the CREB5 gene on chromosome 7. The CREB5 gene encodes a cAMP responsive element binding protein that plays a role in transcription regulation. However, the specific function or impact of this particular SNP (rs900745020) within the CREB5 gene is not detailed in the provided information.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1188606225? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes an adaptor protein which functions in the epidermal growth factor (EGF) receptor-mediated signaling pathway. Multiple transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "The SNP rs1188606225 is located in the upstream region of the gene GAREM1 (GRB2 associated regulator of MAPK1 subtype 1) on chromosome 18. The function of GAREM1 involves regulation of the MAPK signaling pathway, which is important for cellular processes such as proliferation and differentiation. However, specific effects of this SNP on GAREM1's function are not detailed in the provided information.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs902730377? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs902730377 is located in a region downstream of the gene LOC105372323 on chromosome 19. The function of LOC105372323 is uncharacterized, meaning there isn't enough information available to determine its specific role or impact. Therefore, it's not possible to provide details about how this SNP affects the gene's function based on current knowledge.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1044115387? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene is a member of the GLI-similar zinc finger protein family and encodes a nuclear protein with five C2H2-type zinc finger domains. This protein functions as both a repressor and activator of transcription and is specifically involved in the development of pancreatic beta cells, the thyroid, eye, liver and kidney. Mutations in this gene have been associated with neonatal diabetes and congenital hypothyroidism (NDH). Alternatively spliced variants that encode different protein isoforms have been described but the full-length nature of only two have been determined.",
+        "answer": "It appears there was an error in retrieving information about SNP rs1044115387 due to duplicate parameter issues. Unfortunately, I couldn't find relevant data for this specific SNP using NCBI's E-utilities. To provide a precise function of the gene associated with this SNP, more detailed or alternative sources would be needed.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs979980368? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Involved in positive regulation of canonical Wnt signaling pathway. Located in nucleus.",
+        "answer": "The SNP rs979980368 is located in the intron of the gene FAM53B (Family with sequence similarity 53 member B). This means it is an intronic variant and its function may affect the splicing or expression of FAM53B, but specific effects would require further experimental validation.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1161130206? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1161130206 is located in the intron of the gene EMX2OS (empty spiracles homeobox 2 opposite strand/antisense RNA) on chromosome 10. The function of EMX2OS specifically related to this SNP cannot be directly determined from the provided information, but EMX2OS is a non-protein coding RNA that is antisense to the EMX2 gene and may play roles in regulating the expression or activity of EMX2.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs910422326? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Predicted to be involved in establishment of mitotic spindle orientation and regulation of establishment of bipolar cell polarity. Predicted to act upstream of or within behavioral fear response; equilibrioception; and locomotor rhythm. Predicted to be active in spindle.",
+        "answer": "The SNP rs910422326 is located in the ANKFN1 gene on chromosome 17. The ANKFN1 gene encodes a protein with ankyrin repeat and fibronectin type III domains, but specific functional details about this gene are not provided in the available information. Therefore, while we know the SNP affects the ANKFN1 gene, more detailed information about its function is required for a precise answer regarding the role of ANKFN1.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1035892430? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene is a member of the transmembrane 4 superfamily, also known as the tetraspanin family. Most of these members are cell-surface proteins that are characterized by the presence of four hydrophobic domains. The proteins mediate signal transduction events that play a role in the regulation of cell development, activation, growth and motility. The use of alternate polyadenylation sites has been found for this gene.",
+        "answer": "The SNP rs1035892430 is associated with the gene TSPAN15, which encodes a tetraspanin protein also known as transmembrane 4 superfamily member 15 (TM4SF15). This gene is located on chromosome 10 at position 10q22.1. The SNP affects non-coding regions of the transcript and does not alter the coding sequence, based on the information provided by NCBI. However, specific functional consequences would require further experimental validation.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1255093658? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a member of the teneurin transmembrane protein family. The encoded protein may be involved in the regulation of neuronal development including development of the visual pathway. Mutations in this gene have been associated with microphthalmia and developmental dysplasia of the hip.",
+        "answer": "The SNP rs1255093658 is located in the gene TENM3 (teneurin transmembrane protein 3). The function of TENM3 is not explicitly detailed in the provided information, but it belongs to a family of proteins involved in cell-cell interactions and axon guidance during neural development. For precise functional details, further research into the specific roles and mechanisms of TENM3 would be necessary.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1257276516? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1257276516 is located in the intronic region of the gene LOC100506403 on chromosome 21. The function of LOC100506403 is uncharacterized, meaning there is currently no known specific biological role or product associated with this gene.",
+        "score": 0.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs563369098? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs563369098 is located in the intronic region of the gene LINC01673 on chromosome 21. LINC01673 is a long intergenic non-protein coding RNA, which means it does not encode for proteins but may have regulatory functions at the transcriptional or post-transcriptional level. The exact function of this SNP and its impact on LINC01673's expression or activity are currently unknown based on the provided information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1032834815? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Enables RNA binding activity. Predicted to act upstream of or within several processes, including negative regulation of osteoblast differentiation; substrate adhesion-dependent cell spreading; and type II pneumocyte differentiation. Predicted to be located in endoplasmic reticulum.",
+        "answer": "The SNP rs1032834815 is located in the gene FNDC3B (fibronectin type III domain containing 3B). This gene is associated with various designations such as HCV NS5A-binding protein 37 and factor for adipocyte differentiation 104. However, specific functional details about how this SNP affects the gene's function are not provided in the available information.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs552952471? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes retinoic acid receptor beta, a member of the thyroid-steroid hormone receptor superfamily of nuclear transcriptional regulators. This receptor localizes to the cytoplasm and to subnuclear compartments. It binds retinoic acid, the biologically active form of vitamin A which mediates cellular signalling in embryonic morphogenesis, cell growth and differentiation. It is thought that this protein limits growth of many cell types by regulating gene expression. The gene was first identified in a hepatocellular carcinoma where it flanks a hepatitis B virus integration site. Alternate promoter usage and differential splicing result in multiple transcript variants.",
+        "answer": "The SNP rs552952471 is located in the upstream region of the gene RARB (Retinoic Acid Receptor Beta). The function of the RARB gene is to encode retinoic acid receptor beta, a member of the thyroid-steroid hormone receptor superfamily. This protein regulates gene expression and limits growth in many cell types by binding retinoic acid, which mediates cellular signaling in embryonic morphogenesis, cell growth, and differentiation.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1452964195? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1452964195 is located in the genomic region associated with the gene LINC03021 on chromosome 8. LINC03021 is a long intergenic non-protein coding RNA, which means it does not encode for proteins but may have regulatory functions at the transcriptional or post-transcriptional level. The exact function of this SNP and its impact on LINC03021's expression or activity are currently not specified in the provided information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs949202492? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene is a neuronal calcium-binding protein that binds to and modulates the function of at least two receptors, adenosine A(2A) receptor and metabotropic glutamate receptor type 5.",
+        "answer": "The SNP rs949202492 is located in the intron of the gene NECAB2 (N-terminal EF-hand calcium binding protein 2). The function of the NECAB2 gene is to encode a neuronal calcium-binding protein that modulates the function of at least two receptors: adenosine A(2A) receptor and metabotropic glutamate receptor type 5.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1218214598? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs1218214598 is located in the intron of the gene MIR4527HG on chromosome 18. MIR4527HG is annotated as a host gene for microRNA (miRNA) MIR4527, but specific functional information about this SNP's impact is not provided in the available data. Therefore, we cannot determine its exact function or clinical significance based solely on the current information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1022906840? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "Located in ciliary basal body.",
+        "answer": "The SNP rs1022906840 is located in the intron of the gene CCDC178 (coiled-coil domain containing 178) on chromosome 18. The function of CCDC178 specifically related to this SNP cannot be directly inferred from the provided information, as SNPs within introns typically do not alter protein sequences and their functional impact is less clear compared to those in coding regions or regulatory elements. However, CCDC178 is known to encode a coiled-coil domain-containing protein, which often plays roles in structural components of proteins involved in cellular processes such as cytoskeleton organization or signaling pathways. For precise functional implications of rs1022906840, further experimental studies would be required.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1199372758? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene is a negative regulator of autophagy and endocytic trafficking and controls endosome maturation. This protein contains two conserved domains, an N-terminal RUN domain and a C-terminal DUF4206 domain. The RUN domain is involved in Ras-like GTPase signaling, and the DUF4206 domain contains a diacylglycerol (DAG) binding-like motif. Mutation in this gene results in deletion of the DAG binding-like motif and causes a recessive ataxia. Alternatively spliced transcript variants encoding distinct isoforms have been found for this gene.",
+        "answer": "The SNP rs1199372758 is located in the intron of the RUBCN gene on chromosome 3. The RUBCN gene encodes a protein that acts as a negative regulator of autophagy and endocytic trafficking, controlling endosome maturation. This protein contains two conserved domains: an N-terminal RUN domain and a C-terminal DUF4206 domain. Mutations in this gene can cause recessive ataxia by deleting the DAG binding-like motif within the DUF4206 domain.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1396355441? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "The protein encoded by this gene is a member of the protein tyrosine phosphatase (PTP) family. PTPs are known to be signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation. This PTP contains an extracellular domain, a single transmembrane segment and one intracytoplasmic catalytic domain, thus belongs to receptor type PTP. The extracellular region of this PTP is composed of multiple fibronectin type_III repeats, which was shown to interact with neuronal receptor and cell adhesion molecules, such as contactin and tenascin C. This protein was also found to interact with sodium channels, and thus may regulate sodium channels by altering tyrosine phosphorylation status. The functions of the interaction partners of this protein implicate the roles of this PTP in cell adhesion, neurite growth, and neuronal differentiation. Alternate transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "The SNP rs1396355441 is located in the gene PTPRB (protein tyrosine phosphatase receptor type B). The function of this gene involves encoding a protein that belongs to the protein tyrosine phosphatase (PTP) family. This protein regulates cellular processes such as cell growth, differentiation, and neuronal functions by altering the phosphorylation status of proteins through its catalytic activity. Specifically, PTPRB interacts with sodium channels and other molecules involved in cell adhesion and neurite growth, suggesting roles in these biological processes.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1432624213? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a member of the organic-cation transporter family. It is located in a gene cluster with another member of the family, organic cation transporter like 3. The encoded protein is a transmembrane protein which is thought to transport small molecules and since this protein is conserved among several species, it is suggested to have a fundamental role in mammalian systems. Alternative splicing results in multiple transcript variants.",
+        "answer": "The SNP rs1432624213 is located in the SLC22A14 gene on chromosome 3 at position p22.2. The SLC22A14 gene encodes a protein known as solute carrier family 22 member 14, which functions as an organic cation transporter-like protein (OCTL4). This protein is involved in the transport of certain organic cations across cell membranes. However, the specific functional impact of the SNP rs1432624213 on SLC22A14 has not been detailed in the provided information.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs937944577? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene is a member of the intermediate filament family. Intermediate filaments are proteins which are primordial components of the cytoskeleton and nuclear envelope. The proteins encoded by the members of this gene family are evolutionarily and structurally related but have limited sequence homology, with the exception of the central rod domain. Multiple alternatively spliced transcript variants encoding different isoforms have been found for this gene.",
+        "answer": "The SNP rs937944577 is located in the intron of the gene IFFO1 (Intermediate Filament Family Orphan 1), which is mapped to chromosome 12p13.31 in humans. The function of IFFO1 is not fully characterized, but it has been associated with non-homologous end joining (NHEJ) as a factor involved in DNA repair processes.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1450106117? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a component of the mediator complex (also known as TRAP, SMCC, DRIP, or ARC), a transcriptional coactivator complex thought to be required for the expression of almost all genes. The mediator complex is recruited by transcriptional activators or nuclear receptors to induce gene expression, possibly by interacting with RNA polymerase II and promoting the formation of a transcriptional pre-initiation complex. The product of this gene is proposed to form a sub-complex with MED12, cyclin C, and CDK8 that can negatively regulate transactivation by mediator.",
+        "answer": "The SNP rs1450106117 is located in the gene MED13 on chromosome 17. The MED13 gene encodes a component of the mediator complex, which is involved in transcriptional regulation by interacting with RNA polymerase II and promoting the formation of a transcriptional pre-initiation complex. This protein can negatively regulate transactivation by the mediator complex when forming a sub-complex with MED12, cyclin C, and CDK8.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs34083046? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes an essential regulator of mitochondrial Ca2+ uptake under basal conditions. The encoded protein interacts with the mitochondrial calcium uniporter, a mitochondrial inner membrane Ca2+ channel, and is essential in preventing mitochondrial Ca2+ overload, which can cause excessive production of reactive oxygen species and cell stress. Alternatively spliced transcript variants encoding different isoforms have been described.",
+        "answer": "The SNP rs34083046 is located within the MICU1 gene on chromosome 10. The MICU1 gene encodes a protein called mitochondrial calcium uptake 1 (MCU1), which plays a role in regulating calcium levels in mitochondria. This protein is involved in calcium transport and storage, contributing to cellular functions such as energy production and signaling pathways.",
+        "score": 0.5
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs149916046? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "ncRNA",
+        "answer": "The SNP rs149916046 is located within the intron of the gene LINC02841 (Gene ID: 105372360). However, I could not retrieve detailed information about the function of LINC02841 from the NCBI database due to a technical issue. Generally, long intergenic non-coding RNAs (lincRNAs) like LINC02841 are involved in various regulatory processes such as gene expression regulation and chromatin modification. For more specific information about its function, you may need to consult other databases or literature related to this particular lincRNA.",
+        "score": 1.0
+      },
+      {
+        "question": "What is the function of the gene associated with SNP rs1385096481? Let's decompose the question to sub-questions and solve them step by step.",
+        "ground_truth": "This gene encodes a protein that belongs to the leucine-rich repeat and fibronectin type III domain-containing family of proteins. A similar protein in mouse, a glycosylated transmembrane protein, is thought to function in presynaptic differentiation.",
+        "answer": "The SNP rs1385096481 is located in the intron of the gene LRFN5 (leucine rich repeat and fibronectin type III domain containing 5). The function of LRFN5 specifically related to this SNP cannot be directly inferred from the information provided, as SNPs within introns do not typically alter protein sequences. However, it may affect splicing or regulatory elements that influence gene expression. For a precise functional impact, further experimental studies would be necessary.",
+        "score": 1.0
+      }
+    ]
+  },
+  "statistics": {
+    "task_statistics": {
+      "sequence gene alias": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 9,
+        "zero_score_count": 17,
+        "partial_score_count": 24,
+        "average_score": 0.35377777777777786
+      },
+      "Disease gene location": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 11,
+        "zero_score_count": 38,
+        "partial_score_count": 1,
+        "average_score": 0.23
+      },
+      "SNP gene function (manual)": {
+        "total_questions": 50,
+        "evaluated_questions": 50,
+        "need_manual_review": 0,
+        "perfect_score_count": 20,
+        "zero_score_count": 9,
+        "partial_score_count": 21,
+        "average_score": 0.61
+      }
+    },
+    "overall_statistics": {
+      "total_questions": 150,
+      "total_score": 59.6888888888889,
+      "questions_need_manual_review": 0,
+      "average_score": 0.39792592592592596
+    }
+  }
+}

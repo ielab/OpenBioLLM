@@ -1,0 +1,110 @@
+{
+    "Gene alias": {
+        "What is the official gene symbol of LMP10?": "PSMB10",
+        "What is the official gene symbol of SNAT6?": "SLC38A6",
+        "What is the official gene symbol of IMD20?": "FCGR3A",
+        "What is the official gene symbol of C20orf195?": "FNDC11",
+        "What is the official gene symbol of CXorf40B?": "EOLA2",
+        "What is the official gene symbol of QSCN6L1?": "QSOX2",
+        "What is the official gene symbol of OR11-86?": "OR10A2",
+        "What is the official gene symbol of NPAP60L?": "NUP50",
+        "What is the official gene symbol of AF10?": "MLLT10",
+        "What is the official gene symbol of bMRP63?": "MRPL57"
+    },
+    "Gene disease association": {
+        "What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?": "PFKL",
+        "What are genes related to Distal renal tubular acidosis?": "SLC4A1, ATP6V0A4",
+        "What are genes related to Pseudohypoparathyroidism Ic?": "GNAS",
+        "What are genes related to Glycine N-methyltransferase deficiency?": "GNMT",
+        "What are genes related to Meesmann corneal dystrophy?": "KRT12, KRT3",
+        "What are genes related to Chronic atrial and intestinal dysrhythmia?": "SGO1",
+        "What are genes related to Sensorineural deafness with mild renal dysfunction?": "BSND",
+        "What are genes related to Bile acid malabsorption?": "SLC10A2, SLC51B",
+        "What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?": "LAMTOR2",
+        "What are genes related to Currarino syndrome?": "MNX1"
+    },
+    "Gene location": {
+        "Which chromosome is FAM66D gene located on human genome?": "chr8",
+        "Which chromosome is TTTY7 gene located on human genome?": "chrY",
+        "Which chromosome is LA16c-329F2.2 gene located on human genome?": "chr16",
+        "Which chromosome is RGS16 gene located on human genome?": "chr1",
+        "Which chromosome is FOXL2NB gene located on human genome?": "chr3",
+        "Which chromosome is RP11-17A4.3 gene located on human genome?": "chr8",
+        "Which chromosome is EML3 gene located on human genome?": "chr11",
+        "Which chromosome is LPAR2 gene located on human genome?": "chr19",
+        "Which chromosome is ENSG10010137169.1 gene located on human genome?": "chr4",
+        "Which chromosome is AC018712.2 gene located on human genome?": "chr2"
+    },
+    "Human genome DNA aligment": {
+        "Align the DNA sequence to the human genome:ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT": "chr15:91950805-91950932",
+        "Align the DNA sequence to the human genome:GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA": "chr8:7081648-7081782",
+        "Align the DNA sequence to the human genome:AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT": "chr10:7531973-7532108",
+        "Align the DNA sequence to the human genome:AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA": "chr7:71368450-71368551",
+        "Align the DNA sequence to the human genome:ATTAAACGCCCCTTAAATTACCCAGCTGTGGCAATCTGCTTCCTTGTGATACCCTGACTGATACGAATTATAAAGTAAATCCTGTGATACTCCCCCTCACCTCAAGCCCATGTTCCTGTAAGGTACAGAGTCATAGA": "chr17:30085086-30085222",
+        "Align the DNA sequence to the human genome:TTTTTTGAGACGTTGTCTCACCCTGTCGCCCAGGCTGGAGTGCAGTGGTGCAGTCTTGGCTCACTGCAATCCCCACGTCCCAGGTTCAAACGATTCTCCTGCCTCAGTCTCCCAAGCAGCTGGGATTACAGGTGCCT": "chr6:25897419-25897555",
+        "Align the DNA sequence to the human genome:CCTTAGCTTTGTCATATTAGAGGGCTGGGAGGGCCTGATCCCCTGGAACCTGCCTTTCCAACCTGATTTCCCATACTTCTTCCCATAAGCCAGATCCCATGATTTCTCTCATTTCTCCAAACAGGCCTCTTGATTTTCCACCTTGGAACT": "chr22:30683180-30683329",
+        "Align the DNA sequence to the human genome:CTTCATACAAAACGAAGAGTTAAGACCTACCGGTTTTCCAAAGCCTCCCTATGAAAAACAGTATTTCTCTTAGTGGCAGGTTTGAGGTATGAGAGTCATTATTACACCTGTGAGCTGGCC": "chr21:7642925-7643044",
+        "Align the DNA sequence to the human genome:TTGTCAATTTAACTCACAGAGAAAAATTTTAAAATTTGCAGCCTAATTTCTTCATTGACCCAGTGATCATTCAGGAAAATAATGCTTAATTTCTATGTATT": "chr21:18084464-18084564",
+        "Align the DNA sequence to the human genome:AACATTAACTTATTTTACCCTCATGATACTTCATTGGGGTAAGTAATGTTAATATTCCTAATTGAAAGATGAGAAACTGGAAGATCAGAAGACTAAGTAATTTTTCCAAGA": "chr18:41101663-41101773"
+    },
+    "Multi-species DNA aligment": {
+        "Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT": "worm",
+        "Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG": "yeast",
+        "Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT": "worm",
+        "Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT": "human",
+        "Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT": "rat",
+        "Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC": "mouse",
+        "Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG": "zebrafish",
+        "Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC": "yeast",
+        "Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC": "zebrafish",
+        "Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT": "human"
+    },
+    "Gene name conversion": {
+        "Convert ENSG00000215251 to official gene symbol.": "FASTKD5",
+        "Convert ENSG00000205403 to official gene symbol.": "CFI",
+        "Convert ENSG00000140199 to official gene symbol.": "SLC12A6",
+        "Convert ENSG00000149476 to official gene symbol.": "TKFC",
+        "Convert ENSG00000291317 to official gene symbol.": "TMEM276",
+        "Convert ENSG00000174944 to official gene symbol.": "P2RY14",
+        "Convert ENSG00000138604 to official gene symbol.": "GLCE",
+        "Convert ENSG00000174233 to official gene symbol.": "ADCY6",
+        "Convert ENSG00000165487 to official gene symbol.": "MICU2",
+        "Convert ENSG00000124157 to official gene symbol.": "SEMG2"
+    },
+    "Protein-coding genes": {
+        "Is ATP5F1EP2 a protein-coding gene?": "NA",
+        "Is LOC124907753 a protein-coding gene?": "NA",
+        "Is AMD1P4 a protein-coding gene?": "NA",
+        "Is NODAL a protein-coding gene?": "TRUE",
+        "Is MIR4436B2 a protein-coding gene?": "NA",
+        "Is NAXE a protein-coding gene?": "TRUE",
+        "Is LOC124909477 a protein-coding gene?": "NA",
+        "Is LINC01560 a protein-coding gene?": "NA",
+        "Is UCKL1-AS1 a protein-coding gene?": "NA",
+        "Is MIR6843 a protein-coding gene?": "NA"
+    },
+    "Gene SNP association": {
+        "Which gene is SNP rs1217074595 associated with?": "LINC01270",
+        "Which gene is SNP rs1241371358 associated with?": "LRRC23",
+        "Which gene is SNP rs1481036795 associated with?": "SEPTIN11",
+        "Which gene is SNP rs1318850293 associated with?": "PLEKHG7",
+        "Which gene is SNP rs996319727 associated with?": "USP39",
+        "Which gene is SNP rs577757681 associated with?": "OXR1",
+        "Which gene is SNP rs1294482311 associated with?": "DMXL1",
+        "Which gene is SNP rs979970652 associated with?": "KHDRBS2",
+        "Which gene is SNP rs1029002401 associated with?": "MAJIN",
+        "Which gene is SNP rs1015227 associated with?": "SCHLAP1"
+    },
+    "SNP location": {
+        "Which chromosome does SNP rs1430464868 locate on human genome?": "chr13",
+        "Which chromosome does SNP rs545148486 locate on human genome?": "chr16",
+        "Which chromosome does SNP rs895485955 locate on human genome?": "chr19",
+        "Which chromosome does SNP rs1376217783 locate on human genome?": "chr11",
+        "Which chromosome does SNP rs1420724913 locate on human genome?": "chr16",
+        "Which chromosome does SNP rs992486373 locate on human genome?": "chr15",
+        "Which chromosome does SNP rs975300764 locate on human genome?": "chr4",
+        "Which chromosome does SNP rs993131098 locate on human genome?": "chr14",
+        "Which chromosome does SNP rs899883800 locate on human genome?": "chr1",
+        "Which chromosome does SNP rs547832386 locate on human genome?": "chr15"
+    }
+}

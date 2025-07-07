@@ -1,0 +1,452 @@
+Task,Question,Duration
+Gene alias,Q1,20.25
+Gene alias,Q2,11.68
+Gene alias,Q3,11.06
+Gene alias,Q4,13.46
+Gene alias,Q5,13.19
+Gene alias,Q6,13.56
+Gene alias,Q7,12.18
+Gene alias,Q8,12.84
+Gene alias,Q9,13.98
+Gene alias,Q10,11.64
+Gene alias,Q11,11.22
+Gene alias,Q12,14.6
+Gene alias,Q13,33.8
+Gene alias,Q14,10.83
+Gene alias,Q15,11.25
+Gene alias,Q16,14.18
+Gene alias,Q17,10.83
+Gene alias,Q18,13.23
+Gene alias,Q19,15.06
+Gene alias,Q20,13.67
+Gene alias,Q21,64.18
+Gene alias,Q22,10.98
+Gene alias,Q23,11.09
+Gene alias,Q24,12.04
+Gene alias,Q25,12.31
+Gene alias,Q26,13.43
+Gene alias,Q27,14.21
+Gene alias,Q28,12.4
+Gene alias,Q29,13.54
+Gene alias,Q30,13.36
+Gene alias,Q31,11.74
+Gene alias,Q32,13.13
+Gene alias,Q33,10.67
+Gene alias,Q34,10.73
+Gene alias,Q35,13.25
+Gene alias,Q36,12.72
+Gene alias,Q37,14.07
+Gene alias,Q38,10.97
+Gene alias,Q39,38.73
+Gene alias,Q40,11.38
+Gene alias,Q41,11.11
+Gene alias,Q42,57.39
+Gene alias,Q43,11.01
+Gene alias,Q44,14.4
+Gene alias,Q45,30.14
+Gene alias,Q46,12.57
+Gene alias,Q47,63.14
+Gene alias,Q48,32.62
+Gene alias,Q49,13.65
+Gene alias,Q50,13.73
+Gene disease association,Q1,30.7
+Gene disease association,Q2,52.22
+Gene disease association,Q3,15.87
+Gene disease association,Q4,30.09
+Gene disease association,Q5,31.68
+Gene disease association,Q6,26.45
+Gene disease association,Q7,112.95
+Gene disease association,Q8,21.98
+Gene disease association,Q9,27.56
+Gene disease association,Q10,35.5
+Gene disease association,Q11,22.32
+Gene disease association,Q12,30.8
+Gene disease association,Q13,31.02
+Gene disease association,Q14,43.84
+Gene disease association,Q15,28.55
+Gene disease association,Q16,67.3
+Gene disease association,Q17,21.59
+Gene disease association,Q18,21.89
+Gene disease association,Q19,24.94
+Gene disease association,Q20,130.01
+Gene disease association,Q21,18.6
+Gene disease association,Q22,84.69
+Gene disease association,Q23,14.6
+Gene disease association,Q24,13.25
+Gene disease association,Q25,17.27
+Gene disease association,Q26,31.47
+Gene disease association,Q27,32.82
+Gene disease association,Q28,45.1
+Gene disease association,Q29,19.98
+Gene disease association,Q30,28.97
+Gene disease association,Q31,63.32
+Gene disease association,Q32,46.58
+Gene disease association,Q33,29.53
+Gene disease association,Q34,13.73
+Gene disease association,Q35,49.23
+Gene disease association,Q36,35.3
+Gene disease association,Q37,16.38
+Gene disease association,Q38,35.18
+Gene disease association,Q39,53.09
+Gene disease association,Q40,49.89
+Gene disease association,Q41,59.55
+Gene disease association,Q42,38.35
+Gene disease association,Q43,39.34
+Gene disease association,Q44,75.04
+Gene disease association,Q45,38.47
+Gene disease association,Q46,51.33
+Gene disease association,Q47,61.03
+Gene disease association,Q48,18.46
+Gene disease association,Q49,28.2
+Gene disease association,Q50,15.02
+Gene location,Q1,11.81
+Gene location,Q2,11.24
+Gene location,Q3,45.78
+Gene location,Q4,13.34
+Gene location,Q5,13.29
+Gene location,Q6,67.92
+Gene location,Q7,13.79
+Gene location,Q8,13.44
+Gene location,Q9,31.32
+Gene location,Q10,15.88
+Gene location,Q11,13.21
+Gene location,Q12,11.64
+Gene location,Q13,13.5
+Gene location,Q14,65.96
+Gene location,Q15,11.67
+Gene location,Q16,14.69
+Gene location,Q17,37.35
+Gene location,Q18,55.05
+Gene location,Q19,12.73
+Gene location,Q20,62.59
+Gene location,Q21,16.03
+Gene location,Q22,12.08
+Gene location,Q23,64.41
+Gene location,Q24,13.43
+Gene location,Q25,14.87
+Gene location,Q26,14.6
+Gene location,Q27,62.66
+Gene location,Q28,11.37
+Gene location,Q29,11.43
+Gene location,Q30,13.43
+Gene location,Q31,11.45
+Gene location,Q32,30.58
+Gene location,Q33,11.28
+Gene location,Q34,11.68
+Gene location,Q35,14.01
+Gene location,Q36,11.69
+Gene location,Q37,35.81
+Gene location,Q38,11.15
+Gene location,Q39,39.14
+Gene location,Q40,12.98
+Gene location,Q41,54.57
+Gene location,Q42,34.62
+Gene location,Q43,16.56
+Gene location,Q44,11.57
+Gene location,Q45,12.15
+Gene location,Q46,52.2
+Gene location,Q47,11.63
+Gene location,Q48,13.47
+Gene location,Q49,54.23
+Gene location,Q50,12.39
+Human genome DNA alignment,Q1,40
+Human genome DNA alignment,Q2,42.55
+Human genome DNA alignment,Q3,42.47
+Human genome DNA alignment,Q4,38.38
+Human genome DNA alignment,Q5,42.39
+Human genome DNA alignment,Q6,44.51
+Human genome DNA alignment,Q7,36.37
+Human genome DNA alignment,Q8,43.45
+Human genome DNA alignment,Q9,43.29
+Human genome DNA alignment,Q10,34.25
+Human genome DNA alignment,Q11,41.24
+Human genome DNA alignment,Q12,33.53
+Human genome DNA alignment,Q13,40.49
+Human genome DNA alignment,Q14,33.41
+Human genome DNA alignment,Q15,42.56
+Human genome DNA alignment,Q16,38.93
+Human genome DNA alignment,Q17,41.51
+Human genome DNA alignment,Q18,50.65
+Human genome DNA alignment,Q19,41.27
+Human genome DNA alignment,Q20,41.19
+Human genome DNA alignment,Q21,56.76
+Human genome DNA alignment,Q22,37.3
+Human genome DNA alignment,Q23,41.11
+Human genome DNA alignment,Q24,40.3
+Human genome DNA alignment,Q25,41.84
+Human genome DNA alignment,Q26,40.72
+Human genome DNA alignment,Q27,36.4
+Human genome DNA alignment,Q28,35.39
+Human genome DNA alignment,Q29,44.75
+Human genome DNA alignment,Q30,50.35
+Human genome DNA alignment,Q31,44.13
+Human genome DNA alignment,Q32,35.13
+Human genome DNA alignment,Q33,40.79
+Human genome DNA alignment,Q34,63.44
+Human genome DNA alignment,Q35,39.4
+Human genome DNA alignment,Q36,43.64
+Human genome DNA alignment,Q37,77.15
+Human genome DNA alignment,Q38,36.29
+Human genome DNA alignment,Q39,40.05
+Human genome DNA alignment,Q40,44.2
+Human genome DNA alignment,Q41,40.64
+Human genome DNA alignment,Q42,33.49
+Human genome DNA alignment,Q43,42.9
+Human genome DNA alignment,Q44,42.11
+Human genome DNA alignment,Q45,38.07
+Human genome DNA alignment,Q46,50.17
+Human genome DNA alignment,Q47,45.41
+Human genome DNA alignment,Q48,49.05
+Human genome DNA alignment,Q49,40
+Human genome DNA alignment,Q50,40.62
+Multi-species DNA alignment,Q1,31.25
+Multi-species DNA alignment,Q2,38.54
+Multi-species DNA alignment,Q3,32.04
+Multi-species DNA alignment,Q4,31.42
+Multi-species DNA alignment,Q5,48.39
+Multi-species DNA alignment,Q6,31.8
+Multi-species DNA alignment,Q7,29.67
+Multi-species DNA alignment,Q8,34.29
+Multi-species DNA alignment,Q9,37.21
+Multi-species DNA alignment,Q10,29.9
+Multi-species DNA alignment,Q11,37.38
+Multi-species DNA alignment,Q12,38.37
+Multi-species DNA alignment,Q13,32.25
+Multi-species DNA alignment,Q14,29.62
+Multi-species DNA alignment,Q15,30.62
+Multi-species DNA alignment,Q16,34.9
+Multi-species DNA alignment,Q17,29.06
+Multi-species DNA alignment,Q18,41.61
+Multi-species DNA alignment,Q19,33.02
+Multi-species DNA alignment,Q20,34.27
+Multi-species DNA alignment,Q21,33.23
+Multi-species DNA alignment,Q22,31.25
+Multi-species DNA alignment,Q23,49.92
+Multi-species DNA alignment,Q24,31.3
+Multi-species DNA alignment,Q25,28.67
+Multi-species DNA alignment,Q26,35.5
+Multi-species DNA alignment,Q27,37.26
+Multi-species DNA alignment,Q28,29.59
+Multi-species DNA alignment,Q29,37.07
+Multi-species DNA alignment,Q30,33.83
+Multi-species DNA alignment,Q31,34.43
+Multi-species DNA alignment,Q32,32.46
+Multi-species DNA alignment,Q33,37.93
+Multi-species DNA alignment,Q34,38.25
+Multi-species DNA alignment,Q35,29.35
+Multi-species DNA alignment,Q36,38.94
+Multi-species DNA alignment,Q37,37.33
+Multi-species DNA alignment,Q38,30.47
+Multi-species DNA alignment,Q39,33.59
+Multi-species DNA alignment,Q40,34.78
+Multi-species DNA alignment,Q41,49.86
+Multi-species DNA alignment,Q42,40.3
+Multi-species DNA alignment,Q43,34.66
+Multi-species DNA alignment,Q44,37.75
+Multi-species DNA alignment,Q45,32.14
+Multi-species DNA alignment,Q46,40.16
+Multi-species DNA alignment,Q47,29.95
+Multi-species DNA alignment,Q48,31.31
+Multi-species DNA alignment,Q49,36.8
+Multi-species DNA alignment,Q50,39.12
+Gene name conversion,Q1,12.23
+Gene name conversion,Q2,11.8
+Gene name conversion,Q3,12.59
+Gene name conversion,Q4,12.39
+Gene name conversion,Q5,11.86
+Gene name conversion,Q6,12.33
+Gene name conversion,Q7,12.14
+Gene name conversion,Q8,11.74
+Gene name conversion,Q9,12.23
+Gene name conversion,Q10,12.06
+Gene name conversion,Q11,12.23
+Gene name conversion,Q12,12.59
+Gene name conversion,Q13,11.9
+Gene name conversion,Q14,11.72
+Gene name conversion,Q15,12.11
+Gene name conversion,Q16,11.61
+Gene name conversion,Q17,12.06
+Gene name conversion,Q18,12.29
+Gene name conversion,Q19,12.43
+Gene name conversion,Q20,12.23
+Gene name conversion,Q21,11.99
+Gene name conversion,Q22,12.65
+Gene name conversion,Q23,12.19
+Gene name conversion,Q24,11.86
+Gene name conversion,Q25,12.2
+Gene name conversion,Q26,12.15
+Gene name conversion,Q27,12.35
+Gene name conversion,Q28,12.31
+Gene name conversion,Q29,12.88
+Gene name conversion,Q30,12
+Gene name conversion,Q31,12.02
+Gene name conversion,Q32,12.02
+Gene name conversion,Q33,12.54
+Gene name conversion,Q34,12.22
+Gene name conversion,Q35,11.87
+Gene name conversion,Q36,11.74
+Gene name conversion,Q37,11.59
+Gene name conversion,Q38,12.42
+Gene name conversion,Q39,12.01
+Gene name conversion,Q40,12.13
+Gene name conversion,Q41,12.24
+Gene name conversion,Q42,12.1
+Gene name conversion,Q43,11.82
+Gene name conversion,Q44,12.01
+Gene name conversion,Q45,12.63
+Gene name conversion,Q46,12.25
+Gene name conversion,Q47,11.84
+Gene name conversion,Q48,12.27
+Gene name conversion,Q49,11.95
+Gene name conversion,Q50,12.22
+Protein-coding genes,Q1,15.02
+Protein-coding genes,Q2,33.92
+Protein-coding genes,Q3,23.06
+Protein-coding genes,Q4,14.21
+Protein-coding genes,Q5,11.85
+Protein-coding genes,Q6,14.21
+Protein-coding genes,Q7,33.41
+Protein-coding genes,Q8,12.26
+Protein-coding genes,Q9,11.79
+Protein-coding genes,Q10,11.76
+Protein-coding genes,Q11,12.13
+Protein-coding genes,Q12,14.58
+Protein-coding genes,Q13,34.82
+Protein-coding genes,Q14,12.49
+Protein-coding genes,Q15,33.44
+Protein-coding genes,Q16,13.34
+Protein-coding genes,Q17,12.94
+Protein-coding genes,Q18,13.87
+Protein-coding genes,Q19,34.36
+Protein-coding genes,Q20,15.92
+Protein-coding genes,Q21,12.19
+Protein-coding genes,Q22,13.71
+Protein-coding genes,Q23,15.57
+Protein-coding genes,Q24,33.03
+Protein-coding genes,Q25,12.75
+Protein-coding genes,Q26,12.49
+Protein-coding genes,Q27,13.4
+Protein-coding genes,Q28,12.49
+Protein-coding genes,Q29,15.4
+Protein-coding genes,Q30,33.35
+Protein-coding genes,Q31,15.01
+Protein-coding genes,Q32,13.76
+Protein-coding genes,Q33,13.59
+Protein-coding genes,Q34,15.13
+Protein-coding genes,Q35,12.28
+Protein-coding genes,Q36,12.34
+Protein-coding genes,Q37,15.2
+Protein-coding genes,Q38,12
+Protein-coding genes,Q39,22.09
+Protein-coding genes,Q40,32.8
+Protein-coding genes,Q41,23.84
+Protein-coding genes,Q42,38
+Protein-coding genes,Q43,38.65
+Protein-coding genes,Q44,12
+Protein-coding genes,Q45,14.43
+Protein-coding genes,Q46,14.94
+Protein-coding genes,Q47,25.52
+Protein-coding genes,Q48,14.5
+Protein-coding genes,Q49,13.83
+Protein-coding genes,Q50,14.42
+Gene SNP association,Q1,13.26
+Gene SNP association,Q2,12.83
+Gene SNP association,Q3,12.53
+Gene SNP association,Q4,12.89
+Gene SNP association,Q5,12.52
+Gene SNP association,Q6,12.93
+Gene SNP association,Q7,12.6
+Gene SNP association,Q8,12.67
+Gene SNP association,Q9,12.89
+Gene SNP association,Q10,18.37
+Gene SNP association,Q11,12.67
+Gene SNP association,Q12,12.65
+Gene SNP association,Q13,15.14
+Gene SNP association,Q14,12.9
+Gene SNP association,Q15,12.92
+Gene SNP association,Q16,13.1
+Gene SNP association,Q17,13.82
+Gene SNP association,Q18,12.59
+Gene SNP association,Q19,13.2
+Gene SNP association,Q20,13.49
+Gene SNP association,Q21,13.32
+Gene SNP association,Q22,13.12
+Gene SNP association,Q23,12.78
+Gene SNP association,Q24,12.68
+Gene SNP association,Q25,12.96
+Gene SNP association,Q26,12.51
+Gene SNP association,Q27,12.6
+Gene SNP association,Q28,12.96
+Gene SNP association,Q29,12.57
+Gene SNP association,Q30,12.65
+Gene SNP association,Q31,12.94
+Gene SNP association,Q32,12.45
+Gene SNP association,Q33,13.2
+Gene SNP association,Q34,12.47
+Gene SNP association,Q35,13.04
+Gene SNP association,Q36,12.81
+Gene SNP association,Q37,13
+Gene SNP association,Q38,12.93
+Gene SNP association,Q39,13.42
+Gene SNP association,Q40,12.31
+Gene SNP association,Q41,13.2
+Gene SNP association,Q42,12.6
+Gene SNP association,Q43,12.98
+Gene SNP association,Q44,12.88
+Gene SNP association,Q45,13.11
+Gene SNP association,Q46,12.79
+Gene SNP association,Q47,12.89
+Gene SNP association,Q48,13.75
+Gene SNP association,Q49,12.96
+Gene SNP association,Q50,12.79
+SNP location,Q1,12.77
+SNP location,Q2,12.74
+SNP location,Q3,12.42
+SNP location,Q4,12.77
+SNP location,Q5,12.75
+SNP location,Q6,12.78
+SNP location,Q7,12.55
+SNP location,Q8,12.42
+SNP location,Q9,12.67
+SNP location,Q10,12.95
+SNP location,Q11,12.66
+SNP location,Q12,12.84
+SNP location,Q13,13.33
+SNP location,Q14,12.64
+SNP location,Q15,12.88
+SNP location,Q16,13.42
+SNP location,Q17,12.64
+SNP location,Q18,13.28
+SNP location,Q19,12.59
+SNP location,Q20,12.47
+SNP location,Q21,13.77
+SNP location,Q22,13.35
+SNP location,Q23,12.62
+SNP location,Q24,12.47
+SNP location,Q25,12.75
+SNP location,Q26,12.57
+SNP location,Q27,12.45
+SNP location,Q28,13.2
+SNP location,Q29,13.31
+SNP location,Q30,12.21
+SNP location,Q31,12.75
+SNP location,Q32,12.89
+SNP location,Q33,13.01
+SNP location,Q34,13.14
+SNP location,Q35,13.45
+SNP location,Q36,12.72
+SNP location,Q37,13.22
+SNP location,Q38,12.8
+SNP location,Q39,12.4
+SNP location,Q40,12.67
+SNP location,Q41,13.44
+SNP location,Q42,28.45
+SNP location,Q43,12.44
+SNP location,Q44,12.63
+SNP location,Q45,12.61
+SNP location,Q46,13.69
+SNP location,Q47,12.87
+SNP location,Q48,12.53
+SNP location,Q49,13.02
+SNP location,Q50,12.88
+,,23.8986

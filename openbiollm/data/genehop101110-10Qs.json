@@ -1,0 +1,49 @@
+{
+  "Disease gene location": {
+    "List chromosome locations of the genes related to Hemolytic anemia due to phosphofructokinase deficiency. Let's decompose the question to sub-questions and solve them step by step.": [
+      "21q22.3"
+    ],
+    "List chromosome locations of the genes related to Distal renal tubular acidosis. Let's decompose the question to sub-questions and solve them step by step.": [
+      "17q21.31",
+      "7q34"
+    ],
+    "List chromosome locations of the genes related to Pseudohypoparathyroidism Ic. Let's decompose the question to sub-questions and solve them step by step.": [
+      "20q13.32"
+    ],
+    "List chromosome locations of the genes related to Glycine N-methyltransferase deficiency. Let's decompose the question to sub-questions and solve them step by step.": [
+      "6p21.1"
+    ],
+    "List chromosome locations of the genes related to Meesmann corneal dystrophy. Let's decompose the question to sub-questions and solve them step by step.": [
+      "17q21.2",
+      "12q13.13"
+    ],
+    "List chromosome locations of the genes related to Chronic atrial and intestinal dysrhythmia. Let's decompose the question to sub-questions and solve them step by step.": [
+      "3p24.3"
+    ],
+    "List chromosome locations of the genes related to Sensorineural deafness with mild renal dysfunction. Let's decompose the question to sub-questions and solve them step by step.": [
+      "1p32.3"
+    ],
+    "List chromosome locations of the genes related to Bile acid malabsorption. Let's decompose the question to sub-questions and solve them step by step.": [
+      "13q33.1",
+      "15q22.31"
+    ],
+    "List chromosome locations of the genes related to Immunodeficiency due to defect in MAPBP-interacting protein. Let's decompose the question to sub-questions and solve them step by step.": [
+      "1q22"
+    ],
+    "List chromosome locations of the genes related to Currarino syndrome. Let's decompose the question to sub-questions and solve them step by step.": [
+      "7q36.3"
+    ]
+  },
+  "SNP gene function": {
+    "What is the function of the gene associated with SNP rs1217074595? Let's decompose the question to sub-questions and solve them step by step.": "ncRNA",
+    "What is the function of the gene associated with SNP rs1241371358? Let's decompose the question to sub-questions and solve them step by step.": "Predicted to be active in cytosol.",
+    "What is the function of the gene associated with SNP rs1481036795? Let's decompose the question to sub-questions and solve them step by step.": "SEPT11 belongs to the conserved septin family of filament-forming cytoskeletal GTPases that are involved in a variety of cellular functions including cytokinesis and vesicle trafficking (Hanai et al., 2004 [PubMed 15196925]; Nagata et al., 2004 [PubMed 15485874]).",
+    "What is the function of the gene associated with SNP rs1318850293? Let's decompose the question to sub-questions and solve them step by step.": "Predicted to enable guanyl-nucleotide exchange factor activity. Predicted to be involved in Rho protein signal transduction.",
+    "What is the function of the gene associated with SNP rs996319727? Let's decompose the question to sub-questions and solve them step by step.": "Predicted to enable thiol-dependent deubiquitinase and zinc ion binding activity. Involved in spliceosomal complex assembly. Located in nucleoplasm. Part of U4/U6 x U5 tri-snRNP complex.",
+    "What is the function of the gene associated with SNP rs577757681? Let's decompose the question to sub-questions and solve them step by step.": "Predicted to enable oxidoreductase activity. Predicted to be involved in response to oxidative stress. Predicted to act upstream of or within several processes, including adult walking behavior; negative regulation of neuron death; and negative regulation of peptidyl-cysteine S-nitrosylation. Predicted to be located in mitochondrion and nucleolus. Predicted to be active in nucleus. Implicated in cerebellar hyplasia/atrophy, epilepsy, and global developmental delay.",
+    "What is the function of the gene associated with SNP rs1294482311? Let's decompose the question to sub-questions and solve them step by step.": "The protein encoded by this gene is a member of the WD repeat superfamily of proteins, which have regulatory functions. This gene is expressed in many tissue types including several types of eye tissue, and it has been associated with ocular phenotypes. In addition, it is upregulated in cultured cells that overexpress growth factor independence 1B, a transcription factor that is essential for hematopoietic cell development. Alternative splicing results in multiple transcript variants.",
+    "What is the function of the gene associated with SNP rs979970652? Let's decompose the question to sub-questions and solve them step by step.": "Predicted to enable mRNA binding activity and poly(A) binding activity. Predicted to be involved in regulation of alternative mRNA splicing, via spliceosome. Predicted to be located in nucleoplasm. Predicted to be active in nucleus.",
+    "What is the function of the gene associated with SNP rs1029002401? Let's decompose the question to sub-questions and solve them step by step.": "Predicted to enable DNA binding activity. Predicted to be involved in homologous chromosome pairing at meiosis and meiotic attachment of telomere to nuclear envelope. Predicted to be located in chromosome, telomeric region. Predicted to be integral component of nuclear inner membrane.",
+    "What is the function of the gene associated with SNP rs1015227? Let's decompose the question to sub-questions and solve them step by step.": "ncRNA"
+  }
+}
