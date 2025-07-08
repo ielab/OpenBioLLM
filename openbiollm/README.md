@@ -65,8 +65,8 @@ python main.py
 ```
 
 This will process:
-- `data/geneturing.json` → `results/geneturing_14b_14b_result.json`
-- `data/genehop.json` → `results/genehop_14b_14b_result.json`
+- `data/geneturing.json` → `results/geneturing_xxb_xxb_result.json`
+- `data/genehop.json` → `results/genehop_xxb_xxb_result.json`
 
 ### Interactive Demo
 
