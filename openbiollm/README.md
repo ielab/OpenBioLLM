@@ -50,8 +50,8 @@ Replace `base_url="xxxxxxxxxxxxxx"` with your actual Ollama server URL.
 2. Update Google API key and Google Custom Search Engine ID in `src/agents/search_agent/component.py`
 
 ```python
-    self.api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your actual API key
-    self.cse_id = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your actual Custom Search Engine ID
+self.api_key = 'xxxxxxxxxxxxxxxxxx'  # Replace with your actual API key
+self.cse_id = 'xxxxxxxxxxxxxxxxxxx'  # Replace with your actual Custom Search Engine ID
 ```
 
 ## Usage
