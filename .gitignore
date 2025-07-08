@@ -1,0 +1,54 @@
+# Ignore system files
+.DS_Store
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python virtual environment
+venv/
+.env
+*.env
+.env.*
+.venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files
+.vscode/        
+.idea/              
+.cursor/
+*.sublime-workspace  
+
+# Ignore Git merge conflict files
+*.orig
+
+# Installation package
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Coverage files and tests
+coverage.xml
+htmlcov/
+.cache/
+pytest_cache/
+.tox/
+
+# requirements lock file
+poetry.lock
+Pipfile.lock
