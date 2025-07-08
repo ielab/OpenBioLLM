@@ -1,76 +1,148 @@
-<!--
- * @Author: Haodong Chen chd243013@gmail.com
- * @Date: 2025-05-07 23:36:52
- * @LastEditors: Haodong Chen chd243013@gmail.com
- * @LastEditTime: 2025-05-07 23:38:15
- * @FilePath: /OpenBioLLM-RAG/openbio_rag/README.md
- * @Description: This is the default setting, please set `customMade`, open koroFileHeader for configuration: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
-# OpenBioLLM
+# OpenBioLLM: Multi-Agent Architecture for Genomic Question Answering
 
-An Agentic RAG system based on LangChain for intelligent Q&A in the field of bioinformatics.
+A multi-agent RAG system based on LangChain and LangGraph for intelligent question answering in the field of bioinformatics.
 
 ## Features
 
-- Multi-Agent collaborative intelligent Q&A system
-- Workflow based on LangChain and LangGraph
-- Support for web search and knowledge base retrieval
-- Flexible decision-making and evaluation mechanisms
+- **Multi-Agent Collaborative System**: Specialized agents for different biomedical tasks
+- **Intelligent Routing**: Automatic query classification and agent selection
+- **NCBI Integration**: Direct access to E-utilities and BLAST databases
+- **Web Search Capability**: Enhanced information retrieval for complex queries
+- **Quality Evaluation**: Automatic assessment and iteration control
+- **Comprehensive Evaluation**: Built-in evaluation framework for performance analysis
+
+## Architecture
+
+### Core Components
+
+- **Router**: Intelligent query classification and agent routing
+- **Evaluator**: Quality assessment and iteration control
+- **Generator**: Final answer synthesis and formatting
+
+### Specialized Agents
+
+- **EUtils Agent**: NCBI database querying (genes, proteins, diseases)
+- **BLAST Agent**: Biological sequence alignment and comparison
+- **Search Agent**: Google Web search and information retrieval
 
 ## Installation
 
 ```bash
-# Clone the project
-git clone [your-repo-url]
-cd openbio_rag
-
 # Install dependencies
 pip install -r requirements.txt
 
 # Configure environment variables
-cp .env.example .env
-# Edit the .env file and fill in your API keys
+# Update the base_url in src/core/*.py files with your Ollama server URL
+```
+
+## Configuration
+
+1. Update the following files with your Ollama server configuration:
+
+- `src/core/router.py`
+- `src/core/evaluator.py` 
+- `src/core/generator.py`
+- `src/agents/*/component.py`
+
+Replace `base_url="xxxxxxxxxxxxxx"` with your actual Ollama server URL.
+
+2. Update Google API key and Google Custom Search Engine ID in `src/agents/search_agent/component.py`
+
+```python
+    self.api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your actual API key
+    self.cse_id = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your actual Custom Search Engine ID
 ```
 
 ## Usage
 
-```python
-from src.graph.workflow import RAGWorkflow
+### Batch Processing
 
-# Create workflow
-workflow = RAGWorkflow()
-app = workflow.create_graph()
+Run the complete evaluation on GeneHop and GeneTuring datasets:
 
-# Run query
-result = app.invoke({
-    "messages": ["Your question"],
-    "next_step": "decide",
-    "action_history": [],
-    "current_result": "",
-    "attempts": 0
-})
+```bash
+python main.py
+```
+
+This will process:
+- `data/geneturing.json` → `results/geneturing_14b_14b_result.json`
+- `data/genehop.json` → `results/genehop_14b_14b_result.json`
+
+### Interactive Demo
+
+Test individual questions interactively:
+
+```bash
+python main_demo.py
+```
+
+Edit the questions list in `main_demo.py` to test different queries.
+
+### Evaluation
+
+Extract and evaluate results:
+
+```bash
+python extract.py
+python evaluate.py
 ```
 
 ## Project Structure
 
 ```
-openbio_rag/
-├── notebooks/          # Jupyter notebooks
-├── src/                # Source code
-│   ├── agents/         # Agent implementations
-│   ├── types/          # Type definitions
-│   ├── tools/          # Tool collections
-│   ├── prompts/        # Prompt templates
-│   └── graph/          # Workflow definitions
-├── tests/              # Tests
-└── config/             # Configuration files
+openbiollm/
+├── src/                    # Source code
+│   ├── agents/            # Agent implementations
+│   │   ├── blast_agent/   # BLAST sequence alignment
+│   │   ├── eutils_agent/  # NCBI E-utilities
+│   │   └── search_agent/  # Web search
+│   ├── core/              # Core system components
+│   │   ├── rag.py         # Main RAG workflow
+│   │   ├── router.py      # Query routing
+│   │   ├── evaluator.py   # Quality evaluation
+│   │   └── generator.py   # Answer generation
+│   └── tools/             # Utility functions
+├── data/                  # Datasets
+│   ├── geneturing.json    # GeneTuring dataset
+│   ├── genehop.json       # GeneHop dataset
+│   └── *.json            # Other datasets
+├── results/               # Output results
+├── statistics/            # Plot generated
+├── main.py               # Batch processing
+├── main_demo.py          # Interactive demo
+├── extract.py            # Result extraction
+└── evaluate.py           # Evaluation framework
 ```
+
+## Datasets
+
+- **GeneTuring**: Gene function prediction tasks
+  - Gene alias identification
+  - Gene-disease association
+  - Gene location queries
+  - Sequence alignment
+  - SNP analysis
+
+- **GeneHop**: Gene-related question answering
+  - Disease-gene location
+  - Sequence gene alias
+  - SNP gene function
+
+
+## Results
+
+Results are automatically saved to the `results/` directory with detailed execution traces including:
+- Processing time
+- Node-by-node execution flow
+- Final answers
+- Error handling
 
 ## Development
 
-1. Create virtual environment
-2. Install development dependencies
-3. Run tests
+The system is built with:
+- **LangChain**: Agent framework
+- **LangGraph**: Multi-agent workflow
+- **Ollama**: Local LLM management
+- **NCBI APIs**: Biological database access
 
 ## License
 
