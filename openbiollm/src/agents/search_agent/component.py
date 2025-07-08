@@ -57,13 +57,13 @@ class SearchComponent:
             return results
             
         except requests.exceptions.RequestException as e:
-            print(f"搜索请求错误: {str(e)}")
+            print(f"Search request error: {str(e)}")
             return []
         except ValueError as e:
-            print(f"JSON解析错误: {str(e)}")
+            print(f"JSON parsing error: {str(e)}")
             return []
         except Exception as e:
-            print(f"未预期的错误: {str(e)}")
+            print(f"Unexpected error: {str(e)}")
             return []
 
     def extract_related_text(self, related):
