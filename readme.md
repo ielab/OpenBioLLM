@@ -1,4 +1,4 @@
-# Beyond GeneGP: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering
+# Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering
 
 ## Overview of *OpenBioLLM* Project 
 
