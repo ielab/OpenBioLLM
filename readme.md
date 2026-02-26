@@ -91,14 +91,15 @@ cd openbiollm/
 If you use this work in your research, please cite our paper:
 
 ```bibtex
-pending
+@inproceedings{chen2025beyond,
+  title={Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering},
+  author={Chen, Haodong and Zuccon, Guido and Leelanupab, Teerapong},
+  booktitle={Proceedings of the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region},
+  pages={143--152},
+  year={2025}
+}
 ```
 
 ## Contributing
 
 We welcome contributions! Please feel free to submit issues and pull requests.
-
-## License
-```bibtex
-pending
-```
