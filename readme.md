@@ -1,7 +1,11 @@
 # Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering
+## Introduction
+<img width="2698" height="950" alt="image" src="https://github.com/user-attachments/assets/34b17b9e-7b04-417e-8cdd-593f41426fa9" />
+
+## Workflow
+<img width="994" height="442" alt="image" src="https://github.com/user-attachments/assets/64c3c349-b295-4c80-b1b1-0fcd0a327acc" />
 
 ## Overview of *OpenBioLLM* Project 
-
 This repository contains two main versions exploring and optimising large language model applications in the biomedical domain:
 
 1. **Pilot Study**: A reproduction and improvement of GeneGPT settings using Ollama for open-source model management
