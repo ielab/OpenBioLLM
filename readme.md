@@ -99,6 +99,8 @@ If you use this work in your research, please cite our paper:
   title={Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering},
   author={Chen, Haodong and Zuccon, Guido and Leelanupab, Teerapong},
   booktitle={Proceedings of the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region},
+  pdf={https://dl.acm.org/doi/pdf/10.1145/3767695.3769488},
+  url={https://dl.acm.org/doi/abs/10.1145/3767695.3769488},
   pages={143--152},
   year={2025}
 }
